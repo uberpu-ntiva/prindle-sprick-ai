@@ -1,14 +1,54 @@
 {
-  "items": [
-    {
-      "date": "2025-08-08",
-      "tool": "Cursor",
-      "category": "Editors/IDEs",
-      "severity": "MAJOR",
-      "headline": "1.4 Changelog — Bugbot debuts",
-      "impact": "New debugging assistant surfaces logic/infrastructure issues pre-release.",
-      "moniker": "Cursor Bugbot",
-      "link": "https://cursor.com/changelog/1-4"
-    }
-  ]
+"items": [
+{
+"date": "2025-08-08",
+"tool": "Cursor",
+"category": "Editors/IDEs",
+"severity": "MAJOR",
+"headline": "1.4 Changelog — Bugbot debuts",
+"impact": "New debugging assistant surfaces logic/infrastructure issues pre-release.",
+"moniker": "Cursor Bugbot",
+"link": "https://cursor.com/changelog/1-4"
+},
+{
+"date": "2025-08-08",
+"tool": "OpenAI Coding Agent",
+"category": "Agents & Orchestration",
+"severity": "MAJOR",
+"headline": "Preview expands PR automation",
+"impact": "Autonomous write/test/debug/PR flows broadened.",
+"moniker": "OpenAI coding agent PRs 2025",
+"link": "https://openai.com/research"
+},
+{
+"date": "2025-08-08",
+"tool": "Claude Code",
+"category": "Agents & Orchestration",
+"severity": "Minor",
+"headline": "Sonnet/Opus 4 improvements for long-horizon coding",
+"impact": "Better reasoning summaries and refactors.",
+"moniker": "Claude Code CLI updates",
+"link": "https://www.anthropic.com/news"
+},
+{
+"date": "2025-08-08",
+"tool": "Windsurf",
+"category": "Editors/IDEs",
+"severity": "Minor",
+"headline": "Cascade agents update",
+"impact": "Improved multi-step problem solving workflows.",
+"moniker": "Windsurf Cascade changelog",
+"link": "https://windsurf.com/changelog"
+},
+{
+"date": "2025-08-08",
+"tool": "GitHub Copilot",
+"category": "Editors/IDEs",
+"severity": "MAJOR",
+"headline": "Agent mode rolls out",
+"impact": "Multi-model coding agents now available to select users.",
+"moniker": "Copilot agent mode changelog",
+"link": "https://github.blog/changelog/"
+}
+]
 }
