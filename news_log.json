@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "date": "2025-08-08",
+      "tool": "Cursor",
+      "category": "Editors/IDEs",
+      "severity": "MAJOR",
+      "headline": "1.4 Changelog — Bugbot debuts",
+      "impact": "New debugging assistant surfaces logic/infrastructure issues pre-release.",
+      "moniker": "Cursor Bugbot",
+      "link": "https://cursor.com/changelog/1-4"
+    }
+  ]
+}
