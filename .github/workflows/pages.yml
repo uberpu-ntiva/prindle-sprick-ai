@@ -22,7 +22,7 @@ jobs:
           python-version: '3.11'
       - name: Generate feeds
         env:
-          SITE_URL: https://<your-github-username>.github.io/ai-tools-news
+          SITE_URL: https://uberpu-ntiva.github.io/prindle-sprick-ai
         run: |
           python build_feed.py
       - name: Upload artifact
