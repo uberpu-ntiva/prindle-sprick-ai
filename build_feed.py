@@ -1,6 +1,6 @@
 import json, os, datetime, email.utils
 
-SITE_URL = os.environ.get("SITE_URL", "https://<your-github-username>.github.io/ai-tools-news")
+SITE_URL = os.environ.get("SITE_URL", "https://uberpu-ntiva.github.io/prindle-sprick-ai")
 now = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-4)))
 http_date = email.utils.format_datetime(now)
 
