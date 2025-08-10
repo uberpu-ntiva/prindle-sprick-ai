@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '15 13 * * *'  # 09:15 ET daily
   workflow_dispatch:
+  push:
+    paths:
+      - 'data/**'
+      - 'scripts/**'
+      - '.github/workflows/psai-fullfield.yml'
 permissions:
   contents: write
   issues: write
@@ -10,45 +15,60 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
           pip install PyYAML beautifulsoup4 feedgen requests
-      - name: Generate sources from CSV (auto-enroll new tools)
+      - name: Discovery
         run: |
-          python scripts/generate_sources.py
+          python scripts/discover.py
+          python scripts/merge_candidates.py
+      - name: Generate sources
+        run: python scripts/generate_sources.py
       - name: Harvest → Log (30d)
-        run: |
-          python scripts/harvest.py --sources data/sources.yaml --tracker data/PSAI_FullField_Tracker.csv --log data/news_log.json
+        run: python scripts/harvest.py --sources data/sources.yaml --tracker data/PSAI_FullField_Tracker.csv --log data/news_log.json
       - name: Update tracker status
-        run: |
-          python scripts/update_tracker.py --tracker data/PSAI_FullField_Tracker.csv --log data/news_log.json --out data/PSAI_FullField_Tracker.csv
+        run: python scripts/update_tracker.py --tracker data/PSAI_FullField_Tracker.csv --log data/news_log.json --out data/PSAI_FullField_Tracker.csv
       - name: Build feeds
         env:
-          SITE_URL: https://uberpu-ntiva.github.io/prindle-sprick-ai
+          SITE_URL: ${{ vars.SITE_URL }}
         run: |
-          python scripts/build_feed.py --log data/news_log.json --site "$SITE_URL" --json public/feed.json --rss public/rss.xml
-      - name: Alert on 3+ Major/Security in 24h
+          python scripts/build_feed.py --log data/news_log.json --site "${{ env.SITE_URL || 'https://<your-user>.github.io/<your-repo>' }}" --json public/feed.json --rss public/rss.xml
+      - name: Build HTML report
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: |
+          python scripts/build_site.py
+      - name: Alert on 3+ Major/Security in 24h (email + issue)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
         run: |
           python - <<'PY'
-          import json, datetime
-          from datetime import timedelta
+          import json, datetime, os, smtplib
+          from email.mime_text import MIMEText
           now = datetime.datetime.utcnow()
-          cut = (now - timedelta(hours=24)).date().isoformat()
+          cut = (now - datetime.timedelta(hours=24)).date().isoformat()
           data = json.load(open("data/news_log.json","r",encoding="utf-8"))
           hits = [i for i in data.get("items",[]) if i.get("date","") >= cut and i.get("severity","") in ("Major","Security")]
-          with open("ALERT_COUNT.txt","w") as f: f.write(str(len(hits)))
           if len(hits) >= 3:
-              with open("ALERT_LAST24.txt","w") as f:
-                  f.write("\n".join(f"[{x['date']}] {x['tool']}: {x['headline']}" for x in hits))
+              body = "\n".join(f"[{x['date']}] {x['tool']} — {x['headline']}" for x in hits)
+              if all(os.getenv(k) for k in ["SMTP_SERVER","SMTP_PORT","SMTP_USERNAME","SMTP_PASSWORD","MAIL_TO","MAIL_FROM"]):
+                  from email.mime.text import MIMEText as _M
+                  msg = _M(body); msg["Subject"]="PSAI Alert: 3+ Major/Security updates"; msg["From"]=os.getenv("MAIL_FROM"); msg["To"]=os.getenv("MAIL_TO")
+                  import smtplib
+                  with smtplib.SMTP(os.getenv("SMTP_SERVER"), int(os.getenv("SMTP_PORT"))) as s:
+                      s.starttls(); s.login(os.getenv("SMTP_USERNAME"), os.getenv("SMTP_PASSWORD")); s.sendmail(os.getenv("MAIL_FROM"), [os.getenv("MAIL_TO")], msg.as_string())
+              open("ALERT_LAST24.txt","w").write(body)
           PY
           if [ -f ALERT_LAST24.txt ]; then
             gh issue create --title "PSAI Alert: $(date -u +%F) — 3+ Major/Security updates" --body "$(cat ALERT_LAST24.txt)" || true
@@ -57,8 +77,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/*.json data/*.csv data/*.yaml public/*.json public/*.xml || true
-          if git commit -m "PSAI: full-field daily $(date -u +'%Y-%m-%dT%H:%M:%SZ')"; then
+          git add data/*.json data/*.csv data/*.yaml public/*.json public/*.xml public/*.html || true
+          if git commit -m "PSAI: daily + HTML $(date -u +'%Y-%m-%dT%H:%M:%SZ')"; then
             git push
           else
             echo "Nothing to commit."
