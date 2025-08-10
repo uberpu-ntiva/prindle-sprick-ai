@@ -1,16 +1,18 @@
-name: PSAI Deep Sweep
-on:
-  schedule:
-    - cron: '0 11 * * 0'  # 07:00 ET Sundays
-  workflow_dispatch:
+name: PSAI Deep Sweep Daily
+
 permissions:
   contents: write
-  issues: write
+  pages: write
+  id-token: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 13 * * *'  # daily at 09:15 ET
+
 jobs:
-  deep:
+  update:
     runs-on: ubuntu-latest
-    env:
-      PSAI_DEEP: "1"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -20,9 +22,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install PyYAML beautifulsoup4 feedgen requests
-      - name: Deep discovery
-        env:
-          PSAI_DEEP: "1"
+      - name: Discovery
         run: |
           python scripts/discover.py
           python scripts/merge_candidates.py
@@ -35,20 +35,14 @@ jobs:
       - name: Build feeds
         env:
           SITE_URL: ${{ vars.SITE_URL }}
-        run: |
-          python scripts/build_feed.py --log data/news_log.json --site "${{ env.SITE_URL || 'https://<your-user>.github.io/<your-repo>' }}" --json public/feed.json --rss public/rss.xml
+        run: python scripts/build_feed.py --log data/news_log.json --site "${{ env.SITE_URL || 'https://<user>.github.io/<repo>' }}" --json public/feed.json --rss public/rss.xml
       - name: Build HTML report
-        env:
-          SITE_URL: ${{ vars.SITE_URL }}
-        run: |
-          python scripts/build_site.py
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/*.json data/*.csv data/*.yaml public/*.json public/*.xml public/*.html || true
-          if git commit -m "PSAI: weekly deep sweep + HTML $(date -u +'%Y-%m-%dT%H:%M:%SZ')"; then
-            git push
-          else
-            echo "Nothing to commit."
-          fi
+        run: python scripts/build_site.py
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
