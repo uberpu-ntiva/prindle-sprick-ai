@@ -1,29 +1,65 @@
 name: PSAI Full-Field Daily
 on:
   schedule:
-    - cron: '15 13 * * *' # 09:15 ET
+    - cron: '15 13 * * *'  # 09:15 ET daily
   workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
-      - name: Install dependencies
-        run: pip install requests pandas feedgen beautifulsoup4 pyyaml
-      - name: Run Full-Field PSAI Update
+          python-version: '3.11'
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyYAML beautifulsoup4 feedgen requests
+      - name: Generate sources from CSV (auto-enroll new tools)
         run: |
           python scripts/generate_sources.py
-          python scripts/harvest.py
-          python scripts/update_tracker.py
-          python scripts/build_feed.py
-      - name: Commit and push changes
+      - name: Harvest → Log (30d)
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .
-          git commit -m 'Daily PSAI Full-Field update' || echo "No changes to commit"
-          git push
+          python scripts/harvest.py --sources data/sources.yaml --tracker data/PSAI_FullField_Tracker.csv --log data/news_log.json
+      - name: Update tracker status
+        run: |
+          python scripts/update_tracker.py --tracker data/PSAI_FullField_Tracker.csv --log data/news_log.json --out data/PSAI_FullField_Tracker.csv
+      - name: Build feeds
+        env:
+          SITE_URL: https://uberpu-ntiva.github.io/prindle-sprick-ai
+        run: |
+          python scripts/build_feed.py --log data/news_log.json --site "$SITE_URL" --json public/feed.json --rss public/rss.xml
+      - name: Alert on 3+ Major/Security in 24h
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python - <<'PY'
+          import json, datetime
+          from datetime import timedelta
+          now = datetime.datetime.utcnow()
+          cut = (now - timedelta(hours=24)).date().isoformat()
+          data = json.load(open("data/news_log.json","r",encoding="utf-8"))
+          hits = [i for i in data.get("items",[]) if i.get("date","") >= cut and i.get("severity","") in ("Major","Security")]
+          with open("ALERT_COUNT.txt","w") as f: f.write(str(len(hits)))
+          if len(hits) >= 3:
+              with open("ALERT_LAST24.txt","w") as f:
+                  f.write("\n".join(f"[{x['date']}] {x['tool']}: {x['headline']}" for x in hits))
+          PY
+          if [ -f ALERT_LAST24.txt ]; then
+            gh issue create --title "PSAI Alert: $(date -u +%F) — 3+ Major/Security updates" --body "$(cat ALERT_LAST24.txt)" || true
+          fi
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.json data/*.csv data/*.yaml public/*.json public/*.xml || true
+          if git commit -m "PSAI: full-field daily $(date -u +'%Y-%m-%dT%H:%M:%SZ')"; then
+            git push
+          else
+            echo "Nothing to commit."
+          fi
