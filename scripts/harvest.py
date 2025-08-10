@@ -7,31 +7,23 @@ try:
     from bs4 import BeautifulSoup
 except Exception:
     BeautifulSoup = None
-TZ = timezone.utc
-NOW = datetime.now(TZ)
-CUTOFF = NOW - timedelta(days=30)
-HEADERS = {"User-Agent": "psai/1.2"}
+TZ = timezone.utc; NOW = datetime.now(TZ); CUTOFF = NOW - timedelta(days=30)
+HEADERS = {"User-Agent": "psai/1.3"}
 def iso_date(s, fallback=None):
     for fmt in ["%a, %d %b %Y %H:%M:%S %z", "%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%d"]:
-        try:
-            return datetime.strptime(s, fmt)
-        except Exception:
-            pass
+        try: return datetime.strptime(s, fmt)
+        except Exception: pass
     return fallback or NOW
-def load_json(path, default):
-    return json.load(open(path, "r", encoding="utf-8")) if os.path.exists(path) else default
-def save_json(path, data):
-    json.dump(data, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+def load_json(path, default): return json.load(open(path,"r",encoding="utf-8")) if os.path.exists(path) else default
+def save_json(path, data): json.dump(data, open(path,"w",encoding="utf-8"), ensure_ascii=False, indent=2)
 def fetch(url):
     r = requests.get(url, headers=HEADERS, timeout=30); r.raise_for_status(); return r.text
 def from_github_releases(repo):
     url = f"https://api.github.com/repos/{repo}/releases"
-    r = requests.get(url, headers=HEADERS, timeout=30); r.raise_for_status()
-    out=[]; js=r.json()
-    for rel in js:
+    r = requests.get(url, headers=HEADERS, timeout=30); r.raise_for_status(); out=[]
+    for rel in r.json():
         dt = rel.get("published_at") or rel.get("created_at") or NOW.isoformat()
-        when = iso_date(dt, NOW)
-        out.append({"date": when.strftime("%Y-%m-%d"),"headline": rel.get("name") or rel.get("tag_name") or "Release","link": rel.get("html_url")})
+        when = iso_date(dt, NOW); out.append({"date": when.strftime("%Y-%m-%d"),"headline": rel.get("name") or rel.get("tag_name") or "Release","link": rel.get("html_url")})
     return out
 def from_rss(url):
     root = ET.fromstring(fetch(url)); items=[]

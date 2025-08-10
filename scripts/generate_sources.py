@@ -14,8 +14,7 @@ def first_url(*vals):
         if v and v.strip() and v.strip() != "N/A":
             return v if v.startswith(("http://","https://")) else "https://" + v.strip()
     return None
-rows = list(csv.DictReader(open(IN, encoding="utf-8")))
-items = []
+rows = list(csv.DictReader(open(IN, encoding="utf-8"))); items = []
 for r in rows:
     tool = (r.get("Tool") or "").strip()
     if not tool: continue
