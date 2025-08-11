@@ -33,7 +33,7 @@ def iso_date(s, fallback=None):
         if len(s) == 10 and s[4] == '-' and s[7] == '-':
             dt = datetime.strptime(s, "%Y-%m-%d")
             return ensure_aware(dt)
-        # Generic ISO
+        # Generic ISO (may be naive)
         dt = datetime.fromisoformat(s)
         return ensure_aware(dt)
     except Exception:
@@ -80,7 +80,8 @@ def from_github_releases(repo):
     return out
 
 def from_rss(url):
-    root = ET.fromstring(fetch(url))
+    text = fetch(url)
+    root = ET.fromstring(text)
     items = []
     # Try RSS
     for it in root.findall("./channel/item"):
@@ -93,10 +94,12 @@ def from_rss(url):
     if not items:
         ns = {"a": "http://www.w3.org/2005/Atom"}
         for it in root.findall(".//a:entry", ns):
-            title = (it.findtext("a:title", default="Update", namespaces=ns) or "Update").strip()
-            link_el = it.find(".//a:link", ns)
+            title_el = it.find("a:title", ns)
+            title = (title_el.text if title_el is not None else "Update").strip()
+            link_el = it.find("a:link", ns)
             link = link_el.get("href") if link_el is not None else ""
-            pub = it.findtext("a:updated", default="", namespaces=ns) or it.findtext("a:published", default="", namespaces=ns)
+            pub_el = it.find("a:updated", ns) or it.find("a:published", ns)
+            pub = pub_el.text if pub_el is not None else ""
             when = iso_date(pub, NOW)
             items.append({"date": when.strftime("%Y-%m-%d"), "headline": title, "link": link})
     return items
@@ -158,7 +161,7 @@ def main():
                 kept.append(u)
 
         for u in kept:
-            key = (u["date"], tool, u["headline'])
+            key = (u["date"], tool, u["headline"])  # fixed quotes
             if key in existing:
                 continue
             log["items"].append({
@@ -176,7 +179,7 @@ def main():
 
     log["items"].sort(key=lambda x: (x["date"], x["tool"]), reverse=True)
     cutoff = (CUTOFF.date().isoformat())
-    log["items"] = [it for it in log["items"] if it.get("date","") >= cutoff]
+    log["items"] = [it for it in log["items"] if it.get("date", "") >= cutoff]
     save_json(args.log, log)
 
 if __name__ == "__main__":
