@@ -1,24 +1,31 @@
 #!/usr/bin/env python3
-import csv, os, html, re
+# PSAI sources page generator (filtered, cards + table, tooltips, index link inject)
 
-CSV_IN   = "data/PSAI_FullField_Tracker.csv"
-OUT_LIST = "public/sources.html"
-OUT_TAB  = "public/sources_table.html"
-INDEX    = "public/index.html"
+import csv, os, re, html
+
+CSV_IN   = os.getenv("PSAI_TRACKER", "data/PSAI_FullField_Tracker.csv")
+OUT_LIST = os.getenv("PSAI_OUT_LIST", "public/sources.html")
+OUT_TAB  = os.getenv("PSAI_OUT_TABLE", "public/sources_table.html")
+INDEX    = os.getenv("PSAI_INDEX", "public/index.html")
+
+DEFAULT_INCLUDE = r"(agent|agentic|orchestr|mcp|ide|editor|review|code\s*assistant)"
+DEFAULT_EXCLUDE = r"^(product\s*hunt|reddit|hacker\s*news|hn\s*—|hn\s*show|latentspace|ben['’]s\s*bites|npm|pypi|docker\s*hub)\b"
+
+INCLUDE_RX = re.compile(os.getenv("PSAI_INCLUDE_REGEX", DEFAULT_INCLUDE), re.I)
+EXCLUDE_RX = re.compile(os.getenv("PSAI_EXCLUDE_REGEX", DEFAULT_EXCLUDE), re.I)
+MIN_STARS  = int(os.getenv("PSAI_MIN_STARS", "0"))
 
 ICON_CSS = """
-/* --- PSAI sources styles --- */
-:root { --fg:#0f172a; --muted:#64748b; --ok:#0ea5e9; --link:#2563eb; --chip:#e2e8f0; --warn:#eab308; --danger:#ef4444; }
-*{box-sizing:border-box} body{font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto; color:var(--fg); margin:0; background:#fff}
+:root { --fg:#0f172a; --muted:#64748b; --chip:#e2e8f0; }
+*{box-sizing:border-box} body{font-family:ui-sans-serif,system-ui; color:var(--fg); margin:0; background:#fff}
 main{max-width:1200px;margin:40px auto;padding:0 16px}
 h1{font-size:28px;margin:0 0 8px}
 .sub{color:var(--muted);margin-bottom:24px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
-.card{border:1px solid #e5e7eb;border-radius:16px;padding:16px;background:#fff;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+.card{border:1px solid #e5e7eb;border-radius:16px;padding:16px;background:#fff}
 .card h2{font-size:18px;margin:0 0 6px;line-height:1.2}
 .meta{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px}
 .chip{background:var(--chip);padding:2px 8px;border-radius:999px;font-size:12px}
-.status{font-size:13px;color:var(--muted);margin:8px 0 0}
 .icons{display:flex;gap:10px;margin-top:8px}
 .icon{width:22px;height:22px;display:inline-flex;align-items:center;justify-content:center;border-radius:8px;border:1px solid #e5e7eb;background:#f8fafc}
 .icon[aria-disabled="true"]{opacity:.35}
@@ -33,9 +40,6 @@ a.icon:hover{background:#eef2ff;border-color:#c7d2fe}
   background:#111827;color:#fff;padding:6px 8px;border-radius:6px;font-size:11px;white-space:nowrap;
   box-shadow:0 6px 20px rgba(0,0,0,.18);
 }
-.topnav{background:#0b1220;color:#e5e7eb;padding:10px 16px;display:flex;gap:14px;align-items:center}
-.topnav a{color:#93c5fd;text-decoration:none}
-.topnav a:hover{text-decoration:underline}
 .tablewrap{overflow:auto;border:1px solid #e5e7eb;border-radius:12px}
 table{width:100%;border-collapse:collapse;font-size:14px}
 th,td{padding:10px 12px;border-bottom:1px solid #e5e7eb}
@@ -44,10 +48,12 @@ th{text-align:left;background:#f8fafc;font-weight:600}
 .sev-Major{background:#fff7ed;border-color:#fed7aa}
 .sev-Security{background:#fee2e2;border-color:#fecaca}
 .sev-Minor{background:#f0fdf4;border-color:#bbf7d0}
+.topnav{background:#0b1220;color:#e5e7eb;padding:10px 16px;display:flex;gap:14px;align-items:center}
+.topnav a{color:#93c5fd;text-decoration:none}
+.topnav a:hover{text-decoration:underline}
 .note{margin:16px 0 24px;color:var(--muted);font-size:13px}
 """
 
-# inline SVGs (no external assets)
 def svg(name):
     if name=="site":
         return '<svg viewBox="0 0 24 24" fill="none"><path d="M4 12h16M4 12c0-4 3.5-8 8-8s8 4 8 8-3.5 8-8 8-8-4-8-8Zm0 0h16" stroke="currentColor" stroke-width="1.6"/></svg>'
@@ -66,131 +72,143 @@ def norm_url(u):
     if re.match(r'^https?://', u): return u
     return "https://" + u
 
-def read_rows():
-    if not os.path.exists(CSV_IN):
-        return []
-    with open(CSV_IN, encoding="utf-8") as f:
-        rdr = csv.DictReader(f)
-        return list(rdr)
-
 def icon_link(url, label):
     u = norm_url(url)
     if not u:
         return f'<span class="icon tooltip" aria-disabled="true" title="No {html.escape(label)}">{svg(label)}</span>'
     return f'<a class="icon tooltip" href="{html.escape(u)}" target="_blank" rel="noopener" title="{html.escape(u)}" aria-label="{html.escape(label)}">{svg(label)}</a>'
 
-def severity_badge(sev):
+def sev_badge(sev):
     sev = (sev or "Minor").strip().title()
     cls = "sev-Minor"
     if sev=="Major": cls="sev-Major"
     if sev=="Security": cls="sev-Security"
     return f'<span class="badge {cls}">{html.escape(sev)}</span>'
 
-def build_list(cards):
-    return f"""<!doctype html>
+def looks_discovery_stub(tool, moniker, site):
+    t = (tool or "").lower(); m = (moniker or "").lower(); s = (site or "").lower()
+    if EXCLUDE_RX.search(t) or EXCLUDE_RX.search(m):
+        return True
+    if "producthunt" in s or "reddit.com" in s or "news.ycombinator.com" in s:
+        return True
+    return False
+
+def include_row(r):
+    tool = r.get("Tool","")
+    mon  = r.get("Moniker","")
+    cat  = r.get("Category","") or r.get("Source Type","")
+    site = r.get("Website URL","")
+    # star filter
+    try:
+        stars = int((r.get("Stars") or "0").replace(",",""))
+    except Exception:
+        stars = 0
+    if MIN_STARS > 0 and stars < MIN_STARS:
+        return False
+    if looks_discovery_stub(tool, mon, site):
+        return False
+    hay = " ".join([tool, mon, cat])
+    return bool(INCLUDE_RX.search(hay))
+
+HTML_HEAD = """
+<!doctype html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>PSAI Sources</title>
-<style>{ICON_CSS}</style>
+<style>{css}</style>
 </head><body>
 <div class="topnav"><strong>PSAI</strong> · <a href="./">Home</a> · <a href="sources.html">Sources</a> · <a href="sources_table.html">Table</a></div>
 <main>
+"""
+HTML_FOOT = """
+</main>
+</body></html>
+"""
+
+def build_list(cards):
+    return HTML_HEAD.format(css=ICON_CSS) + """
   <h1>AI Coding Tools — Sources</h1>
-  <div class="sub">Icon-only links. Hover to see actual URLs in a tooltip.</div>
+  <div class="sub">Filtered to core AI dev tools (agents, IDEs, reviewers, orchestration, MCP). Hover icons to see real URLs.</div>
   <div class="grid">
     {cards}
   </div>
-  <p class="note">Showing entries from PSAI_FullField_Tracker.csv. Links open in a new tab.</p>
-</main>
-</body></html>"""
+""".format(cards=cards) + HTML_FOOT
 
 def build_table(rows_html):
-    return f"""<!doctype html>
-<html lang="en"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>PSAI Sources (Table)</title>
-<style>{ICON_CSS}</style>
-</head><body>
-<div class="topnav"><strong>PSAI</strong> · <a href="./">Home</a> · <a href="sources.html">Sources</a> · <a href="sources_table.html">Table</a></div>
-<main>
+    return HTML_HEAD.format(css=ICON_CSS) + """
   <h1>AI Coding Tools — Sources (Table)</h1>
-  <div class="sub">Hover icons to reveal exact URLs. Click to open.</div>
+  <div class="sub">Use env vars to tune filters: PSAI_INCLUDE_REGEX / PSAI_EXCLUDE_REGEX / PSAI_MIN_STARS.</div>
   <div class="tablewrap">
     <table>
       <thead>
         <tr>
-          <th>Tool</th>
-          <th>Moniker</th>
-          <th>Category</th>
-          <th>Severity</th>
-          <th>Status</th>
-          <th>Links</th>
+          <th>Tool</th><th>Moniker</th><th>Category</th><th>Severity</th><th>Status</th><th>Links</th>
         </tr>
       </thead>
       <tbody>
-        {rows_html}
+        {rows}
       </tbody>
     </table>
   </div>
-</main>
-</body></html>"""
+""".format(rows=rows_html) + HTML_FOOT
 
-rows = read_rows()
+def main():
+    if not os.path.exists(CSV_IN):
+        print(f"ERR: tracker not found at {CSV_IN}"); return
+    with open(CSV_IN, encoding="utf-8") as f:
+        rows = [r for r in csv.DictReader(f) if include_row(r)]
 
-# Build cards
-card_html = []
-row_html  = []
-for r in rows:
-    tool = r.get("Tool","").strip()
-    if not tool: continue
-    mon  = r.get("Moniker","").strip()
-    cat  = r.get("Category","").strip()
-    sev  = r.get("Severity","").strip()
-    stat = r.get("Status","").strip() or r.get("Updates","").strip()
+    card_html = []
+    row_html  = []
+    for r in rows:
+        tool = (r.get("Tool") or "").strip()
+        if not tool: continue
+        mon  = (r.get("Moniker") or "").strip()
+        cat  = (r.get("Category") or r.get("Source Type") or "Uncategorized").strip()
+        sev  = (r.get("Severity") or "Minor").strip()
+        stat = (r.get("Status") or r.get("Updates") or "—").strip()
+        site = icon_link(r.get("Website URL",""), "site")
+        docs = icon_link(r.get("Docs URL",""), "docs")
+        repo = icon_link(r.get("Repo URL",""), "repo")
+        feed = icon_link(r.get("Feed URL",""), "rss")
 
-    site = icon_link(r.get("Website URL",""), "site")
-    docs = icon_link(r.get("Docs URL",""), "docs")
-    repo = icon_link(r.get("Repo URL",""), "repo")
-    feed = icon_link(r.get("Feed URL",""), "rss")
+        card_html.append(f"""
+        <section class="card">
+          <h2>{html.escape(tool)}</h2>
+          <div class="meta">
+            <span class="chip">{html.escape(mon or '')}</span>
+            <span class="chip">{html.escape(cat)}</span>
+            {sev_badge(sev)}
+          </div>
+          <div class="icons">{site}{docs}{repo}{feed}</div>
+          <p class="status">{html.escape(stat)}</p>
+        </section>""")
 
-    card_html.append(f"""
-    <section class="card">
-      <h2>{html.escape(tool)}</h2>
-      <div class="meta">
-        <span class="chip">{html.escape(mon or '')}</span>
-        <span class="chip">{html.escape(cat or 'Uncategorized')}</span>
-        {severity_badge(sev)}
-      </div>
-      <div class="icons">{site}{docs}{repo}{feed}</div>
-      <p class="status">{html.escape(stat or '—')}</p>
-    </section>""")
+        row_html.append(f"""
+        <tr>
+          <td>{html.escape(tool)}</td>
+          <td><code>{html.escape(mon)}</code></td>
+          <td>{html.escape(cat)}</td>
+          <td>{sev_badge(sev)}</td>
+          <td>{html.escape(stat)}</td>
+          <td style="white-space:nowrap">{site}{docs}{repo}{feed}</td>
+        </tr>""")
 
-    row_html.append(f"""
-    <tr>
-      <td>{html.escape(tool)}</td>
-      <td><code>{html.escape(mon or '')}</code></td>
-      <td>{html.escape(cat or 'Uncategorized')}</td>
-      <td>{severity_badge(sev)}</td>
-      <td>{html.escape(stat or '—')}</td>
-      <td style="white-space:nowrap">{site}{docs}{repo}{feed}</td>
-    </tr>""")
+    os.makedirs(os.path.dirname(OUT_LIST) or ".", exist_ok=True)
+    open(OUT_LIST, "w", encoding="utf-8").write(build_list("".join(card_html)))
+    open(OUT_TAB,  "w", encoding="utf-8").write(build_table("".join(row_html)))
 
-os.makedirs("public", exist_ok=True)
-with open(OUT_LIST, "w", encoding="utf-8") as f:
-    f.write(build_list("".join(card_html)))
-with open(OUT_TAB, "w", encoding="utf-8") as f:
-    f.write(build_table("".join(row_html)))
+    # Inject sources links
+    if os.path.exists(INDEX):
+        txt = open(INDEX, "r", encoding="utf-8").read()
+        if "sources.html" not in txt:
+            if "<nav" in txt:
+                txt = re.sub(r"(<nav[^>]*>)", r'\1\n  <a href="sources.html">Sources</a> · <a href="sources_table.html">Sources (Table)</a>', txt, count=1)
+            else:
+                txt = txt.replace("<body>", '<body>\n<div class="topnav"><a href="sources.html">Sources</a> · <a href="sources_table.html">Sources (Table)</a></div>')
+            open(INDEX, "w", encoding="utf-8").write(txt)
 
-# Add nav link to index.html (idempotent)
-if os.path.exists(INDEX):
-    txt = open(INDEX, "r", encoding="utf-8").read()
-    if "sources.html" not in txt:
-        # try to inject into a basic nav or after <body>
-        injected = False
-        if "<nav" in txt:
-            txt = re.sub(r"(<nav[^>]*>)", r"\1\n  <a href=\"sources.html\">Sources</a> · <a href=\"sources_table.html\">Sources (Table)</a>", txt, count=1)
-            injected = True
-        if not injected:
-            txt = txt.replace("<body>", "<body>\n<div class=\"topnav\"><a href=\"sources.html\">Sources</a> · <a href=\"sources_table.html\">Sources (Table)</a></div>")
-        open(INDEX, "w", encoding="utf-8").write(txt)
-print(f"Wrote {OUT_LIST} and {OUT_TAB}. Linked from index.html (if present).")
+    print(f"Built {OUT_LIST} and {OUT_TAB} with {len(rows)} filtered tools.")
+
+if __name__ == "__main__":
+    main()
