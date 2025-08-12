@@ -70,8 +70,8 @@ jobs:
       # 6) Build sources listing pages (cards + table) from CSV; auto-inject link to index.html
       - name: Build sources pages (cards + table)
         env:
-          PSAI_INCLUDE_REGEX: "(agent|agentic|orchestr|mcp|ide|editor|review|code\s*assistant)"
-          PSAI_EXCLUDE_REGEX: "^(product\s*hunt|reddit|hacker\s*news|hn\s*—|hn\s*show|latentspace|ben['’]s\s*bites|npm|pypi|docker\s*hub)\b"
+          PSAI_INCLUDE_REGEX: "(agent|agentic|orchestr|mcp|ide|editor|review|code\\s*assistant)"
+          PSAI_EXCLUDE_REGEX: "^(product\\s*hunt|reddit|hacker\\s*news|hn\\s*—|hn\\s*show|latentspace|ben['’]s\\s*bites|npm|pypi|docker\\s*hub)\\b"
           PSAI_MIN_STARS: "50"
         run: python scripts/build_sources_pages.py
 
