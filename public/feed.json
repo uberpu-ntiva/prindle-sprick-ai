@@ -5032,6 +5032,39 @@
       ]
     },
     {
+      "id": "2025-08-12-zed-editor-collab-staging",
+      "url": "https://github.com/zed-industries/zed/releases/tag/collab-staging",
+      "title": "[Zed] collab-staging",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-vb-ai-Claude can now process entire ",
+      "url": "https://venturebeat.com/ai/claude-can-now-process-entire-software-projects-in-single-request-anthropic-says/",
+      "title": "[VentureBeat AI] Claude can now process entire software projects in single request, Anthropic says",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-vb-ai-Salesforce’s new CoAct-1 agent",
+      "url": "https://venturebeat.com/ai/salesforces-new-coact-1-agents-dont-just-point-and-click-they-write-code-to-accomplish-tasks-faster-and-with-greater-success-rates/",
+      "title": "[VentureBeat AI] Salesforce’s new CoAct-1 agents don’t just point and click — they write code to accomplish tasks faster and with greater success rates",
+      "content_text": "Security — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Security"
+      ]
+    },
+    {
       "id": "2025-08-12-verge-ai-Sling TV&#8217;s $5 pass buys ",
       "url": "https://www.theverge.com/news/758020/sling-tv-pass-one-day-cable-tv",
       "title": "[The Verge AI] Sling TV&#8217;s $5 pass buys you one day of cable TV",
@@ -5134,6 +5167,105 @@
       "id": "2025-08-12-verge-ai-Epic says Fortnite is coming b",
       "url": "https://www.theverge.com/news/757885/epic-apple-google-australia-judgment",
       "title": "[The Verge AI] Epic says Fortnite is coming back to iOS in Australia",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-verge-ai-Apple Cinemas responds to Appl",
+      "url": "https://www.theverge.com/news/758192/apple-cinemas-lawsuit-response",
+      "title": "[The Verge AI] Apple Cinemas responds to Apple lawsuit",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-verge-ai-Blackwater’s founder would lik",
+      "url": "https://www.theverge.com/mobile/758073/unplugged-up-phone-erik-prince-blackwater",
+      "title": "[The Verge AI] Blackwater’s founder would like to sell you a privacy phone made in the USA",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-verge-ai-Terraform co-founder Do Kwon p",
+      "url": "https://www.theverge.com/news/758160/do-kwon-terraform-labs-guilty-plea",
+      "title": "[The Verge AI] Terraform co-founder Do Kwon pleads guilty over $40 billion crypto collapse",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-verge-ai-Pebblebee’s AirTag alternative",
+      "url": "https://www.theverge.com/news/757543/pebblebee-clip-tracker-android-ios-alert-live-safety-panic-alarm",
+      "title": "[The Verge AI] Pebblebee’s AirTag alternative can now share your real-time location in an emergency",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-verge-ai-Google is adding a new way to ",
+      "url": "https://www.theverge.com/news/757979/google-search-preferred-sources-launch-top-stories",
+      "title": "[The Verge AI] Google is adding a new way to personalize the news you see",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-verge-ai-Apple’s latest MacBook Pro wit",
+      "url": "https://www.theverge.com/tech/758044/apple-macbook-pro-powerbeats-pro-2-earbuds-deal-sale",
+      "title": "[The Verge AI] Apple’s latest MacBook Pro with M4 is down to its lowest price to date",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-verge-ai-Samsung has launched its first",
+      "url": "https://www.theverge.com/news/758063/samsung-micro-rgb-tv",
+      "title": "[The Verge AI] Samsung has launched its first Micro RGB TV with improved color accuracy",
+      "content_text": "Major — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-08-12-verge-ai-Trump screwed over Nvidia’s Ch",
+      "url": "https://www.theverge.com/regulator-newsletter/757996/trump-screwed-over-nvidias-chinese-sales-then-let-them-happen",
+      "title": "[The Verge AI] Trump screwed over Nvidia’s Chinese sales, then let them happen",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-tc-ai-Anthropic takes aim at OpenAI,",
+      "url": "https://techcrunch.com/2025/08/12/anthropic-takes-aim-at-openai-offers-claude-to-all-three-branches-of-government-for-1/",
+      "title": "[TechCrunch AI] Anthropic takes aim at OpenAI, offers Claude to ‘all three branches of government’ for $1",
       "content_text": "Minor — Update detected",
       "date_published": "2025-08-12T09:20:00-04:00",
       "tags": [
@@ -5307,6 +5439,61 @@
       ]
     },
     {
+      "id": "2025-08-12-reddit-programming-Applying Prioritized Experienc",
+      "url": "https://www.reddit.com/r/programming/comments/1moc70e/applying_prioritized_experience_replay_in_the_ppo/",
+      "title": "[Reddit r/Programming] Applying Prioritized Experience Replay in the PPO algorithm",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-reddit-programming-Just launched my Network Funda",
+      "url": "https://www.reddit.com/r/programming/comments/1mocd4s/just_launched_my_network_fundamentals_video_series/",
+      "title": "[Reddit r/Programming] Just launched my Network Fundamentals video series",
+      "content_text": "Major — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-08-12-reddit-programming-Day 40: Scaling Node.js Applic",
+      "url": "https://www.reddit.com/r/programming/comments/1mob8z3/day_40_scaling_nodejs_applications_with_load/",
+      "title": "[Reddit r/Programming] Day 40: Scaling Node.js Applications with Load Balancing",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-reddit-programming-Agda/Lean examples: authorizat",
+      "url": "https://www.reddit.com/r/programming/comments/1mod0xj/agdalean_examples_authorization_policies_abac_are/",
+      "title": "[Reddit r/Programming] Agda/Lean examples: authorization policies (ABAC) are dependent types (with Rego comparison)",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-reddit-programming-It's Not Context Engineering, ",
+      "url": "https://www.reddit.com/r/programming/comments/1mobhb2/its_not_context_engineering_its_context_authoring/",
+      "title": "[Reddit r/Programming] It's Not Context Engineering, It's Context Authoring",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
       "id": "2025-08-12-reddit-ml-[R] AAAI 2026 Reviewer Assignm",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1mnx3vn/r_aaai_2026_reviewer_assignments/",
       "title": "[Reddit r/MachineLearning] [R] AAAI 2026 Reviewer Assignments?",
@@ -5354,6 +5541,17 @@
       "id": "2025-08-12-reddit-ml-[R]: Intuition emerges in Maxi",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1mo41xn/r_intuition_emerges_in_maximum_caliber_models_at/",
       "title": "[Reddit r/MachineLearning] [R]: Intuition emerges in Maximum Caliber models at criticality",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-reddit-ml-[R][N] One developer, one base",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1moc4h6/rn_one_developer_one_basement_changing_the/",
+      "title": "[Reddit r/MachineLearning] [R][N] One developer, one basement, changing the machine learning field forever. A new paradigm shift.",
       "content_text": "Minor — Update detected",
       "date_published": "2025-08-12T09:20:00-04:00",
       "tags": [
@@ -5519,6 +5717,83 @@
       "id": "2025-08-12-reddit-localllama-Is AceMath-72B-Instruct better",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mo3kre/is_acemath72binstruct_better_than/",
       "title": "[Reddit r/LocalLLaMA] Is AceMath-72B-Instruct better than Qwen3-235B-A22B-Instruct-2507 for mathematical reasoning?",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-reddit-localllama-We tested Qwen3-Coder, GPT-5 a",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1moakv3/we_tested_qwen3coder_gpt5_and_other_30_models_on/",
+      "title": "[Reddit r/LocalLLaMA] We tested Qwen3-Coder, GPT-5 and other 30+ models on new SWE-Bench like tasks from July 2025",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-reddit-localllama-VulkanIlm, Run Modern LLMs on ",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1moa5o0/vulkanilm_run_modern_llms_on_old_gpus_via_vulkan/",
+      "title": "[Reddit r/LocalLLaMA] VulkanIlm, Run Modern LLMs on Old GPUs via Vulkan (33× Faster on Dell iGPU, 4× on RX 580)",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-reddit-localllama-Microsoft releases Prompt Orch",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mo9vkh/microsoft_releases_prompt_orchestration_markup/",
+      "title": "[Reddit r/LocalLLaMA] Microsoft releases Prompt Orchestration Markup Language",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-reddit-localllama-Cheap coding assistant",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1moa5as/cheap_coding_assistant/",
+      "title": "[Reddit r/LocalLLaMA] Cheap coding assistant",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-reddit-localllama-Building vllm from source for ",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mobuo7/building_vllm_from_source_for_oss_support_on/",
+      "title": "[Reddit r/LocalLLaMA] Building vllm from source for OSS support on Ampere + benchmarks",
+      "content_text": "Security — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Security"
+      ]
+    },
+    {
+      "id": "2025-08-12-reddit-localllama-Cost-effective home server sug",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1moc94q/costeffective_home_server_suggestion/",
+      "title": "[Reddit r/LocalLLaMA] Cost-effective home server suggestion",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-reddit-localllama-Cua-Agent v0.4.11 now supports",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mobfxg/cuaagent_v0411_now_supports_the_new_glm45v_gui/",
+      "title": "[Reddit r/LocalLLaMA] Cua-Agent v0.4.11 now supports the new GLM-4.5V GUI agent model, and compositional Computer-Use agents using the GTA1 UI grounding model + any liteLLM/local VLM (with consistent output!)",
       "content_text": "Minor — Update detected",
       "date_published": "2025-08-12T09:20:00-04:00",
       "tags": [
@@ -7837,6 +8112,1106 @@
       ]
     },
     {
+      "id": "2025-08-12-pypi-ai-hilinkapi 2.0.0",
+      "url": "https://pypi.org/project/hilinkapi/2.0.0/",
+      "title": "[PyPI ai/dev search] hilinkapi 2.0.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-lsst-rucio-register 29.2.0",
+      "url": "https://pypi.org/project/lsst-rucio-register/29.2.0/",
+      "title": "[PyPI ai/dev search] lsst-rucio-register 29.2.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-lark-util 0.1.12",
+      "url": "https://pypi.org/project/lark-util/0.1.12/",
+      "title": "[PyPI ai/dev search] lark-util 0.1.12",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-lsst-pex-config 29.2.0",
+      "url": "https://pypi.org/project/lsst-pex-config/29.2.0/",
+      "title": "[PyPI ai/dev search] lsst-pex-config 29.2.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-xsuite 0.36.5",
+      "url": "https://pypi.org/project/xsuite/0.36.5/",
+      "title": "[PyPI ai/dev search] xsuite 0.36.5",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-mkdocs-jupyterlite 0.3.1",
+      "url": "https://pypi.org/project/mkdocs-jupyterlite/0.3.1/",
+      "title": "[PyPI ai/dev search] mkdocs-jupyterlite 0.3.1",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-lsst-daf-relation 29.2.0",
+      "url": "https://pypi.org/project/lsst-daf-relation/29.2.0/",
+      "title": "[PyPI ai/dev search] lsst-daf-relation 29.2.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-muko 4.41",
+      "url": "https://pypi.org/project/muko/4.41/",
+      "title": "[PyPI ai/dev search] muko 4.41",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-gdm-robotics 1.0.1",
+      "url": "https://pypi.org/project/gdm-robotics/1.0.1/",
+      "title": "[PyPI ai/dev search] gdm-robotics 1.0.1",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-anemoi-utils 0.4.35",
+      "url": "https://pypi.org/project/anemoi-utils/0.4.35/",
+      "title": "[PyPI ai/dev search] anemoi-utils 0.4.35",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-any-guardrail 0.1.0",
+      "url": "https://pypi.org/project/any-guardrail/0.1.0/",
+      "title": "[PyPI ai/dev search] any-guardrail 0.1.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-aiomono 1.1.1",
+      "url": "https://pypi.org/project/aiomono/1.1.1/",
+      "title": "[PyPI ai/dev search] aiomono 1.1.1",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-icloudpd 1.29.4",
+      "url": "https://pypi.org/project/icloudpd/1.29.4/",
+      "title": "[PyPI ai/dev search] icloudpd 1.29.4",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-github-lib 0.8.3",
+      "url": "https://pypi.org/project/github-lib/0.8.3/",
+      "title": "[PyPI ai/dev search] github-lib 0.8.3",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-asusrouter 1.18.1",
+      "url": "https://pypi.org/project/asusrouter/1.18.1/",
+      "title": "[PyPI ai/dev search] asusrouter 1.18.1",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-rypi 2025.8.1.1.1",
+      "url": "https://pypi.org/project/rypi/2025.8.1.1.1/",
+      "title": "[PyPI ai/dev search] rypi 2025.8.1.1.1",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-pgamit 1.2.38",
+      "url": "https://pypi.org/project/pgamit/1.2.38/",
+      "title": "[PyPI ai/dev search] pgamit 1.2.38",
+      "content_text": "Major — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-cloudstack-orchestrator 2.3.0",
+      "url": "https://pypi.org/project/cloudstack-orchestrator/2.3.0/",
+      "title": "[PyPI ai/dev search] cloudstack-orchestrator 2.3.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-pytrain-ogr 1.3.34",
+      "url": "https://pypi.org/project/pytrain-ogr/1.3.34/",
+      "title": "[PyPI ai/dev search] pytrain-ogr 1.3.34",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-voice-mode 2.21.0",
+      "url": "https://pypi.org/project/voice-mode/2.21.0/",
+      "title": "[PyPI ai/dev search] voice-mode 2.21.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-matrice 1.0.99284",
+      "url": "https://pypi.org/project/matrice/1.0.99284/",
+      "title": "[PyPI ai/dev search] matrice 1.0.99284",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-kandc-dev 0.0.10.dev0",
+      "url": "https://pypi.org/project/kandc-dev/0.0.10.dev0/",
+      "title": "[PyPI ai/dev search] kandc-dev 0.0.10.dev0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-mlops-quality-assurance 0.1.0",
+      "url": "https://pypi.org/project/mlops-quality-assurance/0.1.0/",
+      "title": "[PyPI ai/dev search] mlops-quality-assurance 0.1.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-muko 4.4",
+      "url": "https://pypi.org/project/muko/4.4/",
+      "title": "[PyPI ai/dev search] muko 4.4",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-tavily-mcp-server 1.0.2",
+      "url": "https://pypi.org/project/tavily-mcp-server/1.0.2/",
+      "title": "[PyPI ai/dev search] tavily-mcp-server 1.0.2",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-tokyo-sports-scraper 0.1.0",
+      "url": "https://pypi.org/project/tokyo-sports-scraper/0.1.0/",
+      "title": "[PyPI ai/dev search] tokyo-sports-scraper 0.1.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-lark-util 0.1.11",
+      "url": "https://pypi.org/project/lark-util/0.1.11/",
+      "title": "[PyPI ai/dev search] lark-util 0.1.11",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-SOLIDserverCLI 0.4.0",
+      "url": "https://pypi.org/project/solidservercli/0.4.0/",
+      "title": "[PyPI ai/dev search] SOLIDserverCLI 0.4.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-chatmap-py 0.0.6",
+      "url": "https://pypi.org/project/chatmap-py/0.0.6/",
+      "title": "[PyPI ai/dev search] chatmap-py 0.0.6",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-NREL-elm 0.0.25",
+      "url": "https://pypi.org/project/nrel-elm/0.0.25/",
+      "title": "[PyPI ai/dev search] NREL-elm 0.0.25",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-victron-mqtt 2025.8.5",
+      "url": "https://pypi.org/project/victron-mqtt/2025.8.5/",
+      "title": "[PyPI ai/dev search] victron-mqtt 2025.8.5",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-aiomono 1.1.0",
+      "url": "https://pypi.org/project/aiomono/1.1.0/",
+      "title": "[PyPI ai/dev search] aiomono 1.1.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-extract-msg 0.55.0",
+      "url": "https://pypi.org/project/extract-msg/0.55.0/",
+      "title": "[PyPI ai/dev search] extract-msg 0.55.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-espy-contact 2.1.57",
+      "url": "https://pypi.org/project/espy-contact/2.1.57/",
+      "title": "[PyPI ai/dev search] espy-contact 2.1.57",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-mcp-weather-buding666 0.1.0",
+      "url": "https://pypi.org/project/mcp-weather-buding666/0.1.0/",
+      "title": "[PyPI ai/dev search] mcp-weather-buding666 0.1.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-aiomono 0.1.0",
+      "url": "https://pypi.org/project/aiomono/0.1.0/",
+      "title": "[PyPI ai/dev search] aiomono 0.1.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-goresolver 1.3.1",
+      "url": "https://pypi.org/project/goresolver/1.3.1/",
+      "title": "[PyPI ai/dev search] goresolver 1.3.1",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-docassemble.webapp 1.8.6",
+      "url": "https://pypi.org/project/docassemble-webapp/1.8.6/",
+      "title": "[PyPI ai/dev search] docassemble.webapp 1.8.6",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-certora-cli-beta 8.1.1",
+      "url": "https://pypi.org/project/certora-cli-beta/8.1.1/",
+      "title": "[PyPI ai/dev search] certora-cli-beta 8.1.1",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-certora-cli-beta-mirror 8.1.1",
+      "url": "https://pypi.org/project/certora-cli-beta-mirror/8.1.1/",
+      "title": "[PyPI ai/dev search] certora-cli-beta-mirror 8.1.1",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-randomity 0.0.4",
+      "url": "https://pypi.org/project/randomity/0.0.4/",
+      "title": "[PyPI ai/dev search] randomity 0.0.4",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-docassemble.demo 1.8.6",
+      "url": "https://pypi.org/project/docassemble-demo/1.8.6/",
+      "title": "[PyPI ai/dev search] docassemble.demo 1.8.6",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-nbitk 0.6.3",
+      "url": "https://pypi.org/project/nbitk/0.6.3/",
+      "title": "[PyPI ai/dev search] nbitk 0.6.3",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-docassemble.base 1.8.6",
+      "url": "https://pypi.org/project/docassemble-base/1.8.6/",
+      "title": "[PyPI ai/dev search] docassemble.base 1.8.6",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-tidal-dl-ng 0.26.3",
+      "url": "https://pypi.org/project/tidal-dl-ng/0.26.3/",
+      "title": "[PyPI ai/dev search] tidal-dl-ng 0.26.3",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-randdi 0.0.10",
+      "url": "https://pypi.org/project/randdi/0.0.10/",
+      "title": "[PyPI ai/dev search] randdi 0.0.10",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-dataheroes-limited 0.17.0.2025",
+      "url": "https://pypi.org/project/dataheroes-limited/0.17.0.2025.9.30/",
+      "title": "[PyPI ai/dev search] dataheroes-limited 0.17.0.2025.9.30",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-TheSilent 0.1.22",
+      "url": "https://pypi.org/project/thesilent/0.1.22/",
+      "title": "[PyPI ai/dev search] TheSilent 0.1.22",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-taskcluster 88.0.3",
+      "url": "https://pypi.org/project/taskcluster/88.0.3/",
+      "title": "[PyPI ai/dev search] taskcluster 88.0.3",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-ansible 11.9.0",
+      "url": "https://pypi.org/project/ansible/11.9.0/",
+      "title": "[PyPI ai/dev search] ansible 11.9.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-flip-pose 0.1.0",
+      "url": "https://pypi.org/project/flip-pose/0.1.0/",
+      "title": "[PyPI ai/dev search] flip-pose 0.1.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-invenio-app-ils 5.0.0",
+      "url": "https://pypi.org/project/invenio-app-ils/5.0.0/",
+      "title": "[PyPI ai/dev search] invenio-app-ils 5.0.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-agentik-framework 0.1.9",
+      "url": "https://pypi.org/project/agentik-framework/0.1.9/",
+      "title": "[PyPI ai/dev search] agentik-framework 0.1.9",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-sapiopycommons 2025.8.12a696",
+      "url": "https://pypi.org/project/sapiopycommons/2025.8.12a696/",
+      "title": "[PyPI ai/dev search] sapiopycommons 2025.8.12a696",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-bbot 2.6.0.6840rc0",
+      "url": "https://pypi.org/project/bbot/2.6.0.6840rc0/",
+      "title": "[PyPI ai/dev search] bbot 2.6.0.6840rc0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-mcp-server-bailian-video-synth",
+      "url": "https://pypi.org/project/mcp-server-bailian-video-synthesis/1.0.0/",
+      "title": "[PyPI ai/dev search] mcp-server-bailian-video-synthesis 1.0.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-prelude-sdk 2.6.23",
+      "url": "https://pypi.org/project/prelude-sdk/2.6.23/",
+      "title": "[PyPI ai/dev search] prelude-sdk 2.6.23",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-vacancycalculator 0.3.8.9",
+      "url": "https://pypi.org/project/vacancycalculator/0.3.8.9/",
+      "title": "[PyPI ai/dev search] vacancycalculator 0.3.8.9",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-nominal-api-protos 0.824.0",
+      "url": "https://pypi.org/project/nominal-api-protos/0.824.0/",
+      "title": "[PyPI ai/dev search] nominal-api-protos 0.824.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-kandc-dev 0.0.9.dev0",
+      "url": "https://pypi.org/project/kandc-dev/0.0.9.dev0/",
+      "title": "[PyPI ai/dev search] kandc-dev 0.0.9.dev0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-nominal-api 0.824.0",
+      "url": "https://pypi.org/project/nominal-api/0.824.0/",
+      "title": "[PyPI ai/dev search] nominal-api 0.824.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-vfbLib 0.10.4",
+      "url": "https://pypi.org/project/vfblib/0.10.4/",
+      "title": "[PyPI ai/dev search] vfbLib 0.10.4",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-brle-python 0.1.0",
+      "url": "https://pypi.org/project/brle-python/0.1.0/",
+      "title": "[PyPI ai/dev search] brle-python 0.1.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-python-pler 0.1.0",
+      "url": "https://pypi.org/project/python-pler/0.1.0/",
+      "title": "[PyPI ai/dev search] python-pler 0.1.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-llama-index-llms-openai 0.5.3",
+      "url": "https://pypi.org/project/llama-index-llms-openai/0.5.3/",
+      "title": "[PyPI ai/dev search] llama-index-llms-openai 0.5.3",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-bafser 1.5.10",
+      "url": "https://pypi.org/project/bafser/1.5.10/",
+      "title": "[PyPI ai/dev search] bafser 1.5.10",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-llama-index-vector-stores-clic",
+      "url": "https://pypi.org/project/llama-index-vector-stores-clickhouse/0.6.0/",
+      "title": "[PyPI ai/dev search] llama-index-vector-stores-clickhouse 0.6.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-mcp-ad-server 0.0.3",
+      "url": "https://pypi.org/project/mcp-ad-server/0.0.3/",
+      "title": "[PyPI ai/dev search] mcp-ad-server 0.0.3",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-nonebot-plugin-quote 0.4.2.1",
+      "url": "https://pypi.org/project/nonebot-plugin-quote/0.4.2.1/",
+      "title": "[PyPI ai/dev search] nonebot-plugin-quote 0.4.2.1",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-cert-issuer 3.12.0",
+      "url": "https://pypi.org/project/cert-issuer/3.12.0/",
+      "title": "[PyPI ai/dev search] cert-issuer 3.12.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-fastshell 0.1.0",
+      "url": "https://pypi.org/project/fastshell/0.1.0/",
+      "title": "[PyPI ai/dev search] fastshell 0.1.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-Codops 1.1.1",
+      "url": "https://pypi.org/project/codops/1.1.1/",
+      "title": "[PyPI ai/dev search] Codops 1.1.1",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-fleet-client 0.1.0",
+      "url": "https://pypi.org/project/fleet-client/0.1.0/",
+      "title": "[PyPI ai/dev search] fleet-client 0.1.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-owlidar 0.1.10",
+      "url": "https://pypi.org/project/owlidar/0.1.10/",
+      "title": "[PyPI ai/dev search] owlidar 0.1.10",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-PyCriCodecsEx 0.0.1",
+      "url": "https://pypi.org/project/pycricodecsex/0.0.1/",
+      "title": "[PyPI ai/dev search] PyCriCodecsEx 0.0.1",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-pgamit 1.2.37",
+      "url": "https://pypi.org/project/pgamit/1.2.37/",
+      "title": "[PyPI ai/dev search] pgamit 1.2.37",
+      "content_text": "Major — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-sdcp-printer 0.4.1",
+      "url": "https://pypi.org/project/sdcp-printer/0.4.1/",
+      "title": "[PyPI ai/dev search] sdcp-printer 0.4.1",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-vacancycalculator 0.3.8.8",
+      "url": "https://pypi.org/project/vacancycalculator/0.3.8.8/",
+      "title": "[PyPI ai/dev search] vacancycalculator 0.3.8.8",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-policyengine-core 3.20.0",
+      "url": "https://pypi.org/project/policyengine-core/3.20.0/",
+      "title": "[PyPI ai/dev search] policyengine-core 3.20.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-gr 1.30.0",
+      "url": "https://pypi.org/project/gr/1.30.0/",
+      "title": "[PyPI ai/dev search] gr 1.30.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-my-package-practicum 0.1.0",
+      "url": "https://pypi.org/project/my-package-practicum/0.1.0/",
+      "title": "[PyPI ai/dev search] my-package-practicum 0.1.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-sparkfly 1.1.14",
+      "url": "https://pypi.org/project/sparkfly/1.1.14/",
+      "title": "[PyPI ai/dev search] sparkfly 1.1.14",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-conekta 7.0.2",
+      "url": "https://pypi.org/project/conekta/7.0.2/",
+      "title": "[PyPI ai/dev search] conekta 7.0.2",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-molsystem 2025.8.12",
+      "url": "https://pypi.org/project/molsystem/2025.8.12/",
+      "title": "[PyPI ai/dev search] molsystem 2025.8.12",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-SOLIDserverRest 2.9.3",
+      "url": "https://pypi.org/project/solidserverrest/2.9.3/",
+      "title": "[PyPI ai/dev search] SOLIDserverRest 2.9.3",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-error-explorer-python 1.0.1",
+      "url": "https://pypi.org/project/error-explorer-python/1.0.1/",
+      "title": "[PyPI ai/dev search] error-explorer-python 1.0.1",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-opentrons 8.6.0a1",
+      "url": "https://pypi.org/project/opentrons/8.6.0a1/",
+      "title": "[PyPI ai/dev search] opentrons 8.6.0a1",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-bioregistry 0.12.31",
+      "url": "https://pypi.org/project/bioregistry/0.12.31/",
+      "title": "[PyPI ai/dev search] bioregistry 0.12.31",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-dkist-quality 2.0.0",
+      "url": "https://pypi.org/project/dkist-quality/2.0.0/",
+      "title": "[PyPI ai/dev search] dkist-quality 2.0.0",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-actionstreamer 1.3.12",
+      "url": "https://pypi.org/project/actionstreamer/1.3.12/",
+      "title": "[PyPI ai/dev search] actionstreamer 1.3.12",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-augint-billing-lib 1.1.3",
+      "url": "https://pypi.org/project/augint-billing-lib/1.1.3/",
+      "title": "[PyPI ai/dev search] augint-billing-lib 1.1.3",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-lium-sdk 0.2.4",
+      "url": "https://pypi.org/project/lium-sdk/0.2.4/",
+      "title": "[PyPI ai/dev search] lium-sdk 0.2.4",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-corvic-engine 0.3.0rc114",
+      "url": "https://pypi.org/project/corvic-engine/0.3.0rc114/",
+      "title": "[PyPI ai/dev search] corvic-engine 0.3.0rc114",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-conviso-cli 2.6.1rc2",
+      "url": "https://pypi.org/project/conviso-cli/2.6.1rc2/",
+      "title": "[PyPI ai/dev search] conviso-cli 2.6.1rc2",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-ezauv 0.1.8",
+      "url": "https://pypi.org/project/ezauv/0.1.8/",
+      "title": "[PyPI ai/dev search] ezauv 0.1.8",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-bmxp 0.3.16",
+      "url": "https://pypi.org/project/bmxp/0.3.16/",
+      "title": "[PyPI ai/dev search] bmxp 0.3.16",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-toomanycells 1.0.65",
+      "url": "https://pypi.org/project/toomanycells/1.0.65/",
+      "title": "[PyPI ai/dev search] toomanycells 1.0.65",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-cyberdesk 2.1.1",
+      "url": "https://pypi.org/project/cyberdesk/2.1.1/",
+      "title": "[PyPI ai/dev search] cyberdesk 2.1.1",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-moat-link-server 0.3.7",
+      "url": "https://pypi.org/project/moat-link-server/0.3.7/",
+      "title": "[PyPI ai/dev search] moat-link-server 0.3.7",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-pypi-ai-moat-dev-sew 0.1.2",
+      "url": "https://pypi.org/project/moat-dev-sew/0.1.2/",
+      "title": "[PyPI ai/dev search] moat-dev-sew 0.1.2",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
       "id": "2025-08-12-ph-dev-ai-ROSEBUD AI",
       "url": "https://www.producthunt.com/posts/rosebud-ai-2",
       "title": "[Product Hunt — Dev/AI] ROSEBUD AI",
@@ -8093,6 +9468,28 @@
       "id": "2025-08-12-mittr-ai-What you may have missed about",
       "url": "https://www.technologyreview.com/2025/08/12/1121565/what-you-may-have-missed-about-gpt-5/",
       "title": "[MIT Tech Review AI] What you may have missed about GPT-5",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-hf-spaces-TextQuests: How Good are LLMs ",
+      "url": "https://huggingface.co/blog/textquests",
+      "title": "[Hugging Face Spaces (code/dev/agent)] TextQuests: How Good are LLMs at Text-Based Video Games?",
+      "content_text": "Major — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-08-12-hf-spaces-🇵🇭 FilBench - Can LLMs Underst",
+      "url": "https://huggingface.co/blog/filbench",
+      "title": "[Hugging Face Spaces (code/dev/agent)] 🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?",
       "content_text": "Minor — Update detected",
       "date_published": "2025-08-12T09:20:00-04:00",
       "tags": [
@@ -8483,6 +9880,193 @@
       "tags": [
         "Discovery",
         "Major"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: Peer. – I wanted a ne",
+      "url": "https://www.peerfreund.com",
+      "title": "[Hacker News — Show] Show HN: Peer. – I wanted a new social media, so I built my own",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: Codecreate.cc– Coding",
+      "url": "https://codecreate.cc/index/?in",
+      "title": "[Hacker News — Show] Show HN: Codecreate.cc– Coding sandbox/Web IDE with 200 features and 500 options",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: AI Roaster - A feed s",
+      "url": "https://airoaster.app",
+      "title": "[Hacker News — Show] Show HN: AI Roaster - A feed style app for roasting the AI hype",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: Griddle – a daily log",
+      "url": "https://dailygriddle.com",
+      "title": "[Hacker News — Show] Show HN: Griddle – a daily logical deduction puzzle",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: Put a Contract on You",
+      "url": "https://www.contracted.pw/",
+      "title": "[Hacker News — Show] Show HN: Put a Contract on Your Goals",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: Surkl – node-based fi",
+      "url": "https://github.com/Arlen/Surkl",
+      "title": "[Hacker News — Show] Show HN: Surkl – node-based file browser for the desktop",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: I built a vibe agent ",
+      "url": "https://github.com/runagent-dev/runagent/tree/main/examples/Vibe_Agent_Builder_gpt_5",
+      "title": "[Hacker News — Show] Show HN: I built a vibe agent builder with deployment (GPT-5-mini powered)",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: PageIndex OCR – The F",
+      "url": "https://pageindex.ai/blog/ocr",
+      "title": "[Hacker News — Show] Show HN: PageIndex OCR – The First Long-Context OCR Model",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: Guardian Protocol – O",
+      "url": "https://github.com/PracticalParticle/Guardian",
+      "title": "[Hacker News — Show] Show HN: Guardian Protocol – Open-Source Ethereum Security Framework",
+      "content_text": "Security — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Security"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: An MLS for the Automo",
+      "url": "https://carsalesignal.com/",
+      "title": "[Hacker News — Show] Show HN: An MLS for the Automotive sector (used cars)",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: I always struggled wi",
+      "url": "https://www.thinkaloud.app/",
+      "title": "[Hacker News — Show] Show HN: I always struggled with journaling, so I built a voice journaling app",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: Zig-DbC – A design by",
+      "url": "https://news.ycombinator.com/item?id=44876174",
+      "title": "[Hacker News — Show] Show HN: Zig-DbC – A design by contract library for Zig",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: NoCV – a job platform",
+      "url": "https://nocv.uk/",
+      "title": "[Hacker News — Show] Show HN: NoCV – a job platform helping students find part-time work without CVS",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: Unzip – Daily Word Ga",
+      "url": "https://coffeetime.games/unzip",
+      "title": "[Hacker News — Show] Show HN: Unzip – Daily Word Game",
+      "content_text": "Major — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: HackerNewsGames [Alph",
+      "url": "https://hackernews.games/",
+      "title": "[Hacker News — Show] Show HN: HackerNewsGames [Alpha]",
+      "content_text": "Major — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: Drawbridge – \"Figma C",
+      "url": "https://github.com/breschio/drawbridge",
+      "title": "[Hacker News — Show] Show HN: Drawbridge – \"Figma Comments\" for Cursor",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-12-hn-show-Show HN: Marchat – 6 MB termin",
+      "url": "https://news.ycombinator.com/item?id=44876010",
+      "title": "[Hacker News — Show] Show HN: Marchat – 6 MB terminal chat with encryption and plugin support",
+      "content_text": "Minor — Update detected",
+      "date_published": "2025-08-12T09:20:00-04:00",
+      "tags": [
+        "Discovery",
+        "Minor"
       ]
     },
     {
