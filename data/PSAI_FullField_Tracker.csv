@@ -1,27 +1,48 @@
-Tool,Moniker,Category,Severity,RSS Available,Feed URL,Tracking Method,Repo URL,Repo Status,Stars,Contributors,Docs URL,Website URL
-Aider,aider-cli,Editor/IDE,Minor,✅,https://github.com/paul-gauthier/aider/releases.atom,RSS direct,https://github.com/paul-gauthier/aider,Active,6500.0,120.0,N/A,N/A
-Zed,zed-editor,Editor/IDE,Minor,✅,https://github.com/zed-industries/zed/releases.atom,RSS direct,https://github.com/zed-industries/zed,Active,61400.0,1033.0,https://zed.dev/docs,https://zed.dev
-Cursor,cursor-ide,Editor/IDE,Major,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.cursor.com/chat/overview,https://cursor.com
-Windsurf,winds-codeium,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.codeium.com/windsurf/getting-started,https://codeium.com/windsurf
-GitHub Copilot,gh-copilot,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://github.com/features/copilot
-JetBrains AI Assistant,jb-ai-assistant,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://jetbrains.com
-Amazon Q Developer,aws-q-dev,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://aws.amazon.com/q/developer
-Gemini Code Assist,gcp-gemini-code,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://cloud.google.com/products/gemini/code-assist
-Qodo Gen,qodo-gen,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.qodo.ai,https://qodo.ai/products/ide-plugin
-Work with Apps by ChatGPT,openai-work-apps,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://openai.com/chatgpt/desktop
-Claude Code,claude-code,Agent,Major,❌,https://www.anthropic.com/rss.xml,Blog RSS filter,N/A,Closed-source,,,https://docs.anthropic.com/en/docs/claude-code,https://anthropic.com/claude-code
-OpenHands,openhands,Agent,Minor,✅,https://github.com/All-Hands-AI/OpenHands/releases.atom,RSS direct,https://github.com/All-Hands-AI/OpenHands,Active,37800.0,213.0,https://docs.all-hands.dev,N/A
-Cline,cline-agent,Agent,Minor,✅,https://github.com/cline/cline/releases.atom,RSS direct,https://github.com/cline/cline,Active,13200.0,7.0,N/A,N/A
-Devin AI,devin-ai,Agent,Ignore,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://cognition.ai/blog/introducing-devin
-ChatDev,chatdev,Agent,Ignore,✅,https://github.com/OpenBMB/ChatDev/releases.atom,RSS direct,https://github.com/OpenBMB/ChatDev,Semi-active,,,https://arxiv.org/pdf/2307.07924.pdf,N/A
-GPT Pilot by Pythagora,gpt-pilot,Agent,Ignore,✅,https://github.com/Pythagora-io/gpt-pilot/releases.atom,RSS direct,https://github.com/Pythagora-io/gpt-pilot,Semi-active,,,N/A,N/A
-MetaGPT,metagpt,Agent,Ignore,✅,https://github.com/geekan/MetaGPT/releases.atom,RSS direct,https://github.com/geekan/MetaGPT,Semi-active,,,https://docs.deepwisdom.ai/main/en,N/A
-Gorilla,gorilla-berkeley,Agent,Ignore,✅,https://github.com/ShishirPatil/gorilla/releases.atom,RSS direct,https://github.com/ShishirPatil/gorilla,Inactive,,,N/A,https://gorilla.cs.berkeley.edu
-CodeMate,codemate,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.codemate.ai,https://codemate.ai
-CodeRabbit,coderabbit,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.coderabbit.ai,https://coderabbit.ai
-Qodo Merge,qodo-merge,Code Review,Minor,✅,https://github.com/Codium-ai/pr-agent/releases.atom,RSS direct,https://github.com/Codium-ai/pr-agent,Active,6100.0,88.0,https://qodo-merge-docs.qodo.ai,https://qodo.ai/products/git-plugin
-GitLab Duo,gitlab-duo,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.gitlab.com/ee/user/gitlab_duo,https://about.gitlab.com/gitlab-duo
-AI Code Review Action,gh-ai-code-review-action,Code Review,Minor,✅,https://github.com/marketplace/actions/ai-code-review-action/releases.atom,RSS direct,https://github.com/marketplace/actions/ai-code-review-action,Active,,,N/A,N/A
-Korbit,korbit,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://korbit.ai
-Supermaven,supermaven,Misc,Ignore,❌,N/A,N/A,N/A,Merged into Cursor,,,N/A,https://supermaven.com
-PolitePol,politepol,Misc,Ignore,❌,N/A,N/A,https://github.com/taroved/pol,Active,,,N/A,https://politepol.com
+Tool,Moniker,Category,Severity,RSS Available,Feed URL,Tracking Method,Repo URL,Repo Status,Stars,Contributors,Docs URL,Website URL,Source Type,Discovery Method,Launch Status,Last Seen Update,Status
+Aider,aider-cli,Editor/IDE,Minor,✅,https://github.com/paul-gauthier/aider/releases.atom,RSS direct,https://github.com/paul-gauthier/aider,Active,6500.0,120.0,N/A,N/A,,,,,Minor: v0.86.1.dev (2025-08-12)
+Zed,zed-editor,Editor/IDE,Minor,✅,https://github.com/zed-industries/zed/releases.atom,RSS direct,https://github.com/zed-industries/zed,Active,61400.0,1033.0,https://zed.dev/docs,https://zed.dev,,,,,Minor: nightly: language: Fix rust-analyzer removing itself on download (#35971) (2025-08-12)
+Cursor,cursor-ide,Editor/IDE,Major,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.cursor.com/chat/overview,https://cursor.com,,,,,
+Windsurf,winds-codeium,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.codeium.com/windsurf/getting-started,https://codeium.com/windsurf,,,,,
+GitHub Copilot,gh-copilot,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://github.com/features/copilot,,,,,
+JetBrains AI Assistant,jb-ai-assistant,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://jetbrains.com,,,,,
+Amazon Q Developer,aws-q-dev,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://aws.amazon.com/q/developer,,,,,
+Gemini Code Assist,gcp-gemini-code,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://cloud.google.com/products/gemini/code-assist,,,,,
+Qodo Gen,qodo-gen,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.qodo.ai,https://qodo.ai/products/ide-plugin,,,,,
+Work with Apps by ChatGPT,openai-work-apps,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://openai.com/chatgpt/desktop,,,,,
+Claude Code,claude-code,Agent,Major,❌,https://www.anthropic.com/rss.xml,Blog RSS filter,N/A,Closed-source,,,https://docs.anthropic.com/en/docs/claude-code,https://anthropic.com/claude-code,,,,,
+OpenHands,openhands,Agent,Minor,✅,https://github.com/All-Hands-AI/OpenHands/releases.atom,RSS direct,https://github.com/All-Hands-AI/OpenHands,Active,37800.0,213.0,https://docs.all-hands.dev,N/A,,,,,Minor: 0.51.1 (2025-08-12)
+Cline,cline-agent,Agent,Minor,✅,https://github.com/cline/cline/releases.atom,RSS direct,https://github.com/cline/cline,Active,13200.0,7.0,N/A,N/A,,,,,Minor: v3.23.0 (2025-08-12)
+Devin AI,devin-ai,Agent,Ignore,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://cognition.ai/blog/introducing-devin,,,,,
+ChatDev,chatdev,Agent,Ignore,✅,https://github.com/OpenBMB/ChatDev/releases.atom,RSS direct,https://github.com/OpenBMB/ChatDev,Semi-active,,,https://arxiv.org/pdf/2307.07924.pdf,N/A,,,,,Major: v1.1.6 (2025-08-12)
+GPT Pilot by Pythagora,gpt-pilot,Agent,Ignore,✅,https://github.com/Pythagora-io/gpt-pilot/releases.atom,RSS direct,https://github.com/Pythagora-io/gpt-pilot,Semi-active,,,N/A,N/A,,,,,Minor: 0.2.13 (2025-08-12)
+MetaGPT,metagpt,Agent,Ignore,✅,https://github.com/geekan/MetaGPT/releases.atom,RSS direct,https://github.com/geekan/MetaGPT,Semi-active,,,https://docs.deepwisdom.ai/main/en,N/A,,,,,Minor: v0.8.2 (2025-08-12)
+Gorilla,gorilla-berkeley,Agent,Ignore,✅,https://github.com/ShishirPatil/gorilla/releases.atom,RSS direct,https://github.com/ShishirPatil/gorilla,Inactive,,,N/A,https://gorilla.cs.berkeley.edu,,,,,Major: Berkeley Function Calling Leaderboard Updates (v1.3) (2025-08-12)
+CodeMate,codemate,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.codemate.ai,https://codemate.ai,,,,,
+CodeRabbit,coderabbit,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.coderabbit.ai,https://coderabbit.ai,,,,,Minor: Core features​ (2025-08-11)
+Qodo Merge,qodo-merge,Code Review,Minor,✅,https://github.com/Codium-ai/pr-agent/releases.atom,RSS direct,https://github.com/Codium-ai/pr-agent,Active,6100.0,88.0,https://qodo-merge-docs.qodo.ai,https://qodo.ai/products/git-plugin,,,,,Minor: v0.30 (2025-08-12)
+GitLab Duo,gitlab-duo,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.gitlab.com/ee/user/gitlab_duo,https://about.gitlab.com/gitlab-duo,,,,,
+AI Code Review Action,gh-ai-code-review-action,Code Review,Minor,✅,https://github.com/marketplace/actions/ai-code-review-action/releases.atom,RSS direct,https://github.com/marketplace/actions/ai-code-review-action,Active,,,N/A,N/A,,,,,
+Korbit,korbit,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://korbit.ai,,,,,
+Supermaven,supermaven,Misc,Ignore,❌,N/A,N/A,N/A,Merged into Cursor,,,N/A,https://supermaven.com,,,,,
+PolitePol,politepol,Misc,Ignore,❌,N/A,N/A,https://github.com/taroved/pol,Active,,,N/A,https://politepol.com,,,,,
+Product Hunt — Dev/AI,ph-dev-ai,Discovery,Minor,✅,https://www.producthunt.com/feed,RSS,,,,,,https://www.producthunt.com,Press,Auto-Discovery,Unknown,,Minor: Embedding Atlas (2025-08-11)
+Hacker News — Show,hn-show,Discovery,Minor,✅,https://hnrss.org/show,RSS,,,,,,https://news.ycombinator.com/show,Press,Auto-Discovery,Unknown,,Minor: Show HN: YouTube MCP Tool for Puch AI (2025-08-12)
+Reddit r/Programming,reddit-programming,Discovery,Minor,✅,https://www.reddit.com/r/Programming/.rss,RSS,,,,,,https://www.reddit.com/r/Programming/,Press,Auto-Discovery,Unknown,,"Minor: Hands On System Design with ""Distributed Systems Implementation - 254-Lesson’s curriculum"" (2025-08-12)"
+Reddit r/LocalLLaMA,reddit-localllama,Discovery,Minor,✅,https://www.reddit.com/r/LocalLLaMA/.rss,RSS,,,,,,https://www.reddit.com/r/LocalLLaMA/,Press,Auto-Discovery,Unknown,,"Minor: LocalLLaMA is the last sane place to discuss LLMs on this site, I swear (2025-08-12)"
+Reddit r/MachineLearning,reddit-ml,Discovery,Minor,✅,https://www.reddit.com/r/MachineLearning/.rss,RSS,,,,,,https://www.reddit.com/r/MachineLearning/,Press,Auto-Discovery,Unknown,,Minor: [R] AAAI 2026 Reviewer Assignments? (2025-08-12)
+TechCrunch AI,tc-ai,Discovery,Minor,✅,https://techcrunch.com/tag/ai/feed/,RSS,,,,,,https://techcrunch.com/tag/ai/,Press,Auto-Discovery,Unknown,,Minor: Meta acquires AI audio startup WaveForms (2025-08-08)
+The Verge AI,verge-ai,Discovery,Minor,✅,https://www.theverge.com/rss/index.xml,RSS,,,,,,https://www.theverge.com/ai-artificial-intelligence,Press,Auto-Discovery,Unknown,,Minor: That viral video of a ‘deactivated’ Tesla Cybertruck is a fake (2025-08-11)
+VentureBeat AI,vb-ai,Discovery,Minor,✅,https://venturebeat.com/feed/,RSS,,,,,,https://venturebeat.com/category/ai/,Press,Auto-Discovery,Unknown,,Minor: TD Securities taps Layer 6 and OpenAI to deliver real-time equity insights to sales and trading teams (2025-08-11)
+Ars Technica AI,ars-ai,Discovery,Minor,✅,https://feeds.arstechnica.com/arstechnica/technology-lab,RSS,,,,,,https://arstechnica.com/information-technology/,Press,Auto-Discovery,Unknown,,Minor: High-severity WinRAR 0-day exploited for weeks by 2 groups (2025-08-12)
+MIT Tech Review AI,mittr-ai,Discovery,Minor,✅,https://www.technologyreview.com/feed/,RSS,,,,,,https://www.technologyreview.com/ai/,Press,Auto-Discovery,Unknown,,Minor: Sam Altman and the whale (2025-08-11)
+Ben's Bites,bens-bites,Discovery,Minor,✅,https://www.bensbites.co/feed,RSS,,,,,,https://www.bensbites.co/,Press,Auto-Discovery,Unknown,,
+Latent.Space,latent-space,Discovery,Minor,✅,https://www.latent.space/feed,RSS,,,,,,https://www.latent.space/,Press,Auto-Discovery,Unknown,,Minor: Can coding agents self-improve? (2025-08-09)
+Hugging Face Spaces (code/dev/agent),hf-spaces,Discovery,Minor,✅,https://huggingface.co/blog/feed.xml,RSS,,,,,,https://huggingface.co/spaces,Press,Auto-Discovery,Unknown,,Minor: Introducing AI Sheets: a tool to work with datasets using open AI models! (2025-08-08)
+OpenAI Community,openai-community,Discovery,Minor,✅,https://community.openai.com/latest.rss,RSS,,,,,,https://community.openai.com/,Press,Auto-Discovery,Unknown,,
+Anthropic Community,anthropic-community,Discovery,Minor,✅,https://community.anthropic.com/latest.rss,RSS,,,,,,https://community.anthropic.com/,Press,Auto-Discovery,Unknown,,
+Google AI Blog,google-ai-blog,Discovery,Minor,✅,https://ai.googleblog.com/feeds/posts/default,RSS,,,,,,https://ai.googleblog.com/,Press,Auto-Discovery,Unknown,,
+npm ai/dev search,npm-ai,Discovery,Minor,✅,https://www.npmjs.com/~rss,RSS,,,,,,https://www.npmjs.com/search?q=keywords:ai%20developer,Press,Auto-Discovery,Unknown,,
+PyPI ai/dev search,pypi-ai,Discovery,Minor,✅,https://pypi.org/rss/updates.xml,RSS,,,,,,https://pypi.org/search/?q=ai+developer,Press,Auto-Discovery,Unknown,,Minor: pysleep 0.1.5 (2025-08-12)
+Docker Hub ai/dev,docker-ai,Discovery,Minor,❌,,HTML/Blog,,,,,,https://hub.docker.com/search?q=agent%20devtools&type=image,Press,Auto-Discovery,Unknown,,
+Papers With Code,pwc,Discovery,Minor,✅,https://paperswithcode.com/feeds/latest,RSS,,,,,,https://paperswithcode.com/,Press,Auto-Discovery,Unknown,,
+arXiv cs.AI/cs.SE,arxiv-ai-se,Discovery,Minor,✅,https://export.arxiv.org/rss/cs.AI,RSS,,,,,,https://arxiv.org/,Press,Auto-Discovery,Unknown,,Minor: Solving Pasur Using GPU-Accelerated Counterfactual Regret Minimization (2025-08-12)

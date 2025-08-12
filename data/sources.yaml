@@ -1,0 +1,343 @@
+items:
+- tool: Aider
+  moniker: aider-cli
+  category: Editor/IDE
+  sources:
+  - type: rss
+    url: https://github.com/paul-gauthier/aider/releases.atom
+- tool: Zed
+  moniker: zed-editor
+  category: Editor/IDE
+  sources:
+  - type: rss
+    url: https://github.com/zed-industries/zed/releases.atom
+- tool: Cursor
+  moniker: cursor-ide
+  category: Editor/IDE
+  sources:
+  - type: html
+    url: https://docs.cursor.com/chat/overview
+    item_selector: article
+    title_selector: h2, h3
+    date_selector: time, .date
+    link_selector: a
+- tool: Windsurf
+  moniker: winds-codeium
+  category: Editor/IDE
+  sources:
+  - type: html
+    url: https://docs.codeium.com/windsurf/getting-started
+    item_selector: article
+    title_selector: h2, h3
+    date_selector: time, .date
+    link_selector: a
+- tool: GitHub Copilot
+  moniker: gh-copilot
+  category: Editor/IDE
+  sources:
+  - type: html
+    url: https://github.com/features/copilot
+    item_selector: article
+    title_selector: h2, h3
+    date_selector: time, .date
+    link_selector: a
+- tool: JetBrains AI Assistant
+  moniker: jb-ai-assistant
+  category: Editor/IDE
+  sources:
+  - type: html
+    url: https://jetbrains.com
+    item_selector: article
+    title_selector: h2, h3
+    date_selector: time, .date
+    link_selector: a
+- tool: Amazon Q Developer
+  moniker: aws-q-dev
+  category: Editor/IDE
+  sources:
+  - type: html
+    url: https://aws.amazon.com/q/developer
+    item_selector: article
+    title_selector: h2, h3
+    date_selector: time, .date
+    link_selector: a
+- tool: Gemini Code Assist
+  moniker: gcp-gemini-code
+  category: Editor/IDE
+  sources:
+  - type: html
+    url: https://cloud.google.com/products/gemini/code-assist
+    item_selector: article
+    title_selector: h2, h3
+    date_selector: time, .date
+    link_selector: a
+- tool: Qodo Gen
+  moniker: qodo-gen
+  category: Editor/IDE
+  sources:
+  - type: html
+    url: https://docs.qodo.ai
+    item_selector: article
+    title_selector: h2, h3
+    date_selector: time, .date
+    link_selector: a
+- tool: Work with Apps by ChatGPT
+  moniker: openai-work-apps
+  category: Editor/IDE
+  sources:
+  - type: html
+    url: https://openai.com/chatgpt/desktop
+    item_selector: article
+    title_selector: h2, h3
+    date_selector: time, .date
+    link_selector: a
+- tool: Claude Code
+  moniker: claude-code
+  category: Agent
+  sources:
+  - type: rss
+    url: https://www.anthropic.com/rss.xml
+- tool: OpenHands
+  moniker: openhands
+  category: Agent
+  sources:
+  - type: rss
+    url: https://github.com/All-Hands-AI/OpenHands/releases.atom
+- tool: Cline
+  moniker: cline-agent
+  category: Agent
+  sources:
+  - type: rss
+    url: https://github.com/cline/cline/releases.atom
+- tool: Devin AI
+  moniker: devin-ai
+  category: Agent
+  sources:
+  - type: html
+    url: https://cognition.ai/blog/introducing-devin
+    item_selector: article
+    title_selector: h2, h3
+    date_selector: time, .date
+    link_selector: a
+- tool: ChatDev
+  moniker: chatdev
+  category: Agent
+  sources:
+  - type: rss
+    url: https://github.com/OpenBMB/ChatDev/releases.atom
+- tool: GPT Pilot by Pythagora
+  moniker: gpt-pilot
+  category: Agent
+  sources:
+  - type: rss
+    url: https://github.com/Pythagora-io/gpt-pilot/releases.atom
+- tool: MetaGPT
+  moniker: metagpt
+  category: Agent
+  sources:
+  - type: rss
+    url: https://github.com/geekan/MetaGPT/releases.atom
+- tool: Gorilla
+  moniker: gorilla-berkeley
+  category: Agent
+  sources:
+  - type: rss
+    url: https://github.com/ShishirPatil/gorilla/releases.atom
+- tool: CodeMate
+  moniker: codemate
+  category: Code Review
+  sources:
+  - type: html
+    url: https://docs.codemate.ai
+    item_selector: article
+    title_selector: h2, h3
+    date_selector: time, .date
+    link_selector: a
+- tool: CodeRabbit
+  moniker: coderabbit
+  category: Code Review
+  sources:
+  - type: html
+    url: https://docs.coderabbit.ai
+    item_selector: article
+    title_selector: h2, h3
+    date_selector: time, .date
+    link_selector: a
+- tool: Qodo Merge
+  moniker: qodo-merge
+  category: Code Review
+  sources:
+  - type: rss
+    url: https://github.com/Codium-ai/pr-agent/releases.atom
+- tool: GitLab Duo
+  moniker: gitlab-duo
+  category: Code Review
+  sources:
+  - type: html
+    url: https://docs.gitlab.com/ee/user/gitlab_duo
+    item_selector: article
+    title_selector: h2, h3
+    date_selector: time, .date
+    link_selector: a
+- tool: AI Code Review Action
+  moniker: gh-ai-code-review-action
+  category: Code Review
+  sources:
+  - type: rss
+    url: https://github.com/marketplace/actions/ai-code-review-action/releases.atom
+- tool: Korbit
+  moniker: korbit
+  category: Code Review
+  sources:
+  - type: html
+    url: https://korbit.ai
+    item_selector: article
+    title_selector: h2, h3
+    date_selector: time, .date
+    link_selector: a
+- tool: Supermaven
+  moniker: supermaven
+  category: Misc
+  sources:
+  - type: html
+    url: https://supermaven.com
+    item_selector: article
+    title_selector: h2, h3
+    date_selector: time, .date
+    link_selector: a
+- tool: PolitePol
+  moniker: politepol
+  category: Misc
+  sources:
+  - type: github_releases
+    repo: taroved/pol
+- tool: Product Hunt — Dev/AI
+  moniker: ph-dev-ai
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://www.producthunt.com/feed
+- tool: Hacker News — Show
+  moniker: hn-show
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://hnrss.org/show
+- tool: Reddit r/Programming
+  moniker: reddit-programming
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://www.reddit.com/r/Programming/.rss
+- tool: Reddit r/LocalLLaMA
+  moniker: reddit-localllama
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://www.reddit.com/r/LocalLLaMA/.rss
+- tool: Reddit r/MachineLearning
+  moniker: reddit-ml
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://www.reddit.com/r/MachineLearning/.rss
+- tool: TechCrunch AI
+  moniker: tc-ai
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://techcrunch.com/tag/ai/feed/
+- tool: The Verge AI
+  moniker: verge-ai
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://www.theverge.com/rss/index.xml
+- tool: VentureBeat AI
+  moniker: vb-ai
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://venturebeat.com/feed/
+- tool: Ars Technica AI
+  moniker: ars-ai
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://feeds.arstechnica.com/arstechnica/technology-lab
+- tool: MIT Tech Review AI
+  moniker: mittr-ai
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://www.technologyreview.com/feed/
+- tool: Ben's Bites
+  moniker: bens-bites
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://www.bensbites.co/feed
+- tool: Latent.Space
+  moniker: latent-space
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://www.latent.space/feed
+- tool: Hugging Face Spaces (code/dev/agent)
+  moniker: hf-spaces
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://huggingface.co/blog/feed.xml
+- tool: OpenAI Community
+  moniker: openai-community
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://community.openai.com/latest.rss
+- tool: Anthropic Community
+  moniker: anthropic-community
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://community.anthropic.com/latest.rss
+- tool: Google AI Blog
+  moniker: google-ai-blog
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://ai.googleblog.com/feeds/posts/default
+- tool: npm ai/dev search
+  moniker: npm-ai
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://www.npmjs.com/~rss
+- tool: PyPI ai/dev search
+  moniker: pypi-ai
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://pypi.org/rss/updates.xml
+- tool: Docker Hub ai/dev
+  moniker: docker-ai
+  category: Discovery
+  sources:
+  - type: html
+    url: https://hub.docker.com/search?q=agent%20devtools&type=image
+    item_selector: article
+    title_selector: h2, h3
+    date_selector: time, .date
+    link_selector: a
+- tool: Papers With Code
+  moniker: pwc
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://paperswithcode.com/feeds/latest
+- tool: arXiv cs.AI/cs.SE
+  moniker: arxiv-ai-se
+  category: Discovery
+  sources:
+  - type: rss
+    url: https://export.arxiv.org/rss/cs.AI
