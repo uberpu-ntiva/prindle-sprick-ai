@@ -35,3 +35,17 @@ Nested repo fix
 If your repo path looks like prindle-sprick-ai/prindle-sprick-ai/, add:
   working-directory: prindle-sprick-ai
 to those steps.
+
+TODO
+---------------
+### Source Adds
+- AI Discords/Slacks → (semi-manual, can scrape message logs via bot)
+- X (Twitter) → hashtag watch: #aicoding, #agentic, #devtools, #mcp
+
+### Better with keys (optional):
+- Product Hunt API → richer metadata, better filtering
+- Reddit API → deeper search & higher limits
+- Hugging Face token → higher rate limits
+- (You can drop keys later; the task will auto‑use them.)
+
+  
