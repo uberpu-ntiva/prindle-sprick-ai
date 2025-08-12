@@ -36,9 +36,10 @@ jobs:
         env:
           SITE_URL: ${{ vars.SITE_URL }}
         run: python scripts/build_feed.py --log data/news_log.json --site "${{ env.SITE_URL || 'https://<user>.github.io/<repo>' }}" --json public/feed.json --rss public/rss.xml
+      - name: Build sources pages (cards + table)
+        run: python scripts/build_sources_pages.py
       - name: Build HTML report
         run: python scripts/build_site.py
-
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
