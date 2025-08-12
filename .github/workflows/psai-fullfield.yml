@@ -38,25 +38,25 @@ jobs:
           python -m pip install --upgrade pip
           pip install PyYAML beautifulsoup4 feedgen requests
 
-      # 1) Discovery → candidates.json
+      # 1) Discovery → candidates.json (lightweight; DeepSweep does a wider pass)
       - name: Discovery (new tools)
         run: |
-          python scripts/discover.py
-          python scripts/merge_candidates.py
+          python scripts/discover.py --light --out data/candidates.json
+          python scripts/merge_candidates.py --candidates data/candidates.json --tracker data/PSAI_FullField_Tracker.csv --out data/PSAI_FullField_Tracker.csv
 
-      # 2) Build sources.yaml from tracker CSV
+      # 2) Generate sources.yaml from tracker CSV
       - name: Generate sources
-        run: python scripts/generate_sources.py
+        run: python scripts/generate_sources.py --tracker data/PSAI_FullField_Tracker.csv --out data/sources.yaml
 
       # 3) Harvest releases/changelogs → news_log.json (trim to 30d)
       - name: Harvest → Log (30d)
         run: python scripts/harvest.py --sources data/sources.yaml --tracker data/PSAI_FullField_Tracker.csv --log data/news_log.json
 
-      # 4) Update tracker Status/Updates column
+      # 4) Update tracker "Updates/Status" column inline
       - name: Update tracker status
         run: python scripts/update_tracker.py --tracker data/PSAI_FullField_Tracker.csv --log data/news_log.json --out data/PSAI_FullField_Tracker.csv
 
-      # 5) Build feeds (JSON Feed + RSS)
+      # 5) Build feeds (JSON Feed + RSS) and inject Sources link
       - name: Build feeds
         env:
           SITE_URL: ${{ vars.SITE_URL }}
@@ -65,12 +65,15 @@ jobs:
           if [ -z "$SITE" ]; then
             SITE="https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}"
           fi
-          python scripts/build_feed.py --log data/news_log.json --site "$SITE" --json public/feed.json --rss public/rss.xml
+          python scripts/build_feed_from_log.py --site "$SITE"
 
-      # 6) Build sources listing pages (cards + table) from CSV
-      - name: Build sources pages
-        run: |
-          python scripts/build_sources_pages.py
+      # 6) Build sources listing pages (cards + table) from CSV; auto-inject link to index.html
+      - name: Build sources pages (cards + table)
+        env:
+          PSAI_INCLUDE_REGEX: "(agent|agentic|orchestr|mcp|ide|editor|review|code\s*assistant)"
+          PSAI_EXCLUDE_REGEX: "^(product\s*hunt|reddit|hacker\s*news|hn\s*—|hn\s*show|latentspace|ben['’]s\s*bites|npm|pypi|docker\s*hub)\b"
+          PSAI_MIN_STARS: "50"
+        run: python scripts/build_sources_pages.py
 
       # 7) Alert if ≥3 Major/Security items in last 24h (email + GH issue)
       - name: Alert on 3+ Major/Security in 24h
@@ -91,7 +94,7 @@ jobs:
           data = json.load(open("data/news_log.json","r",encoding="utf-8"))
           hits = [i for i in data.get("items",[]) if i.get("date","") >= cut and i.get("severity","") in ("Major","Security")]
           if len(hits) >= 3:
-              body = "\\n".join(f"[{x['date']}] {x['tool']} — {x['headline']}" for x in hits)
+              body = "\n".join(f"[{x['date']}] {x['tool']} — {x['headline']}" for x in hits)
               if all(os.getenv(k) for k in ["SMTP_SERVER","SMTP_PORT","SMTP_USERNAME","SMTP_PASSWORD","MAIL_TO","MAIL_FROM"]):
                   msg = MIMEText(body)
                   msg["Subject"] = "PSAI Alert: 3+ Major/Security updates"
@@ -101,7 +104,7 @@ jobs:
                       s.starttls()
                       s.login(os.getenv("SMTP_USERNAME"), os.getenv("SMTP_PASSWORD"))
                       s.sendmail(os.getenv("MAIL_FROM"), [os.getenv("MAIL_TO")], msg.as_string())
-              open("ALERT_LAST24.txt","w").write(body)
+              open("ALERT_LAST24.txt","w",encoding="utf-8").write(body)
           PY
           if [ -f ALERT_LAST24.txt ]; then
             gh issue create --title "PSAI Alert: $(date -u +%F) — 3+ Major/Security updates" --body "$(cat ALERT_LAST24.txt)" || true
@@ -113,8 +116,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/*.json data/*.csv data/*.yaml public/*.json public/*.xml public/*.html || true
-          if git commit -m "PSAI: full-field daily $(date -u +'%Y-%m-%dT%H:%M:%SZ')"; then
-            git push
-          else
-            echo "Nothing to commit."
-          fi
+          git commit -m "PSAI: full-field daily $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "Nothing to commit."
+          git push || true
