@@ -80,9 +80,15 @@ def from_github_releases(repo):
     return out
 
 def from_rss(url):
-    text = fetch(url)
-    root = ET.fromstring(text)
-    items = []
+    try:
+        text = fetch(url)
+        # Clean up common XML issues like unescaped ampersands before parsing
+        text = re.sub(r'&(?![a-zA-Z]+;|#[0-9]+;)', '&amp;', text)
+        root = ET.fromstring(text)
+        items = []
+    except (requests.RequestException, ET.ParseError) as e:
+        print(f"  ! Failed to fetch/parse RSS feed {url}: {e}")
+        return []
     # Try RSS
     for it in root.findall("./channel/item"):
         title = it.findtext("title") or "Update"
