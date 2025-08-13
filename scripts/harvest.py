@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+print("--- Executing harvest.py v1.1 ---")
 import argparse, os, json, csv, re
 from datetime import datetime, timedelta, timezone
 import requests
