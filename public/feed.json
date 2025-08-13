@@ -2854,6 +2854,72 @@
       ]
     },
     {
+      "id": "2025-08-13-zed-editor-v0.200.1-pre",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v0.200.1-pre",
+      "title": "[Zed] v0.200.1-pre",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-13T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-13-zed-editor-v0.200.0-pre",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v0.200.0-pre",
+      "title": "[Zed] v0.200.0-pre",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-13T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-13-zed-editor-v0.199.6",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v0.199.6",
+      "title": "[Zed] v0.199.6",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-13T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-13-zed-editor-v0.199.5",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v0.199.5",
+      "title": "[Zed] v0.199.5",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-13T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-13-zed-editor-nightly: In auto-update-helper",
+      "url": "https://github.com/zed-industries/zed/releases/tag/nightly",
+      "title": "[Zed] nightly: In auto-update-helper, fix parsing of `--launch false` (#36148)",
+      "content_text": "Major — ",
+      "date_published": "2025-08-13T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-08-13-zed-editor-collab-staging: onboarding: Ad",
+      "url": "https://github.com/zed-industries/zed/releases/tag/collab-staging",
+      "title": "[Zed] collab-staging: onboarding: Add more telemetry  (#36121)",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-13T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
       "id": "2025-08-13-vb-ai-OpenAI brings GPT-4o back as a",
       "url": "https://venturebeat.com/ai/openai-brings-gpt-4o-back-as-a-default-for-all-paying-chatgpt-users-altman-promises-plenty-of-notice-if-it-leaves-again/",
       "title": "[VentureBeat AI] OpenAI brings GPT-4o back as a default for all paying ChatGPT users, Altman promises ‘plenty of notice’ if it leaves again",
@@ -4746,6 +4812,28 @@
       ]
     },
     {
+      "id": "2025-08-13-openhands-0.52.1",
+      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.52.1",
+      "title": "[OpenHands] 0.52.1",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-13T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-13-openhands-0.52.0 - 2025-08-13",
+      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.52.0",
+      "title": "[OpenHands] 0.52.0 - 2025-08-13",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-13T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
       "id": "2025-08-13-metagpt-v0.8.2",
       "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.8.2",
       "title": "[MetaGPT] v0.8.2",
@@ -5406,6 +5494,50 @@
       ]
     },
     {
+      "id": "2025-08-13-cline-agent-v3.24.0",
+      "url": "https://github.com/cline/cline/releases/tag/v3.24.0",
+      "title": "[Cline] v3.24.0",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-13T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-13-claude-code-Show HN: Deploy Any Web App Di",
+      "url": "https://disco.cloud/blog/deploy-any-web-app-directly-from-claude-code/",
+      "title": "[Claude Code] Show HN: Deploy Any Web App Directly from Claude Code",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-13T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-13-claude-code-Show HN: Docker container for ",
+      "url": "https://github.com/nezhar/claude-container",
+      "title": "[Claude Code] Show HN: Docker container for Claude Code with complete host isolation",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-13T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-13-claude-code-Context Engineering for Multi-",
+      "url": "https://arxiv.org/abs/2508.08322",
+      "title": "[Claude Code] Context Engineering for Multi-Agent LLM Code Assistants Using Elicit, NotebookLM, ChatGPT, and Claude Code",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-13T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
       "id": "2025-08-13-chatdev-v1.1.6",
       "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.6",
       "title": "[ChatDev] v1.1.6",
@@ -5608,6 +5740,28 @@
       "url": "https://github.com/Aider-AI/aider/releases/tag/v0.85.2",
       "title": "[Aider] v0.85.2",
       "content_text": "Minor — Update detected",
+      "date_published": "2025-08-13T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-13-aider-cli-v0.86.2.dev",
+      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.86.2.dev",
+      "title": "[Aider] v0.86.2.dev",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-13T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-13-aider-cli-v0.86.1",
+      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.86.1",
+      "title": "[Aider] v0.86.1",
+      "content_text": "Minor — ",
       "date_published": "2025-08-13T09:20:00-04:00",
       "tags": [
         "Editor/IDE",
@@ -19805,6 +19959,17 @@
       ]
     },
     {
+      "id": "2025-08-05-winds-codeium-Three weeks after acquiring Wi",
+      "url": "https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/",
+      "title": "[Windsurf] Three weeks after acquiring Windsurf, Cognition offers staff the exit door",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-05T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
       "id": "2025-08-05-vb-ai-Anthropic’s new Claude 4.1 dom",
       "url": "https://venturebeat.com/ai/anthropics-new-claude-4-1-dominates-coding-tests-days-before-gpt-5-arrives/",
       "title": "[VentureBeat AI] Anthropic’s new Claude 4.1 dominates coding tests days before GPT-5 arrives",
@@ -20044,6 +20209,17 @@
       "tags": [
         "Discovery",
         "Minor"
+      ]
+    },
+    {
+      "id": "2025-07-31-cline-agent-Cline: The Open Source Code Ag",
+      "url": "https://www.latent.space/p/cline",
+      "title": "[Cline] Cline: The Open Source Code Agent — with Saoud Rizwan and Nik Pash",
+      "content_text": "Security — ",
+      "date_published": "2025-07-31T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Security"
       ]
     },
     {

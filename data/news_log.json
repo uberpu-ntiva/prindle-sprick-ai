@@ -3110,6 +3110,66 @@
     },
     {
       "date": "2025-08-13",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.200.1-pre",
+      "link": "https://github.com/zed-industries/zed/releases/tag/v0.200.1-pre",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2025-08-13",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.200.0-pre",
+      "link": "https://github.com/zed-industries/zed/releases/tag/v0.200.0-pre",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2025-08-13",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.199.6",
+      "link": "https://github.com/zed-industries/zed/releases/tag/v0.199.6",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2025-08-13",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.199.5",
+      "link": "https://github.com/zed-industries/zed/releases/tag/v0.199.5",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2025-08-13",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Major",
+      "headline": "nightly: In auto-update-helper, fix parsing of `--launch false` (#36148)",
+      "link": "https://github.com/zed-industries/zed/releases/tag/nightly",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2025-08-13",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "collab-staging: onboarding: Add more telemetry  (#36121)",
+      "link": "https://github.com/zed-industries/zed/releases/tag/collab-staging",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2025-08-13",
       "tool": "VentureBeat AI",
       "moniker": "vb-ai",
       "category": "Discovery",
@@ -5174,6 +5234,26 @@
     },
     {
       "date": "2025-08-13",
+      "tool": "OpenHands",
+      "moniker": "openhands",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "0.52.1",
+      "link": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.52.1",
+      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
+    },
+    {
+      "date": "2025-08-13",
+      "tool": "OpenHands",
+      "moniker": "openhands",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "0.52.0 - 2025-08-13",
+      "link": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.52.0",
+      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
+    },
+    {
+      "date": "2025-08-13",
       "tool": "MetaGPT",
       "moniker": "metagpt",
       "category": "Agent",
@@ -5894,6 +5974,46 @@
     },
     {
       "date": "2025-08-13",
+      "tool": "Cline",
+      "moniker": "cline-agent",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "v3.24.0",
+      "link": "https://github.com/cline/cline/releases/tag/v3.24.0",
+      "source": "https://github.com/cline/cline/releases.atom"
+    },
+    {
+      "date": "2025-08-13",
+      "tool": "Claude Code",
+      "moniker": "claude-code",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "Show HN: Deploy Any Web App Directly from Claude Code",
+      "link": "https://disco.cloud/blog/deploy-any-web-app-directly-from-claude-code/",
+      "source": "https://hnrss.org/show"
+    },
+    {
+      "date": "2025-08-13",
+      "tool": "Claude Code",
+      "moniker": "claude-code",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "Show HN: Docker container for Claude Code with complete host isolation",
+      "link": "https://github.com/nezhar/claude-container",
+      "source": "https://hnrss.org/show"
+    },
+    {
+      "date": "2025-08-13",
+      "tool": "Claude Code",
+      "moniker": "claude-code",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "Context Engineering for Multi-Agent LLM Code Assistants Using Elicit, NotebookLM, ChatGPT, and Claude Code",
+      "link": "https://arxiv.org/abs/2508.08322",
+      "source": "https://export.arxiv.org/rss/cs.AI"
+    },
+    {
+      "date": "2025-08-13",
       "tool": "ChatDev",
       "moniker": "chatdev",
       "category": "Agent",
@@ -6119,6 +6239,26 @@
       "link": "https://github.com/Aider-AI/aider/releases/tag/v0.85.2",
       "source": "https://github.com/paul-gauthier/aider/releases.atom",
       "notes": ""
+    },
+    {
+      "date": "2025-08-13",
+      "tool": "Aider",
+      "moniker": "aider-cli",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.86.2.dev",
+      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.86.2.dev",
+      "source": "https://github.com/paul-gauthier/aider/releases.atom"
+    },
+    {
+      "date": "2025-08-13",
+      "tool": "Aider",
+      "moniker": "aider-cli",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.86.1",
+      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.86.1",
+      "source": "https://github.com/paul-gauthier/aider/releases.atom"
     },
     {
       "date": "2025-08-12",
@@ -21602,6 +21742,16 @@
     },
     {
       "date": "2025-08-05",
+      "tool": "Windsurf",
+      "moniker": "winds-codeium",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "Three weeks after acquiring Windsurf, Cognition offers staff the exit door",
+      "link": "https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/",
+      "source": "https://techcrunch.com/tag/ai/feed/"
+    },
+    {
+      "date": "2025-08-05",
       "tool": "VentureBeat AI",
       "moniker": "vb-ai",
       "category": "Discovery",
@@ -21863,6 +22013,16 @@
       "link": "https://huggingface.co/blog/gradio-vton-mcp",
       "source": "https://huggingface.co/blog/feed.xml",
       "notes": ""
+    },
+    {
+      "date": "2025-07-31",
+      "tool": "Cline",
+      "moniker": "cline-agent",
+      "category": "Agent",
+      "severity": "Security",
+      "headline": "Cline: The Open Source Code Agent — with Saoud Rizwan and Nik Pash",
+      "link": "https://www.latent.space/p/cline",
+      "source": "https://www.latent.space/feed"
     },
     {
       "date": "2025-07-31",
