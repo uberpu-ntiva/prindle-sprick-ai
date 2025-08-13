@@ -1559,42 +1559,6 @@
 <description>Minor — Update detected</description>
 </item>
 <item>
-<title>[Zed] v0.200.1-pre</title>
-<link>https://github.com/zed-industries/zed/releases/tag/v0.200.1-pre</link>
-<pubDate>2025-08-13</pubDate>
-<description>Minor — </description>
-</item>
-<item>
-<title>[Zed] v0.200.0-pre</title>
-<link>https://github.com/zed-industries/zed/releases/tag/v0.200.0-pre</link>
-<pubDate>2025-08-13</pubDate>
-<description>Minor — </description>
-</item>
-<item>
-<title>[Zed] v0.199.6</title>
-<link>https://github.com/zed-industries/zed/releases/tag/v0.199.6</link>
-<pubDate>2025-08-13</pubDate>
-<description>Minor — </description>
-</item>
-<item>
-<title>[Zed] v0.199.5</title>
-<link>https://github.com/zed-industries/zed/releases/tag/v0.199.5</link>
-<pubDate>2025-08-13</pubDate>
-<description>Minor — </description>
-</item>
-<item>
-<title>[Zed] nightly: In auto-update-helper, fix parsing of `--launch false` (#36148)</title>
-<link>https://github.com/zed-industries/zed/releases/tag/nightly</link>
-<pubDate>2025-08-13</pubDate>
-<description>Major — </description>
-</item>
-<item>
-<title>[Zed] collab-staging: onboarding: Add more telemetry  (#36121)</title>
-<link>https://github.com/zed-industries/zed/releases/tag/collab-staging</link>
-<pubDate>2025-08-13</pubDate>
-<description>Minor — </description>
-</item>
-<item>
 <title>[VentureBeat AI] OpenAI brings GPT-4o back as a default for all paying ChatGPT users, Altman promises ‘plenty of notice’ if it leaves again</title>
 <link>https://venturebeat.com/ai/openai-brings-gpt-4o-back-as-a-default-for-all-paying-chatgpt-users-altman-promises-plenty-of-notice-if-it-leaves-again/</link>
 <pubDate>2025-08-13</pubDate>
@@ -2627,18 +2591,6 @@
 <description>Minor — Update detected</description>
 </item>
 <item>
-<title>[OpenHands] 0.52.1</title>
-<link>https://github.com/All-Hands-AI/OpenHands/releases/tag/0.52.1</link>
-<pubDate>2025-08-13</pubDate>
-<description>Minor — </description>
-</item>
-<item>
-<title>[OpenHands] 0.52.0 - 2025-08-13</title>
-<link>https://github.com/All-Hands-AI/OpenHands/releases/tag/0.52.0</link>
-<pubDate>2025-08-13</pubDate>
-<description>Minor — </description>
-</item>
-<item>
 <title>[MetaGPT] v0.8.2</title>
 <link>https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.8.2</link>
 <pubDate>2025-08-13</pubDate>
@@ -2999,30 +2951,6 @@
 <description>Minor — Update detected</description>
 </item>
 <item>
-<title>[Cline] v3.24.0</title>
-<link>https://github.com/cline/cline/releases/tag/v3.24.0</link>
-<pubDate>2025-08-13</pubDate>
-<description>Minor — </description>
-</item>
-<item>
-<title>[Claude Code] Show HN: Deploy Any Web App Directly from Claude Code</title>
-<link>https://disco.cloud/blog/deploy-any-web-app-directly-from-claude-code/</link>
-<pubDate>2025-08-13</pubDate>
-<description>Minor — </description>
-</item>
-<item>
-<title>[Claude Code] Show HN: Docker container for Claude Code with complete host isolation</title>
-<link>https://github.com/nezhar/claude-container</link>
-<pubDate>2025-08-13</pubDate>
-<description>Minor — </description>
-</item>
-<item>
-<title>[Claude Code] Context Engineering for Multi-Agent LLM Code Assistants Using Elicit, NotebookLM, ChatGPT, and Claude Code</title>
-<link>https://arxiv.org/abs/2508.08322</link>
-<pubDate>2025-08-13</pubDate>
-<description>Minor — </description>
-</item>
-<item>
 <title>[ChatDev] v1.1.6</title>
 <link>https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.6</link>
 <pubDate>2025-08-13</pubDate>
@@ -3135,18 +3063,6 @@
 <link>https://github.com/Aider-AI/aider/releases/tag/v0.85.2</link>
 <pubDate>2025-08-13</pubDate>
 <description>Minor — Update detected</description>
-</item>
-<item>
-<title>[Aider] v0.86.2.dev</title>
-<link>https://github.com/Aider-AI/aider/releases/tag/v0.86.2.dev</link>
-<pubDate>2025-08-13</pubDate>
-<description>Minor — </description>
-</item>
-<item>
-<title>[Aider] v0.86.1</title>
-<link>https://github.com/Aider-AI/aider/releases/tag/v0.86.1</link>
-<pubDate>2025-08-13</pubDate>
-<description>Minor — </description>
 </item>
 <item>
 <title>[arXiv cs.AI/cs.SE] Solving Pasur Using GPU-Accelerated Counterfactual Regret Minimization</title>
@@ -10889,12 +10805,6 @@
 <description>Minor — Update detected</description>
 </item>
 <item>
-<title>[Windsurf] Three weeks after acquiring Windsurf, Cognition offers staff the exit door</title>
-<link>https://techcrunch.com/2025/08/05/three-weeks-after-acquiring-windsurf-cognition-offers-staff-the-exit-door/</link>
-<pubDate>2025-08-05</pubDate>
-<description>Minor — </description>
-</item>
-<item>
 <title>[VentureBeat AI] Anthropic’s new Claude 4.1 dominates coding tests days before GPT-5 arrives</title>
 <link>https://venturebeat.com/ai/anthropics-new-claude-4-1-dominates-coding-tests-days-before-gpt-5-arrives/</link>
 <pubDate>2025-08-05</pubDate>
@@ -11025,12 +10935,6 @@
 <link>https://huggingface.co/blog/gradio-vton-mcp</link>
 <pubDate>2025-07-31</pubDate>
 <description>Minor — Update detected</description>
-</item>
-<item>
-<title>[Cline] Cline: The Open Source Code Agent — with Saoud Rizwan and Nik Pash</title>
-<link>https://www.latent.space/p/cline</link>
-<pubDate>2025-07-31</pubDate>
-<description>Security — </description>
 </item>
 <item>
 <title>[Ars Technica AI] Microsoft catches Russian hackers targeting foreign embassies</title>

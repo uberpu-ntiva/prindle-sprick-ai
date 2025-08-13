@@ -211,10 +211,14 @@ def main():
         today = datetime.now(timezone.utc).date().isoformat()
         todays_updates = [item for item in log.get("items", []) if item.get("date", "") >= today]
     recent_tools = approved_rows[-10:]
+    print("--- Building dashboard page ---")
     dashboard_html = build_dashboard_page(recent_tools, todays_updates)
+    print(f"Dashboard HTML generated ({len(dashboard_html)} bytes).")
     os.makedirs(os.path.dirname(OUT_INDEX) or ".", exist_ok=True)
-    open(OUT_INDEX, "w", encoding="utf-8").write(dashboard_html)
-    print(f"Built {OUT_INDEX} dashboard.")
+    print(f"Attempting to write dashboard to {OUT_INDEX}...")
+    with open(OUT_INDEX, "w", encoding="utf-8") as f:
+        f.write(dashboard_html)
+    print(f"Successfully wrote dashboard to {OUT_INDEX}.")
 
     # --- Sources pages (cards and table) ---
     card_html, row_html = [], []
