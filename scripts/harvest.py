@@ -1,7 +1,8 @@
 #!/usr/bin/env python
-import argparse, os, json
+print("--- Executing harvest.py v1.1 ---")
+import argparse, os, json, csv, re
 from datetime import datetime, timedelta, timezone
-import requests, yaml
+import requests
 from xml.etree import ElementTree as ET
 try:
     from bs4 import BeautifulSoup
@@ -80,9 +81,15 @@ def from_github_releases(repo):
     return out
 
 def from_rss(url):
-    text = fetch(url)
-    root = ET.fromstring(text)
-    items = []
+    try:
+        text = fetch(url)
+        # Clean up common XML issues like unescaped ampersands before parsing
+        text = re.sub(r'&(?![a-zA-Z]+;|#[0-9]+;)', '&amp;', text)
+        root = ET.fromstring(text)
+        items = []
+    except (requests.RequestException, ET.ParseError) as e:
+        print(f"  ! Failed to fetch/parse RSS feed {url}: {e}")
+        return []
     # Try RSS
     for it in root.findall("./channel/item"):
         title = it.findtext("title") or "Update"
@@ -128,59 +135,93 @@ def classify_severity(text):
     if any(k in t for k in ["major","breaking","incident","outage","downtime","elevated errors","regression","launch","ga","v1.","v2.","released"]): return "Major"
     return "Minor"
 
+def load_csv(path):
+    if not os.path.exists(path): return []
+    return list(csv.DictReader(open(path, 'r', encoding='utf-8')))
+
+def save_log(log, path):
+    log["items"].sort(key=lambda x: (x.get("date", ""), x.get("tool", "")), reverse=True)
+    cutoff_date = (NOW - timedelta(days=30)).date().isoformat()
+    log["items"] = [it for it in log["items"] if it.get("date", "") >= cutoff_date]
+    save_json(path, log)
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--sources", required=True)
-    ap.add_argument("--tracker", required=True)
-    ap.add_argument("--log", required=True)
+    ap.add_argument("--tools", required=True, help="Path to tools.csv")
+    ap.add_argument("--sources", required=True, help="Path to sources.csv")
+    ap.add_argument("--log", required=True, help="Path to news_log.json")
     args = ap.parse_args()
 
-    cfg = yaml.safe_load(open(args.sources, "r", encoding="utf-8"))
-    log = load_json(args.log, {"items":[]})
-    existing = {(it.get("date"), it.get("tool"), it.get("headline")) for it in log.get("items",[])}
+    tools = load_csv(args.tools)
+    sources = load_csv(args.sources)
+    log = load_json(args.log, {"items": []})
+    existing = {(it.get("date"), it.get("tool"), it.get("headline")) for it in log.get("items", [])}
 
-    for item in cfg.get("items",[]):
-        tool = item["tool"]
-        moniker = item.get("moniker", tool.lower())
-        category = item.get("category","Updates")
+    approved_tools = [t for t in tools if t.get('Status') != 'pending_review']
+    tool_names = {t['Tool'].lower() for t in approved_tools}
+    tool_map = {t['Tool'].lower(): t for t in approved_tools}
 
+    # Phase 1: Scan press sources for mentions of approved tools
+    print("--- Phase 1: Scanning press sources ---")
+    for source in sources:
+        feed_url = source.get('Feed URL')
+        if not feed_url: continue
+        print(f"Scanning source: {source['Tool']}")
+        for item in from_rss(feed_url):
+            headline = item.get('headline', '')
+            found_tool_name = next((name for name in tool_names if re.search(r'\b' + re.escape(name) + r'\b', headline, re.I)), None)
+            if found_tool_name:
+                tool_data = tool_map[found_tool_name]
+                key = (item['date'], tool_data['Tool'], headline)
+                if key in existing: continue
+
+                print(f"  + Found mention of '{tool_data['Tool']}' in: {headline}")
+                log["items"].append({
+                    "date": item['date'],
+                    "tool": tool_data['Tool'],
+                    "moniker": tool_data.get('Moniker', ''),
+                    "category": tool_data.get('Category', 'Updates'),
+                    "severity": classify_severity(headline),
+                    "headline": headline,
+                    "link": item.get('link', ''),
+                    "source": feed_url,
+                })
+                existing.add(key)
+
+    # Phase 2: Scan direct tool feeds
+    print("\n--- Phase 2: Scanning direct tool feeds ---")
+    for tool in approved_tools:
         updates = []
-        for src in item.get("sources",[]):
-            try:
-                typ = src.get("type")
-                if typ == "rss": updates += from_rss(src["url"])
-                elif typ == "github_releases": updates += from_github_releases(src["repo"])
-                elif typ == "html": updates += from_html(src)
-            except Exception:
-                continue
+        try:
+            if tool.get('Feed URL') and tool['Feed URL'] != 'N/A':
+                print(f"Scanning tool RSS: {tool['Tool']}")
+                updates += from_rss(tool['Feed URL'])
+            elif tool.get('Repo URL') and 'github.com' in tool['Repo URL']:
+                print(f"Scanning tool GitHub Releases: {tool['Tool']}")
+                repo_path = re.search(r'github\.com/([^/]+/[^/]+)', tool['Repo URL']).group(1)
+                updates += from_github_releases(repo_path)
+        except Exception as e:
+            print(f"  ! Error processing {tool['Tool']}: {e}")
+            continue
 
-        kept = []
         for u in updates:
-            when = iso_date(u.get("date"), NOW)
-            if when >= CUTOFF:
-                kept.append(u)
+            key = (u['date'], tool['Tool'], u['headline'])
+            if key in existing: continue
 
-        for u in kept:
-            key = (u["date"], tool, u["headline"])  # fixed quotes
-            if key in existing:
-                continue
             log["items"].append({
-                "date": u["date"],
-                "tool": tool,
-                "moniker": moniker,
-                "category": category,
-                "severity": classify_severity(u["headline"]),
-                "headline": u["headline"],
-                "impact": "Update detected",
-                "link": u.get("link",""),
-                "source": src.get("url") or src.get("repo",""),
-                "notes": ""
+                "date": u['date'],
+                "tool": tool['Tool'],
+                "moniker": tool.get('Moniker', ''),
+                "category": tool.get('Category', 'Updates'),
+                "severity": classify_severity(u['headline']),
+                "headline": u['headline'],
+                "link": u.get('link', ''),
+                "source": tool.get('Feed URL') or tool.get('Repo URL'),
             })
+            existing.add(key)
 
-    log["items"].sort(key=lambda x: (x["date"], x["tool"]), reverse=True)
-    cutoff = (CUTOFF.date().isoformat())
-    log["items"] = [it for it in log["items"] if it.get("date", "") >= cutoff]
-    save_json(args.log, log)
+    save_log(log, args.log)
+    print(f"\nHarvest complete. Log saved to {args.log}")
 
 if __name__ == "__main__":
     main()

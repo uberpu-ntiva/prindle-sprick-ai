@@ -1,0 +1,22 @@
+Tool,Moniker,Feed URL,Website URL,Source Type,Tracking Method
+Product Hunt — Dev/AI,ph-dev-ai,https://www.producthunt.com/feed,https://www.producthunt.com,Press,RSS
+Hacker News — Show,hn-show,https://hnrss.org/show,https://news.ycombinator.com/show,Press,RSS
+Reddit r/Programming,reddit-programming,https://www.reddit.com/r/Programming/.rss,https://www.reddit.com/r/Programming/,Press,RSS
+Reddit r/LocalLLaMA,reddit-localllama,https://www.reddit.com/r/LocalLLaMA/.rss,https://www.reddit.com/r/LocalLLaMA/,Press,RSS
+Reddit r/MachineLearning,reddit-ml,https://www.reddit.com/r/MachineLearning/.rss,https://www.reddit.com/r/MachineLearning/,Press,RSS
+TechCrunch AI,tc-ai,https://techcrunch.com/tag/ai/feed/,https://techcrunch.com/tag/ai/,Press,RSS
+The Verge AI,verge-ai,https://www.theverge.com/rss/index.xml,https://www.theverge.com/ai-artificial-intelligence,Press,RSS
+VentureBeat AI,vb-ai,https://venturebeat.com/feed/,https://venturebeat.com/category/ai/,Press,RSS
+Ars Technica AI,ars-ai,https://feeds.arstechnica.com/arstechnica/technology-lab,https://arstechnica.com/information-technology/,Press,RSS
+MIT Tech Review AI,mittr-ai,https://www.technologyreview.com/feed/,https://www.technologyreview.com/ai/,Press,RSS
+Ben's Bites,bens-bites,https://www.bensbites.co/feed,https://www.bensbites.co/,Press,RSS
+Latent.Space,latent-space,https://www.latent.space/feed,https://www.latent.space/,Press,RSS
+Hugging Face Spaces (code/dev/agent),hf-spaces,https://huggingface.co/blog/feed.xml,https://huggingface.co/spaces,Press,RSS
+OpenAI Community,openai-community,https://community.openai.com/latest.rss,https://community.openai.com/,Press,RSS
+Anthropic Community,anthropic-community,https://community.anthropic.com/latest.rss,https://community.anthropic.com/,Press,RSS
+Google AI Blog,google-ai-blog,https://ai.googleblog.com/feeds/posts/default,https://ai.googleblog.com/,Press,RSS
+npm ai/dev search,npm-ai,https://www.npmjs.com/~rss,https://www.npmjs.com/search?q=keywords:ai%20developer,Press,RSS
+PyPI ai/dev search,pypi-ai,https://pypi.org/rss/updates.xml,https://pypi.org/search/?q=ai+developer,Press,RSS
+Docker Hub ai/dev,docker-ai,,https://hub.docker.com/search?q=agent%20devtools&type=image,Press,HTML/Blog
+Papers With Code,pwc,https://paperswithcode.com/feeds/latest,https://paperswithcode.com/,Press,RSS
+arXiv cs.AI/cs.SE,arxiv-ai-se,https://export.arxiv.org/rss/cs.AI,https://arxiv.org/,Press,RSS
