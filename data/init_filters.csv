@@ -1,0 +1,3 @@
+type,pattern
+include,"(agent|agentic|orchestr|mcp|ide|editor|review|code\\s*assistant)"
+exclude,"^(product\\s*hunt|reddit|hacker\\s*news|hn\\s*—|hn\\s*show|latentspace|ben['’]s\\s*bites|npm|pypi|docker\\s*hub)\\b"

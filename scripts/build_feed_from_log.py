@@ -7,7 +7,7 @@ import os, json, re
 LOG_PATH = os.getenv("PSAI_LOG_PATH", "data/news_log.json")
 OUT_JSON = os.getenv("PSAI_FEED_JSON", "public/feed.json")
 OUT_RSS  = os.getenv("PSAI_FEED_RSS",  "public/rss.xml")
-INDEX    = os.getenv("PSAI_INDEX",     "public/index.html")
+INDEX    = os.getenv("PSAI_INDEX",     "public/news_feed.html") # Changed from index.html
 SITE_URL = os.getenv("PSAI_SITE_URL",  "")
 
 def ensure_dir(path):
