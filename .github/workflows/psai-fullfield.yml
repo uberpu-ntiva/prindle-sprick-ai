@@ -8,7 +8,7 @@ on:
     paths:
       - 'data/**'
       - 'scripts/**'
-      - 'public/index.html'
+      - 'public/*.html'
       - '.github/workflows/psai-fullfield.yml'
 
 permissions:
@@ -33,6 +33,12 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Initialize data files from seeds
+        run: |
+          if [ ! -f data/tools.csv ]; then cp data/init_tools.csv data/tools.csv; fi
+          if [ ! -f data/sources.csv ]; then cp data/init_sources.csv data/sources.csv; fi
+          if [ ! -f data/filters.csv ]; then cp data/init_filters.csv data/filters.csv; fi
+
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
@@ -42,19 +48,19 @@ jobs:
       - name: Discovery (new tools)
         run: |
           python scripts/discover.py --light --out data/candidates.json
-          python scripts/merge_candidates.py --candidates data/candidates.json --tracker data/PSAI_FullField_Tracker.csv --out data/PSAI_FullField_Tracker.csv
+          python scripts/merge_candidates.py --candidates data/candidates.json --tracker data/tools.csv --out data/tools.csv
 
-      # 2) Generate sources.yaml from tracker CSV
-      - name: Generate sources
-        run: python scripts/generate_sources.py --tracker data/PSAI_FullField_Tracker.csv --out data/sources.yaml
-
-      # 3) Harvest releases/changelogs → news_log.json (trim to 30d)
+      # 2) Harvest releases/changelogs → news_log.json (trim to 30d)
       - name: Harvest → Log (30d)
-        run: python scripts/harvest.py --sources data/sources.yaml --tracker data/PSAI_FullField_Tracker.csv --log data/news_log.json
+        run: python scripts/harvest.py --tools data/tools.csv --sources data/sources.csv --log data/news_log.json
 
-      # 4) Update tracker "Updates/Status" column inline
+      # 3) Update tracker "Updates/Status" column inline
       - name: Update tracker status
-        run: python scripts/update_tracker.py --tracker data/PSAI_FullField_Tracker.csv --log data/news_log.json --out data/PSAI_FullField_Tracker.csv
+        run: python scripts/update_tracker.py --tracker data/tools.csv --log data/news_log.json --out data/tools.csv
+
+      # 4) Re-scan existing tool websites for new tools
+      - name: Re-scan tool websites
+        run: python scripts/rescan_sites.py
 
       # 5) Build feeds (JSON Feed + RSS) and inject Sources link
       - name: Build feeds

@@ -1,29 +1,84 @@
 #!/usr/bin/env python
-import os, re, json, time, requests
-OUT = "data/candidates.json"
-def gh_search(deep=False):
-    token = os.getenv("GITHUB_TOKEN") or os.getenv("GH_TOKEN")
-    hdr = {"Accept":"application/vnd.github+json","User-Agent":"psai-discover/1.2"}
-    if token: hdr["Authorization"] = f"Bearer {token}"
-    days = 30 if deep else 14; per_page = 100 if deep else 30
-    q = " ".join(["topic:ai-coding","topic:agentic","topic:mcp","topic:developer-tools","topic:llm-agent","topic:autonomous-ai",f"pushed:>={time.strftime('%Y-%m-%d', time.gmtime(time.time()-days*86400))}"])
+import os, re, json, csv, requests
+from xml.etree import ElementTree as ET
+
+SOURCES_PATH = os.getenv("PSAI_SOURCES_CSV", "data/sources.csv")
+FILTERS_PATH = os.getenv("PSAI_FILTERS_CSV", "data/filters.csv")
+TOOLS_PATH = os.getenv("PSAI_TOOLS_CSV", "data/tools.csv")
+CANDIDATES_PATH = os.getenv("PSAI_CANDIDATES_JSON", "data/candidates.json")
+HEADERS = {"User-Agent": "psai-discover/2.0"}
+
+def load_csv(path):
+    if not os.path.exists(path): return []
+    with open(path, 'r', encoding='utf-8') as f:
+        return list(csv.DictReader(f))
+
+def fetch_and_parse_rss(url):
     try:
-        r = requests.get("https://api.github.com/search/repositories", params={"q":q,"sort":"stars","order":"desc","per_page":per_page}, headers=hdr, timeout=30); r.raise_for_status(); js = r.json()
-        for it in js.get("items", []):
-            yield {"tool": it["name"],"moniker": re.sub(r"[^a-z0-9]+","-", it["name"].lower()).strip("-"),"category": "OSS","source_type": "OSS","repo_url": it["html_url"],"website_url": it.get("homepage") or "","feed_url": it["html_url"].rstrip("/") + "/releases.atom"}
-    except Exception: return
-def rss_stub(tool, moniker, site, feed, category="Discovery", source_type="Press"):
-    return {"tool": tool, "moniker": moniker, "category": category, "source_type": source_type,"repo_url":"", "website_url": site, "feed_url": feed}
-def candidates():
-    deep = os.getenv("PSAI_DEEP","0") == "1"
-    for c in gh_search(deep=deep): yield c
-    core=[("Product Hunt — Dev/AI","ph-dev-ai","https://www.producthunt.com","https://www.producthunt.com/feed"),("Hacker News — Show","hn-show","https://news.ycombinator.com/show","https://hnrss.org/show"),("Reddit r/Programming","reddit-programming","https://www.reddit.com/r/Programming/","https://www.reddit.com/r/Programming/.rss"),("Reddit r/LocalLLaMA","reddit-localllama","https://www.reddit.com/r/LocalLLaMA/","https://www.reddit.com/r/LocalLLaMA/.rss"),("Reddit r/MachineLearning","reddit-ml","https://www.reddit.com/r/MachineLearning/","https://www.reddit.com/r/MachineLearning/.rss"),("TechCrunch AI","tc-ai","https://techcrunch.com/tag/ai/","https://techcrunch.com/tag/ai/feed/"),("The Verge AI","verge-ai","https://www.theverge.com/ai-artificial-intelligence","https://www.theverge.com/rss/index.xml"),("VentureBeat AI","vb-ai","https://venturebeat.com/category/ai/","https://venturebeat.com/feed/"),("Ars Technica AI","ars-ai","https://arstechnica.com/information-technology/","https://feeds.arstechnica.com/arstechnica/technology-lab"),("MIT Tech Review AI","mittr-ai","https://www.technologyreview.com/ai/","https://www.technologyreview.com/feed/"),("Ben's Bites","bens-bites","https://www.bensbites.co/","https://www.bensbites.co/feed"),("Latent.Space","latent-space","https://www.latent.space/","https://www.latent.space/feed"),("Hugging Face Spaces (code/dev/agent)","hf-spaces","https://huggingface.co/spaces","https://huggingface.co/blog/feed.xml"),("OpenAI Community","openai-community","https://community.openai.com/","https://community.openai.com/latest.rss"),("Anthropic Community","anthropic-community","https://community.anthropic.com/","https://community.anthropic.com/latest.rss"),("Google AI Blog","google-ai-blog","https://ai.googleblog.com/","https://ai.googleblog.com/feeds/posts/default"),("npm ai/dev search","npm-ai","https://www.npmjs.com/search?q=keywords:ai%20developer","https://www.npmjs.com/~rss"),("PyPI ai/dev search","pypi-ai","https://pypi.org/search/?q=ai+developer","https://pypi.org/rss/updates.xml"),("Docker Hub ai/dev","docker-ai","https://hub.docker.com/search?q=agent%20devtools&type=image",""),("Papers With Code","pwc","https://paperswithcode.com/","https://paperswithcode.com/feeds/latest"),("arXiv cs.AI/cs.SE","arxiv-ai-se","https://arxiv.org/","https://export.arxiv.org/rss/cs.AI")]
-    for n,m,s,f in core: yield rss_stub(n,m,s,f)
-    if deep:
-        for n,m,s,f in [("Reddit r/Artificial","reddit-artificial","https://www.reddit.com/r/Artificial/","https://www.reddit.com/r/Artificial/.rss"),("Reddit r/AGI","reddit-agi","https://www.reddit.com/r/AGI/","https://www.reddit.com/r/AGI/.rss"),("Awesome AI lists","awesome-ai","https://github.com/topics/awesome-ai",""),("Awesome Agents lists","awesome-agents","https://github.com/topics/agents",""),("OSS Insight trending (AI)","oss-insight","https://ossinsight.io/","")]:
-            yield rss_stub(n,m,s,f)
+        r = requests.get(url, headers=HEADERS, timeout=30)
+        r.raise_for_status()
+        root = ET.fromstring(r.text)
+        items = []
+        for item in root.findall('.//item'):
+            title = item.findtext('title', '')
+            link = item.findtext('link', '')
+            items.append({'title': title, 'link': link})
+        # Also try Atom format
+        if not items:
+            ns = {'a': 'http://www.w3.org/2005/Atom'}
+            for entry in root.findall('.//a:entry', ns):
+                title = entry.find('a:title', ns).text or ''
+                link = entry.find('a:link', ns).get('href') or ''
+                items.append({'title': title, 'link': link})
+        return items
+    except Exception as e:
+        print(f"Error fetching/parsing {url}: {e}")
+        return []
+
 def main():
-    out = list(candidates()); os.makedirs("data", exist_ok=True)
-    with open(OUT, "w", encoding="utf-8") as f: json.dump({"items": out}, f, ensure_ascii=False, indent=2)
-    print(f"Wrote {OUT} with {len(out)} entries (deep={os.getenv('PSAI_DEEP','0')}).")
-if __name__ == "__main__": main()
+    sources = load_csv(SOURCES_PATH)
+    filters = load_csv(FILTERS_PATH)
+    tools = load_csv(TOOLS_PATH)
+
+    include_rx = re.compile(next((f['pattern'] for f in filters if f['type'] == 'include'), '.*'), re.I)
+    exclude_rx = re.compile(next((f['pattern'] for f in filters if f['type'] == 'exclude'), '^$'), re.I)
+
+    existing_tools_by_url = {t['Website URL'] for t in tools if t.get('Website URL')}
+    existing_tools_by_name = {t['Tool'].lower() for t in tools}
+
+    candidates = []
+    for source in sources:
+        url = source.get('Feed URL')
+        if not url or source.get('Tracking Method') != 'RSS':
+            continue
+
+        print(f"Scanning source: {source['Tool']}")
+        items = fetch_and_parse_rss(url)
+        for item in items:
+            title = item.get('title', '')
+            link = item.get('link', '')
+            if link in existing_tools_by_url:
+                continue
+            if title.lower() in existing_tools_by_name:
+                continue
+
+            if include_rx.search(title) and not exclude_rx.search(title):
+                moniker = re.sub(r'[^a-z0-9]+', '-', title.lower()).strip('-')
+                candidate = {
+                    "tool": title,
+                    "moniker": moniker,
+                    "category": "pending_review",
+                    "website_url": link,
+                    "source_type": source.get("Source Type"),
+                    "status": "pending_review"
+                }
+                if candidate not in candidates:
+                    candidates.append(candidate)
+                    print(f"  + Found candidate: {title}")
+
+    with open(CANDIDATES_PATH, 'w', encoding='utf-8') as f:
+        json.dump({"items": candidates}, f, ensure_ascii=False, indent=2)
+    print(f"Wrote {len(candidates)} new candidates to {CANDIDATES_PATH}")
+
+if __name__ == "__main__":
+    main()

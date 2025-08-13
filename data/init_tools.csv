@@ -25,24 +25,3 @@ AI Code Review Action,gh-ai-code-review-action,Code Review,Minor,✅,https://git
 Korbit,korbit,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://korbit.ai,,,,,
 Supermaven,supermaven,Misc,Ignore,❌,N/A,N/A,N/A,Merged into Cursor,,,N/A,https://supermaven.com,,,,,
 PolitePol,politepol,Misc,Ignore,❌,N/A,N/A,https://github.com/taroved/pol,Active,,,N/A,https://politepol.com,,,,,
-Product Hunt — Dev/AI,ph-dev-ai,Discovery,Minor,✅,https://www.producthunt.com/feed,RSS,,,,,,https://www.producthunt.com,Press,Auto-Discovery,Unknown,,Minor: Reeroll (2025-08-13)
-Hacker News — Show,hn-show,Discovery,Minor,✅,https://hnrss.org/show,RSS,,,,,,https://news.ycombinator.com/show,Press,Auto-Discovery,Unknown,,Minor: Show HN: Online Bilateral Stimulation (BLS) for EMDR (2025-08-13)
-Reddit r/Programming,reddit-programming,Discovery,Minor,✅,https://www.reddit.com/r/Programming/.rss,RSS,,,,,,https://www.reddit.com/r/Programming/,Press,Auto-Discovery,Unknown,,Minor: GitHub folds into Microsoft following CEO resignation — once independent programming site now part of 'CoreAI' team (2025-08-13)
-Reddit r/LocalLLaMA,reddit-localllama,Discovery,Minor,✅,https://www.reddit.com/r/LocalLLaMA/.rss,RSS,,,,,,https://www.reddit.com/r/LocalLLaMA/,Press,Auto-Discovery,Unknown,,Minor: Peak safety theater: gpt-oss-120b refuses to discuss implementing web search in llama.cpp (2025-08-13)
-Reddit r/MachineLearning,reddit-ml,Discovery,Minor,✅,https://www.reddit.com/r/MachineLearning/.rss,RSS,,,,,,https://www.reddit.com/r/MachineLearning/,Press,Auto-Discovery,Unknown,,Minor: [R] Fuzzy-Pattern Tsetlin Machine (2025-08-13)
-TechCrunch AI,tc-ai,Discovery,Minor,✅,https://techcrunch.com/tag/ai/feed/,RSS,,,,,,https://techcrunch.com/tag/ai/,Press,Auto-Discovery,Unknown,,"Minor: Anthropic takes aim at OpenAI, offers Claude to ‘all three branches of government’ for $1 (2025-08-12)"
-The Verge AI,verge-ai,Discovery,Minor,✅,https://www.theverge.com/rss/index.xml,RSS,,,,,,https://www.theverge.com/ai-artificial-intelligence,Press,Auto-Discovery,Unknown,,Minor: Here’s a look at the final Pebble Time 2 design (2025-08-13)
-VentureBeat AI,vb-ai,Discovery,Minor,✅,https://venturebeat.com/feed/,RSS,,,,,,https://venturebeat.com/category/ai/,Press,Auto-Discovery,Unknown,,"Major: OpenAI brings GPT-4o back as a default for all paying ChatGPT users, Altman promises ‘plenty of notice’ if it leaves again (2025-08-13)"
-Ars Technica AI,ars-ai,Discovery,Minor,✅,https://feeds.arstechnica.com/arstechnica/technology-lab,RSS,,,,,,https://arstechnica.com/information-technology/,Press,Auto-Discovery,Unknown,,Minor: High-severity WinRAR 0-day exploited for weeks by 2 groups (2025-08-12)
-MIT Tech Review AI,mittr-ai,Discovery,Minor,✅,https://www.technologyreview.com/feed/,RSS,,,,,,https://www.technologyreview.com/ai/,Press,Auto-Discovery,Unknown,,"Minor: The Download: Trump’s golden dome, and fueling AI with nuclear power (2025-08-13)"
-Ben's Bites,bens-bites,Discovery,Minor,✅,https://www.bensbites.co/feed,RSS,,,,,,https://www.bensbites.co/,Press,Auto-Discovery,Unknown,,
-Latent.Space,latent-space,Discovery,Minor,✅,https://www.latent.space/feed,RSS,,,,,,https://www.latent.space/,Press,Auto-Discovery,Unknown,,Minor: Can coding agents self-improve? (2025-08-09)
-Hugging Face Spaces (code/dev/agent),hf-spaces,Discovery,Minor,✅,https://huggingface.co/blog/feed.xml,RSS,,,,,,https://huggingface.co/spaces,Press,Auto-Discovery,Unknown,,Major: TextQuests: How Good are LLMs at Text-Based Video Games? (2025-08-12)
-OpenAI Community,openai-community,Discovery,Minor,✅,https://community.openai.com/latest.rss,RSS,,,,,,https://community.openai.com/,Press,Auto-Discovery,Unknown,,
-Anthropic Community,anthropic-community,Discovery,Minor,✅,https://community.anthropic.com/latest.rss,RSS,,,,,,https://community.anthropic.com/,Press,Auto-Discovery,Unknown,,
-Google AI Blog,google-ai-blog,Discovery,Minor,✅,https://ai.googleblog.com/feeds/posts/default,RSS,,,,,,https://ai.googleblog.com/,Press,Auto-Discovery,Unknown,,
-npm ai/dev search,npm-ai,Discovery,Minor,✅,https://www.npmjs.com/~rss,RSS,,,,,,https://www.npmjs.com/search?q=keywords:ai%20developer,Press,Auto-Discovery,Unknown,,
-PyPI ai/dev search,pypi-ai,Discovery,Minor,✅,https://pypi.org/rss/updates.xml,RSS,,,,,,https://pypi.org/search/?q=ai+developer,Press,Auto-Discovery,Unknown,,Minor: ros-cdk-elasticsearch 1.9.0 (2025-08-13)
-Docker Hub ai/dev,docker-ai,Discovery,Minor,❌,,HTML/Blog,,,,,,https://hub.docker.com/search?q=agent%20devtools&type=image,Press,Auto-Discovery,Unknown,,
-Papers With Code,pwc,Discovery,Minor,✅,https://paperswithcode.com/feeds/latest,RSS,,,,,,https://paperswithcode.com/,Press,Auto-Discovery,Unknown,,
-arXiv cs.AI/cs.SE,arxiv-ai-se,Discovery,Minor,✅,https://export.arxiv.org/rss/cs.AI,RSS,,,,,,https://arxiv.org/,Press,Auto-Discovery,Unknown,,Minor: Topos Theory for Generative AI and LLMs (2025-08-13)
