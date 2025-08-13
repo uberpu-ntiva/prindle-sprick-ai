@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import argparse, os, json, csv
+import argparse, os, json, csv, re
 from datetime import datetime, timedelta, timezone
 import requests
 from xml.etree import ElementTree as ET
