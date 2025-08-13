@@ -81,6 +81,9 @@ jobs:
           PSAI_MIN_STARS: "50"
         run: python scripts/build_sources_pages.py
 
+      - name: Verify generated files
+        run: ls -l public/
+
       # 7) Alert if ≥3 Major/Security items in last 24h (email + GH issue)
       - name: Alert on 3+ Major/Security in 24h
         env:
