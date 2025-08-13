@@ -689,6 +689,14 @@
       "status": "pending_review"
     },
     {
+      "tool": "dapr-agents 0.8.2",
+      "moniker": "dapr-agents-0-8-2",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/dapr-agents/0.8.2/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "sauce-api-mcp 1.0.1",
       "moniker": "sauce-api-mcp-1-0-1",
       "category": "pending_review",
@@ -709,14 +717,6 @@
       "moniker": "cml-mcp-0-3-1",
       "category": "pending_review",
       "website_url": "https://pypi.org/project/cml-mcp/0.3.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "pixalate-open-mcp 0.0.1",
-      "moniker": "pixalate-open-mcp-0-0-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/pixalate-open-mcp/0.0.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
