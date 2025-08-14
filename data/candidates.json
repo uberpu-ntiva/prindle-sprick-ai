@@ -657,6 +657,46 @@
       "status": "pending_review"
     },
     {
+      "tool": "hulin-mcp-server 0.1.0",
+      "moniker": "hulin-mcp-server-0-1-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/hulin-mcp-server/0.1.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "mcp-airflow-api 0.4.1",
+      "moniker": "mcp-airflow-api-0-4-1",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/mcp-airflow-api/0.4.1/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "mcp-ambari-api 0.4.7",
+      "moniker": "mcp-ambari-api-0-4-7",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/mcp-ambari-api/0.4.7/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "yta-video-opengl 0.0.4",
+      "moniker": "yta-video-opengl-0-0-4",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/yta-video-opengl/0.0.4/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "swe-ai-agent 2.0.5",
+      "moniker": "swe-ai-agent-2-0-5",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/swe-ai-agent/2.0.5/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "pixalate-open-mcp 1.0.1",
       "moniker": "pixalate-open-mcp-1-0-1",
       "category": "pending_review",
@@ -701,30 +741,6 @@
       "moniker": "ms-agent-1-1-1",
       "category": "pending_review",
       "website_url": "https://pypi.org/project/ms-agent/1.1.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "aidev-agent 1.0.0b24",
-      "moniker": "aidev-agent-1-0-0b24",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/aidev-agent/1.0.0b24/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "latinum-wallet-mcp 0.0.34",
-      "moniker": "latinum-wallet-mcp-0-0-34",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/latinum-wallet-mcp/0.0.34/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "iflow-mcp_a-share-mcp 0.1.0",
-      "moniker": "iflow-mcp-a-share-mcp-0-1-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/iflow-mcp-a-share-mcp/0.1.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
