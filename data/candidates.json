@@ -657,6 +657,118 @@
       "status": "pending_review"
     },
     {
+      "tool": "videosdk-plugins-sarvamai 0.0.24",
+      "moniker": "videosdk-plugins-sarvamai-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-sarvamai/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-rnnoise 0.0.24",
+      "moniker": "videosdk-plugins-rnnoise-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-rnnoise/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-rime 0.0.24",
+      "moniker": "videosdk-plugins-rime-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-rime/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-resemble 0.0.24",
+      "moniker": "videosdk-plugins-resemble-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-resemble/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "swe-ai-agent 2.0.7",
+      "moniker": "swe-ai-agent-2-0-7",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/swe-ai-agent/2.0.7/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-papla 0.0.24",
+      "moniker": "videosdk-plugins-papla-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-papla/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-openai 0.0.24",
+      "moniker": "videosdk-plugins-openai-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-openai/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-neuphonic 0.0.24",
+      "moniker": "videosdk-plugins-neuphonic-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-neuphonic/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-navana 0.0.24",
+      "moniker": "videosdk-plugins-navana-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-navana/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-lmnt 0.0.24",
+      "moniker": "videosdk-plugins-lmnt-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-lmnt/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-inworldai 0.0.24",
+      "moniker": "videosdk-plugins-inworldai-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-inworldai/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-humeai 0.0.24",
+      "moniker": "videosdk-plugins-humeai-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-humeai/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-groq 0.0.24",
+      "moniker": "videosdk-plugins-groq-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-groq/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-google 0.0.24",
+      "moniker": "videosdk-plugins-google-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-google/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "videosdk-plugins-elevenlabs 0.0.24",
       "moniker": "videosdk-plugins-elevenlabs-0-0-24",
       "category": "pending_review",
@@ -821,22 +933,6 @@
       "moniker": "mcp-ambari-api-0-4-7",
       "category": "pending_review",
       "website_url": "https://pypi.org/project/mcp-ambari-api/0.4.7/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "yta-video-opengl 0.0.4",
-      "moniker": "yta-video-opengl-0-0-4",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/yta-video-opengl/0.0.4/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "swe-ai-agent 2.0.5",
-      "moniker": "swe-ai-agent-2-0-5",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/swe-ai-agent/2.0.5/",
       "source_type": "Press",
       "status": "pending_review"
     },
