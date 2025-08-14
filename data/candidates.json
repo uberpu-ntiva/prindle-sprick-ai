@@ -729,14 +729,6 @@
       "status": "pending_review"
     },
     {
-      "tool": "figma-mcp-tools 1.0.2",
-      "moniker": "figma-mcp-tools-1-0-2",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/figma-mcp-tools/1.0.2/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "Solver-Aided Expansion of Loops to Avoid Generate-and-Test",
       "moniker": "solver-aided-expansion-of-loops-to-avoid-generate-and-test",
       "category": "pending_review",
