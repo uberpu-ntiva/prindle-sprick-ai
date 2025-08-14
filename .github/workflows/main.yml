@@ -1,0 +1,136 @@
+name: PSAI Daily Process
+
+on:
+  schedule:
+    - cron: '30 13 * * *'  # 09:30 ET daily
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/**'
+      - 'scripts/**'
+      - '.github/workflows/main.yml'
+
+permissions:
+  contents: write
+  id-token: write
+  pages: write
+
+concurrency:
+  group: psai-build
+  cancel-in-progress: true
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Initialize data files from seeds
+        run: |
+          mkdir -p data
+          if [ ! -f data/tools.csv ]; then cp data/init_tools.csv data/tools.csv; fi
+          if [ ! -f data/articles.csv ]; then touch data/articles.csv; fi
+          if [ ! -f data/sources.csv ]; then cp data/init_sources.csv data/sources.csv; fi
+          if [ ! -f data/filters.csv ]; then cp data/init_filters.csv data/filters.csv; fi
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyYAML beautifulsoup4 feedgen requests
+
+      - name: 1. Discovery (Deep Sweep)
+        env:
+          PSAI_MAX_RESULTS: "300"
+          PSAI_TIMEOUT_S: "45"
+        run: |
+          python scripts/discover.py             --product-hunt --github --huggingface --reddit --hn --press --registries --papers --arxiv             --out data/candidates.json
+
+      - name: 2. Categorize & Merge Candidates
+        run: python scripts/merge_candidates.py --candidates data/candidates.json
+
+      - name: 3. Prune Old Articles
+        run: python scripts/prune_articles.py --file data/articles.csv --days 15
+
+      - name: 4. Harvest News from Tools
+        run: python scripts/harvest.py --tools data/tools.csv --sources data/sources.csv --log data/news_log.json
+
+      - name: 5. Update Tracker Status
+        run: python scripts/update_tracker.py --tracker data/tools.csv --log data/news_log.json --out data/tools.csv
+
+      - name: 6. Re-scan Tool Websites
+        run: python scripts/rescan_sites.py
+
+      - name: 7. Build All Pages
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: |
+          SITE="${SITE_URL}"
+          if [ -z "$SITE" ]; then
+            SITE="https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}"
+          fi
+          python scripts/build_feed_from_log.py --site "$SITE"
+          python scripts/build_sources_pages.py
+          python scripts/build_articles_page.py
+
+      - name: 8. Alert on Major Updates
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+        run: |
+          # This script will be created or modified if alerting logic needs adjustment.
+          # For now, we assume a simple check on news_log.json
+          python - <<'PY'
+          import json, datetime, os, smtplib
+          from email.mime.text import MIMEText
+          now = datetime.datetime.utcnow()
+          cut = (now - datetime.timedelta(hours=24)).date().isoformat()
+          data = json.load(open("data/news_log.json","r",encoding="utf-8"))
+          hits = [i for i in data.get("items",[]) if i.get("date","") >= cut and i.get("severity","") in ("Major","Security")]
+          if len(hits) >= 3:
+              body = "\n".join(f"[{x['date']}] {x['tool']} — {x['headline']}" for x in hits)
+              if all(os.getenv(k) for k in ["SMTP_SERVER","SMTP_PORT","SMTP_USERNAME","SMTP_PASSWORD","MAIL_TO","MAIL_FROM"]):
+                  msg = MIMEText(body)
+                  msg["Subject"] = "PSAI Alert: 3+ Major/Security updates"
+                  msg["From"] = os.getenv("MAIL_FROM")
+                  msg["To"] = os.getenv("MAIL_TO")
+                  with smtplib.SMTP(os.getenv("SMTP_SERVER"), int(os.getenv("SMTP_PORT"))) as s:
+                      s.starttls()
+                      s.login(os.getenv("SMTP_USERNAME"), os.getenv("SMTP_PASSWORD"))
+                      s.sendmail(os.getenv("MAIL_FROM"), [os.getenv("MAIL_TO")], msg.as_string())
+              open("ALERT_LAST24.txt","w",encoding="utf-8").write(body)
+          PY
+          if [ -f ALERT_LAST24.txt ]; then
+            gh issue create --title "PSAI Alert: $(date -u +%F) — 3+ Major/Security updates" --body "$(cat ALERT_LAST24.txt)" || true
+          fi
+
+      - name: 9. Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.json data/*.csv public/*.json public/*.xml public/*.html || true
+          git commit -m "PSAI: daily data update & site build" || echo "Nothing to commit."
+          git push || true
+
+      - name: 10. Deploy to GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+          
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
