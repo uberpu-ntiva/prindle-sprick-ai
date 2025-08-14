@@ -35,6 +35,7 @@ jobs:
 
       - name: Initialize data files from seeds
         run: |
+          mkdir -p data
           if [ ! -f data/tools.csv ]; then cp data/init_tools.csv data/tools.csv; fi
           if [ ! -f data/sources.csv ]; then cp data/init_sources.csv data/sources.csv; fi
           if [ ! -f data/filters.csv ]; then cp data/init_filters.csv data/filters.csv; fi
