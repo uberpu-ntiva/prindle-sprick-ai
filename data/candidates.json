@@ -657,6 +657,14 @@
       "status": "pending_review"
     },
     {
+      "tool": "IdeaSearch-fit 0.0.1",
+      "moniker": "ideasearch-fit-0-0-1",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/ideasearch-fit/0.0.1/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "videosdk-plugins-turn-detector 0.0.24",
       "moniker": "videosdk-plugins-turn-detector-0-0-24",
       "category": "pending_review",
@@ -933,14 +941,6 @@
       "moniker": "videosdk-agents-0-0-24",
       "category": "pending_review",
       "website_url": "https://pypi.org/project/videosdk-agents/0.0.24/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "swe-ai-agent 2.0.6",
-      "moniker": "swe-ai-agent-2-0-6",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/swe-ai-agent/2.0.6/",
       "source_type": "Press",
       "status": "pending_review"
     },
