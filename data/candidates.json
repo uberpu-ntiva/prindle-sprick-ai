@@ -9,14 +9,6 @@
       "status": "pending_review"
     },
     {
-      "tool": "Guided Learning in Gemini",
-      "moniker": "guided-learning-in-gemini",
-      "category": "pending_review",
-      "website_url": "https://www.producthunt.com/posts/guided-learning-in-gemini",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "Show HN: A fun client-side tool to drool over your Stripe earnings (more lines)",
       "moniker": "show-hn-a-fun-client-side-tool-to-drool-over-your-stripe-earnings-more-lines",
       "category": "pending_review",
@@ -53,14 +45,6 @@
       "moniker": "show-hn-catalyst-a-tool-for-short-playable-interactive-videos",
       "category": "pending_review",
       "website_url": "https://usecatalyst.xyz",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Show HN: Use AI video analysis to self-learn complex tasks",
-      "moniker": "show-hn-use-ai-video-analysis-to-self-learn-complex-tasks",
-      "category": "pending_review",
-      "website_url": "https://www.apeta.dev/about",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -673,50 +657,74 @@
       "status": "pending_review"
     },
     {
-      "tool": "fastapi-agentrouter 0.4.1",
-      "moniker": "fastapi-agentrouter-0-4-1",
+      "tool": "universal-mcp-google-calendar 0.1.4",
+      "moniker": "universal-mcp-google-calendar-0-1-4",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/fastapi-agentrouter/0.4.1/",
+      "website_url": "https://pypi.org/project/universal-mcp-google-calendar/0.1.4/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-veo3 1.0.0",
-      "moniker": "mcp-veo3-1-0-0",
+      "tool": "elide 0.21.1",
+      "moniker": "elide-0-21-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-veo3/1.0.0/",
+      "website_url": "https://pypi.org/project/elide/0.21.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "hectofinancial-mcp-server 0.1.11",
-      "moniker": "hectofinancial-mcp-server-0-1-11",
+      "tool": "universal-mcp-google-docs 0.1.2",
+      "moniker": "universal-mcp-google-docs-0-1-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/hectofinancial-mcp-server/0.1.11/",
+      "website_url": "https://pypi.org/project/universal-mcp-google-docs/0.1.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "slide-tyler 2.0.3",
-      "moniker": "slide-tyler-2-0-3",
+      "tool": "mcp-image-cutout 0.1.4",
+      "moniker": "mcp-image-cutout-0-1-4",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/slide-tyler/2.0.3/",
+      "website_url": "https://pypi.org/project/mcp-image-cutout/0.1.4/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "ambivo-agents 1.3.2",
-      "moniker": "ambivo-agents-1-3-2",
+      "tool": "ms-agent 1.1.1",
+      "moniker": "ms-agent-1-1-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/ambivo-agents/1.3.2/",
+      "website_url": "https://pypi.org/project/ms-agent/1.1.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "dde-agent-lib 1.0.2a14",
-      "moniker": "dde-agent-lib-1-0-2a14",
+      "tool": "aidev-agent 1.0.0b24",
+      "moniker": "aidev-agent-1-0-0b24",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/dde-agent-lib/1.0.2a14/",
+      "website_url": "https://pypi.org/project/aidev-agent/1.0.0b24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "latinum-wallet-mcp 0.0.34",
+      "moniker": "latinum-wallet-mcp-0-0-34",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/latinum-wallet-mcp/0.0.34/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "iflow-mcp_a-share-mcp 0.1.0",
+      "moniker": "iflow-mcp-a-share-mcp-0-1-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/iflow-mcp-a-share-mcp/0.1.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "mcp-veo3 1.0.1",
+      "moniker": "mcp-veo3-1-0-1",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/mcp-veo3/1.0.1/",
       "source_type": "Press",
       "status": "pending_review"
     },

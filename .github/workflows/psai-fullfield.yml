@@ -17,8 +17,8 @@ permissions:
   pages: write
 
 concurrency:
-  group: psai-fullfield
-  cancel-in-progress: false
+  group: psai-build
+  cancel-in-progress: true
 
 jobs:
   run:
