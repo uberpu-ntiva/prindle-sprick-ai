@@ -9,6 +9,14 @@
       "status": "pending_review"
     },
     {
+      "tool": "Guided Learning in Gemini",
+      "moniker": "guided-learning-in-gemini",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/posts/guided-learning-in-gemini",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "Show HN: A fun client-side tool to drool over your Stripe earnings (more lines)",
       "moniker": "show-hn-a-fun-client-side-tool-to-drool-over-your-stripe-earnings-more-lines",
       "category": "pending_review",
@@ -665,18 +673,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "graphql-mcp 1.3.13",
-      "moniker": "graphql-mcp-1-3-13",
+      "tool": "ambivo-agents 1.3.2",
+      "moniker": "ambivo-agents-1-3-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/graphql-mcp/1.3.13/",
+      "website_url": "https://pypi.org/project/ambivo-agents/1.3.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "figma-mcp-tools 1.0.3",
-      "moniker": "figma-mcp-tools-1-0-3",
+      "tool": "dde-agent-lib 1.0.2a14",
+      "moniker": "dde-agent-lib-1-0-2a14",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/figma-mcp-tools/1.0.3/",
+      "website_url": "https://pypi.org/project/dde-agent-lib/1.0.2a14/",
       "source_type": "Press",
       "status": "pending_review"
     },
