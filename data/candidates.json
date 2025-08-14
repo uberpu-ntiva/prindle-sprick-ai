@@ -657,6 +657,14 @@
       "status": "pending_review"
     },
     {
+      "tool": "myxagent 0.1.15",
+      "moniker": "myxagent-0-1-15",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/myxagent/0.1.15/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "hulin-mcp-server 0.1.0",
       "moniker": "hulin-mcp-server-0-1-0",
       "category": "pending_review",
