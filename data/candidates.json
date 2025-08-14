@@ -17,34 +17,26 @@
       "status": "pending_review"
     },
     {
+      "tool": "Show HN: Accidentally built churn detection AI (I don't code)",
+      "moniker": "show-hn-accidentally-built-churn-detection-ai-i-don-t-code",
+      "category": "pending_review",
+      "website_url": "https://github.com/willster78/Donna/blob/main/README.md",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Show HN: Infra from Code for Streaming, Storage, and APIs (Rust+TS+Python) [video]",
+      "moniker": "show-hn-infra-from-code-for-streaming-storage-and-apis-rust-ts-python-video",
+      "category": "pending_review",
+      "website_url": "https://www.youtube.com/watch?v=rI0l5fcAKpQ",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "Show HN: AI Agent Host – Dev Environment with QuestDB, Grafana, and Code-Server",
       "moniker": "show-hn-ai-agent-host-dev-environment-with-questdb-grafana-and-code-server",
       "category": "pending_review",
       "website_url": "https://github.com/quantiota/AI-Agent-Host/tree/main/claude-code",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Show HN: Add line ranges to AI agents, not files, save context (VSCode)",
-      "moniker": "show-hn-add-line-ranges-to-ai-agents-not-files-save-context-vscode",
-      "category": "pending_review",
-      "website_url": "https://github.com/sortafreel/select-copy-line",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Show HN: Built (the only?) A2A registry for live, hosted A2A agents",
-      "moniker": "show-hn-built-the-only-a2a-registry-for-live-hosted-a2a-agents",
-      "category": "pending_review",
-      "website_url": "https://a2aregistry.org/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Show HN: I built an agent that applies to VCs for you",
-      "moniker": "show-hn-i-built-an-agent-that-applies-to-vcs-for-you",
-      "category": "pending_review",
-      "website_url": "https://www.suparaise.com/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -57,10 +49,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "So I've made a video sharing my experience on how to learn CODING from scratch? (No CS Degree, No Bootcamp)",
-      "moniker": "so-i-ve-made-a-video-sharing-my-experience-on-how-to-learn-coding-from-scratch-no-cs-degree-no-bootcamp",
+      "tool": "How to do code reviews with AI tools",
+      "moniker": "how-to-do-code-reviews-with-ai-tools",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1mq0ue2/so_ive_made_a_video_sharing_my_experience_on_how/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1mq3zwh/how_to_do_code_reviews_with_ai_tools/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -85,14 +77,6 @@
       "moniker": "google-s-new-web-guide-search-experiment-organizes-results-with-ai",
       "category": "pending_review",
       "website_url": "https://techcrunch.com/2025/07/24/googles-new-web-guide-search-experiment-organizes-results-with-ai/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Apple accidentally leaked some of its upcoming chip bumps",
-      "moniker": "apple-accidentally-leaked-some-of-its-upcoming-chip-bumps",
-      "category": "pending_review",
-      "website_url": "https://www.theverge.com/news/759167/apple-chip-bump-leak-vision-pro-ipad-mi",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -657,10 +641,26 @@
       "status": "pending_review"
     },
     {
-      "tool": "tagny-mcp-server 1.0.1",
-      "moniker": "tagny-mcp-server-1-0-1",
+      "tool": "wecom-bot-mcp-server 0.6.11",
+      "moniker": "wecom-bot-mcp-server-0-6-11",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/tagny-mcp-server/1.0.1/",
+      "website_url": "https://pypi.org/project/wecom-bot-mcp-server/0.6.11/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "wecom-bot-mcp-server 0.6.10",
+      "moniker": "wecom-bot-mcp-server-0-6-10",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/wecom-bot-mcp-server/0.6.10/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "glean-mcp 0.1.3",
+      "moniker": "glean-mcp-0-1-3",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/glean-mcp/0.1.3/",
       "source_type": "Press",
       "status": "pending_review"
     },
