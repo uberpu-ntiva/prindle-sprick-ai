@@ -681,6 +681,14 @@
       "status": "pending_review"
     },
     {
+      "tool": "fastapi-agentrouter 0.4.1",
+      "moniker": "fastapi-agentrouter-0-4-1",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/fastapi-agentrouter/0.4.1/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "mcp-veo3 1.0.1",
       "moniker": "mcp-veo3-1-0-1",
       "category": "pending_review",
@@ -688,7 +696,6 @@
       "source_type": "Press",
       "status": "pending_review"
     },
-    {
       "tool": "qjtestmcp01 0.1.0",
       "moniker": "qjtestmcp01-0-1-0",
       "category": "pending_review",
@@ -705,10 +712,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "mcp-veo3 1.0.0",
-      "moniker": "mcp-veo3-1-0-0",
+      "tool": "slide-tyler 2.0.3",
+      "moniker": "slide-tyler-2-0-3",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-veo3/1.0.0/",
+      "website_url": "https://pypi.org/project/slide-tyler/2.0.3/",
       "source_type": "Press",
       "status": "pending_review"
     },
