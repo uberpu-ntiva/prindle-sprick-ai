@@ -49,14 +49,6 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Use AI video analysis to self-learn complex tasks",
-      "moniker": "show-hn-use-ai-video-analysis-to-self-learn-complex-tasks",
-      "category": "pending_review",
-      "website_url": "https://www.apeta.dev/about",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "MCP Vulnerabilities Every Developer Should Know",
       "moniker": "mcp-vulnerabilities-every-developer-should-know",
       "category": "pending_review",
@@ -665,6 +657,54 @@
       "status": "pending_review"
     },
     {
+      "tool": "universal-mcp-google-calendar 0.1.4",
+      "moniker": "universal-mcp-google-calendar-0-1-4",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/universal-mcp-google-calendar/0.1.4/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "elide 0.21.1",
+      "moniker": "elide-0-21-1",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/elide/0.21.1/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "universal-mcp-google-docs 0.1.2",
+      "moniker": "universal-mcp-google-docs-0-1-2",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/universal-mcp-google-docs/0.1.2/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "mcp-image-cutout 0.1.4",
+      "moniker": "mcp-image-cutout-0-1-4",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/mcp-image-cutout/0.1.4/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "ms-agent 1.1.1",
+      "moniker": "ms-agent-1-1-1",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/ms-agent/1.1.1/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "aidev-agent 1.0.0b24",
+      "moniker": "aidev-agent-1-0-0b24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/aidev-agent/1.0.0b24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "latinum-wallet-mcp 0.0.34",
       "moniker": "latinum-wallet-mcp-0-0-34",
       "category": "pending_review",
@@ -681,49 +721,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "fastapi-agentrouter 0.4.1",
-      "moniker": "fastapi-agentrouter-0-4-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/fastapi-agentrouter/0.4.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "mcp-veo3 1.0.1",
       "moniker": "mcp-veo3-1-0-1",
       "category": "pending_review",
       "website_url": "https://pypi.org/project/mcp-veo3/1.0.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-      "tool": "qjtestmcp01 0.1.0",
-      "moniker": "qjtestmcp01-0-1-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/qjtestmcp01/0.1.0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "fastapi-agentrouter 0.4.1",
-      "moniker": "fastapi-agentrouter-0-4-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/fastapi-agentrouter/0.4.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "slide-tyler 2.0.3",
-      "moniker": "slide-tyler-2-0-3",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/slide-tyler/2.0.3/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "hectofinancial-mcp-server 0.1.11",
-      "moniker": "hectofinancial-mcp-server-0-1-11",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/hectofinancial-mcp-server/0.1.11/",
       "source_type": "Press",
       "status": "pending_review"
     },
