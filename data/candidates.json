@@ -657,26 +657,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "cml-mcp 0.3.3",
-      "moniker": "cml-mcp-0-3-3",
+      "tool": "tagny-mcp-server 1.0.1",
+      "moniker": "tagny-mcp-server-1-0-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/cml-mcp/0.3.3/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "pyghidra-mcp 0.1.6",
-      "moniker": "pyghidra-mcp-0-1-6",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/pyghidra-mcp/0.1.6/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "idun-agent-engine 0.1.0",
-      "moniker": "idun-agent-engine-0-1-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/idun-agent-engine/0.1.0/",
+      "website_url": "https://pypi.org/project/tagny-mcp-server/1.0.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
