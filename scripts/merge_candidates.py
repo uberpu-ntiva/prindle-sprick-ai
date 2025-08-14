@@ -2,7 +2,7 @@
 import csv, json, re, sys, io
 
 IN_C = "data/candidates.json"
-IN_T = "data/PSAI_FullField_Tracker.csv"
+IN_T = "data/tools.csv"
 OUT_T = IN_T
 
 # Canonical column order (we'll include any existing extras too)
