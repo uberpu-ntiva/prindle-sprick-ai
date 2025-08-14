@@ -9,14 +9,6 @@
       "status": "pending_review"
     },
     {
-      "tool": "Guided Learning in Gemini",
-      "moniker": "guided-learning-in-gemini",
-      "category": "pending_review",
-      "website_url": "https://www.producthunt.com/posts/guided-learning-in-gemini",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "Show HN: A fun client-side tool to drool over your Stripe earnings (more lines)",
       "moniker": "show-hn-a-fun-client-side-tool-to-drool-over-your-stripe-earnings-more-lines",
       "category": "pending_review",
@@ -685,46 +677,6 @@
       "moniker": "figma-mcp-tools-1-0-3",
       "category": "pending_review",
       "website_url": "https://pypi.org/project/figma-mcp-tools/1.0.3/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "mcp-ambari-api 0.4.6",
-      "moniker": "mcp-ambari-api-0-4-6",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-ambari-api/0.4.6/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "mcp-ambari-api 0.4.5",
-      "moniker": "mcp-ambari-api-0-4-5",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-ambari-api/0.4.5/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "mcp-airflow-api 0.4.0",
-      "moniker": "mcp-airflow-api-0-4-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-airflow-api/0.4.0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "django-rest-framework-mcp 0.1.0a2",
-      "moniker": "django-rest-framework-mcp-0-1-0a2",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/django-rest-framework-mcp/0.1.0a2/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "graphql-mcp 1.3.12",
-      "moniker": "graphql-mcp-1-3-12",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/graphql-mcp/1.3.12/",
       "source_type": "Press",
       "status": "pending_review"
     },
