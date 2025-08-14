@@ -13,7 +13,8 @@ on:
 
 permissions:
   contents: write
-  issues: write
+  id-token: write
+  pages: write
 
 concurrency:
   group: psai-fullfield
