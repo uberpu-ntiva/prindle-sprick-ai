@@ -128,3 +128,12 @@ jobs:
           git add data/*.json data/*.csv data/*.yaml public/*.json public/*.xml public/*.html || true
           git commit -m "PSAI: full-field daily $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "Nothing to commit."
           git push || true
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
