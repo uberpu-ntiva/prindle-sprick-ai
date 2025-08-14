@@ -4,7 +4,7 @@
 import csv, os, re, html, json
 from datetime import datetime, timezone
 
-CSV_IN   = os.getenv("PSAI_TOOLS_CSV", "data/tools.csv")
+CSV_IN   = "data/tools.csv"
 LOG_IN   = os.getenv("PSAI_LOG_PATH", "data/news_log.json")
 OUT_LIST = os.getenv("PSAI_OUT_LIST", "public/sources.html")
 OUT_TAB  = os.getenv("PSAI_OUT_TABLE", "public/sources_table.html")
