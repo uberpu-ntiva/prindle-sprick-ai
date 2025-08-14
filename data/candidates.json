@@ -657,6 +657,14 @@
       "status": "pending_review"
     },
     {
+      "tool": "pixalate-open-mcp 1.0.1",
+      "moniker": "pixalate-open-mcp-1-0-1",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/pixalate-open-mcp/1.0.1/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "universal-mcp-google-calendar 0.1.4",
       "moniker": "universal-mcp-google-calendar-0-1-4",
       "category": "pending_review",
@@ -717,14 +725,6 @@
       "moniker": "iflow-mcp-a-share-mcp-0-1-0",
       "category": "pending_review",
       "website_url": "https://pypi.org/project/iflow-mcp-a-share-mcp/0.1.0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "mcp-veo3 1.0.1",
-      "moniker": "mcp-veo3-1-0-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-veo3/1.0.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
