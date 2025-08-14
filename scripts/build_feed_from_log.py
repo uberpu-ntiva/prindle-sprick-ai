@@ -132,11 +132,15 @@ def render_html(items, site_url):
         rows_html.append(f'<tr data-sev="{sev}" data-text="{html.escape(data_text)}">'
                          f'<td>{date}</td><td>{tool}<br><small class="mono">{moniker}</small></td>'
                          f'<td>{link_html}</td><td>{badge}</td><td>{impact}</td></tr>')
+    # The navigation was not present in the original build_site.py, so I'm adding it here
+    # to be consistent with the other pages.
+    nav_html = '<div class="topnav"><strong>PSAI</strong> · <a href="./">Home</a> · <a href="news_feed.html">News Feed</a> · <a href="sources.html">Sources</a> · <a href="sources_table.html">Table</a></div>'
+
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><title>PSAI — 30‑Day AI Coding Tools Updates</title>
 <style>{CSS}</style>
 </head><body>
-<div class="topnav"><strong>PSAI</strong> · <a href="./">Home</a> · <a href="news_feed.html">News Feed</a> · <a href="sources.html">Sources</a> · <a href="sources_table.html">Table</a></div>
+{nav_html}
 <main>
 <h1>PSAI — 30‑Day AI Coding Tools Updates</h1>
 <div class="toolbar">
