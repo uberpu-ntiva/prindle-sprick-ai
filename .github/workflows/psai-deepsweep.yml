@@ -53,3 +53,12 @@ jobs:
           git add data/candidates.json data/PSAI_FullField_Tracker.csv || true
           git commit -m "PSAI DeepSweep: discovery & tracker append $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes"
           git push || true
+          
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
