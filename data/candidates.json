@@ -17,6 +17,22 @@
       "status": "pending_review"
     },
     {
+      "tool": "Show HN: A fun client-side tool to drool over your Stripe earnings (more lines)",
+      "moniker": "show-hn-a-fun-client-side-tool-to-drool-over-your-stripe-earnings-more-lines",
+      "category": "pending_review",
+      "website_url": "https://warpbin.com/stripe-analytics",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Show HN: AAIP – A standard protocol for AI agent authorization",
+      "moniker": "show-hn-aaip-a-standard-protocol-for-ai-agent-authorization",
+      "category": "pending_review",
+      "website_url": "https://github.com/krisdiallo/aaip-spec",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "Show HN: SwarmZero – AI Agent Marketplace with no-code agent builder",
       "moniker": "show-hn-swarmzero-ai-agent-marketplace-with-no-code-agent-builder",
       "category": "pending_review",
@@ -49,22 +65,6 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Multi-agent AI orchestration – lessons from a build log",
-      "moniker": "show-hn-multi-agent-ai-orchestration-lessons-from-a-build-log",
-      "category": "pending_review",
-      "website_url": "https://news.ycombinator.com/item?id=44892779",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Show HN: Gitego – Automatic Git identity switcher",
-      "moniker": "show-hn-gitego-automatic-git-identity-switcher",
-      "category": "pending_review",
-      "website_url": "https://github.com/bgreenwell/gitego",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "MCP Vulnerabilities Every Developer Should Know",
       "moniker": "mcp-vulnerabilities-every-developer-should-know",
       "category": "pending_review",
@@ -73,26 +73,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "I created open-source tool to visualize GitHub repositories as interactive diagrams via Static Analysis and LLM Agents",
-      "moniker": "i-created-open-source-tool-to-visualize-github-repositories-as-interactive-diagrams-via-static-analysis-and-llm-agents",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1mpj2ld/i_created_opensource_tool_to_visualize_github/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "I've been building AI agents for a while now, and there's a fundamental problem nobody's talking about",
       "moniker": "i-ve-been-building-ai-agents-for-a-while-now-and-there-s-a-fundamental-problem-nobody-s-talking-about",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/programming/comments/1mphyt6/ive_been_building_ai_agents_for_a_while_now_and/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Fully local Qwen 2.5 Omni realtime agent (sees + talks).... tested it by cooking dinner",
-      "moniker": "fully-local-qwen-2-5-omni-realtime-agent-sees-talks-tested-it-by-cooking-dinner",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1mpayu9/fully_local_qwen_25_omni_realtime_agent_sees/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -689,34 +673,66 @@
       "status": "pending_review"
     },
     {
-      "tool": "dapr-agents 0.8.2",
-      "moniker": "dapr-agents-0-8-2",
+      "tool": "graphql-mcp 1.3.13",
+      "moniker": "graphql-mcp-1-3-13",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/dapr-agents/0.8.2/",
+      "website_url": "https://pypi.org/project/graphql-mcp/1.3.13/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "sauce-api-mcp 1.0.1",
-      "moniker": "sauce-api-mcp-1-0-1",
+      "tool": "figma-mcp-tools 1.0.3",
+      "moniker": "figma-mcp-tools-1-0-3",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/sauce-api-mcp/1.0.1/",
+      "website_url": "https://pypi.org/project/figma-mcp-tools/1.0.3/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "figma-mcp-tools 1.0.1",
-      "moniker": "figma-mcp-tools-1-0-1",
+      "tool": "mcp-ambari-api 0.4.6",
+      "moniker": "mcp-ambari-api-0-4-6",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/figma-mcp-tools/1.0.1/",
+      "website_url": "https://pypi.org/project/mcp-ambari-api/0.4.6/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "cml-mcp 0.3.1",
-      "moniker": "cml-mcp-0-3-1",
+      "tool": "mcp-ambari-api 0.4.5",
+      "moniker": "mcp-ambari-api-0-4-5",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/cml-mcp/0.3.1/",
+      "website_url": "https://pypi.org/project/mcp-ambari-api/0.4.5/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "mcp-airflow-api 0.4.0",
+      "moniker": "mcp-airflow-api-0-4-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/mcp-airflow-api/0.4.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "django-rest-framework-mcp 0.1.0a2",
+      "moniker": "django-rest-framework-mcp-0-1-0a2",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/django-rest-framework-mcp/0.1.0a2/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "graphql-mcp 1.3.12",
+      "moniker": "graphql-mcp-1-3-12",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/graphql-mcp/1.3.12/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "figma-mcp-tools 1.0.2",
+      "moniker": "figma-mcp-tools-1-0-2",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/figma-mcp-tools/1.0.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
