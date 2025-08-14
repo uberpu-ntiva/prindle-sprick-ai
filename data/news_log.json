@@ -102,6 +102,16 @@
     },
     {
       "date": "2025-08-14",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "nightly: git: Add handler to get default branch on remote (#36157)",
+      "link": "https://github.com/zed-industries/zed/releases/tag/nightly",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2025-08-14",
       "tool": "Qodo Merge",
       "moniker": "qodo-merge",
       "category": "Code Review",

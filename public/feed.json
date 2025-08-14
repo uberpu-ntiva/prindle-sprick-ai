@@ -115,6 +115,17 @@
       ]
     },
     {
+      "id": "2025-08-14-zed-editor-nightly: git: Add handler to g",
+      "url": "https://github.com/zed-industries/zed/releases/tag/nightly",
+      "title": "[Zed] nightly: git: Add handler to get default branch on remote (#36157)",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-14T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
       "id": "2025-08-14-qodo-merge-v0.30",
       "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.30",
       "title": "[Qodo Merge] v0.30",

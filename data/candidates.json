@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tool": "Video Mania",
+      "moniker": "video-mania",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/posts/video-mania",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "mcp-use",
       "moniker": "mcp-use",
       "category": "pending_review",
@@ -9,58 +17,50 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: A fun client-side tool to drool over your Stripe earnings (more lines)",
-      "moniker": "show-hn-a-fun-client-side-tool-to-drool-over-your-stripe-earnings-more-lines",
+      "tool": "Show HN: AI Agent Host – Dev Environment with QuestDB, Grafana, and Code-Server",
+      "moniker": "show-hn-ai-agent-host-dev-environment-with-questdb-grafana-and-code-server",
       "category": "pending_review",
-      "website_url": "https://warpbin.com/stripe-analytics",
+      "website_url": "https://github.com/quantiota/AI-Agent-Host/tree/main/claude-code",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: AAIP – A standard protocol for AI agent authorization",
-      "moniker": "show-hn-aaip-a-standard-protocol-for-ai-agent-authorization",
+      "tool": "Show HN: Add line ranges to AI agents, not files, save context (VSCode)",
+      "moniker": "show-hn-add-line-ranges-to-ai-agents-not-files-save-context-vscode",
       "category": "pending_review",
-      "website_url": "https://github.com/krisdiallo/aaip-spec",
+      "website_url": "https://github.com/sortafreel/select-copy-line",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: SwarmZero – AI Agent Marketplace with no-code agent builder",
-      "moniker": "show-hn-swarmzero-ai-agent-marketplace-with-no-code-agent-builder",
+      "tool": "Show HN: Built (the only?) A2A registry for live, hosted A2A agents",
+      "moniker": "show-hn-built-the-only-a2a-registry-for-live-hosted-a2a-agents",
       "category": "pending_review",
-      "website_url": "https://app.swarmzero.ai",
+      "website_url": "https://a2aregistry.org/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Videolangua – end-to-end video translate and subtitle/ dub",
-      "moniker": "show-hn-videolangua-end-to-end-video-translate-and-subtitle-dub",
+      "tool": "Show HN: I built an agent that applies to VCs for you",
+      "moniker": "show-hn-i-built-an-agent-that-applies-to-vcs-for-you",
       "category": "pending_review",
-      "website_url": "https://videolangua.com/",
+      "website_url": "https://www.suparaise.com/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Catalyst, a tool for short, playable interactive videos",
-      "moniker": "show-hn-catalyst-a-tool-for-short-playable-interactive-videos",
+      "tool": "Textbook and video course on OCaml Programming",
+      "moniker": "textbook-and-video-course-on-ocaml-programming",
       "category": "pending_review",
-      "website_url": "https://usecatalyst.xyz",
+      "website_url": "https://www.reddit.com/r/programming/comments/1mpr1ih/textbook_and_video_course_on_ocaml_programming/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "MCP Vulnerabilities Every Developer Should Know",
-      "moniker": "mcp-vulnerabilities-every-developer-should-know",
+      "tool": "So I've made a video sharing my experience on how to learn CODING from scratch? (No CS Degree, No Bootcamp)",
+      "moniker": "so-i-ve-made-a-video-sharing-my-experience-on-how-to-learn-coding-from-scratch-no-cs-degree-no-bootcamp",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1moek8r/mcp_vulnerabilities_every_developer_should_know/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "I've been building AI agents for a while now, and there's a fundamental problem nobody's talking about",
-      "moniker": "i-ve-been-building-ai-agents-for-a-while-now-and-there-s-a-fundamental-problem-nobody-s-talking-about",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1mphyt6/ive_been_building_ai_agents_for_a_while_now_and/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1mq0ue2/so_ive_made_a_video_sharing_my_experience_on_how/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -89,10 +89,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "Stripe apologizes for customer service agents claiming LGBTQ products were banned",
-      "moniker": "stripe-apologizes-for-customer-service-agents-claiming-lgbtq-products-were-banned",
+      "tool": "Apple accidentally leaked some of its upcoming chip bumps",
+      "moniker": "apple-accidentally-leaked-some-of-its-upcoming-chip-bumps",
       "category": "pending_review",
-      "website_url": "https://www.theverge.com/report/758927/stripe-lgbt-content-statement-itchio-adult-content",
+      "website_url": "https://www.theverge.com/news/759167/apple-chip-bump-leak-vision-pro-ipad-mi",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -657,90 +657,26 @@
       "status": "pending_review"
     },
     {
-      "tool": "swe-ai-agent 2.0.6",
-      "moniker": "swe-ai-agent-2-0-6",
+      "tool": "cml-mcp 0.3.3",
+      "moniker": "cml-mcp-0-3-3",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/swe-ai-agent/2.0.6/",
+      "website_url": "https://pypi.org/project/cml-mcp/0.3.3/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "PySide6Plot 0.0.3",
-      "moniker": "pyside6plot-0-0-3",
+      "tool": "pyghidra-mcp 0.1.6",
+      "moniker": "pyghidra-mcp-0-1-6",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/pyside6plot/0.0.3/",
+      "website_url": "https://pypi.org/project/pyghidra-mcp/0.1.6/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "myxagent 0.1.15",
-      "moniker": "myxagent-0-1-15",
+      "tool": "idun-agent-engine 0.1.0",
+      "moniker": "idun-agent-engine-0-1-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/myxagent/0.1.15/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "hulin-mcp-server 0.1.0",
-      "moniker": "hulin-mcp-server-0-1-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/hulin-mcp-server/0.1.0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "mcp-airflow-api 0.4.1",
-      "moniker": "mcp-airflow-api-0-4-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-airflow-api/0.4.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "mcp-ambari-api 0.4.7",
-      "moniker": "mcp-ambari-api-0-4-7",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-ambari-api/0.4.7/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "yta-video-opengl 0.0.4",
-      "moniker": "yta-video-opengl-0-0-4",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/yta-video-opengl/0.0.4/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "swe-ai-agent 2.0.5",
-      "moniker": "swe-ai-agent-2-0-5",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/swe-ai-agent/2.0.5/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "pixalate-open-mcp 1.0.1",
-      "moniker": "pixalate-open-mcp-1-0-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/pixalate-open-mcp/1.0.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "universal-mcp-google-calendar 0.1.4",
-      "moniker": "universal-mcp-google-calendar-0-1-4",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/universal-mcp-google-calendar/0.1.4/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "elide 0.21.1",
-      "moniker": "elide-0-21-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/elide/0.21.1/",
+      "website_url": "https://pypi.org/project/idun-agent-engine/0.1.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
