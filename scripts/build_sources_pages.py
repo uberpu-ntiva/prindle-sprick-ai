@@ -9,7 +9,6 @@ LOG_IN   = os.getenv("PSAI_LOG_PATH", "data/news_log.json")
 OUT_LIST = os.getenv("PSAI_OUT_LIST", "public/sources.html")
 OUT_TAB  = os.getenv("PSAI_OUT_TABLE", "public/sources_table.html")
 OUT_INDEX = os.getenv("PSAI_INDEX", "public/index.html")
-NEWS_FEED_PATH = os.getenv("PSAI_NEWS_FEED", "public/news_feed.html") # Formerly INDEX
 
 DEFAULT_INCLUDE = r"(agent|agentic|orchestr|mcp|ide|editor|review|code\s*assistant)"
 DEFAULT_EXCLUDE = r"^(product\s*hunt|reddit|hacker\s*news|hn\s*—|hn\s*show|latentspace|ben['’]s\s*bites|npm|pypi|docker\s*hub)\b"
@@ -123,7 +122,7 @@ HTML_HEAD = """
 <title>PSAI</title>
 <style>{css}</style>
 </head><body>
-<div class="topnav"><strong>PSAI</strong> · <a href="./">Home</a> · <a href="news_feed.html">News Feed</a> · <a href="sources.html">Sources</a> · <a href="sources_table.html">Table</a></div>
+<div class="topnav"><strong>PSAI</strong> · <a href="./">Home</a> · <a href="news_feed.html">News Feed</a> · <a href="sources.html">Sources</a> · <a href="sources_table.html">Table</a> · <a href="articles.html">Articles</a></div>
 <main>
 """
 HTML_FOOT = """
@@ -257,16 +256,6 @@ def main():
     open(OUT_LIST, "w", encoding="utf-8").write(build_list("".join(card_html)))
     open(OUT_TAB,  "w", encoding="utf-8").write(build_table("".join(row_html)))
     print(f"Built {OUT_LIST} and {OUT_TAB} with {len(rows)} filtered tools.")
-
-    # --- Inject/update navigation links into the news feed page ---
-    if os.path.exists(NEWS_FEED_PATH):
-        txt = open(NEWS_FEED_PATH, "r", encoding="utf-8").read()
-        new_nav = '<div class="topnav"><strong>PSAI</strong> · <a href="./">Home</a> · <a href="news_feed.html">News Feed</a> · <a href="sources.html">Sources</a> · <a href="sources_table.html">Table</a></div>'
-        if '<div class="topnav">' in txt:
-            txt = re.sub(r'<div class="topnav">.*</div>', new_nav, txt, count=1, flags=re.DOTALL)
-        elif '<body>' in txt:
-            txt = txt.replace("<body>", f"<body>\n{new_nav}", 1)
-        open(NEWS_FEED_PATH, "w", encoding="utf-8").write(txt)
 
 if __name__ == "__main__":
     main()
