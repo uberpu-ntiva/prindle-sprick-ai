@@ -657,6 +657,54 @@
       "status": "pending_review"
     },
     {
+      "tool": "videosdk-plugins-turn-detector 0.0.24",
+      "moniker": "videosdk-plugins-turn-detector-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-turn-detector/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-speechify 0.0.24",
+      "moniker": "videosdk-plugins-speechify-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-speechify/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-smallestai 0.0.24",
+      "moniker": "videosdk-plugins-smallestai-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-smallestai/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-sip 0.0.24",
+      "moniker": "videosdk-plugins-sip-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-sip/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-simli 0.0.24",
+      "moniker": "videosdk-plugins-simli-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-simli/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "videosdk-plugins-silero 0.0.24",
+      "moniker": "videosdk-plugins-silero-0-0-24",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/videosdk-plugins-silero/0.0.24/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "videosdk-plugins-sarvamai 0.0.24",
       "moniker": "videosdk-plugins-sarvamai-0-0-24",
       "category": "pending_review",
@@ -893,46 +941,6 @@
       "moniker": "swe-ai-agent-2-0-6",
       "category": "pending_review",
       "website_url": "https://pypi.org/project/swe-ai-agent/2.0.6/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "PySide6Plot 0.0.3",
-      "moniker": "pyside6plot-0-0-3",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/pyside6plot/0.0.3/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "myxagent 0.1.15",
-      "moniker": "myxagent-0-1-15",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/myxagent/0.1.15/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "hulin-mcp-server 0.1.0",
-      "moniker": "hulin-mcp-server-0-1-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/hulin-mcp-server/0.1.0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "mcp-airflow-api 0.4.1",
-      "moniker": "mcp-airflow-api-0-4-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-airflow-api/0.4.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "mcp-ambari-api 0.4.7",
-      "moniker": "mcp-ambari-api-0-4-7",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-ambari-api/0.4.7/",
       "source_type": "Press",
       "status": "pending_review"
     },
