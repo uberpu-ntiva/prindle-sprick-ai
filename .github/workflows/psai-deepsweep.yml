@@ -15,6 +15,10 @@ permissions:
   id-token: write
   pages: write
 
+concurrency:
+  group: psai-build
+  cancel-in-progress: true
+
 jobs:
   deepsweep:
     runs-on: ubuntu-latest
