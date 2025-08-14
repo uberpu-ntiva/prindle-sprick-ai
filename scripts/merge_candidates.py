@@ -1,108 +1,182 @@
 #!/usr/bin/env python
-import csv, json, re, sys, io
+import csv, json, re, sys, io, os
+from urllib.parse import urlparse
+from datetime import datetime, timezone
 
-IN_C = "data/candidates.json"
-IN_T = "data/tools.csv"
-OUT_T = IN_T
+# I/O Configuration
+IN_CANDIDATES = "data/candidates.json"
+IN_TOOLS      = "data/tools.csv"
+IN_ARTICLES   = "data/articles.csv"
+OUT_TOOLS     = IN_TOOLS
+OUT_ARTICLES  = IN_ARTICLES
 
-# Canonical column order (we'll include any existing extras too)
-REQUIRED = ["Tool","Moniker","Category","Severity","RSS Available","Feed URL","Tracking Method",
-            "Repo URL","Repo Status","Stars","Contributors","Docs URL","Website URL",
-            "Source Type","Discovery Method","Launch Status","Last Seen Update","Status"]
+# --- Classification Logic ---
 
-def load_csv(path):
+# Domains that are likely to be articles/blogs/news, not dedicated tool pages.
+ARTICLE_HOST_PATTERNS = [
+    r"techcrunch\.com", r"venturebeat\.com", r"theverge\.com", r"arstechnica\.com",
+    r"medium\.com", r"github\.blog", r"youtube\.com", r"youtu\.be",
+    r"reddit\.com", r"news\.ycombinator\.com", r"forbes\.com", r"bloomberg\.com",
+    r"huggingface\.co", # Often papers/blog posts, not the tool's primary site
+    r"arxiv\.org", r"producthunt\.com", r"latent\.space", r"bensbites\.co"
+]
+ARTICLE_HOST_RX = re.compile(r"|".join(ARTICLE_HOST_PATTERNS), re.I)
+
+# Titles that suggest an article, not a product name.
+ARTICLE_TITLE_PATTERNS = [
+    r"show hn", r"ask hn", r"launch hn", r"how to", r"tutorial", r"guide",
+    r"deep dive", r"introduction to", r"announcing", r"introducing",
+    r"vs\.", r"versus", r"case study"
+]
+ARTICLE_TITLE_RX = re.compile(r"|".join(ARTICLE_TITLE_PATTERNS), re.I)
+
+def is_tool(candidate):
+    """
+    Classifies a candidate as a Tool or an Article based on heuristics.
+    """
+    tool_name = candidate.get("tool", "").lower()
+    repo_url = candidate.get("repo_url", "")
+    website_url = candidate.get("website_url", "")
+
+    # Definite Tool: It has a code repository.
+    if repo_url and "github.com" in repo_url:
+        return True
+
+    # Likely Article: The title matches common article patterns.
+    if ARTICLE_TITLE_RX.search(tool_name):
+        return False
+
+    # Likely Article: The main link is to a known blog/news/aggregator site.
+    if website_url:
+        try:
+            hostname = urlparse(website_url).hostname or ""
+            if ARTICLE_HOST_RX.search(hostname):
+                return False
+        except Exception:
+            pass # Ignore malformed URLs
+
+    # Heuristic: If it has a website and a short name, it's probably a tool.
+    if website_url and len(tool_name.split()) <= 5:
+        return True
+
+    # Default to classifying as an article if unsure.
+    return False
+
+# --- CSV Handling ---
+
+# Define the column order for both CSVs.
+# Articles will have fewer populated columns, but a consistent structure is good.
+FIELDNAMES = ["Tool","Moniker","Category","Severity","RSS Available","Feed URL","Tracking Method",
+              "Repo URL","Repo Status","Stars","Contributors","Docs URL","Website URL",
+              "Source Type","Discovery Method","Launch Status","Last Seen Update","Status", "Date Added"]
+
+def load_csv_to_set(path):
+    """Loads a CSV and returns a set of (Tool, Moniker) tuples for fast deduplication."""
+    if not os.path.exists(path):
+        return set(), []
     try:
         with open(path, encoding="utf-8") as f:
             rdr = csv.DictReader(f)
             rows = list(rdr)
-            return rows, (rdr.fieldnames or [])
-    except FileNotFoundError:
-        return [], []
+            key_of = lambda r: ((r.get("Tool") or "").strip().lower(), (r.get("Moniker") or "").strip().lower())
+            return {key_of(r) for r in rows}, rows
+    except Exception:
+        return set(), []
 
 def monikerize(name):
     return re.sub(r"[^a-z0-9]+","-", (name or "").lower()).strip("-")
 
-def normalize_fieldnames(existing_rows, existing_fields):
-    # Union of all keys found in existing rows
-    all_keys = set(existing_fields or [])
-    for r in existing_rows:
-        all_keys.update(r.keys())
-    # Ensure REQUIRED are present and ordered first
-    ordered = []
-    for k in REQUIRED:
-        if k not in ordered:
-            ordered.append(k)
-    # Append any remaining keys in stable order (from existing_fields then any new)
-    for k in (existing_fields or []):
-        if k not in ordered:
-            ordered.append(k)
-    for k in sorted(all_keys):
-        if k not in ordered:
-            ordered.append(k)
-    return ordered
+def save_csv(path, rows):
+    """Saves a list of dicts to a CSV file with a consistent header."""
+    if not rows:
+        print(f"No new rows to save for {os.path.basename(path)}.")
+        return
 
-def save_csv(path, rows, fieldnames):
-    # Sanitize each row to contain exactly the writer's fieldnames
-    clean = []
+    # Ensure all rows contain all keys from the header.
+    clean_rows = []
     for r in rows:
-        d = {k: r.get(k, "") for k in fieldnames}
-        clean.append(d)
-    with open(path, "w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=fieldnames)
-        w.writeheader()
-        w.writerows(clean)
+        clean_rows.append({k: r.get(k, "") for k in FIELDNAMES})
+
+    # Check if file exists to decide on writing header
+    file_exists = os.path.exists(path)
+
+    with open(path, "a", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=FIELDNAMES)
+        if not file_exists or f.tell() == 0:
+            w.writeheader()
+        w.writerows(clean_rows)
+
+# --- Main Logic ---
 
 def main():
-    existing, existing_fields = load_csv(IN_T)
-    fieldnames = normalize_fieldnames(existing, existing_fields)
+    # Load existing data for deduplication
+    seen_tools, _ = load_csv_to_set(IN_TOOLS)
+    seen_articles, _ = load_csv_to_set(IN_ARTICLES)
 
-    # Load candidates
+    # Load new candidates
     try:
-        with open(IN_C, "r", encoding="utf-8") as f:
-            cand = json.load(f).get("items", [])
-    except Exception:
-        cand = []
+        with open(IN_CANDIDATES, "r", encoding="utf-8") as f:
+            candidates = json.load(f).get("items", [])
+    except (FileNotFoundError, json.JSONDecodeError):
+        print("No candidates found or candidates file is invalid.")
+        candidates = []
 
-    # Build fast lookup for dedupe
-    def key_of(t, m): return (t or "").strip().lower(), (m or "").strip().lower()
-    seen = { key_of(r.get("Tool",""), r.get("Moniker","")) for r in existing }
+    new_tools = []
+    new_articles = []
 
-    appended = 0
-    for it in cand:
-        tool = (it.get("tool") or "").strip()
-        if not tool:
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+    for cand in candidates:
+        tool_name = (cand.get("tool") or "").strip()
+        if not tool_name:
             continue
-        mon = (it.get("moniker") or monikerize(tool))
-        if key_of(tool, mon) in seen:
+
+        moniker = (cand.get("moniker") or monikerize(tool_name))
+
+        # Deduplicate against both existing lists
+        key = (tool_name.lower(), moniker.lower())
+        if key in seen_tools or key in seen_articles:
             continue
-        # create a row with all fieldnames present
-        row = {k:"" for k in fieldnames}
-        row.update({
-            "Tool": tool,
-            "Moniker": mon,
-            "Category": it.get("category","Discovery"),
+
+        # Prepare the base data row
+        row = {
+            "Tool": tool_name,
+            "Moniker": moniker,
+            "Category": cand.get("category","Discovery"),
             "Severity": "Minor",
-            "RSS Available": "✅" if it.get("feed_url") else "❌",
-            "Feed URL": it.get("feed_url",""),
-            "Tracking Method": "RSS" if it.get("feed_url") else ("GitHub Releases" if (it.get("repo_url","").startswith("https://github.com/")) else "HTML/Blog"),
-            "Repo URL": it.get("repo_url",""),
-            "Repo Status": "Active" if it.get("repo_url") else "",
-            "Website URL": it.get("website_url",""),
-            "Source Type": it.get("source_type",""),
+            "RSS Available": "✅" if cand.get("feed_url") else "❌",
+            "Feed URL": cand.get("feed_url",""),
+            "Repo URL": cand.get("repo_url",""),
+            "Website URL": cand.get("website_url",""),
+            "Source Type": cand.get("source_type",""),
             "Discovery Method": "Auto-Discovery",
-            "Launch Status": "Unknown",
-        })
-        existing.append(row)
-        seen.add(key_of(tool, mon))
-        appended += 1
+            "Date Added": today
+        }
 
-    # Ensure final fieldnames include REQUIRED at least
-    for k in REQUIRED:
-        if k not in fieldnames:
-            fieldnames.append(k)
+        # Classify and append
+        if is_tool(cand):
+            row["Tracking Method"] = "RSS" if row["Feed URL"] else "GitHub Releases"
+            row["Repo Status"] = "Active" if row["Repo URL"] else ""
+            new_tools.append(row)
+            seen_tools.add(key)
+        else:
+            row["Category"] = "Article"
+            row["Tracking Method"] = "HTML/Blog"
+            new_articles.append(row)
+            seen_articles.add(key)
 
-    save_csv(OUT_T, existing, fieldnames)
-    print(f"Appended {appended} new tools into {OUT_T}; columns: {len(fieldnames)}")
+    # Save the results
+    if new_tools:
+        save_csv(OUT_TOOLS, new_tools)
+        print(f"Appended {len(new_tools)} new tool(s) to {os.path.basename(OUT_TOOLS)}.")
+    else:
+        print("No new tools to append.")
+
+    if new_articles:
+        save_csv(OUT_ARTICLES, new_articles)
+        print(f"Appended {len(new_articles)} new article(s) to {os.path.basename(OUT_ARTICLES)}.")
+    else:
+        print("No new articles to append.")
 
 if __name__ == "__main__":
     main()
