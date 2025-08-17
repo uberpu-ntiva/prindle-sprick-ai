@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tool": "Higgsfield Product-to-Video",
+      "moniker": "higgsfield-product-to-video",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/posts/higgsfield-product-to-video",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "Dabe Agents",
       "moniker": "dabe-agents",
       "category": "pending_review",
@@ -41,54 +49,6 @@
       "status": "pending_review"
     },
     {
-      "tool": "What’s New in IntelliJ IDEA 2025.2 | IntelliJ IDEA Talk",
-      "moniker": "what-s-new-in-intellij-idea-2025-2-intellij-idea-talk",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1mrno9g/whats_new_in_intellij_idea_20252_intellij_idea/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6",
-      "moniker": "passkey-support-for-asp-net-core-identity-exploring-the-net-10-preview-part-6",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1mr2fqy/passkey_support_for_aspnet_core_identity/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Idea for a new Code-Gen Workflow",
-      "moniker": "idea-for-a-new-code-gen-workflow",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1mrsq7s/idea_for_a_new_codegen_workflow/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "GPT-OSS-20B is in the sweet spot for building Agents",
-      "moniker": "gpt-oss-20b-is-in-the-sweet-spot-for-building-agents",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1mrsoug/gptoss20b_is_in_the_sweet_spot_for_building_agents/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Intel adds Shared GPU Memory Override feature for Core Ultra systems, enables larger VRAM for AI",
-      "moniker": "intel-adds-shared-gpu-memory-override-feature-for-core-ultra-systems-enables-larger-vram-for-ai",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1mr6929/intel_adds_shared_gpu_memory_override_feature_for/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "How to use GLM 4.5 as my coding agent in vs code?",
-      "moniker": "how-to-use-glm-4-5-as-my-coding-agent-in-vs-code",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1mrpyln/how_to_use_glm_45_as_my_coding_agent_in_vs_code/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "[D] - Neurips Position paper reviews",
       "moniker": "d-neurips-position-paper-reviews",
       "category": "pending_review",
@@ -109,6 +69,14 @@
       "moniker": "google-s-new-web-guide-search-experiment-organizes-results-with-ai",
       "category": "pending_review",
       "website_url": "https://techcrunch.com/2025/07/24/googles-new-web-guide-search-experiment-organizes-results-with-ai/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Why the former editor of Polygon is making a podcast for old gamers",
+      "moniker": "why-the-former-editor-of-polygon-is-making-a-podcast-for-old-gamers",
+      "category": "pending_review",
+      "website_url": "https://www.theverge.com/games/760244/chris-plante-post-games-podcast-old-gamers-polygon",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -673,34 +641,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "zhangyuepeng-mcp-weather-server 0.1.0",
-      "moniker": "zhangyuepeng-mcp-weather-server-0-1-0",
+      "tool": "aiagents4pharma-ansh 1.43.0",
+      "moniker": "aiagents4pharma-ansh-1-43-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/zhangyuepeng-mcp-weather-server/0.1.0/",
+      "website_url": "https://pypi.org/project/aiagents4pharma-ansh/1.43.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "cnhkmcp 1.3.6",
-      "moniker": "cnhkmcp-1-3-6",
+      "tool": "wink-sdk-travel-agent 0.0.40",
+      "moniker": "wink-sdk-travel-agent-0-0-40",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/cnhkmcp/1.3.6/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "cnhkmcp 1.3.5",
-      "moniker": "cnhkmcp-1-3-5",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/cnhkmcp/1.3.5/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "hefeng-weather-mcp 0.2.1",
-      "moniker": "hefeng-weather-mcp-0-2-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/hefeng-weather-mcp/0.2.1/",
+      "website_url": "https://pypi.org/project/wink-sdk-travel-agent/0.0.40/",
       "source_type": "Press",
       "status": "pending_review"
     }
