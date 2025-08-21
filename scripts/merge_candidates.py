@@ -157,6 +157,7 @@ def main():
         if is_tool(cand):
             row["Tracking Method"] = "RSS" if row["Feed URL"] else "GitHub Releases"
             row["Repo Status"] = "Active" if row["Repo URL"] else ""
+            row["Status"] = "pending_review"
             new_tools.append(row)
             seen_tools.add(key)
         else:
