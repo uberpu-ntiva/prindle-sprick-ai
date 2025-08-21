@@ -170,6 +170,50 @@
       ]
     },
     {
+      "id": "2025-08-21-zed-editor-v0.201.2-pre",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v0.201.2-pre",
+      "title": "[Zed] v0.201.2-pre",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-21T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-21-zed-editor-nightly",
+      "url": "https://github.com/zed-industries/zed/releases/tag/nightly",
+      "title": "[Zed] nightly",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-21T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-21-zed-editor-collab-staging: lsp: Add basic",
+      "url": "https://github.com/zed-industries/zed/releases/tag/collab-staging",
+      "title": "[Zed] collab-staging: lsp: Add basic test for server tree toolchain use (#36692)",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-21T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-08-21-zed-editor-collab-production: Upload tele",
+      "url": "https://github.com/zed-industries/zed/releases/tag/collab-production",
+      "title": "[Zed] collab-production: Upload telemetry event on crashes (#36695)",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-21T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
       "id": "2025-08-21-qodo-merge-v0.30",
       "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.30",
       "title": "[Qodo Merge] v0.30",
@@ -816,6 +860,17 @@
       "tags": [
         "Agent",
         "Security"
+      ]
+    },
+    {
+      "id": "2025-08-21-claude-code-Deepseek + Claude Code Working",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1mwigpz/deepseek_claude_code_working_flawlessly_havent/",
+      "title": "[Claude Code] Deepseek + Claude Code Working Flawlessly! 🤯 (haven't experience error like other proxy project yet)",
+      "content_text": "Minor — ",
+      "date_published": "2025-08-21T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
       ]
     },
     {

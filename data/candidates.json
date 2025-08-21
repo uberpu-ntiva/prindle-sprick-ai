@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "tool": "AgentCraft. Like Cursor, but for n8n",
-      "moniker": "agentcraft-like-cursor-but-for-n8n",
+      "tool": "AGENTS.md",
+      "moniker": "agents-md",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/posts/agentcraft-like-cursor-but-for-n8n",
+      "website_url": "https://www.producthunt.com/posts/agents-md",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -17,10 +17,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "AGENTS.md",
-      "moniker": "agents-md",
+      "tool": "AgentCraft. Like Cursor, but for n8n",
+      "moniker": "agentcraft-like-cursor-but-for-n8n",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/posts/agents-md",
+      "website_url": "https://www.producthunt.com/posts/agentcraft-like-cursor-but-for-n8n",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -33,26 +33,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: SideNote – Markdown Note Extension on Browser Sidepanel",
-      "moniker": "show-hn-sidenote-markdown-note-extension-on-browser-sidepanel",
+      "tool": "Show HN: IntelliAgent – customizable deep‑research agent",
+      "moniker": "show-hn-intelliagent-customizable-deep-research-agent",
       "category": "pending_review",
-      "website_url": "https://github.com/IHaBiS02/SideNote",
+      "website_url": "https://get.myintelliagent.com/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Proven Ways to Break Your Short Guide to Build Better Daily Routines",
-      "moniker": "show-hn-proven-ways-to-break-your-short-guide-to-build-better-daily-routines",
+      "tool": "Show HN: Changefly ID + Anonymized Identity and Age Verification",
+      "moniker": "show-hn-changefly-id-anonymized-identity-and-age-verification",
       "category": "pending_review",
-      "website_url": "https://bookbitehub.gumroad.com/l/5ProvenWaysToBreakYourBadHabits",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Show HN: Using Common Lisp from Inside the Browser",
-      "moniker": "show-hn-using-common-lisp-from-inside-the-browser",
-      "category": "pending_review",
-      "website_url": "https://turtleware.eu/posts/Using-Common-Lisp-from-inside-the-Browser.html",
+      "website_url": "https://www.changefly.com/blog/2025/08/anonymized-identity-and-age-verification-a-new-era-of-privacy-for-changefly-id",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -73,10 +65,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "Empirical Analysis of AI Code Security Incidents",
-      "moniker": "empirical-analysis-of-ai-code-security-incidents",
+      "tool": "Why low-bit models aren't totally braindead: A guide from 1-bit meme to FP16 research",
+      "moniker": "why-low-bit-models-aren-t-totally-braindead-a-guide-from-1-bit-meme-to-fp16-research",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1mvtbgz/empirical_analysis_of_ai_code_security_incidents/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1mwevt4/why_lowbit_models_arent_totally_braindead_a_guide/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Command A Reasoning: Enterprise-grade control for AI agents",
+      "moniker": "command-a-reasoning-enterprise-grade-control-for-ai-agents",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1mwdgdw/command_a_reasoning_enterprisegrade_control_for/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -85,14 +85,6 @@
       "moniker": "r-is-data-the-bottleneck-for-video-audio-generation",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1mv5ls0/r_is_data_the_bottleneck_for_videoaudio_generation/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[P] My open-source project on building production-level AI agents just hit 10K stars on GitHub",
-      "moniker": "p-my-open-source-project-on-building-production-level-ai-agents-just-hit-10k-stars-on-github",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1mvhpu6/p_my_opensource_project_on_building/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -121,6 +113,14 @@
       "status": "pending_review"
     },
     {
+      "tool": "Inside Walmart’s AI security stack: How a startup mentality is hardening enterprise-scale defense ",
+      "moniker": "inside-walmart-s-ai-security-stack-how-a-startup-mentality-is-hardening-enterprise-scale-defense",
+      "category": "pending_review",
+      "website_url": "https://venturebeat.com/security/exclusive-walmarts-ciso-is-rebuilding-identity-security-for-ai-age/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "LLMs generate ‘fluent nonsense’ when reasoning outside their training zone",
       "moniker": "llms-generate-fluent-nonsense-when-reasoning-outside-their-training-zone",
       "category": "pending_review",
@@ -133,14 +133,6 @@
       "moniker": "vb-ai-impact-series-can-you-really-govern-multi-agent-ai",
       "category": "pending_review",
       "website_url": "https://venturebeat.com/ai/vb-ai-impact-series-can-you-really-govern-multi-agent-ai/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Gartner: GPT-5 is here, but the infrastructure to support true agentic AI isn’t (yet)",
-      "moniker": "gartner-gpt-5-is-here-but-the-infrastructure-to-support-true-agentic-ai-isn-t-yet",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/gartner-gpt-5-is-here-but-the-infrastructure-to-support-true-agentic-ai-isnt-yet/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -689,42 +681,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "django-prose-editor 0.17a6",
-      "moniker": "django-prose-editor-0-17a6",
+      "tool": "kolena-agents 0.3.6",
+      "moniker": "kolena-agents-0-3-6",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/django-prose-editor/0.17a6/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "dbt-mcp-lightdash 0.14.0",
-      "moniker": "dbt-mcp-lightdash-0-14-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/dbt-mcp-lightdash/0.14.0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "bir_mcp 0.3.13",
-      "moniker": "bir-mcp-0-3-13",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/bir-mcp/0.3.13/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "academia-mcp 1.2.1",
-      "moniker": "academia-mcp-1-2-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/academia-mcp/1.2.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "mcp-framework 0.1.1",
-      "moniker": "mcp-framework-0-1-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-framework/0.1.1/",
+      "website_url": "https://pypi.org/project/kolena-agents/0.3.6/",
       "source_type": "Press",
       "status": "pending_review"
     },

@@ -95,6 +95,30 @@
 <description>Minor — </description>
 </item>
 <item>
+<title>[Zed] v0.201.2-pre</title>
+<link>https://github.com/zed-industries/zed/releases/tag/v0.201.2-pre</link>
+<pubDate>2025-08-21</pubDate>
+<description>Minor — </description>
+</item>
+<item>
+<title>[Zed] nightly</title>
+<link>https://github.com/zed-industries/zed/releases/tag/nightly</link>
+<pubDate>2025-08-21</pubDate>
+<description>Minor — </description>
+</item>
+<item>
+<title>[Zed] collab-staging: lsp: Add basic test for server tree toolchain use (#36692)</title>
+<link>https://github.com/zed-industries/zed/releases/tag/collab-staging</link>
+<pubDate>2025-08-21</pubDate>
+<description>Minor — </description>
+</item>
+<item>
+<title>[Zed] collab-production: Upload telemetry event on crashes (#36695)</title>
+<link>https://github.com/zed-industries/zed/releases/tag/collab-production</link>
+<pubDate>2025-08-21</pubDate>
+<description>Minor — </description>
+</item>
+<item>
 <title>[Qodo Merge] v0.30</title>
 <link>https://github.com/qodo-ai/pr-agent/releases/tag/v0.30</link>
 <pubDate>2025-08-21</pubDate>
@@ -447,6 +471,12 @@
 <link>https://github.com/opactorai/Claudable</link>
 <pubDate>2025-08-21</pubDate>
 <description>Security — </description>
+</item>
+<item>
+<title>[Claude Code] Deepseek + Claude Code Working Flawlessly! 🤯 (haven't experience error like other proxy project yet)</title>
+<link>https://www.reddit.com/r/LocalLLaMA/comments/1mwigpz/deepseek_claude_code_working_flawlessly_havent/</link>
+<pubDate>2025-08-21</pubDate>
+<description>Minor — </description>
 </item>
 <item>
 <title>[ChatDev] v1.1.6</title>
