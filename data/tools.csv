@@ -1,6 +1,6 @@
 Tool,Moniker,Category,Severity,RSS Available,Feed URL,Tracking Method,Repo URL,Repo Status,Stars,Contributors,Docs URL,Website URL,Source Type,Discovery Method,Launch Status,Last Seen Update,Status
-Aider,aider-cli,Editor/IDE,Minor,✅,https://github.com/paul-gauthier/aider/releases.atom,RSS direct,https://github.com/paul-gauthier/aider,Active,6500,120,N/A,N/A,,,,,Minor: v0.86.2.dev (2025-08-22)
-Zed,zed-editor,Editor/IDE,Minor,✅,https://github.com/zed-industries/zed/releases.atom,RSS direct,https://github.com/zed-industries/zed,Active,61400,1033,https://zed.dev/docs,https://zed.dev,,,,,Minor: nightly: acp: Fix panic with edit file tool (#36732) (2025-08-22)
+Aider,aider-cli,Editor/IDE,Minor,✅,https://github.com/paul-gauthier/aider/releases.atom,RSS direct,https://github.com/paul-gauthier/aider,Active,6500,120,N/A,N/A,,,,,Minor: aider-code 0.1.1.post25 (2025-08-23)
+Zed,zed-editor,Editor/IDE,Minor,✅,https://github.com/zed-industries/zed/releases.atom,RSS direct,https://github.com/zed-industries/zed,Active,61400,1033,https://zed.dev/docs,https://zed.dev,,,,,Minor: nightly: Remove redundant Cargo diagnostics settings (#36795) (2025-08-23)
 Cursor,cursor-ide,Editor/IDE,Major,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.cursor.com/chat/overview,https://cursor.com,,,,,"Minor: AgentCraft. Like Cursor, but for n8n (2025-08-20)"
 Windsurf,winds-codeium,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.codeium.com/windsurf/getting-started,https://codeium.com/windsurf,,,,,"Minor: Three weeks after acquiring Windsurf, Cognition offers staff the exit door (2025-08-05)"
 GitHub Copilot,gh-copilot,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://github.com/features/copilot,,,,,
@@ -10,16 +10,16 @@ Gemini Code Assist,gcp-gemini-code,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Cl
 Qodo Gen,qodo-gen,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.qodo.ai,https://qodo.ai/products/ide-plugin,,,,,
 Work with Apps by ChatGPT,openai-work-apps,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://openai.com/chatgpt/desktop,,,,,
 Claude Code,claude-code,Agent,Major,❌,https://www.anthropic.com/rss.xml,Blog RSS filter,N/A,Closed-source,,,https://docs.anthropic.com/en/docs/claude-code,https://anthropic.com/claude-code,,,,,Security: Show HN: Claudable – OpenSource Lovable that runs locally with Claude Code (2025-08-21)
-OpenHands,openhands,Agent,Minor,✅,https://github.com/All-Hands-AI/OpenHands/releases.atom,RSS direct,https://github.com/All-Hands-AI/OpenHands,Active,37800,213,https://docs.all-hands.dev,N/A,,,,,Minor: 0.54.0 - 2025-08-20 (2025-08-22)
-Cline,cline-agent,Agent,Minor,✅,https://github.com/cline/cline/releases.atom,RSS direct,https://github.com/cline/cline,Active,13200,7,N/A,N/A,,,,,Minor: v3.26.2 (2025-08-22)
+OpenHands,openhands,Agent,Minor,✅,https://github.com/All-Hands-AI/OpenHands/releases.atom,RSS direct,https://github.com/All-Hands-AI/OpenHands,Active,37800,213,https://docs.all-hands.dev,N/A,,,,,Minor: 0.54.0 - 2025-08-20 (2025-08-23)
+Cline,cline-agent,Agent,Minor,✅,https://github.com/cline/cline/releases.atom,RSS direct,https://github.com/cline/cline,Active,13200,7,N/A,N/A,,,,,Minor: v3.26.3 Release Notes (#5759) (2025-08-23)
 Devin AI,devin-ai,Agent,Ignore,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://cognition.ai/blog/introducing-devin,,,,,
-ChatDev,chatdev,Agent,Ignore,✅,https://github.com/OpenBMB/ChatDev/releases.atom,RSS direct,https://github.com/OpenBMB/ChatDev,Semi-active,,,https://arxiv.org/pdf/2307.07924.pdf,N/A,,,,,Major: v1.1.6 (2025-08-22)
-GPT Pilot by Pythagora,gpt-pilot,Agent,Ignore,✅,https://github.com/Pythagora-io/gpt-pilot/releases.atom,RSS direct,https://github.com/Pythagora-io/gpt-pilot,Semi-active,,,N/A,N/A,,,,,Minor: 0.2.13 (2025-08-22)
-MetaGPT,metagpt,Agent,Ignore,✅,https://github.com/geekan/MetaGPT/releases.atom,RSS direct,https://github.com/geekan/MetaGPT,Semi-active,,,https://docs.deepwisdom.ai/main/en,N/A,,,,,Minor: v0.8.2 (2025-08-22)
-Gorilla,gorilla-berkeley,Agent,Ignore,✅,https://github.com/ShishirPatil/gorilla/releases.atom,RSS direct,https://github.com/ShishirPatil/gorilla,Inactive,,,N/A,https://gorilla.cs.berkeley.edu,,,,,Major: Berkeley Function Calling Leaderboard Updates (v1.3) (2025-08-22)
+ChatDev,chatdev,Agent,Ignore,✅,https://github.com/OpenBMB/ChatDev/releases.atom,RSS direct,https://github.com/OpenBMB/ChatDev,Semi-active,,,https://arxiv.org/pdf/2307.07924.pdf,N/A,,,,,Major: v1.1.6 (2025-08-23)
+GPT Pilot by Pythagora,gpt-pilot,Agent,Ignore,✅,https://github.com/Pythagora-io/gpt-pilot/releases.atom,RSS direct,https://github.com/Pythagora-io/gpt-pilot,Semi-active,,,N/A,N/A,,,,,Minor: 0.2.13 (2025-08-23)
+MetaGPT,metagpt,Agent,Ignore,✅,https://github.com/geekan/MetaGPT/releases.atom,RSS direct,https://github.com/geekan/MetaGPT,Semi-active,,,https://docs.deepwisdom.ai/main/en,N/A,,,,,Minor: v0.8.2 (2025-08-23)
+Gorilla,gorilla-berkeley,Agent,Ignore,✅,https://github.com/ShishirPatil/gorilla/releases.atom,RSS direct,https://github.com/ShishirPatil/gorilla,Inactive,,,N/A,https://gorilla.cs.berkeley.edu,,,,,Major: Berkeley Function Calling Leaderboard Updates (v1.3) (2025-08-23)
 CodeMate,codemate,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.codemate.ai,https://codemate.ai,,,,,
 CodeRabbit,coderabbit,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.coderabbit.ai,https://coderabbit.ai,,,,,Security: How We Exploited CodeRabbit: From a Simple PR to RCE and Write Access on 1M Repositories (2025-08-19)
-Qodo Merge,qodo-merge,Code Review,Minor,✅,https://github.com/Codium-ai/pr-agent/releases.atom,RSS direct,https://github.com/Codium-ai/pr-agent,Active,6100,88,https://qodo-merge-docs.qodo.ai,https://qodo.ai/products/git-plugin,,,,,Minor: v0.30 (2025-08-22)
+Qodo Merge,qodo-merge,Code Review,Minor,✅,https://github.com/Codium-ai/pr-agent/releases.atom,RSS direct,https://github.com/Codium-ai/pr-agent,Active,6100,88,https://qodo-merge-docs.qodo.ai,https://qodo.ai/products/git-plugin,,,,,Minor: v0.30 (2025-08-23)
 GitLab Duo,gitlab-duo,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.gitlab.com/ee/user/gitlab_duo,https://about.gitlab.com/gitlab-duo,,,,,
 AI Code Review Action,gh-ai-code-review-action,Code Review,Minor,✅,https://github.com/marketplace/actions/ai-code-review-action/releases.atom,RSS direct,https://github.com/marketplace/actions/ai-code-review-action,Active,,,N/A,N/A,,,,,
 Korbit,korbit,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://korbit.ai,,,,,
@@ -170,3 +170,15 @@ mcp-universal-database-server 0.1.1,mcp-universal-database-server-0-1-1,pending_
 ddapm-test-agent 1.32.0,ddapm-test-agent-1-32-0,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/ddapm-test-agent/1.32.0/,Press,Auto-Discovery,,,pending_review
 mcp-universal-database-server 0.1.0,mcp-universal-database-server-0-1-0,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/mcp-universal-database-server/0.1.0/,Press,Auto-Discovery,,,pending_review
 cyclonedx-editor-validator 0.28.0,cyclonedx-editor-validator-0-28-0,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/cyclonedx-editor-validator/0.28.0/,Press,Auto-Discovery,,,pending_review
+CodeVideoRenderer 1.0.1.2,codevideorenderer-1-0-1-2,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/codevideorenderer/1.0.1.2/,Press,Auto-Discovery,,,pending_review
+aider-code 0.1.1.post25,aider-code-0-1-1-post25,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/aider-code/0.1.1.post25/,Press,Auto-Discovery,,,pending_review
+mcp-sqlserver-filesystem 0.1.4,mcp-sqlserver-filesystem-0-1-4,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/mcp-sqlserver-filesystem/0.1.4/,Press,Auto-Discovery,,,pending_review
+mcp-server-public-transport 0.1.2,mcp-server-public-transport-0-1-2,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/mcp-server-public-transport/0.1.2/,Press,Auto-Discovery,,,pending_review
+task-agents-mcp 4.0.0,task-agents-mcp-4-0-0,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/task-agents-mcp/4.0.0/,Press,Auto-Discovery,,,pending_review
+aider-code 0.1.1.post24,aider-code-0-1-1-post24,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/aider-code/0.1.1.post24/,Press,Auto-Discovery,,,pending_review
+codex-mcp-agent 0.1.0,codex-mcp-agent-0-1-0,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/codex-mcp-agent/0.1.0/,Press,Auto-Discovery,,,pending_review
+ml-agents-reasoning 0.0.12a0,ml-agents-reasoning-0-0-12a0,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/ml-agents-reasoning/0.0.12a0/,Press,Auto-Discovery,,,pending_review
+aider-code 0.1.1.post23,aider-code-0-1-1-post23,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/aider-code/0.1.1.post23/,Press,Auto-Discovery,,,pending_review
+mcp-sqlserver-filesystem 0.1.2,mcp-sqlserver-filesystem-0-1-2,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/mcp-sqlserver-filesystem/0.1.2/,Press,Auto-Discovery,,,pending_review
+agemcp-0.2.0.tar.gz,agemcp-0-2-0-tar-gz,pending_review,,,,,,,,,,https://files.pythonhosted.org/packages/5b/d3/5c5c1d15591dd26d39d6527c551be3303cfa4e9ee3ec449ebb0c5a83697d/agemcp-0.2.0.tar.gz,Scraped,site_rescan,,,pending_review
+agemcp-0.2.0-py3-none-any.whl,agemcp-0-2-0-py3-none-any-whl,pending_review,,,,,,,,,,https://files.pythonhosted.org/packages/91/5a/66d4b2f95dd875efa3ef5817d5d830e6c9c2a9fd165b8338ee076e842695/agemcp-0.2.0-py3-none-any.whl,Scraped,site_rescan,,,pending_review
