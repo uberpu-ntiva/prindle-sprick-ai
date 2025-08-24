@@ -9,6 +9,14 @@
       "status": "pending_review"
     },
     {
+      "tool": "AGENTS.md",
+      "moniker": "agents-md",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/posts/agents-md",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "NeuralSide",
       "moniker": "neuralside",
       "category": "pending_review",
@@ -25,18 +33,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "AGENTS.md",
-      "moniker": "agents-md",
+      "tool": "Show HN: I wanted AI in Slack, ended up making Basecase (AI agents in chat)",
+      "moniker": "show-hn-i-wanted-ai-in-slack-ended-up-making-basecase-ai-agents-in-chat",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/posts/agents-md",
+      "website_url": "https://basecase.ai/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Review code in multiple passes with Git (git-cl)",
-      "moniker": "show-hn-review-code-in-multiple-passes-with-git-git-cl",
+      "tool": "Show HN: I built a Shazam for movies (identify films from clips in seconds)",
+      "moniker": "show-hn-i-built-a-shazam-for-movies-identify-films-from-clips-in-seconds",
       "category": "pending_review",
-      "website_url": "https://news.ycombinator.com/item?id=44994603",
+      "website_url": "https://whatmovie.net/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -49,34 +57,42 @@
       "status": "pending_review"
     },
     {
-      "tool": "A World of Goo–style bridge simulator 🛢️ using WL + Canvas API. All inside a single notebook",
-      "moniker": "a-world-of-goo-style-bridge-simulator-using-wl-canvas-api-all-inside-a-single-notebook",
+      "tool": "IEMidi-v2.0.0 · Cross-platform MIDI map editor for linux, win and macOS.",
+      "moniker": "iemidi-v2-0-0-cross-platform-midi-map-editor-for-linux-win-and-macos",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1my0icw/a_world_of_goostyle_bridge_simulator_using_wl/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1mylsul/iemidiv200_crossplatform_midi_map_editor_for/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "NVIDIA new paper : Small Language Models are the Future of Agentic AI",
-      "moniker": "nvidia-new-paper-small-language-models-are-the-future-of-agentic-ai",
+      "tool": "SXO :: Optimized Server-Side JSX. Build Simple. Build Fast",
+      "moniker": "sxo-optimized-server-side-jsx-build-simple-build-fast",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1mxrarl/nvidia_new_paper_small_language_models_are_the/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1my2ehr/sxo_optimized_serverside_jsx_build_simple_build/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "DINOv3 semantic video tracking running locally in your browser (WebGPU)",
-      "moniker": "dinov3-semantic-video-tracking-running-locally-in-your-browser-webgpu",
+      "tool": "2025 guide to Context Engineering for Software Engineers",
+      "moniker": "2025-guide-to-context-engineering-for-software-engineers",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1mx7q58/dinov3_semantic_video_tracking_running_locally_in/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1myqcvw/2025_guide_to_context_engineering_for_software/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Deep Research MCP Server",
-      "moniker": "deep-research-mcp-server",
+      "tool": "What are my best options for using Video Understanding Vision Language Models?",
+      "moniker": "what-are-my-best-options-for-using-video-understanding-vision-language-models",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1mxvp4q/deep_research_mcp_server/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1mytilm/what_are_my_best_options_for_using_video/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[R] Building a deep learning image model system to identify BJJ positions in matches",
+      "moniker": "r-building-a-deep-learning-image-model-system-to-identify-bjj-positions-in-matches",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1mylqrb/r_building_a_deep_learning_image_model_system_to/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -85,14 +101,6 @@
       "moniker": "d-aaai-considered-2nd-tier-now",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1mxrt1y/d_aaai_considered_2nd_tier_now/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[R] Is data the bottleneck for video/audio generation?",
-      "moniker": "r-is-data-the-bottleneck-for-video-audio-generation",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1mv5ls0/r_is_data_the_bottleneck_for_videoaudio_generation/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -117,14 +125,6 @@
       "moniker": "ninja-gaiden-ragebound-is-a-perfect-reimagining-of-the-classic-series",
       "category": "pending_review",
       "website_url": "https://www.theverge.com/games-review/716421/ninja-gaiden-ragebound-review-nintendo-switch-playstation-xbox-pc",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "The power shift inside OpenAI",
-      "moniker": "the-power-shift-inside-openai",
-      "category": "pending_review",
-      "website_url": "https://www.theverge.com/command-line-newsletter/764650/openai-chatgpt-fidji-simo-sam-altman-power-shift",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -705,82 +705,42 @@
       "status": "pending_review"
     },
     {
-      "tool": "CodeVideoRenderer 1.0.1.2",
-      "moniker": "codevideorenderer-1-0-1-2",
+      "tool": "axmp-openapi-mcp-server 0.1.9",
+      "moniker": "axmp-openapi-mcp-server-0-1-9",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/codevideorenderer/1.0.1.2/",
+      "website_url": "https://pypi.org/project/axmp-openapi-mcp-server/0.1.9/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "aider-code 0.1.1.post25",
-      "moniker": "aider-code-0-1-1-post25",
+      "tool": "shipboss-mcp-server 4.0.8",
+      "moniker": "shipboss-mcp-server-4-0-8",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/aider-code/0.1.1.post25/",
+      "website_url": "https://pypi.org/project/shipboss-mcp-server/4.0.8/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-sqlserver-filesystem 0.1.4",
-      "moniker": "mcp-sqlserver-filesystem-0-1-4",
+      "tool": "mcp-server-bb 0.1.4",
+      "moniker": "mcp-server-bb-0-1-4",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-sqlserver-filesystem/0.1.4/",
+      "website_url": "https://pypi.org/project/mcp-server-bb/0.1.4/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-server-public-transport 0.1.2",
-      "moniker": "mcp-server-public-transport-0-1-2",
+      "tool": "shipboss-mcp-server 4.0.7",
+      "moniker": "shipboss-mcp-server-4-0-7",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-server-public-transport/0.1.2/",
+      "website_url": "https://pypi.org/project/shipboss-mcp-server/4.0.7/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "task-agents-mcp 4.0.0",
-      "moniker": "task-agents-mcp-4-0-0",
+      "tool": "mcp-server-bb 0.1.3",
+      "moniker": "mcp-server-bb-0-1-3",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/task-agents-mcp/4.0.0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "aider-code 0.1.1.post24",
-      "moniker": "aider-code-0-1-1-post24",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/aider-code/0.1.1.post24/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "codex-mcp-agent 0.1.0",
-      "moniker": "codex-mcp-agent-0-1-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/codex-mcp-agent/0.1.0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "ml-agents-reasoning 0.0.12a0",
-      "moniker": "ml-agents-reasoning-0-0-12a0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/ml-agents-reasoning/0.0.12a0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "aider-code 0.1.1.post23",
-      "moniker": "aider-code-0-1-1-post23",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/aider-code/0.1.1.post23/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "mcp-sqlserver-filesystem 0.1.2",
-      "moniker": "mcp-sqlserver-filesystem-0-1-2",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-sqlserver-filesystem/0.1.2/",
+      "website_url": "https://pypi.org/project/mcp-server-bb/0.1.3/",
       "source_type": "Press",
       "status": "pending_review"
     }
