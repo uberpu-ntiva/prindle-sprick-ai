@@ -1,18 +1,26 @@
 {
   "items": [
     {
-      "tool": "KomikoAI Video to Video",
-      "moniker": "komikoai-video-to-video",
+      "tool": "UTCP Agent",
+      "moniker": "utcp-agent",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/posts/komikoai-video-to-video",
+      "website_url": "https://www.producthunt.com/posts/utcp-agent",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "NeuralAgent",
-      "moniker": "neuralagent",
+      "tool": "Technical SEO MCP",
+      "moniker": "technical-seo-mcp",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/posts/neuralagent-2",
+      "website_url": "https://www.producthunt.com/posts/technical-seo-mcp",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "KomikoAI Video to Video",
+      "moniker": "komikoai-video-to-video",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/posts/komikoai-video-to-video",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -25,18 +33,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "Hex Notebook Agent",
-      "moniker": "hex-notebook-agent",
+      "tool": "NeuralAgent",
+      "moniker": "neuralagent",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/posts/hex-notebook-agent",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Oppla AI IDE",
-      "moniker": "oppla-ai-ide",
-      "category": "pending_review",
-      "website_url": "https://www.producthunt.com/posts/oppla-ai-ide",
+      "website_url": "https://www.producthunt.com/posts/neuralagent-2",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -49,26 +49,34 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Nano Banana AI Studio – Free AI Image editor, no signup required",
-      "moniker": "show-hn-nano-banana-ai-studio-free-ai-image-editor-no-signup-required",
+      "tool": "Oppla AI IDE",
+      "moniker": "oppla-ai-ide",
       "category": "pending_review",
-      "website_url": "https://www.nanobananaai.studio/",
+      "website_url": "https://www.producthunt.com/posts/oppla-ai-ide",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Renamify – Case-aware search and replace for AI agents",
-      "moniker": "show-hn-renamify-case-aware-search-and-replace-for-ai-agents",
+      "tool": "Show HN: A01 – personal news agent to follow anything",
+      "moniker": "show-hn-a01-personal-news-agent-to-follow-anything",
       "category": "pending_review",
-      "website_url": "https://docspring.github.io/renamify/",
+      "website_url": "https://apps.apple.com/us/app/a01-your-personal-news-agent/id6745206011",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Interactive bash session for coding agents",
-      "moniker": "show-hn-interactive-bash-session-for-coding-agents",
+      "tool": "Show HN: NextClip – AI Video Editor for Talking Head Videos",
+      "moniker": "show-hn-nextclip-ai-video-editor-for-talking-head-videos",
       "category": "pending_review",
-      "website_url": "https://github.com/vincent-163/bgbash",
+      "website_url": "https://www.nextclip.pro/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "WoW private servers C++ code review by Tariq10x",
+      "moniker": "wow-private-servers-c-code-review-by-tariq10x",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/programming/comments/1n47l0k/wow_private_servers_c_code_review_by_tariq10x/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -81,10 +89,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "Apple releases FastVLM and MobileCLIP2 on Hugging Face, along with a real-time video captioning demo (in-browser + WebGPU)",
-      "moniker": "apple-releases-fastvlm-and-mobileclip2-on-hugging-face-along-with-a-real-time-video-captioning-demo-in-browser-webgpu",
+      "tool": "Is Isolation Forest ideal for real-time IMU-based anomaly detection? Open to better alternatives [P]",
+      "moniker": "is-isolation-forest-ideal-for-real-time-imu-based-anomaly-detection-open-to-better-alternatives-p",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1n3b13b/apple_releases_fastvlm_and_mobileclip2_on_hugging/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1n3nfye/is_isolation_forest_ideal_for_realtime_imubased/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -93,14 +101,6 @@
       "moniker": "d-how-do-we-make-browser-based-ai-agents-more-reliable",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1n3g1p7/d_how_do_we_make_browserbased_ai_agents_more/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Is Isolation Forest ideal for real-time IMU-based anomaly detection? Open to better alternatives [P]",
-      "moniker": "is-isolation-forest-ideal-for-real-time-imu-based-anomaly-detection-open-to-better-alternatives-p",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1n3nfye/is_isolation_forest_ideal_for_realtime_imubased/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -129,18 +129,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "[P] jupytercad-mcp: MCP server for JupyterCAD to control it using LLMs/natural language.",
-      "moniker": "p-jupytercad-mcp-mcp-server-for-jupytercad-to-control-it-using-llms-natural-language",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1n1ug7b/p_jupytercadmcp_mcp_server_for_jupytercad_to/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "Why Paradigm built a spreadsheet with an AI agent in every cell",
       "moniker": "why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell",
       "category": "pending_review",
       "website_url": "https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "AI agents are science fiction not yet ready for primetime",
+      "moniker": "ai-agents-are-science-fiction-not-yet-ready-for-primetime",
+      "category": "pending_review",
+      "website_url": "https://www.theverge.com/the-stepback-newsletter/767376/ai-agents-jarvis-what-can-they-do",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -753,66 +753,66 @@
       "status": "pending_review"
     },
     {
-      "tool": "agentup 0.7.4",
-      "moniker": "agentup-0-7-4",
+      "tool": "atlas-provider-sqlalchemy 0.4.0",
+      "moniker": "atlas-provider-sqlalchemy-0-4-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agentup/0.7.4/",
+      "website_url": "https://pypi.org/project/atlas-provider-sqlalchemy/0.4.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "agentic-blocks 0.1.14",
-      "moniker": "agentic-blocks-0-1-14",
+      "tool": "mcp-agentmemory 0.1.3",
+      "moniker": "mcp-agentmemory-0-1-3",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agentic-blocks/0.1.14/",
+      "website_url": "https://pypi.org/project/mcp-agentmemory/0.1.3/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "agentic-blocks 0.1.13",
-      "moniker": "agentic-blocks-0-1-13",
+      "tool": "mcp-agentmemory 0.1.2",
+      "moniker": "mcp-agentmemory-0-1-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agentic-blocks/0.1.13/",
+      "website_url": "https://pypi.org/project/mcp-agentmemory/0.1.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mle-kit-mcp 0.0.8",
-      "moniker": "mle-kit-mcp-0-0-8",
+      "tool": "mcp-agentmemory 0.1.1",
+      "moniker": "mcp-agentmemory-0-1-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mle-kit-mcp/0.0.8/",
+      "website_url": "https://pypi.org/project/mcp-agentmemory/0.1.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "academia-mcp 1.6.5",
-      "moniker": "academia-mcp-1-6-5",
+      "tool": "mcp-agentmemory 0.1.0",
+      "moniker": "mcp-agentmemory-0-1-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/academia-mcp/1.6.5/",
+      "website_url": "https://pypi.org/project/mcp-agentmemory/0.1.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "solana-agent 31.1.1",
-      "moniker": "solana-agent-31-1-1",
+      "tool": "mle-kit-mcp 0.1.3",
+      "moniker": "mle-kit-mcp-0-1-3",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/solana-agent/31.1.1/",
+      "website_url": "https://pypi.org/project/mle-kit-mcp/0.1.3/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "pyramid-mcp 0.0.21",
-      "moniker": "pyramid-mcp-0-0-21",
+      "tool": "mle-kit-mcp 0.1.2",
+      "moniker": "mle-kit-mcp-0-1-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/pyramid-mcp/0.0.21/",
+      "website_url": "https://pypi.org/project/mle-kit-mcp/0.1.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-proxy-adapter 6.1.1",
-      "moniker": "mcp-proxy-adapter-6-1-1",
+      "tool": "sqltodsltranslator-mcp 0.1.1",
+      "moniker": "sqltodsltranslator-mcp-0-1-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-proxy-adapter/6.1.1/",
+      "website_url": "https://pypi.org/project/sqltodsltranslator-mcp/0.1.1/",
       "source_type": "Press",
       "status": "pending_review"
     }
