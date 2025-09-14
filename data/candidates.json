@@ -1,26 +1,58 @@
 {
   "items": [
     {
-      "tool": "Show HN: A local MCP server that wraps Swarmia's Export API",
-      "moniker": "show-hn-a-local-mcp-server-that-wraps-swarmia-s-export-api",
+      "tool": "Show HN: Deep Water Sleep 1hr generative underwater in SuperCollider",
+      "moniker": "show-hn-deep-water-sleep-1hr-generative-underwater-in-supercollider",
       "category": "pending_review",
-      "website_url": "https://github.com/mattjegan/swarmia-mcp",
+      "website_url": "https://dethbird.com/deep-water-sleep/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Building a Personal AI Assistant Without the Cloud (2025 Guide)",
-      "moniker": "building-a-personal-ai-assistant-without-the-cloud-2025-guide",
+      "tool": "Show HN: Kodosumi – Open-source runtime for AI agents",
+      "moniker": "show-hn-kodosumi-open-source-runtime-for-ai-agents",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nfo1j4/building_a_personal_ai_assistant_without_the/",
+      "website_url": "https://www.kodosumi.io/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Qwen3 Next and DeepSeek V3.1 share an identical Artificial Analysis Intelligence Index Score for both their reasoning and non-reasoning modes.",
-      "moniker": "qwen3-next-and-deepseek-v3-1-share-an-identical-artificial-analysis-intelligence-index-score-for-both-their-reasoning-and-non-reasoning-modes",
+      "tool": "I have tried AI-assisted reviews, let's look at the numbers.",
+      "moniker": "i-have-tried-ai-assisted-reviews-let-s-look-at-the-numbers",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nf6s0w/qwen3_next_and_deepseek_v31_share_an_identical/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1ngm7fa/i_have_tried_aiassisted_reviews_lets_look_at_the/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Qwen-Image-Edit is the real deal! Case + simple guide",
+      "moniker": "qwen-image-edit-is-the-real-deal-case-simple-guide",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ng6fg2/qwenimageedit_is_the_real_deal_case_simple_guide/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Guide: running Qwen3 Next on Windows using vLLM + Docker+ WSL2",
+      "moniker": "guide-running-qwen3-next-on-windows-using-vllm-docker-wsl2",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ng5kfb/guide_running_qwen3_next_on_windows_using_vllm/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[Release] GraphBit — Rust-core, Python-first Agentic AI with lock-free multi-agent graphs for enterprise scale",
+      "moniker": "release-graphbit-rust-core-python-first-agentic-ai-with-lock-free-multi-agent-graphs-for-enterprise-scale",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ngrbdn/release_graphbit_rustcore_pythonfirst_agentic_ai/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "New Free AI Agent Framework",
+      "moniker": "new-free-ai-agent-framework",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ngaalz/new_free_ai_agent_framework/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -37,14 +69,6 @@
       "moniker": "p-training-an-ml-model-to-detect-fake-product-reviews",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1nfpusc/p_training_an_ml_model_to_detect_fake_product/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[D] IJCNLP-AACL 2025: Paper Reviews (ARR July 2025 Cycle)",
-      "moniker": "d-ijcnlp-aacl-2025-paper-reviews-arr-july-2025-cycle",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1ncu0na/d_ijcnlpaacl_2025_paper_reviews_arr_july_2025/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -609,50 +633,34 @@
       "status": "pending_review"
     },
     {
-      "tool": "vibegit-mcp 0.1.5",
-      "moniker": "vibegit-mcp-0-1-5",
+      "tool": "db-provider-postgres 0.0.12",
+      "moniker": "db-provider-postgres-0-0-12",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/vibegit-mcp/0.1.5/",
+      "website_url": "https://pypi.org/project/db-provider-postgres/0.0.12/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "yandex-tracker-mcp 0.4.3",
-      "moniker": "yandex-tracker-mcp-0-4-3",
+      "tool": "db-provider-postgres 0.0.11",
+      "moniker": "db-provider-postgres-0-0-11",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/yandex-tracker-mcp/0.4.3/",
+      "website_url": "https://pypi.org/project/db-provider-postgres/0.0.11/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcpcn-splitscreen 0.1.10",
-      "moniker": "mcpcn-splitscreen-0-1-10",
+      "tool": "db-provider-postgres 0.0.10",
+      "moniker": "db-provider-postgres-0-0-10",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcpcn-splitscreen/0.1.10/",
+      "website_url": "https://pypi.org/project/db-provider-postgres/0.0.10/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "universal-mcp-applications 0.1.13",
-      "moniker": "universal-mcp-applications-0-1-13",
+      "tool": "db-provider-postgres 0.0.9",
+      "moniker": "db-provider-postgres-0-0-9",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/universal-mcp-applications/0.1.13/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "mle-kit-mcp 1.1.6",
-      "moniker": "mle-kit-mcp-1-1-6",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/mle-kit-mcp/1.1.6/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "AbstractAgents 0.1.0",
-      "moniker": "abstractagents-0-1-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/abstractagents/0.1.0/",
+      "website_url": "https://pypi.org/project/db-provider-postgres/0.0.9/",
       "source_type": "Press",
       "status": "pending_review"
     }
