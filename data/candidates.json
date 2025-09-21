@@ -1,26 +1,10 @@
 {
   "items": [
     {
-      "tool": "Show HN: Guide to understanding your teen's lingo",
-      "moniker": "show-hn-guide-to-understanding-your-teen-s-lingo",
+      "tool": "Show HN: Shieldcode – Automated PR Code Reviews and Vulnerability Scanner",
+      "moniker": "show-hn-shieldcode-automated-pr-code-reviews-and-vulnerability-scanner",
       "category": "pending_review",
-      "website_url": "https://www.teenslangguide.com",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Show HN: AvoSmash – AI video storytelling made easy",
-      "moniker": "show-hn-avosmash-ai-video-storytelling-made-easy",
-      "category": "pending_review",
-      "website_url": "https://avosmash.io/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Show HN: Raspberry: Nutrition Tracking AI Agent(USDA, OpenFoodFacts, Web Search)",
-      "moniker": "show-hn-raspberry-nutrition-tracking-ai-agent-usda-openfoodfacts-web-search",
-      "category": "pending_review",
-      "website_url": "https://apps.apple.com/us/app/raspberry-ai/id6751657560",
+      "website_url": "https://shieldcode.space",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -33,34 +17,26 @@
       "status": "pending_review"
     },
     {
-      "tool": "Vogte: A language-specific agentic TUI targeting Go codebases",
-      "moniker": "vogte-a-language-specific-agentic-tui-targeting-go-codebases",
+      "tool": "Lucy-Edit : 1st Open-sourced model for Video editing",
+      "moniker": "lucy-edit-1st-open-sourced-model-for-video-editing",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1nlv9xx/vogte_a_languagespecific_agentic_tui_targeting_go/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nmj3cr/lucyedit_1st_opensourced_model_for_video_editing/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "1K+ schemas of agentic projects visualized",
-      "moniker": "1k-schemas-of-agentic-projects-visualized",
+      "tool": "Wan 2.2 Animate : Open-Sourced model for character replacement and animation in videos",
+      "moniker": "wan-2-2-animate-open-sourced-model-for-character-replacement-and-animation-in-videos",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nlxq55/1k_schemas_of_agentic_projects_visualized/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nmnmqh/wan_22_animate_opensourced_model_for_character/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "KaniTTS – Fast and high-fidelity TTS with just 450M params",
-      "moniker": "kanitts-fast-and-high-fidelity-tts-with-just-450m-params",
+      "tool": "[D] Is peer review overloaded due to rejecting too many papers?",
+      "moniker": "d-is-peer-review-overloaded-due-to-rejecting-too-many-papers",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nldom8/kanitts_fast_and_highfidelity_tts_with_just_450m/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Open sourced my AI video generation project",
-      "moniker": "open-sourced-my-ai-video-generation-project",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nlqu6q/open_sourced_my_ai_video_generation_project/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1nmo57e/d_is_peer_review_overloaded_due_to_rejecting_too/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -93,22 +69,6 @@
       "moniker": "r-looking-for-real-time-social-media-data-providers-with-geographic-filtering-your-finds-are-welcome",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1nkz9s9/r_looking_for_realtime_social_media_data/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[D] How about we review the reviewers?",
-      "moniker": "d-how-about-we-review-the-reviewers",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1njmxph/d_how_about_we_review_the_reviewers/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[D] AAAI 2026: Why did some papers get 3 human reviewers in Phase 1?",
-      "moniker": "d-aaai-2026-why-did-some-papers-get-3-human-reviewers-in-phase-1",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1nk1b7o/d_aaai_2026_why_did_some_papers_get_3_human/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -681,34 +641,26 @@
       "status": "pending_review"
     },
     {
-      "tool": "MCPower 0.3.3",
-      "moniker": "mcpower-0-3-3",
+      "tool": "create-mcp-app 1.0.1",
+      "moniker": "create-mcp-app-1-0-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcpower/0.3.3/",
+      "website_url": "https://pypi.org/project/create-mcp-app/1.0.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "gradio-agents 1.0.5",
-      "moniker": "gradio-agents-1-0-5",
+      "tool": "yta-video-pyav 0.3.11",
+      "moniker": "yta-video-pyav-0-3-11",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/gradio-agents/1.0.5/",
+      "website_url": "https://pypi.org/project/yta-video-pyav/0.3.11/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "gradio-agents 1.0.4",
-      "moniker": "gradio-agents-1-0-4",
+      "tool": "yta-video-pyav 0.3.10",
+      "moniker": "yta-video-pyav-0-3-10",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/gradio-agents/1.0.4/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "agentic-layer-sdk-adk 0.4.0",
-      "moniker": "agentic-layer-sdk-adk-0-4-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/agentic-layer-sdk-adk/0.4.0/",
+      "website_url": "https://pypi.org/project/yta-video-pyav/0.3.10/",
       "source_type": "Press",
       "status": "pending_review"
     }
