@@ -1,42 +1,90 @@
 {
   "items": [
     {
-      "tool": "Show HN: Open-Source TypeScript Framework for AI Agents – VoltAgent",
-      "moniker": "show-hn-open-source-typescript-framework-for-ai-agents-voltagent",
+      "tool": "Show HN: Verdent – AI coding agent that plans, tests, and ships",
+      "moniker": "show-hn-verdent-ai-coding-agent-that-plans-tests-and-ships",
       "category": "pending_review",
-      "website_url": "https://voltagent.dev/",
+      "website_url": "https://www.verdent.ai/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Snapdeck – Build slides with open-source LLMs and agent routing",
-      "moniker": "show-hn-snapdeck-build-slides-with-open-source-llms-and-agent-routing",
+      "tool": "Show HN: I made the fastest, ad-free way to download videos from X/Twitter",
+      "moniker": "show-hn-i-made-the-fastest-ad-free-way-to-download-videos-from-x-twitter",
       "category": "pending_review",
-      "website_url": "https://www.snapdeck.site/",
+      "website_url": "https://xdownload.org/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: ToolJet AI – Collaborative agents that build internal tools",
-      "moniker": "show-hn-tooljet-ai-collaborative-agents-that-build-internal-tools",
+      "tool": "Show HN: Interactive video that brings websites to life",
+      "moniker": "show-hn-interactive-video-that-brings-websites-to-life",
       "category": "pending_review",
-      "website_url": "https://www.tooljet.ai",
+      "website_url": "https://sisuvideo.fi",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "AI-Powered CLI Tool That Converts Long Videos to YouTube Shorts - Open Source",
-      "moniker": "ai-powered-cli-tool-that-converts-long-videos-to-youtube-shorts-open-source",
+      "tool": "Show HN: I made a tool to automate the stupid but fun Family Guy dialogue videos",
+      "moniker": "show-hn-i-made-a-tool-to-automate-the-stupid-but-fun-family-guy-dialogue-videos",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1nogzgb/aipowered_cli_tool_that_converts_long_videos_to/",
+      "website_url": "https://explainerslop.xyz/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "JEP draft: Lazy Constants (Second Preview)",
-      "moniker": "jep-draft-lazy-constants-second-preview",
+      "tool": "Show HN: Blur Image Online – A free, client-side tool to blur images",
+      "moniker": "show-hn-blur-image-online-a-free-client-side-tool-to-blur-images",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1no3fgv/jep_draft_lazy_constants_second_preview/",
+      "website_url": "https://www.blurimageonline.com/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "The Impatient Programmer’s Guide to Bevy and Rust: Chapter 1 - Let There Be a Player",
+      "moniker": "the-impatient-programmer-s-guide-to-bevy-and-rust-chapter-1-let-there-be-a-player",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/programming/comments/1np724v/the_impatient_programmers_guide_to_bevy_and_rust/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Awash in revisionist histories about Apple's web efforts, a look at the evidence",
+      "moniker": "awash-in-revisionist-histories-about-apple-s-web-efforts-a-look-at-the-evidence",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/programming/comments/1nomsqf/awash_in_revisionist_histories_about_apples_web/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "My second modified 3080 20GB from China , for local Ai inference , video and image generation..",
+      "moniker": "my-second-modified-3080-20gb-from-china-for-local-ai-inference-video-and-image-generation",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1np9rav/my_second_modified_3080_20gb_from_china_for_local/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "GitHub - shantur/jarvis-mcp: Bring your AI to life—talk to assistants instantly in your browser. Zero hasle, No API keys, No Whisper",
+      "moniker": "github-shantur-jarvis-mcp-bring-your-ai-to-life-talk-to-assistants-instantly-in-your-browser-zero-hasle-no-api-keys-no-whisper",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1np6qlc/github_shanturjarvismcp_bring_your_ai_to_lifetalk/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] Training smaller LLM for Agentic tasks.",
+      "moniker": "d-training-smaller-llm-for-agentic-tasks",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1np483r/d_training_smaller_llm_for_agentic_tasks/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[P] SyGra: Graph-oriented framework for reproducible synthetic data pipelines (SFT, DPO, agents, multimodal)",
+      "moniker": "p-sygra-graph-oriented-framework-for-reproducible-synthetic-data-pipelines-sft-dpo-agents-multimodal",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1nok8yy/p_sygra_graphoriented_framework_for_reproducible/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -65,26 +113,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "[D] Missing AAAI Reviews",
-      "moniker": "d-missing-aaai-reviews",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1nmu1ad/d_missing_aaai_reviews/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[D] Is peer review overloaded due to rejecting too many papers?",
-      "moniker": "d-is-peer-review-overloaded-due-to-rejecting-too-many-papers",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1nmo57e/d_is_peer_review_overloaded_due_to_rejecting_too/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "Amazon launches AI agent to help sellers complete tasks and manage their businesses",
       "moniker": "amazon-launches-ai-agent-to-help-sellers-complete-tasks-and-manage-their-businesses",
       "category": "pending_review",
       "website_url": "https://techcrunch.com/2025/09/17/amazon-launches-ai-agent-to-help-sellers-complete-tasks-and-manage-their-businesses/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "The Verge&#8217;s Guide to Amazon&#8217;s October Prime Day Event 2025",
+      "moniker": "the-verge-8217-s-guide-to-amazon-8217-s-october-prime-day-event-2025",
+      "category": "pending_review",
+      "website_url": "https://www.theverge.com/tech/782478/october-amazon-prime-day-deals-guide",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -101,6 +141,14 @@
       "moniker": "new-attack-on-chatgpt-research-agent-pilfers-secrets-from-gmail-inboxes",
       "category": "pending_review",
       "website_url": "https://arstechnica.com/information-technology/2025/09/new-attack-on-chatgpt-research-agent-pilfers-secrets-from-gmail-inboxes/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "The Download: accidental AI relationships, and the future of contraception",
+      "moniker": "the-download-accidental-ai-relationships-and-the-future-of-contraception",
+      "category": "pending_review",
+      "website_url": "https://www.technologyreview.com/2025/09/24/1124026/the-download-accidental-ai-relationships-and-future-contraception/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -665,34 +713,42 @@
       "status": "pending_review"
     },
     {
-      "tool": "mcp-evaluation-server 0.2.8",
-      "moniker": "mcp-evaluation-server-0-2-8",
+      "tool": "codelogic-mcp-server 1.0.7",
+      "moniker": "codelogic-mcp-server-1-0-7",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-evaluation-server/0.2.8/",
+      "website_url": "https://pypi.org/project/codelogic-mcp-server/1.0.7/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "nagaagent-core 1.0.4",
-      "moniker": "nagaagent-core-1-0-4",
+      "tool": "techlens-agent 0.5.0",
+      "moniker": "techlens-agent-0-5-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/nagaagent-core/1.0.4/",
+      "website_url": "https://pypi.org/project/techlens-agent/0.5.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "tidy3d-mcp 0.3.0",
-      "moniker": "tidy3d-mcp-0-3-0",
+      "tool": "finbourne-identity-sdk 2.1.152",
+      "moniker": "finbourne-identity-sdk-2-1-152",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/tidy3d-mcp/0.3.0/",
+      "website_url": "https://pypi.org/project/finbourne-identity-sdk/2.1.152/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-evaluation-server 0.2.7",
-      "moniker": "mcp-evaluation-server-0-2-7",
+      "tool": "directory-browser-mcp 0.1.0",
+      "moniker": "directory-browser-mcp-0-1-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-evaluation-server/0.2.7/",
+      "website_url": "https://pypi.org/project/directory-browser-mcp/0.1.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "red-tidegear 1.9.3",
+      "moniker": "red-tidegear-1-9-3",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/red-tidegear/1.9.3/",
       "source_type": "Press",
       "status": "pending_review"
     },
