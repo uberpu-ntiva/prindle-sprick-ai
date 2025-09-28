@@ -1,10 +1,26 @@
 {
   "items": [
     {
-      "tool": "Show HN: Mermaid Editor",
-      "moniker": "show-hn-mermaid-editor",
+      "tool": "Show HN: I created an app that can be used to download old versions of iOS apps [video]",
+      "moniker": "show-hn-i-created-an-app-that-can-be-used-to-download-old-versions-of-ios-apps-video",
       "category": "pending_review",
-      "website_url": "https://www.mermaidonline.live",
+      "website_url": "https://www.youtube.com/watch?v=Sqy4dScEbbo",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "A Quick Review of Haskell",
+      "moniker": "a-quick-review-of-haskell",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/programming/comments/1nsfsb5/a_quick_review_of_haskell/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Better Comments for GitHub - A browser extension that enhance the GitHub comment box with a powerful modern editor",
+      "moniker": "better-comments-for-github-a-browser-extension-that-enhance-the-github-comment-box-with-a-powerful-modern-editor",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/programming/comments/1nsgysa/better_comments_for_github_a_browser_extension/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -17,34 +33,42 @@
       "status": "pending_review"
     },
     {
-      "tool": "Moondream 3 Preview: Frontier-level reasoning at a blazing speed",
-      "moniker": "moondream-3-preview-frontier-level-reasoning-at-a-blazing-speed",
+      "tool": "dont buy the api from the website like openrouther or groq or anyother provider they reduce the qulaity of the model to make a profit . buy the api only from official website or run the model in locally",
+      "moniker": "dont-buy-the-api-from-the-website-like-openrouther-or-groq-or-anyother-provider-they-reduce-the-qulaity-of-the-model-to-make-a-profit-buy-the-api-only-from-official-website-or-run-the-model-in-locally",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nrqrva/moondream_3_preview_frontierlevel_reasoning_at_a/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nsfkqd/dont_buy_the_api_from_the_website_like/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "How am I supposed to know which third party provider can be trusted not to completely lobotomize a model?",
-      "moniker": "how-am-i-supposed-to-know-which-third-party-provider-can-be-trusted-not-to-completely-lobotomize-a-model",
+      "tool": "LMStudio + MCP is so far the best experience I've had with models in a while.",
+      "moniker": "lmstudio-mcp-is-so-far-the-best-experience-i-ve-had-with-models-in-a-while",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nr3n2r/how_am_i_supposed_to_know_which_third_party/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nsetwi/lmstudio_mcp_is_so_far_the_best_experience_ive/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Inside GPT-OSS: OpenAI’s Latest LLM Architecture",
-      "moniker": "inside-gpt-oss-openai-s-latest-llm-architecture",
+      "tool": "Native MCP now in Open WebUI!",
+      "moniker": "native-mcp-now-in-open-webui",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nr9ouo/inside_gptoss_openais_latest_llm_architecture/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ns7f86/native_mcp_now_in_open_webui/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "[P] Built a confidential AI inference pipeline using phala network - sharing performance benchmarks and lessons learned",
-      "moniker": "p-built-a-confidential-ai-inference-pipeline-using-phala-network-sharing-performance-benchmarks-and-lessons-learned",
+      "tool": "What's the simplest gpu provider?",
+      "moniker": "what-s-the-simplest-gpu-provider",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1npkdzb/p_built_a_confidential_ai_inference_pipeline/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nsmp8i/whats_the_simplest_gpu_provider/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Built an MCP server for Claude Desktop to browse Reddit in real-time",
+      "moniker": "built-an-mcp-server-for-claude-desktop-to-browse-reddit-in-real-time",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nsg3o9/built_an_mcp_server_for_claude_desktop_to_browse/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -61,30 +85,6 @@
       "moniker": "amazon-launches-ai-agent-to-help-sellers-complete-tasks-and-manage-their-businesses",
       "category": "pending_review",
       "website_url": "https://techcrunch.com/2025/09/17/amazon-launches-ai-agent-to-help-sellers-complete-tasks-and-manage-their-businesses/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Raleigh One e-bike review: redemption tour",
-      "moniker": "raleigh-one-e-bike-review-redemption-tour",
-      "category": "pending_review",
-      "website_url": "https://www.theverge.com/reviews/786538/raleigh-one-e-bike-review-vanmoof-carlier-ties-taco",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "ABC affiliates end their boycott, putting Jimmy Kimmel back on the air nationwide",
-      "moniker": "abc-affiliates-end-their-boycott-putting-jimmy-kimmel-back-on-the-air-nationwide",
-      "category": "pending_review",
-      "website_url": "https://www.theverge.com/news/786792/jimmy-kimmel-live-sinclair-return-air",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "One of our favorite video doorbells is 47 percent off in the run-up to Prime Day",
-      "moniker": "one-of-our-favorite-video-doorbells-is-47-percent-off-in-the-run-up-to-prime-day",
-      "category": "pending_review",
-      "website_url": "https://www.theverge.com/tech/786558/ring-battery-doorbell-plus-october-prime-day-deals-sale",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -673,34 +673,42 @@
       "status": "pending_review"
     },
     {
-      "tool": "wyhmcpserver 0.1.0",
-      "moniker": "wyhmcpserver-0-1-0",
+      "tool": "bb-mcp-server 1.2.2",
+      "moniker": "bb-mcp-server-1-2-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/wyhmcpserver/0.1.0/",
+      "website_url": "https://pypi.org/project/bb-mcp-server/1.2.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "agentle 0.8.35",
-      "moniker": "agentle-0-8-35",
+      "tool": "elide 0.22.3",
+      "moniker": "elide-0-22-3",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agentle/0.8.35/",
+      "website_url": "https://pypi.org/project/elide/0.22.3/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "cml-mcp 0.9.2",
-      "moniker": "cml-mcp-0-9-2",
+      "tool": "litestar-mcp 0.2.1",
+      "moniker": "litestar-mcp-0-2-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/cml-mcp/0.9.2/",
+      "website_url": "https://pypi.org/project/litestar-mcp/0.2.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "process-gpt-agent-sdk 0.3.19",
-      "moniker": "process-gpt-agent-sdk-0-3-19",
+      "tool": "math-mcp-learning-server 0.2.0",
+      "moniker": "math-mcp-learning-server-0-2-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/process-gpt-agent-sdk/0.3.19/",
+      "website_url": "https://pypi.org/project/math-mcp-learning-server/0.2.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "multimodal-agent-framework 0.1.9",
+      "moniker": "multimodal-agent-framework-0-1-9",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/multimodal-agent-framework/0.1.9/",
       "source_type": "Press",
       "status": "pending_review"
     }
