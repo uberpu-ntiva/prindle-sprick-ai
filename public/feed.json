@@ -5,6 +5,963 @@
   "feed_url": null,
   "items": [
     {
+      "id": "2025-09-30-zed-editor-nightly: git_ui: Render avatar",
+      "url": "https://github.com/zed-industries/zed/releases/tag/nightly",
+      "title": "[Zed] nightly: git_ui: Render avatars in git blame gutter (#39168)",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-zed-editor-v0.206.5-pre",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v0.206.5-pre",
+      "title": "[Zed] v0.206.5-pre",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-zed-editor-v0.206.4-pre",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v0.206.4-pre",
+      "title": "[Zed] v0.206.4-pre",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-zed-editor-v0.205.8",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v0.205.8",
+      "title": "[Zed] v0.205.8",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-zed-editor-v0.205.7",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v0.205.7",
+      "title": "[Zed] v0.205.7",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-zed-editor-collab-staging: zed: Add binar",
+      "url": "https://github.com/zed-industries/zed/releases/tag/collab-staging",
+      "title": "[Zed] collab-staging: zed: Add binary type to sentry crash tags (#39107)",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-zed-editor-v0.206.3-pre",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v0.206.3-pre",
+      "title": "[Zed] v0.206.3-pre",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-zed-editor-v0.205.6",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v0.205.6",
+      "title": "[Zed] v0.205.6",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-zed-editor-v0.206.2-pre",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v0.206.2-pre",
+      "title": "[Zed] v0.206.2-pre",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-zed-editor-v0.206.1-pre",
+      "url": "https://github.com/zed-industries/zed/releases/tag/v0.206.1-pre",
+      "title": "[Zed] v0.206.1-pre",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-qodo-merge-v0.30",
+      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.30",
+      "title": "[Qodo Merge] v0.30",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Code Review",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-qodo-merge-v0.29",
+      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.29",
+      "title": "[Qodo Merge] v0.29",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Code Review",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-qodo-merge-v0.28",
+      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.28",
+      "title": "[Qodo Merge] v0.28",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Code Review",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-qodo-merge-v0.27",
+      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.27",
+      "title": "[Qodo Merge] v0.27",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Code Review",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-qodo-merge-v0.26",
+      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.26",
+      "title": "[Qodo Merge] v0.26",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Code Review",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-qodo-merge-v0.25",
+      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.25",
+      "title": "[Qodo Merge] v0.25",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Code Review",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-qodo-merge-v0.24",
+      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.24",
+      "title": "[Qodo Merge] v0.24",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Code Review",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-qodo-merge-v0.23",
+      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.23",
+      "title": "[Qodo Merge] v0.23",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Code Review",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-qodo-merge-v0.22",
+      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.22",
+      "title": "[Qodo Merge] v0.22",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Code Review",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-qodo-merge-v0.21",
+      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.21",
+      "title": "[Qodo Merge] v0.21",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Code Review",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-openhands-0.57.2 - 2025-09-25",
+      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.57.2",
+      "title": "[OpenHands] 0.57.2 - 2025-09-25",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-openhands-0.57.1",
+      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.57.1",
+      "title": "[OpenHands] 0.57.1",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-openhands-0.57.0 - 2025-09-19",
+      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.57.0",
+      "title": "[OpenHands] 0.57.0 - 2025-09-19",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-openhands-0.56.0 - 2025-09-09",
+      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.56.0",
+      "title": "[OpenHands] 0.56.0 - 2025-09-09",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-openhands-0.55.0",
+      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.55.0",
+      "title": "[OpenHands] 0.55.0",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-openhands-0.54.0 - 2025-08-20",
+      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.54.0",
+      "title": "[OpenHands] 0.54.0 - 2025-08-20",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-openhands-0.53.0",
+      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.53.0",
+      "title": "[OpenHands] 0.53.0",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-openhands-0.52.1",
+      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.52.1",
+      "title": "[OpenHands] 0.52.1",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-openhands-0.52.0 - 2025-08-13",
+      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.52.0",
+      "title": "[OpenHands] 0.52.0 - 2025-08-13",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-openhands-0.51.1",
+      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.51.1",
+      "title": "[OpenHands] 0.51.1",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-metagpt-v0.8.2",
+      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.8.2",
+      "title": "[MetaGPT] v0.8.2",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-metagpt-Patch release: v0.8.1",
+      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.8.1",
+      "title": "[MetaGPT] Patch release: v0.8.1",
+      "content_text": "Security — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Security"
+      ]
+    },
+    {
+      "id": "2025-09-30-metagpt-v0.8.0: Introduction of Data I",
+      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.8.0",
+      "title": "[MetaGPT] v0.8.0: Introduction of Data Interpreter, Integration with RAG, and Expanded Support for LLMs",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-metagpt-Patch release: v0.7.7",
+      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.7",
+      "title": "[MetaGPT] Patch release: v0.7.7",
+      "content_text": "Security — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Security"
+      ]
+    },
+    {
+      "id": "2025-09-30-metagpt-Patch release: v0.7.6",
+      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.6",
+      "title": "[MetaGPT] Patch release: v0.7.6",
+      "content_text": "Security — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Security"
+      ]
+    },
+    {
+      "id": "2025-09-30-metagpt-Patch release: v0.7.4",
+      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.4",
+      "title": "[MetaGPT] Patch release: v0.7.4",
+      "content_text": "Security — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Security"
+      ]
+    },
+    {
+      "id": "2025-09-30-metagpt-Patch release: v0.7.3",
+      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.3",
+      "title": "[MetaGPT] Patch release: v0.7.3",
+      "content_text": "Security — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Security"
+      ]
+    },
+    {
+      "id": "2025-09-30-metagpt-Patch release: v0.7.2",
+      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.2",
+      "title": "[MetaGPT] Patch release: v0.7.2",
+      "content_text": "Security — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Security"
+      ]
+    },
+    {
+      "id": "2025-09-30-metagpt-Patch release: v0.7.1",
+      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.1",
+      "title": "[MetaGPT] Patch release: v0.7.1",
+      "content_text": "Security — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Security"
+      ]
+    },
+    {
+      "id": "2025-09-30-metagpt-v0.7.0: Easy Configuration, Im",
+      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.0",
+      "title": "[MetaGPT] v0.7.0: Easy Configuration, Improved Incremental Development, and CodeInterpreter",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-gorilla-berkeley-Berkeley Function Calling Lead",
+      "url": "https://github.com/ShishirPatil/gorilla/releases/tag/v1.3",
+      "title": "[Gorilla] Berkeley Function Calling Leaderboard Updates (v1.3)",
+      "content_text": "Major — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-09-30-gorilla-berkeley-Berkeley Function Calling Lead",
+      "url": "https://github.com/ShishirPatil/gorilla/releases/tag/v1.2",
+      "title": "[Gorilla] Berkeley Function Calling Leaderboard Updates (v1.2)",
+      "content_text": "Major — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-09-30-gorilla-berkeley-Berkeley Function Calling Lead",
+      "url": "https://github.com/ShishirPatil/gorilla/releases/tag/v1.1",
+      "title": "[Gorilla] Berkeley Function Calling Leaderboard Updates (v1.1)",
+      "content_text": "Major — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-09-30-gorilla-berkeley-Berkeley Function Calling Lead",
+      "url": "https://github.com/ShishirPatil/gorilla/releases/tag/v1.0",
+      "title": "[Gorilla] Berkeley Function Calling Leaderboard Updates (v1.0)",
+      "content_text": "Major — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-09-30-gorilla-berkeley-GoEx and Berkeley Function Cal",
+      "url": "https://github.com/ShishirPatil/gorilla/releases/tag/v0.3",
+      "title": "[Gorilla] GoEx and Berkeley Function Calling Leaderboard Updates",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-gorilla-berkeley-RAFT and Berkeley Function Cal",
+      "url": "https://github.com/ShishirPatil/gorilla/releases/tag/v0.2",
+      "title": "[Gorilla] RAFT and Berkeley Function Calling Leaderboard Updates",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-gorilla-berkeley-Gorilla v0.1: OpenFunctions-v2",
+      "url": "https://github.com/ShishirPatil/gorilla/releases/tag/v0.1",
+      "title": "[Gorilla] Gorilla v0.1: OpenFunctions-v2, Berkeley Function Calling Leaderboard, and more.",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-gorilla-berkeley-Gorilla release v0.0.1",
+      "url": "https://github.com/ShishirPatil/gorilla/releases/tag/v0.0.1",
+      "title": "[Gorilla] Gorilla release v0.0.1",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-gpt-pilot-0.2.13",
+      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.13",
+      "title": "[GPT Pilot by Pythagora] 0.2.13",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-gpt-pilot-0.2.12",
+      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.12",
+      "title": "[GPT Pilot by Pythagora] 0.2.12",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-gpt-pilot-0.2.11",
+      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.11",
+      "title": "[GPT Pilot by Pythagora] 0.2.11",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-gpt-pilot-0.2.10",
+      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.10",
+      "title": "[GPT Pilot by Pythagora] 0.2.10",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-gpt-pilot-0.2.9",
+      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.9",
+      "title": "[GPT Pilot by Pythagora] 0.2.9",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-gpt-pilot-0.2.8",
+      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.8",
+      "title": "[GPT Pilot by Pythagora] 0.2.8",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-gpt-pilot-0.2.7",
+      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.7",
+      "title": "[GPT Pilot by Pythagora] 0.2.7",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-gpt-pilot-0.2.6",
+      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.6",
+      "title": "[GPT Pilot by Pythagora] 0.2.6",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-gpt-pilot-0.2.5",
+      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.5",
+      "title": "[GPT Pilot by Pythagora] 0.2.5",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-gpt-pilot-0.2.4",
+      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.4",
+      "title": "[GPT Pilot by Pythagora] 0.2.4",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-cline-agent-v3.32.5",
+      "url": "https://github.com/cline/cline/releases/tag/v3.32.5",
+      "title": "[Cline] v3.32.5",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-cline-agent-v3.32.4",
+      "url": "https://github.com/cline/cline/releases/tag/v3.32.4",
+      "title": "[Cline] v3.32.4",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-cline-agent-v3.32.3",
+      "url": "https://github.com/cline/cline/releases/tag/v3.32.3",
+      "title": "[Cline] v3.32.3",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-cline-agent-v3.32.2",
+      "url": "https://github.com/cline/cline/releases/tag/v3.32.2",
+      "title": "[Cline] v3.32.2",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-cline-agent-v3.32.1",
+      "url": "https://github.com/cline/cline/releases/tag/v3.32.1",
+      "title": "[Cline] v3.32.1",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-cline-agent-v3.32.0",
+      "url": "https://github.com/cline/cline/releases/tag/v3.32.0",
+      "title": "[Cline] v3.32.0",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-cline-agent-v3.31.1",
+      "url": "https://github.com/cline/cline/releases/tag/v3.31.1",
+      "title": "[Cline] v3.31.1",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-cline-agent-v3.31.0",
+      "url": "https://github.com/cline/cline/releases/tag/v3.31.0",
+      "title": "[Cline] v3.31.0",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-cline-agent-v3.30.3",
+      "url": "https://github.com/cline/cline/releases/tag/v3.30.3",
+      "title": "[Cline] v3.30.3",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-cline-agent-v3.30.2",
+      "url": "https://github.com/cline/cline/releases/tag/v3.30.2",
+      "title": "[Cline] v3.30.2",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-chatdev-v1.1.6",
+      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.6",
+      "title": "[ChatDev] v1.1.6",
+      "content_text": "Major — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-09-30-chatdev-v1.1.5",
+      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.5",
+      "title": "[ChatDev] v1.1.5",
+      "content_text": "Major — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-09-30-chatdev-v1.1.4",
+      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.4",
+      "title": "[ChatDev] v1.1.4",
+      "content_text": "Major — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-09-30-chatdev-v1.1.3",
+      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.3",
+      "title": "[ChatDev] v1.1.3",
+      "content_text": "Major — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-09-30-chatdev-v1.1.2",
+      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.2",
+      "title": "[ChatDev] v1.1.2",
+      "content_text": "Major — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-09-30-chatdev-v1.1.1",
+      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.1",
+      "title": "[ChatDev] v1.1.1",
+      "content_text": "Major — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-09-30-chatdev-V1.1.0",
+      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.0",
+      "title": "[ChatDev] V1.1.0",
+      "content_text": "Major — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-09-30-chatdev-V1.0.1",
+      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.0.1",
+      "title": "[ChatDev] V1.0.1",
+      "content_text": "Major — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-09-30-chatdev-V1.0.0",
+      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.0.0",
+      "title": "[ChatDev] V1.0.0",
+      "content_text": "Major — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Agent",
+        "Major"
+      ]
+    },
+    {
+      "id": "2025-09-30-aider-cli-v0.86.2.dev",
+      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.86.2.dev",
+      "title": "[Aider] v0.86.2.dev",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-aider-cli-v0.86.1",
+      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.86.1",
+      "title": "[Aider] v0.86.1",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-aider-cli-v0.86.1.dev",
+      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.86.1.dev",
+      "title": "[Aider] v0.86.1.dev",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-aider-cli-Aider v0.86.0",
+      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.86.0",
+      "title": "[Aider] Aider v0.86.0",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-aider-cli-v0.85.6.dev",
+      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.85.6.dev",
+      "title": "[Aider] v0.85.6.dev",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-aider-cli-v0.85.5",
+      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.85.5",
+      "title": "[Aider] v0.85.5",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-aider-cli-v0.85.5.dev",
+      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.85.5.dev",
+      "title": "[Aider] v0.85.5.dev",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-aider-cli-v0.85.4",
+      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.85.4",
+      "title": "[Aider] v0.85.4",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-aider-cli-v0.85.4.dev",
+      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.85.4.dev",
+      "title": "[Aider] v0.85.4.dev",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
+      "id": "2025-09-30-aider-cli-v0.85.3",
+      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.85.3",
+      "title": "[Aider] v0.85.3",
+      "content_text": "Minor — ",
+      "date_published": "2025-09-30T09:20:00-04:00",
+      "tags": [
+        "Editor/IDE",
+        "Minor"
+      ]
+    },
+    {
       "id": "2025-09-29-zed-editor-nightly",
       "url": "https://github.com/zed-industries/zed/releases/tag/nightly",
       "title": "[Zed] nightly",
@@ -28962,963 +29919,6 @@
       "title": "[Aider] v0.85.3",
       "content_text": "Minor — ",
       "date_published": "2025-08-31T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-zed-editor-nightly: Fix SQL error in rece",
-      "url": "https://github.com/zed-industries/zed/releases/tag/nightly",
-      "title": "[Zed] nightly: Fix SQL error in recent projects query (#37220)",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-zed-editor-v0.202.4-pre",
-      "url": "https://github.com/zed-industries/zed/releases/tag/v0.202.4-pre",
-      "title": "[Zed] v0.202.4-pre",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-zed-editor-v0.202.3-pre",
-      "url": "https://github.com/zed-industries/zed/releases/tag/v0.202.3-pre",
-      "title": "[Zed] v0.202.3-pre",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-zed-editor-v0.201.8",
-      "url": "https://github.com/zed-industries/zed/releases/tag/v0.201.8",
-      "title": "[Zed] v0.201.8",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-zed-editor-v0.201.7",
-      "url": "https://github.com/zed-industries/zed/releases/tag/v0.201.7",
-      "title": "[Zed] v0.201.7",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-zed-editor-collab-staging: acp: Use the c",
-      "url": "https://github.com/zed-industries/zed/releases/tag/collab-staging",
-      "title": "[Zed] collab-staging: acp: Use the custom claude installation to perform login (#37169)",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-zed-editor-collab-production: acp: Instal",
-      "url": "https://github.com/zed-industries/zed/releases/tag/collab-production",
-      "title": "[Zed] collab-production: acp: Install new versions of agent binaries in the background (#37141)",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-zed-editor-v0.202.2-pre",
-      "url": "https://github.com/zed-industries/zed/releases/tag/v0.202.2-pre",
-      "title": "[Zed] v0.202.2-pre",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-zed-editor-v0.201.6",
-      "url": "https://github.com/zed-industries/zed/releases/tag/v0.201.6",
-      "title": "[Zed] v0.201.6",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-zed-editor-v0.202.1-pre",
-      "url": "https://github.com/zed-industries/zed/releases/tag/v0.202.1-pre",
-      "title": "[Zed] v0.202.1-pre",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-qodo-merge-v0.30",
-      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.30",
-      "title": "[Qodo Merge] v0.30",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Code Review",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-qodo-merge-v0.29",
-      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.29",
-      "title": "[Qodo Merge] v0.29",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Code Review",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-qodo-merge-v0.28",
-      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.28",
-      "title": "[Qodo Merge] v0.28",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Code Review",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-qodo-merge-v0.27",
-      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.27",
-      "title": "[Qodo Merge] v0.27",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Code Review",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-qodo-merge-v0.26",
-      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.26",
-      "title": "[Qodo Merge] v0.26",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Code Review",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-qodo-merge-v0.25",
-      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.25",
-      "title": "[Qodo Merge] v0.25",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Code Review",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-qodo-merge-v0.24",
-      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.24",
-      "title": "[Qodo Merge] v0.24",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Code Review",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-qodo-merge-v0.23",
-      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.23",
-      "title": "[Qodo Merge] v0.23",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Code Review",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-qodo-merge-v0.22",
-      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.22",
-      "title": "[Qodo Merge] v0.22",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Code Review",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-qodo-merge-v0.21",
-      "url": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.21",
-      "title": "[Qodo Merge] v0.21",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Code Review",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-openhands-0.54.0 - 2025-08-20",
-      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.54.0",
-      "title": "[OpenHands] 0.54.0 - 2025-08-20",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-openhands-0.53.0",
-      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.53.0",
-      "title": "[OpenHands] 0.53.0",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-openhands-0.52.1",
-      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.52.1",
-      "title": "[OpenHands] 0.52.1",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-openhands-0.52.0 - 2025-08-13",
-      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.52.0",
-      "title": "[OpenHands] 0.52.0 - 2025-08-13",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-openhands-0.51.1",
-      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.51.1",
-      "title": "[OpenHands] 0.51.1",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-openhands-0.51.0 - 2025-07-31",
-      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.51.0",
-      "title": "[OpenHands] 0.51.0 - 2025-07-31",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-openhands-0.50.0 - 2025-07-24",
-      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.50.0",
-      "title": "[OpenHands] 0.50.0 - 2025-07-24",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-openhands-0.49.1",
-      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.49.1",
-      "title": "[OpenHands] 0.49.1",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-openhands-0.49.0 - 2025-07-16",
-      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.49.0",
-      "title": "[OpenHands] 0.49.0 - 2025-07-16",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-openhands-0.48.0 - 2025-07-02",
-      "url": "https://github.com/All-Hands-AI/OpenHands/releases/tag/0.48.0",
-      "title": "[OpenHands] 0.48.0 - 2025-07-02",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-metagpt-v0.8.2",
-      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.8.2",
-      "title": "[MetaGPT] v0.8.2",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-metagpt-Patch release: v0.8.1",
-      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.8.1",
-      "title": "[MetaGPT] Patch release: v0.8.1",
-      "content_text": "Security — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Security"
-      ]
-    },
-    {
-      "id": "2025-08-30-metagpt-v0.8.0: Introduction of Data I",
-      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.8.0",
-      "title": "[MetaGPT] v0.8.0: Introduction of Data Interpreter, Integration with RAG, and Expanded Support for LLMs",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-metagpt-Patch release: v0.7.7",
-      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.7",
-      "title": "[MetaGPT] Patch release: v0.7.7",
-      "content_text": "Security — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Security"
-      ]
-    },
-    {
-      "id": "2025-08-30-metagpt-Patch release: v0.7.6",
-      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.6",
-      "title": "[MetaGPT] Patch release: v0.7.6",
-      "content_text": "Security — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Security"
-      ]
-    },
-    {
-      "id": "2025-08-30-metagpt-Patch release: v0.7.4",
-      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.4",
-      "title": "[MetaGPT] Patch release: v0.7.4",
-      "content_text": "Security — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Security"
-      ]
-    },
-    {
-      "id": "2025-08-30-metagpt-Patch release: v0.7.3",
-      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.3",
-      "title": "[MetaGPT] Patch release: v0.7.3",
-      "content_text": "Security — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Security"
-      ]
-    },
-    {
-      "id": "2025-08-30-metagpt-Patch release: v0.7.2",
-      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.2",
-      "title": "[MetaGPT] Patch release: v0.7.2",
-      "content_text": "Security — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Security"
-      ]
-    },
-    {
-      "id": "2025-08-30-metagpt-Patch release: v0.7.1",
-      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.1",
-      "title": "[MetaGPT] Patch release: v0.7.1",
-      "content_text": "Security — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Security"
-      ]
-    },
-    {
-      "id": "2025-08-30-metagpt-v0.7.0: Easy Configuration, Im",
-      "url": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.0",
-      "title": "[MetaGPT] v0.7.0: Easy Configuration, Improved Incremental Development, and CodeInterpreter",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-gorilla-berkeley-Berkeley Function Calling Lead",
-      "url": "https://github.com/ShishirPatil/gorilla/releases/tag/v1.3",
-      "title": "[Gorilla] Berkeley Function Calling Leaderboard Updates (v1.3)",
-      "content_text": "Major — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Major"
-      ]
-    },
-    {
-      "id": "2025-08-30-gorilla-berkeley-Berkeley Function Calling Lead",
-      "url": "https://github.com/ShishirPatil/gorilla/releases/tag/v1.2",
-      "title": "[Gorilla] Berkeley Function Calling Leaderboard Updates (v1.2)",
-      "content_text": "Major — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Major"
-      ]
-    },
-    {
-      "id": "2025-08-30-gorilla-berkeley-Berkeley Function Calling Lead",
-      "url": "https://github.com/ShishirPatil/gorilla/releases/tag/v1.1",
-      "title": "[Gorilla] Berkeley Function Calling Leaderboard Updates (v1.1)",
-      "content_text": "Major — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Major"
-      ]
-    },
-    {
-      "id": "2025-08-30-gorilla-berkeley-Berkeley Function Calling Lead",
-      "url": "https://github.com/ShishirPatil/gorilla/releases/tag/v1.0",
-      "title": "[Gorilla] Berkeley Function Calling Leaderboard Updates (v1.0)",
-      "content_text": "Major — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Major"
-      ]
-    },
-    {
-      "id": "2025-08-30-gorilla-berkeley-GoEx and Berkeley Function Cal",
-      "url": "https://github.com/ShishirPatil/gorilla/releases/tag/v0.3",
-      "title": "[Gorilla] GoEx and Berkeley Function Calling Leaderboard Updates",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-gorilla-berkeley-RAFT and Berkeley Function Cal",
-      "url": "https://github.com/ShishirPatil/gorilla/releases/tag/v0.2",
-      "title": "[Gorilla] RAFT and Berkeley Function Calling Leaderboard Updates",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-gorilla-berkeley-Gorilla v0.1: OpenFunctions-v2",
-      "url": "https://github.com/ShishirPatil/gorilla/releases/tag/v0.1",
-      "title": "[Gorilla] Gorilla v0.1: OpenFunctions-v2, Berkeley Function Calling Leaderboard, and more.",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-gorilla-berkeley-Gorilla release v0.0.1",
-      "url": "https://github.com/ShishirPatil/gorilla/releases/tag/v0.0.1",
-      "title": "[Gorilla] Gorilla release v0.0.1",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-gpt-pilot-0.2.13",
-      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.13",
-      "title": "[GPT Pilot by Pythagora] 0.2.13",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-gpt-pilot-0.2.12",
-      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.12",
-      "title": "[GPT Pilot by Pythagora] 0.2.12",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-gpt-pilot-0.2.11",
-      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.11",
-      "title": "[GPT Pilot by Pythagora] 0.2.11",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-gpt-pilot-0.2.10",
-      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.10",
-      "title": "[GPT Pilot by Pythagora] 0.2.10",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-gpt-pilot-0.2.9",
-      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.9",
-      "title": "[GPT Pilot by Pythagora] 0.2.9",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-gpt-pilot-0.2.8",
-      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.8",
-      "title": "[GPT Pilot by Pythagora] 0.2.8",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-gpt-pilot-0.2.7",
-      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.7",
-      "title": "[GPT Pilot by Pythagora] 0.2.7",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-gpt-pilot-0.2.6",
-      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.6",
-      "title": "[GPT Pilot by Pythagora] 0.2.6",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-gpt-pilot-0.2.5",
-      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.5",
-      "title": "[GPT Pilot by Pythagora] 0.2.5",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-gpt-pilot-0.2.4",
-      "url": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.4",
-      "title": "[GPT Pilot by Pythagora] 0.2.4",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-cline-agent-v3.26.7",
-      "url": "https://github.com/cline/cline/releases/tag/v3.26.7",
-      "title": "[Cline] v3.26.7",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-cline-agent-v3.26.6",
-      "url": "https://github.com/cline/cline/releases/tag/v3.26.6",
-      "title": "[Cline] v3.26.6",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-cline-agent-v3.26.5",
-      "url": "https://github.com/cline/cline/releases/tag/v3.26.5",
-      "title": "[Cline] v3.26.5",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-cline-agent-v3.26.4 Release Notes (#5769)",
-      "url": "https://github.com/cline/cline/releases/tag/v3.26.4",
-      "title": "[Cline] v3.26.4 Release Notes (#5769)",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-cline-agent-v3.26.3 Release Notes (#5759)",
-      "url": "https://github.com/cline/cline/releases/tag/v3.26.3",
-      "title": "[Cline] v3.26.3 Release Notes (#5759)",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-cline-agent-v3.26.2",
-      "url": "https://github.com/cline/cline/releases/tag/v3.26.2",
-      "title": "[Cline] v3.26.2",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-cline-agent-v3.26.1",
-      "url": "https://github.com/cline/cline/releases/tag/v3.26.1",
-      "title": "[Cline] v3.26.1",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-cline-agent-v3.26.0",
-      "url": "https://github.com/cline/cline/releases/tag/v3.26.0",
-      "title": "[Cline] v3.26.0",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-cline-agent-v3.25.3",
-      "url": "https://github.com/cline/cline/releases/tag/v3.25.3",
-      "title": "[Cline] v3.25.3",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-cline-agent-v3.25.2",
-      "url": "https://github.com/cline/cline/releases/tag/v3.25.2",
-      "title": "[Cline] v3.25.2",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-chatdev-v1.1.6",
-      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.6",
-      "title": "[ChatDev] v1.1.6",
-      "content_text": "Major — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Major"
-      ]
-    },
-    {
-      "id": "2025-08-30-chatdev-v1.1.5",
-      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.5",
-      "title": "[ChatDev] v1.1.5",
-      "content_text": "Major — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Major"
-      ]
-    },
-    {
-      "id": "2025-08-30-chatdev-v1.1.4",
-      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.4",
-      "title": "[ChatDev] v1.1.4",
-      "content_text": "Major — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Major"
-      ]
-    },
-    {
-      "id": "2025-08-30-chatdev-v1.1.3",
-      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.3",
-      "title": "[ChatDev] v1.1.3",
-      "content_text": "Major — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Major"
-      ]
-    },
-    {
-      "id": "2025-08-30-chatdev-v1.1.2",
-      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.2",
-      "title": "[ChatDev] v1.1.2",
-      "content_text": "Major — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Major"
-      ]
-    },
-    {
-      "id": "2025-08-30-chatdev-v1.1.1",
-      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.1",
-      "title": "[ChatDev] v1.1.1",
-      "content_text": "Major — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Major"
-      ]
-    },
-    {
-      "id": "2025-08-30-chatdev-V1.1.0",
-      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.0",
-      "title": "[ChatDev] V1.1.0",
-      "content_text": "Major — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Major"
-      ]
-    },
-    {
-      "id": "2025-08-30-chatdev-V1.0.1",
-      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.0.1",
-      "title": "[ChatDev] V1.0.1",
-      "content_text": "Major — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Major"
-      ]
-    },
-    {
-      "id": "2025-08-30-chatdev-V1.0.0",
-      "url": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.0.0",
-      "title": "[ChatDev] V1.0.0",
-      "content_text": "Major — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Agent",
-        "Major"
-      ]
-    },
-    {
-      "id": "2025-08-30-aider-cli-v0.86.2.dev",
-      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.86.2.dev",
-      "title": "[Aider] v0.86.2.dev",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-aider-cli-v0.86.1",
-      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.86.1",
-      "title": "[Aider] v0.86.1",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-aider-cli-v0.86.1.dev",
-      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.86.1.dev",
-      "title": "[Aider] v0.86.1.dev",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-aider-cli-Aider v0.86.0",
-      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.86.0",
-      "title": "[Aider] Aider v0.86.0",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-aider-cli-v0.85.6.dev",
-      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.85.6.dev",
-      "title": "[Aider] v0.85.6.dev",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-aider-cli-v0.85.5",
-      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.85.5",
-      "title": "[Aider] v0.85.5",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-aider-cli-v0.85.5.dev",
-      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.85.5.dev",
-      "title": "[Aider] v0.85.5.dev",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-aider-cli-v0.85.4",
-      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.85.4",
-      "title": "[Aider] v0.85.4",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-aider-cli-v0.85.4.dev",
-      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.85.4.dev",
-      "title": "[Aider] v0.85.4.dev",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
-      "tags": [
-        "Editor/IDE",
-        "Minor"
-      ]
-    },
-    {
-      "id": "2025-08-30-aider-cli-v0.85.3",
-      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.85.3",
-      "title": "[Aider] v0.85.3",
-      "content_text": "Minor — ",
-      "date_published": "2025-08-30T09:20:00-04:00",
       "tags": [
         "Editor/IDE",
         "Minor"
