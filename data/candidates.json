@@ -1,26 +1,34 @@
 {
   "items": [
     {
-      "tool": "Show HN: BetterSelf – an app to never forget the lessons and ideas you learn",
-      "moniker": "show-hn-betterself-an-app-to-never-forget-the-lessons-and-ideas-you-learn",
+      "tool": "Show HN: Cube Art Project 2 Online – A Multiplayer Voxel Editor in the Browser",
+      "moniker": "show-hn-cube-art-project-2-online-a-multiplayer-voxel-editor-in-the-browser",
       "category": "pending_review",
-      "website_url": "https://apps.apple.com/ch/app/betterself/id6752654530?l=en-GB",
+      "website_url": "https://demensdeum.com/software/cube-art-project-2-online/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Jilebi – A MCP Runtime",
-      "moniker": "show-hn-jilebi-a-mcp-runtime",
+      "tool": "Show HN: Dropstone – A Self-Learning AI IDE That Improves with Your Workflow",
+      "moniker": "show-hn-dropstone-a-self-learning-ai-ide-that-improves-with-your-workflow",
       "category": "pending_review",
-      "website_url": "https://jilebi.ai",
+      "website_url": "https://www.dropstone.io",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Effective context engineering for AI agents by Anthropic",
-      "moniker": "effective-context-engineering-for-ai-agents-by-anthropic",
+      "tool": "Sneak Preview: Ollama Bench",
+      "moniker": "sneak-preview-ollama-bench",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nxt2r2/effective_context_engineering_for_ai_agents_by/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nykevr/sneak_preview_ollama_bench/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Video2X 6.x — open-source upscaler + frame interpolation (Anime4K v4 / Real-ESRGAN / Real-CUGAN / RIFE) 🚀",
+      "moniker": "video2x-6-x-open-source-upscaler-frame-interpolation-anime4k-v4-real-esrgan-real-cugan-rife",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1nykzv3/video2x_6x_opensource_upscaler_frame/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -33,18 +41,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "[D] Anyone here using LLM-as-a-Judge for agent evaluation?",
-      "moniker": "d-anyone-here-using-llm-as-a-judge-for-agent-evaluation",
+      "tool": "Anker offered Eufy camera owners $2 per video for AI training",
+      "moniker": "anker-offered-eufy-camera-owners-2-per-video-for-ai-training",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1nvj5hn/d_anyone_here_using_llmasajudge_for_agent/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Anker offered to pay Eufy camera owners to share videos for training its AI",
-      "moniker": "anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai",
-      "category": "pending_review",
-      "website_url": "https://techcrunch.com/2025/10/01/anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai/",
+      "website_url": "https://techcrunch.com/2025/10/04/anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -157,14 +157,6 @@
       "moniker": "two-uk-teens-charged-in-connection-to-scattered-spider-ransomware-attacks",
       "category": "pending_review",
       "website_url": "https://arstechnica.com/security/2025/09/two-uk-teens-charged-in-connection-to-scattered-spider-ransomware-attacks/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "New attack on ChatGPT research agent pilfers secrets from Gmail inboxes",
-      "moniker": "new-attack-on-chatgpt-research-agent-pilfers-secrets-from-gmail-inboxes",
-      "category": "pending_review",
-      "website_url": "https://arstechnica.com/information-technology/2025/09/new-attack-on-chatgpt-research-agent-pilfers-secrets-from-gmail-inboxes/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -737,50 +729,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "jir-agent 0.1.1",
-      "moniker": "jir-agent-0-1-1",
+      "tool": "nekro-agent-toolkit 1.4.2",
+      "moniker": "nekro-agent-toolkit-1-4-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/jir-agent/0.1.1/",
+      "website_url": "https://pypi.org/project/nekro-agent-toolkit/1.4.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "session-mgmt-mcp 0.7.1",
-      "moniker": "session-mgmt-mcp-0-7-1",
+      "tool": "videolab 0.4.1",
+      "moniker": "videolab-0-4-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/session-mgmt-mcp/0.7.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "jir-agent 0.1.0",
-      "moniker": "jir-agent-0-1-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/jir-agent/0.1.0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "slack-lists-mcp 0.1.9",
-      "moniker": "slack-lists-mcp-0-1-9",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/slack-lists-mcp/0.1.9/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "point-topic-mcp 0.1.25",
-      "moniker": "point-topic-mcp-0-1-25",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/point-topic-mcp/0.1.25/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "slack-lists-mcp 0.1.8",
-      "moniker": "slack-lists-mcp-0-1-8",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/slack-lists-mcp/0.1.8/",
+      "website_url": "https://pypi.org/project/videolab/0.4.1/",
       "source_type": "Press",
       "status": "pending_review"
     }
