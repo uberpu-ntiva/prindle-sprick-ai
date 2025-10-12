@@ -9,74 +9,90 @@
       "status": "pending_review"
     },
     {
-      "tool": "Orchestra",
-      "moniker": "orchestra",
+      "tool": "Show HN: I built a free tool to make Before–After comparison videos",
+      "moniker": "show-hn-i-built-a-free-tool-to-make-before-after-comparison-videos",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/orchestra-3",
+      "website_url": "https://beforeafter.online/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Ambigram Generator: Create words that read the same upside-down",
-      "moniker": "show-hn-ambigram-generator-create-words-that-read-the-same-upside-down",
+      "tool": "Show HN: I built a tool to create SaaS demo videos",
+      "moniker": "show-hn-i-built-a-tool-to-create-saas-demo-videos",
       "category": "pending_review",
-      "website_url": "https://www.ambigramgenerator.me/",
+      "website_url": "https://videoyards.com",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Album of love songs told through scientific/technical analogies [video]",
-      "moniker": "show-hn-album-of-love-songs-told-through-scientific-technical-analogies-video",
+      "tool": "Zed's DeltaDB idea - real problem or overkill?",
+      "moniker": "zed-s-deltadb-idea-real-problem-or-overkill",
       "category": "pending_review",
-      "website_url": "https://www.youtube.com/watch?v=6U3bXnUoaJQ&list=OLAK5uy_k7NK4N1VYnEfVdftCm48HWGtIC5RDeXEc&index=11",
+      "website_url": "https://www.reddit.com/r/programming/comments/1o4h34t/zeds_deltadb_idea_real_problem_or_overkill/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Install Cursor rules and Claude agents like NPM packages",
-      "moniker": "show-hn-install-cursor-rules-and-claude-agents-like-npm-packages",
+      "tool": "Practical Guide to Production-Grade Observability in the JS ecosystem",
+      "moniker": "practical-guide-to-production-grade-observability-in-the-js-ecosystem",
       "category": "pending_review",
-      "website_url": "https://promptpm.dev",
+      "website_url": "https://www.reddit.com/r/programming/comments/1o3yxmj/practical_guide_to_productiongrade_observability/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Rebuilt Bible search app to run 100% client-side with Transformers.js",
-      "moniker": "show-hn-rebuilt-bible-search-app-to-run-100-client-side-with-transformers-js",
+      "tool": "KoboldCpp now supports video generation",
+      "moniker": "koboldcpp-now-supports-video-generation",
       "category": "pending_review",
-      "website_url": "https://www.biblos.app/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1o4hxqe/koboldcpp_now_supports_video_generation/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Dealing with Eventual Consistency and Idempotency in projections",
-      "moniker": "dealing-with-eventual-consistency-and-idempotency-in-projections",
+      "tool": "I built an open-source repo to learn and apply AI Agentic Patterns",
+      "moniker": "i-built-an-open-source-repo-to-learn-and-apply-ai-agentic-patterns",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1o3plim/dealing_with_eventual_consistency_and_idempotency/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1o4im2n/i_built_an_opensource_repo_to_learn_and_apply_ai/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "How to Design a Rate Limiter (A Complete Guide for System Design Interviews)",
-      "moniker": "how-to-design-a-rate-limiter-a-complete-guide-for-system-design-interviews",
+      "tool": "Deep Think with Confidence",
+      "moniker": "deep-think-with-confidence",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1o34bl5/how_to_design_a_rate_limiter_a_complete_guide_for/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1o4kyo9/deep_think_with_confidence/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Understanding conflict resolution and avoidance in PostgreSQL: a complete guide",
-      "moniker": "understanding-conflict-resolution-and-avoidance-in-postgresql-a-complete-guide",
+      "tool": "How do you discover & choose right models for your agents? (genuinely curious)",
+      "moniker": "how-do-you-discover-choose-right-models-for-your-agents-genuinely-curious",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1o3b6h6/understanding_conflict_resolution_and_avoidance/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1o4ahfi/how_do_you_discover_choose_right_models_for_your/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "This is one of the most reasonable videos I've seen on the topic of AI Programming",
-      "moniker": "this-is-one-of-the-most-reasonable-videos-i-ve-seen-on-the-topic-of-ai-programming",
+      "tool": "Very interesting! OmniInsert — mask-free video insertion of any reference",
+      "moniker": "very-interesting-omniinsert-mask-free-video-insertion-of-any-reference",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1o2g3ee/this_is_one_of_the_most_reasonable_videos_ive/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1o4p3vj/very_interesting_omniinsert_maskfree_video/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] AAAI 2026- Dealing with incorrect reviews?",
+      "moniker": "d-aaai-2026-dealing-with-incorrect-reviews",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1o4jfp6/d_aaai_2026_dealing_with_incorrect_reviews/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] Best videos of talks on using RL to train reasoning models",
+      "moniker": "d-best-videos-of-talks-on-using-rl-to-train-reasoning-models",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1o458z9/d_best_videos_of_talks_on_using_rl_to_train/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -129,10 +145,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "Hollywood has no idea what to do about AI",
-      "moniker": "hollywood-has-no-idea-what-to-do-about-ai",
+      "tool": "Apple ends support for Clips video-editing app",
+      "moniker": "apple-ends-support-for-clips-video-editing-app",
       "category": "pending_review",
-      "website_url": "https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner",
+      "website_url": "https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -181,14 +197,6 @@
       "moniker": "to-scale-agentic-ai-notion-tore-down-its-tech-stack-and-started-fresh",
       "category": "pending_review",
       "website_url": "https://venturebeat.com/ai/to-scale-agentic-ai-notion-tore-down-its-tech-stack-and-started-fresh",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Has this stealth startup finally cracked the code on enterprise AI agent reliability? Meet AUI's Apollo-1",
-      "moniker": "has-this-stealth-startup-finally-cracked-the-code-on-enterprise-ai-agent-reliability-meet-aui-s-apollo-1",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/has-this-stealth-startup-finally-cracked-the-code-on-enterprise-ai-agent",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -753,66 +761,82 @@
       "status": "pending_review"
     },
     {
-      "tool": "mcp-proxy-adapter 6.9.13",
-      "moniker": "mcp-proxy-adapter-6-9-13",
+      "tool": "init-provider 0.1.3",
+      "moniker": "init-provider-0-1-3",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-proxy-adapter/6.9.13/",
+      "website_url": "https://pypi.org/project/init-provider/0.1.3/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "icost-app-mcp-server 0.1.1",
-      "moniker": "icost-app-mcp-server-0-1-1",
+      "tool": "ai-mcp-terminal 1.0.0",
+      "moniker": "ai-mcp-terminal-1-0-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/icost-app-mcp-server/0.1.1/",
+      "website_url": "https://pypi.org/project/ai-mcp-terminal/1.0.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "react-agent-framework 0.11.0",
-      "moniker": "react-agent-framework-0-11-0",
+      "tool": "jupyter-mcp-server 0.15.4",
+      "moniker": "jupyter-mcp-server-0-15-4",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/react-agent-framework/0.11.0/",
+      "website_url": "https://pypi.org/project/jupyter-mcp-server/0.15.4/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcpcn-office-powerpoint-mcp-server 2.0.7",
-      "moniker": "mcpcn-office-powerpoint-mcp-server-2-0-7",
+      "tool": "sibr-agent 0.1.3",
+      "moniker": "sibr-agent-0-1-3",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcpcn-office-powerpoint-mcp-server/2.0.7/",
+      "website_url": "https://pypi.org/project/sibr-agent/0.1.3/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "insurance-predict-mcp 1.1.0",
-      "moniker": "insurance-predict-mcp-1-1-0",
+      "tool": "sibr-agent 0.1.2",
+      "moniker": "sibr-agent-0-1-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/insurance-predict-mcp/1.1.0/",
+      "website_url": "https://pypi.org/project/sibr-agent/0.1.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "sun-agent-toolkit 0.0.3b5",
-      "moniker": "sun-agent-toolkit-0-0-3b5",
+      "tool": "soapboxslide 1.0.1",
+      "moniker": "soapboxslide-1-0-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/sun-agent-toolkit/0.0.3b5/",
+      "website_url": "https://pypi.org/project/soapboxslide/1.0.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-proxy-adapter 6.9.12",
-      "moniker": "mcp-proxy-adapter-6-9-12",
+      "tool": "react-agent-framework 0.12.0",
+      "moniker": "react-agent-framework-0-12-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-proxy-adapter/6.9.12/",
+      "website_url": "https://pypi.org/project/react-agent-framework/0.12.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-image-cutout 0.2.6",
-      "moniker": "mcp-image-cutout-0-2-6",
+      "tool": "mcp-security-framework 1.2.4",
+      "moniker": "mcp-security-framework-1-2-4",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-image-cutout/0.2.6/",
+      "website_url": "https://pypi.org/project/mcp-security-framework/1.2.4/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "sibr-agent 0.1.1",
+      "moniker": "sibr-agent-0-1-1",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/sibr-agent/0.1.1/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "academia-mcp 1.11.4",
+      "moniker": "academia-mcp-1-11-4",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/academia-mcp/1.11.4/",
       "source_type": "Press",
       "status": "pending_review"
     }
