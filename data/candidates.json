@@ -25,42 +25,50 @@
       "status": "pending_review"
     },
     {
-      "tool": "Jotform Salesforce Agent",
-      "moniker": "jotform-salesforce-agent",
+      "tool": "Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB",
+      "moniker": "show-hn-duck-ui-browser-based-sql-ide-for-duckdb",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/jotform",
+      "website_url": "https://demo.duckui.com",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: I Built Videoyards to create professional demos videos",
-      "moniker": "show-hn-i-built-videoyards-to-create-professional-demos-videos",
+      "tool": "Web Development Tutorials & Programming Guides - Comprehensive Resource",
+      "moniker": "web-development-tutorials-programming-guides-comprehensive-resource",
       "category": "pending_review",
-      "website_url": "https://videoyards.com",
+      "website_url": "https://www.reddit.com/r/programming/comments/1oajkny/web_development_tutorials_programming_guides/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Code review for AI native teams",
-      "moniker": "show-hn-code-review-for-ai-native-teams",
+      "tool": "What is A2A (Agent to Agent) Protocol",
+      "moniker": "what-is-a2a-agent-to-agent-protocol",
       "category": "pending_review",
-      "website_url": "https://github.com/areibman/bottleneck",
+      "website_url": "https://www.reddit.com/r/programming/comments/1oakjb8/what_is_a2a_agent_to_agent_protocol/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "API design principle: Don't tempt people to divide by zero",
-      "moniker": "api-design-principle-don-t-tempt-people-to-divide-by-zero",
+      "tool": "Was considering Asus Flow Z13 or Strix Halo mini PC like Bosgame M5, GMTek Evo X-2",
+      "moniker": "was-considering-asus-flow-z13-or-strix-halo-mini-pc-like-bosgame-m5-gmtek-evo-x-2",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1o8hl8s/api_design_principle_dont_tempt_people_to_divide/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1oaldao/was_considering_asus_flow_z13_or_strix_halo_mini/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "New model from inclusionAI - LLaDA2.0-mini-preview",
-      "moniker": "new-model-from-inclusionai-llada2-0-mini-preview",
+      "tool": "[P] Open-Source Implementation of \"Agentic Context Engineering\" Paper - Agents that improve by learning from their own execution feedback",
+      "moniker": "p-open-source-implementation-of-agentic-context-engineering-paper-agents-that-improve-by-learning-from-their-own-execution-feedback",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1o9agyg/new_model_from_inclusionai_llada20minipreview/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1o9yuxv/p_opensource_implementation_of_agentic_context/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] Looking for a Reinforcement Learning Environment for a General-Purpose Desktop Agent",
+      "moniker": "d-looking-for-a-reinforcement-learning-environment-for-a-general-purpose-desktop-agent",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1oa9vgl/d_looking_for_a_reinforcement_learning/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -69,14 +77,6 @@
       "moniker": "d-review-0-paper-in-iclr-2026",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1o9207g/d_review_0_paper_in_iclr_2026/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[D] Only 17 days given to review 5 papers in ICLR 2026...",
-      "moniker": "d-only-17-days-given-to-review-5-papers-in-iclr-2026",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1o6hs2w/d_only_17_days_given_to_review_5_papers_in_iclr/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -117,38 +117,6 @@
       "moniker": "meta-launches-vibes-a-short-form-video-feed-of-ai-slop",
       "category": "pending_review",
       "website_url": "https://techcrunch.com/2025/09/25/meta-launches-vibes-a-short-form-video-feed-of-ai-slop/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Amazon launches AI agent to help sellers complete tasks and manage their businesses",
-      "moniker": "amazon-launches-ai-agent-to-help-sellers-complete-tasks-and-manage-their-businesses",
-      "category": "pending_review",
-      "website_url": "https://techcrunch.com/2025/09/17/amazon-launches-ai-agent-to-help-sellers-complete-tasks-and-manage-their-businesses/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Fictional gadget reviews: exploring the latest in fantasy and sci-fi tech",
-      "moniker": "fictional-gadget-reviews-exploring-the-latest-in-fantasy-and-sci-fi-tech",
-      "category": "pending_review",
-      "website_url": "https://www.theverge.com/entertainment/801966/fictional-gadget-reviews",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Pokémon Legends: Z-A Rotom Phone review: better camera, higher jumps",
-      "moniker": "pok-mon-legends-z-a-rotom-phone-review-better-camera-higher-jumps",
-      "category": "pending_review",
-      "website_url": "https://www.theverge.com/games/801113/pokemon-legends-za-rotom-phone-pokedex-review",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Amazon’s Ring now works with video surveillance company Flock",
-      "moniker": "amazon-s-ring-now-works-with-video-surveillance-company-flock",
-      "category": "pending_review",
-      "website_url": "https://www.theverge.com/news/801856/amazon-ring-partners-flock-video",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -769,58 +737,26 @@
       "status": "pending_review"
     },
     {
-      "tool": "maleo-identity 0.0.96",
-      "moniker": "maleo-identity-0-0-96",
+      "tool": "skydeckai-code-fastmcp 0.1.42",
+      "moniker": "skydeckai-code-fastmcp-0-1-42",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/maleo-identity/0.0.96/",
+      "website_url": "https://pypi.org/project/skydeckai-code-fastmcp/0.1.42/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "thinagents 0.0.14",
-      "moniker": "thinagents-0-0-14",
+      "tool": "hello-agents 0.2.6",
+      "moniker": "hello-agents-0-2-6",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/thinagents/0.0.14/",
+      "website_url": "https://pypi.org/project/hello-agents/0.2.6/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-hmr 0.0.2",
-      "moniker": "mcp-hmr-0-0-2",
+      "tool": "uop-mcp-server 2.0.5",
+      "moniker": "uop-mcp-server-2-0-5",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-hmr/0.0.2/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "xmind-mcp 1.0.8",
-      "moniker": "xmind-mcp-1-0-8",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/xmind-mcp/1.0.8/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "llmling-agent 1.3.1",
-      "moniker": "llmling-agent-1-3-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/llmling-agent/1.3.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "agentle 0.9.1",
-      "moniker": "agentle-0-9-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/agentle/0.9.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "test-pypi-vmcp 0.1.6",
-      "moniker": "test-pypi-vmcp-0-1-6",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/test-pypi-vmcp/0.1.6/",
+      "website_url": "https://pypi.org/project/uop-mcp-server/2.0.5/",
       "source_type": "Press",
       "status": "pending_review"
     }
