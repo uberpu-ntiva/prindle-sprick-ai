@@ -17,58 +17,82 @@
       "status": "pending_review"
     },
     {
-      "tool": "UI Bakery App Agent",
-      "moniker": "ui-bakery-app-agent",
+      "tool": "Show HN: Free Online Video Caption – Burn in your own subtitles in browser",
+      "moniker": "show-hn-free-online-video-caption-burn-in-your-own-subtitles-in-browser",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/ui-bakery",
+      "website_url": "https://videocaption.app",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "In-Depth Reviews",
-      "moniker": "in-depth-reviews",
+      "tool": "Show HN: VebGen – AI agent that understands projects with AST, not LLM tokens",
+      "moniker": "show-hn-vebgen-ai-agent-that-understands-projects-with-ast-not-llm-tokens",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/producthunt",
+      "website_url": "https://github.com/vebgenofficial/vebgen",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Nano AI – Best All-in-One Nano Banana AI Image Editor 2025",
-      "moniker": "show-hn-nano-ai-best-all-in-one-nano-banana-ai-image-editor-2025",
+      "tool": "Show HN: One-MCP: Unlimited tools MCP server without context bloat",
+      "moniker": "show-hn-one-mcp-unlimited-tools-mcp-server-without-context-bloat",
       "category": "pending_review",
-      "website_url": "https://nanoai.site/",
+      "website_url": "https://news.ycombinator.com/item?id=45710167",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "I have made a terminal Editor.",
-      "moniker": "i-have-made-a-terminal-editor",
+      "tool": "Show HN: Raise Animals – Codes, Calculators and Wiki Guide 2025",
+      "moniker": "show-hn-raise-animals-codes-calculators-and-wiki-guide-2025",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1ofojoh/i_have_made_a_terminal_editor/",
+      "website_url": "https://raiseanimals.me/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "meituan-longcat/LongCat-Video · Hugging Face",
-      "moniker": "meituan-longcat-longcat-video-hugging-face",
+      "tool": "Show HN: I analyzed 3,465 remote job listings – 72% hide salary information",
+      "moniker": "show-hn-i-analyzed-3-465-remote-job-listings-72-hide-salary-information",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ofn0nb/meituanlongcatlongcatvideo_hugging_face/",
+      "website_url": "https://no-commute-jobs.com/blog/remote-work-statistics-2025",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "[Open Source] We deployed numerous agents in production and ended up building our own GenAI framework",
-      "moniker": "open-source-we-deployed-numerous-agents-in-production-and-ended-up-building-our-own-genai-framework",
+      "tool": "I built a browser sim for a new system architecture that governs autonomous AI agents",
+      "moniker": "i-built-a-browser-sim-for-a-new-system-architecture-that-governs-autonomous-ai-agents",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ofq2g3/open_source_we_deployed_numerous_agents_in/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1ogjtdb/i_built_a_browser_sim_for_a_new_system/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Qwen3 Next support in llama.cpp ready for review",
-      "moniker": "qwen3-next-support-in-llama-cpp-ready-for-review",
+      "tool": "Llama.cpp model conversion guide",
+      "moniker": "llama-cpp-model-conversion-guide",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1oes4ez/qwen3_next_support_in_llamacpp_ready_for_review/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1og3cnt/llamacpp_model_conversion_guide/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "My LLM-powered text adventure needed a dynamic soundtrack, so I'm training a MIDI generation model to compose it on the fly. Here's a video of its progress so far.",
+      "moniker": "my-llm-powered-text-adventure-needed-a-dynamic-soundtrack-so-i-m-training-a-midi-generation-model-to-compose-it-on-the-fly-here-s-a-video-of-its-progress-so-far",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1og8jil/my_llmpowered_text_adventure_needed_a_dynamic/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Behavior of agentic coding at the local level?",
+      "moniker": "behavior-of-agentic-coding-at-the-local-level",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ogatwe/behavior_of_agentic_coding_at_the_local_level/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "What AI voice / TTS model is used in these YouTube videos?",
+      "moniker": "what-ai-voice-tts-model-is-used-in-these-youtube-videos",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ogkjzs/what_ai_voice_tts_model_is_used_in_these_youtube/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -801,82 +825,66 @@
       "status": "pending_review"
     },
     {
-      "tool": "agentle 0.9.11",
-      "moniker": "agentle-0-9-11",
+      "tool": "agently 4.0.5.7",
+      "moniker": "agently-4-0-5-7",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agentle/0.9.11/",
+      "website_url": "https://pypi.org/project/agently/4.0.5.7/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "amazon-product-video-fetcher 0.0.3",
-      "moniker": "amazon-product-video-fetcher-0-0-3",
+      "tool": "workflows-mcp 4.0.1",
+      "moniker": "workflows-mcp-4-0-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/amazon-product-video-fetcher/0.0.3/",
+      "website_url": "https://pypi.org/project/workflows-mcp/4.0.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "yta-editor-nodes-cpu 0.0.7",
-      "moniker": "yta-editor-nodes-cpu-0-0-7",
+      "tool": "auth-agent-sdk 2.1.0",
+      "moniker": "auth-agent-sdk-2-1-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/yta-editor-nodes-cpu/0.0.7/",
+      "website_url": "https://pypi.org/project/auth-agent-sdk/2.1.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-postgres-duwenji 1.2.1",
-      "moniker": "mcp-postgres-duwenji-1-2-1",
+      "tool": "universal-mcp-agents 0.1.23rc8",
+      "moniker": "universal-mcp-agents-0-1-23rc8",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-postgres-duwenji/1.2.1/",
+      "website_url": "https://pypi.org/project/universal-mcp-agents/0.1.23rc8/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "yta-editor-nodes-gpu 0.0.6",
-      "moniker": "yta-editor-nodes-gpu-0-0-6",
+      "tool": "agentcrew-ai 0.7.2",
+      "moniker": "agentcrew-ai-0-7-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/yta-editor-nodes-gpu/0.0.6/",
+      "website_url": "https://pypi.org/project/agentcrew-ai/0.7.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "yta-video-opengl 0.3.1",
-      "moniker": "yta-video-opengl-0-3-1",
+      "tool": "mcpower-proxy 0.0.58",
+      "moniker": "mcpower-proxy-0-0-58",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/yta-video-opengl/0.3.1/",
+      "website_url": "https://pypi.org/project/mcpower-proxy/0.0.58/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "fastmcp 2.13.0",
-      "moniker": "fastmcp-2-13-0",
+      "tool": "axm-agent 0.2.0",
+      "moniker": "axm-agent-0-2-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/fastmcp/2.13.0/",
+      "website_url": "https://pypi.org/project/axm-agent/0.2.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "agentle 0.9.10",
-      "moniker": "agentle-0-9-10",
+      "tool": "pyodide-mkdocs-theme 5.2.2",
+      "moniker": "pyodide-mkdocs-theme-5-2-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agentle/0.9.10/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "spanish-vehicle-tax-valuation-mcp 0.1.0b4",
-      "moniker": "spanish-vehicle-tax-valuation-mcp-0-1-0b4",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/spanish-vehicle-tax-valuation-mcp/0.1.0b4/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "pitchlense-mcp 1.1.9",
-      "moniker": "pitchlense-mcp-1-1-9",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/pitchlense-mcp/1.1.9/",
+      "website_url": "https://pypi.org/project/pyodide-mkdocs-theme/5.2.2/",
       "source_type": "Press",
       "status": "pending_review"
     }
