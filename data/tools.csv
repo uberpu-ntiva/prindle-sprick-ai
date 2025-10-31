@@ -1,7 +1,7 @@
 Tool,Moniker,Category,Severity,RSS Available,Feed URL,Tracking Method,Repo URL,Repo Status,Stars,Contributors,Docs URL,Website URL,Source Type,Discovery Method,Launch Status,Last Seen Update,Status
-Aider,aider-cli,Editor/IDE,Minor,✅,https://github.com/paul-gauthier/aider/releases.atom,RSS direct,https://github.com/paul-gauthier/aider,Active,6500,120,N/A,N/A,,,,,Minor: v0.86.2.dev (2025-10-30)
-Zed,zed-editor,Editor/IDE,Minor,✅,https://github.com/zed-industries/zed/releases.atom,RSS direct,https://github.com/zed-industries/zed,Active,61400,1033,https://zed.dev/docs,https://zed.dev,,,,,Minor: v00.00.00-test (2025-10-30)
-Cursor,cursor-ide,Editor/IDE,Major,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.cursor.com/chat/overview,https://cursor.com,,,,,Minor: Best local Coding agent for Cursor/IntelliJ AI with 16GB VRAM and 64GB or 80GB RAM on Linux? (2025-10-29)
+Aider,aider-cli,Editor/IDE,Minor,✅,https://github.com/paul-gauthier/aider/releases.atom,RSS direct,https://github.com/paul-gauthier/aider,Active,6500,120,N/A,N/A,,,,,Minor: v0.86.2.dev (2025-10-31)
+Zed,zed-editor,Editor/IDE,Minor,✅,https://github.com/zed-industries/zed/releases.atom,RSS direct,https://github.com/zed-industries/zed,Active,61400,1033,https://zed.dev/docs,https://zed.dev,,,,,Minor: v00.00.00-test (2025-10-31)
+Cursor,cursor-ide,Editor/IDE,Major,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.cursor.com/chat/overview,https://cursor.com,,,,,Minor: Both Cursor and Cognition (Windsurf) new models are speculated to be built on Chinese base models? (2025-10-31)
 Windsurf,winds-codeium,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.codeium.com/windsurf/getting-started,https://codeium.com/windsurf,,,,,"Minor: Three weeks after acquiring Windsurf, Cognition offers staff the exit door (2025-08-05)"
 GitHub Copilot,gh-copilot,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://github.com/features/copilot,,,,,Security: CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code (2025-10-14)
 JetBrains AI Assistant,jb-ai-assistant,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://jetbrains.com,,,,,
@@ -10,16 +10,16 @@ Gemini Code Assist,gcp-gemini-code,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Cl
 Qodo Gen,qodo-gen,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.qodo.ai,https://qodo.ai/products/ide-plugin,,,,,
 Work with Apps by ChatGPT,openai-work-apps,Editor/IDE,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://openai.com/chatgpt/desktop,,,,,
 Claude Code,claude-code,Agent,Major,❌,https://www.anthropic.com/rss.xml,Blog RSS filter,N/A,Closed-source,,,https://docs.anthropic.com/en/docs/claude-code,https://anthropic.com/claude-code,,,,,Minor: Show HN: Watch-Claude-think – a CLI for watching Claude Code's thoughts (2025-10-23)
-OpenHands,openhands,Agent,Minor,✅,https://github.com/All-Hands-AI/OpenHands/releases.atom,RSS direct,https://github.com/All-Hands-AI/OpenHands,Active,37800,213,https://docs.all-hands.dev,N/A,,,,,Minor: openhands 1.0.3 (2025-10-30)
-Cline,cline-agent,Agent,Minor,✅,https://github.com/cline/cline/releases.atom,RSS direct,https://github.com/cline/cline,Active,13200,7,N/A,N/A,,,,,Minor: v3.34.1 (2025-10-30)
+OpenHands,openhands,Agent,Minor,✅,https://github.com/All-Hands-AI/OpenHands/releases.atom,RSS direct,https://github.com/All-Hands-AI/OpenHands,Active,37800,213,https://docs.all-hands.dev,N/A,,,,,Minor: 1.0.3-cli - 2025-10-30 (2025-10-31)
+Cline,cline-agent,Agent,Minor,✅,https://github.com/cline/cline/releases.atom,RSS direct,https://github.com/cline/cline,Active,13200,7,N/A,N/A,,,,,Minor: v3.35.0 (2025-10-31)
 Devin AI,devin-ai,Agent,Ignore,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://cognition.ai/blog/introducing-devin,,,,,
-ChatDev,chatdev,Agent,Ignore,✅,https://github.com/OpenBMB/ChatDev/releases.atom,RSS direct,https://github.com/OpenBMB/ChatDev,Semi-active,,,https://arxiv.org/pdf/2307.07924.pdf,N/A,,,,,Major: v1.1.6 (2025-10-30)
-GPT Pilot by Pythagora,gpt-pilot,Agent,Ignore,✅,https://github.com/Pythagora-io/gpt-pilot/releases.atom,RSS direct,https://github.com/Pythagora-io/gpt-pilot,Semi-active,,,N/A,N/A,,,,,Minor: 0.2.13 (2025-10-30)
-MetaGPT,metagpt,Agent,Ignore,✅,https://github.com/geekan/MetaGPT/releases.atom,RSS direct,https://github.com/geekan/MetaGPT,Semi-active,,,https://docs.deepwisdom.ai/main/en,N/A,,,,,Minor: v0.8.2 (2025-10-30)
-Gorilla,gorilla-berkeley,Agent,Ignore,✅,https://github.com/ShishirPatil/gorilla/releases.atom,RSS direct,https://github.com/ShishirPatil/gorilla,Inactive,,,N/A,https://gorilla.cs.berkeley.edu,,,,,Major: Berkeley Function Calling Leaderboard Updates (v1.3) (2025-10-30)
+ChatDev,chatdev,Agent,Ignore,✅,https://github.com/OpenBMB/ChatDev/releases.atom,RSS direct,https://github.com/OpenBMB/ChatDev,Semi-active,,,https://arxiv.org/pdf/2307.07924.pdf,N/A,,,,,Major: v1.1.6 (2025-10-31)
+GPT Pilot by Pythagora,gpt-pilot,Agent,Ignore,✅,https://github.com/Pythagora-io/gpt-pilot/releases.atom,RSS direct,https://github.com/Pythagora-io/gpt-pilot,Semi-active,,,N/A,N/A,,,,,Minor: 0.2.13 (2025-10-31)
+MetaGPT,metagpt,Agent,Ignore,✅,https://github.com/geekan/MetaGPT/releases.atom,RSS direct,https://github.com/geekan/MetaGPT,Semi-active,,,https://docs.deepwisdom.ai/main/en,N/A,,,,,Minor: v0.8.2 (2025-10-31)
+Gorilla,gorilla-berkeley,Agent,Ignore,✅,https://github.com/ShishirPatil/gorilla/releases.atom,RSS direct,https://github.com/ShishirPatil/gorilla,Inactive,,,N/A,https://gorilla.cs.berkeley.edu,,,,,Major: Berkeley Function Calling Leaderboard Updates (v1.3) (2025-10-31)
 CodeMate,codemate,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.codemate.ai,https://codemate.ai,,,,,
 CodeRabbit,coderabbit,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.coderabbit.ai,https://coderabbit.ai,,,,,Security: CodeRabbit commits $1 million to open source (2025-09-20)
-Qodo Merge,qodo-merge,Code Review,Minor,✅,https://github.com/Codium-ai/pr-agent/releases.atom,RSS direct,https://github.com/Codium-ai/pr-agent,Active,6100,88,https://qodo-merge-docs.qodo.ai,https://qodo.ai/products/git-plugin,,,,,Minor: v0.30 (2025-10-30)
+Qodo Merge,qodo-merge,Code Review,Minor,✅,https://github.com/Codium-ai/pr-agent/releases.atom,RSS direct,https://github.com/Codium-ai/pr-agent,Active,6100,88,https://qodo-merge-docs.qodo.ai,https://qodo.ai/products/git-plugin,,,,,Minor: v0.30 (2025-10-31)
 GitLab Duo,gitlab-duo,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,https://docs.gitlab.com/ee/user/gitlab_duo,https://about.gitlab.com/gitlab-duo,,,,,
 AI Code Review Action,gh-ai-code-review-action,Code Review,Minor,✅,https://github.com/marketplace/actions/ai-code-review-action/releases.atom,RSS direct,https://github.com/marketplace/actions/ai-code-review-action,Active,,,N/A,N/A,,,,,
 Korbit,korbit,Code Review,Minor,❌,N/A,Scrape/manual,N/A,Closed-source,,,N/A,https://korbit.ai,,,,,
@@ -577,3 +577,8 @@ Agents on GitHub,agents-on-github,pending_review,,,,,,,,,,https://github.com/fea
 Manage agent usage with enterprise-grade controls,manage-agent-usage-with-enterprise-grade-controls,pending_review,,,,,,,,,,https://docs.github.com/copilot/concepts/agents/enterprise-management,Scraped,site_rescan,,,pending_review
 Secure your MCP integrations,secure-your-mcp-integrations,pending_review,,,,,,,,,,https://docs.github.com/en/copilot/how-tos/administer-copilot/configure-mcp-server-access,Scraped,site_rescan,,,pending_review
 unique_orchestrator 1.7.0,unique-orchestrator-1-7-0,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/unique-orchestrator/1.7.0/,Press,Auto-Discovery,,,pending_review
+cleaning-agent 0.1.2,cleaning-agent-0-1-2,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/cleaning-agent/0.1.2/,Press,Auto-Discovery,,,pending_review
+netdriver-agent 0.4.0,netdriver-agent-0-4-0,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/netdriver-agent/0.4.0/,Press,Auto-Discovery,,,pending_review
+wayspiritmcp-tpa 0.1.0,wayspiritmcp-tpa-0-1-0,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/wayspiritmcp-tpa/0.1.0/,Press,Auto-Discovery,,,pending_review
+ai-code-review 3.3.2,ai-code-review-3-3-2,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/ai-code-review/3.3.2/,Press,Auto-Discovery,,,pending_review
+github-code-review 3.3.2,github-code-review-3-3-2,pending_review,Minor,❌,,GitHub Releases,,,,,,https://pypi.org/project/github-code-review/3.3.2/,Press,Auto-Discovery,,,pending_review
