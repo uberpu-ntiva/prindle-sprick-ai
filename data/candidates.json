@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tool": "MCP Playground",
+      "moniker": "mcp-playground",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/products/mcp-playground",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "Sidemail 2.0",
       "moniker": "sidemail-2-0",
       "category": "pending_review",
@@ -9,42 +17,58 @@
       "status": "pending_review"
     },
     {
-      "tool": "Peakflo AI Voice Agents",
-      "moniker": "peakflo-ai-voice-agents",
+      "tool": "Show HN: Concierge - Framework for Building Agentic Web Interfaces",
+      "moniker": "show-hn-concierge-framework-for-building-agentic-web-interfaces",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/peakflo-ai-voice-agents",
+      "website_url": "https://github.com/Agentic-Web-Interfaces/concierge",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: AI Agent for a mobile robot in the real world",
-      "moniker": "show-hn-ai-agent-for-a-mobile-robot-in-the-real-world",
+      "tool": "Show HN:When AI Agents Got File Systems: The First Step Toward Digital Labor",
+      "moniker": "show-hn-when-ai-agents-got-file-systems-the-first-step-toward-digital-labor",
       "category": "pending_review",
-      "website_url": "https://github.com/Yutarop/turtlebot3_agent",
+      "website_url": "https://hub.gbase.ai/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Hephaestus – Autonomous Multi-Agent Orchestration Framework",
-      "moniker": "show-hn-hephaestus-autonomous-multi-agent-orchestration-framework",
+      "tool": "Show HN: ClipGuard- A PySide6 clipboard guardian with masking and history search",
+      "moniker": "show-hn-clipguard-a-pyside6-clipboard-guardian-with-masking-and-history-search",
       "category": "pending_review",
-      "website_url": "https://github.com/Ido-Levi/Hephaestus",
+      "website_url": "https://github.com/zhangshuo1991/ClipGuard",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "A Beginner’s Field Guide to Large Language Models",
-      "moniker": "a-beginner-s-field-guide-to-large-language-models",
+      "tool": "SOMEONE Code Reviewed Hazel, My Game Engine feat The Cherno and Nathan Baggs",
+      "moniker": "someone-code-reviewed-hazel-my-game-engine-feat-the-cherno-and-nathan-baggs",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1on8bzl/a_beginners_field_guide_to_large_language_models/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1oo4942/someone_code_reviewed_hazel_my_game_engine_feat/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "My New Video (Matrix Digital Clock)",
-      "moniker": "my-new-video-matrix-digital-clock",
+      "tool": "From user to implementer: My journey understanding coding agents",
+      "moniker": "from-user-to-implementer-my-journey-understanding-coding-agents",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1on6fk3/my_new_video_matrix_digital_clock/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1onybbv/from_user_to_implementer_my_journey_understanding/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "What's the biggest most common PROBLEM you have in your personal ML/AI side projects?",
+      "moniker": "what-s-the-biggest-most-common-problem-you-have-in-your-personal-ml-ai-side-projects",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1oo4lhs/whats_the_biggest_most_common_problem_you_have_in/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Ideal size of llm to make",
+      "moniker": "ideal-size-of-llm-to-make",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1oo461u/ideal_size_of_llm_to_make/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -57,10 +81,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "I'm the author of LocalAI (the local OpenAI-compatible API). We just released v3.7.0 with full Agentic Support (tool use!), Qwen 3 VL, and the latest llama.cpp",
-      "moniker": "i-m-the-author-of-localai-the-local-openai-compatible-api-we-just-released-v3-7-0-with-full-agentic-support-tool-use-qwen-3-vl-and-the-latest-llama-cpp",
+      "tool": "Agent Flow",
+      "moniker": "agent-flow",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1omn3t3/im_the_author_of_localai_the_local/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1onu74b/agent_flow/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -73,10 +97,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "[P] Introducing Hephaestus: AI workflows that build themselves as agents discover what needs to be done",
-      "moniker": "p-introducing-hephaestus-ai-workflows-that-build-themselves-as-agents-discover-what-needs-to-be-done",
+      "tool": "[D] Neurips 25 Authors: Are you recording one of those SlidesLive videos? Discussion",
+      "moniker": "d-neurips-25-authors-are-you-recording-one-of-those-slideslive-videos-discussion",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1omluvq/p_introducing_hephaestus_ai_workflows_that_build/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1onfu0q/d_neurips_25_authors_are_you_recording_one_of/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -133,6 +157,22 @@
       "moniker": "meta-launches-vibes-a-short-form-video-feed-of-ai-slop",
       "category": "pending_review",
       "website_url": "https://techcrunch.com/2025/09/25/meta-launches-vibes-a-short-form-video-feed-of-ai-slop/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Tech companies don’t care that students use their AI agents to cheat",
+      "moniker": "tech-companies-don-t-care-that-students-use-their-ai-agents-to-cheat",
+      "category": "pending_review",
+      "website_url": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Strengthening Our Core: Welcoming Karyne Levy as VentureBeatâs New Managing Editor",
+      "moniker": "strengthening-our-core-welcoming-karyne-levy-as-venturebeat-s-new-managing-editor",
+      "category": "pending_review",
+      "website_url": "https://venturebeat.com/ai/strengthening-our-core-welcoming-karyne-levy-as-venturebeats-new-managing",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -221,14 +261,6 @@
       "moniker": "google-s-watch-learn-framework-cracks-the-data-bottleneck-for-training-computer-use-agents",
       "category": "pending_review",
       "website_url": "https://venturebeat.com/ai/googles-watch-and-learn-framework-cracks-the-data-bottleneck-for-training",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Agentic AI security breaches are coming: 7 ways to make sure it's not your firm",
-      "moniker": "agentic-ai-security-breaches-are-coming-7-ways-to-make-sure-it-s-not-your-firm",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/security/agentic-ai-security-breaches-are-coming-7-ways-to-make-sure-its-not-your",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -817,66 +849,50 @@
       "status": "pending_review"
     },
     {
-      "tool": "Agent Builder - Is appending on Lists possible?",
-      "moniker": "agent-builder-is-appending-on-lists-possible",
+      "tool": "agent-sandbox 0.0.17",
+      "moniker": "agent-sandbox-0-0-17",
       "category": "pending_review",
-      "website_url": "https://community.openai.com/t/agent-builder-is-appending-on-lists-possible/1364806",
+      "website_url": "https://pypi.org/project/agent-sandbox/0.0.17/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Agent Builder's Code Interpreter file generation not producing downloadable links (only underlined text)",
-      "moniker": "agent-builder-s-code-interpreter-file-generation-not-producing-downloadable-links-only-underlined-text",
+      "tool": "giskard-agents 0.3.0",
+      "moniker": "giskard-agents-0-3-0",
       "category": "pending_review",
-      "website_url": "https://community.openai.com/t/agent-builders-code-interpreter-file-generation-not-producing-downloadable-links-only-underlined-text/1364793",
+      "website_url": "https://pypi.org/project/giskard-agents/0.3.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "apideck-unify 0.27.0",
-      "moniker": "apideck-unify-0-27-0",
+      "tool": "agentbill-py-langchain 2.0.1",
+      "moniker": "agentbill-py-langchain-2-0-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/apideck-unify/0.27.0/",
+      "website_url": "https://pypi.org/project/agentbill-py-langchain/2.0.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "videoipath-automation-tool 0.6.1.dev307",
-      "moniker": "videoipath-automation-tool-0-6-1-dev307",
+      "tool": "agentbill-py-sdk 2.0.2",
+      "moniker": "agentbill-py-sdk-2-0-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/videoipath-automation-tool/0.6.1.dev307/",
+      "website_url": "https://pypi.org/project/agentbill-py-sdk/2.0.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "d3-tb-agent-comms 0.2.10",
-      "moniker": "d3-tb-agent-comms-0-2-10",
+      "tool": "qmcp 0.6.0",
+      "moniker": "qmcp-0-6-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/d3-tb-agent-comms/0.2.10/",
+      "website_url": "https://pypi.org/project/qmcp/0.6.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "comet-mcp 1.1.0",
-      "moniker": "comet-mcp-1-1-0",
+      "tool": "agentbill-py-sdk 2.0.1",
+      "moniker": "agentbill-py-sdk-2-0-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/comet-mcp/1.1.0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "iso-mcp-server 0.1.2",
-      "moniker": "iso-mcp-server-0-1-2",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/iso-mcp-server/0.1.2/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "ez-mcp-toolbox 1.4.0",
-      "moniker": "ez-mcp-toolbox-1-4-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/ez-mcp-toolbox/1.4.0/",
+      "website_url": "https://pypi.org/project/agentbill-py-sdk/2.0.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
