@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tool": "Secure MCP Framework by Arcade.dev",
+      "moniker": "secure-mcp-framework-by-arcade-dev",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/products/secure-mcp-framework",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "Alpha Vantage MCP",
       "moniker": "alpha-vantage-mcp",
       "category": "pending_review",
@@ -25,106 +33,74 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: I've built a story-to-video AI generator website",
-      "moniker": "show-hn-i-ve-built-a-story-to-video-ai-generator-website",
+      "tool": "Show HN: Agent Templates – reusable agent definitions across frameworks",
+      "moniker": "show-hn-agent-templates-reusable-agent-definitions-across-frameworks",
       "category": "pending_review",
-      "website_url": "https://visimagine.com",
+      "website_url": "https://awesome-agent-templates.com",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: A hand-held setup guide for Stremio (for non-tech friends and family)",
-      "moniker": "show-hn-a-hand-held-setup-guide-for-stremio-for-non-tech-friends-and-family",
+      "tool": "Show HN: OfflineAI – tiny JetBrains LLM Agent – open-source",
+      "moniker": "show-hn-offlineai-tiny-jetbrains-llm-agent-open-source",
       "category": "pending_review",
-      "website_url": "https://www.own-your.stream/",
+      "website_url": "https://github.com/DeutscheKI/jetbrains-mini-agent",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: AI Coding Agents: Intent-Driven Development Guidelines",
-      "moniker": "show-hn-ai-coding-agents-intent-driven-development-guidelines",
+      "tool": "How I built a game engine using MVI in Kotlin and avoided getting fired",
+      "moniker": "how-i-built-a-game-engine-using-mvi-in-kotlin-and-avoided-getting-fired",
       "category": "pending_review",
-      "website_url": "https://github.com/Exadra37/ai-intent-driven-development",
+      "website_url": "https://www.reddit.com/r/programming/comments/1oqs6j4/how_i_built_a_game_engine_using_mvi_in_kotlin_and/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: I built an AI agent that writes ecommerce marketing emails in seconds",
-      "moniker": "show-hn-i-built-an-ai-agent-that-writes-ecommerce-marketing-emails-in-seconds",
+      "tool": "What we learned running the industry’s first AI code review benchmark",
+      "moniker": "what-we-learned-running-the-industry-s-first-ai-code-review-benchmark",
       "category": "pending_review",
-      "website_url": "https://news.ycombinator.com/item?id=45833290",
+      "website_url": "https://www.reddit.com/r/programming/comments/1oqtc6v/what_we_learned_running_the_industrys_first_ai/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: TestiWall – Collect video and text testimonials in minutes",
-      "moniker": "show-hn-testiwall-collect-video-and-text-testimonials-in-minutes",
+      "tool": "A note to everyone waiting for the right idea",
+      "moniker": "a-note-to-everyone-waiting-for-the-right-idea",
       "category": "pending_review",
-      "website_url": "https://news.ycombinator.com/item?id=45832772",
+      "website_url": "https://www.reddit.com/r/programming/comments/1oqptnw/a_note_to_everyone_waiting_for_the_right_idea/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Voiden: The API client that doesn't want your email address",
-      "moniker": "voiden-the-api-client-that-doesn-t-want-your-email-address",
+      "tool": "World's strongest agentic model is now open source",
+      "moniker": "world-s-strongest-agentic-model-is-now-open-source",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1optsn6/voiden_the_api_client_that_doesnt_want_your_email/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1oqebr3/worlds_strongest_agentic_model_is_now_open_source/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "The AI Engineer's Guide to Surviving the EU AI Act • Larysa Visengeriyeva & Barbara Lampl",
-      "moniker": "the-ai-engineer-s-guide-to-surviving-the-eu-ai-act-larysa-visengeriyeva-barbara-lampl",
+      "tool": "Kimi K2 Thinking and DeepSeek R1 Architectures Side by Side",
+      "moniker": "kimi-k2-thinking-and-deepseek-r1-architectures-side-by-side",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1opyf5b/the_ai_engineers_guide_to_surviving_the_eu_ai_act/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1oq8mmy/kimi_k2_thinking_and_deepseek_r1_architectures/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "I’ve indexed all Strange Loop conference talks so you can use semantic search to find relevant videos",
-      "moniker": "i-ve-indexed-all-strange-loop-conference-talks-so-you-can-use-semantic-search-to-find-relevant-videos",
+      "tool": "Intel Arc Pro B50 GPU Review: An Affordable, Low-Power Workstation GPU",
+      "moniker": "intel-arc-pro-b50-gpu-review-an-affordable-low-power-workstation-gpu",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1op95wf/ive_indexed_all_strange_loop_conference_talks_so/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1oqu4i3/intel_arc_pro_b50_gpu_review_an_affordable/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "AMD to launch gaming-oriented Ryzen AI MAX+ 388 & 392 \"Strix Halo\" APUs with full Radeon 8060S graphics - VideoCardz.com",
-      "moniker": "amd-to-launch-gaming-oriented-ryzen-ai-max-388-392-strix-halo-apus-with-full-radeon-8060s-graphics-videocardz-com",
+      "tool": "[D] OpenReview down again right before CVPR registration deadline 😩",
+      "moniker": "d-openreview-down-again-right-before-cvpr-registration-deadline",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1opl1j0/amd_to_launch_gamingoriented_ryzen_ai_max_388_392/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Engineer's Guide to Local LLMs with LLaMA.cpp on Linux",
-      "moniker": "engineer-s-guide-to-local-llms-with-llama-cpp-on-linux",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1opsg7i/engineers_guide_to_local_llms_with_llamacpp_on/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "11 problems nobody talks about building Agents (and how to approach them)",
-      "moniker": "11-problems-nobody-talks-about-building-agents-and-how-to-approach-them",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1opyxu7/11_problems_nobody_talks_about_building_agents/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Building LangChain & LangGraph Concepts From Scratch (Next Step in My AI Agents Repo)",
-      "moniker": "building-langchain-langgraph-concepts-from-scratch-next-step-in-my-ai-agents-repo",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1opt2q9/building_langchain_langgraph_concepts_from/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "SmallWebRTC - Voice Agent on Slow Airplane WiFi - Why Not?",
-      "moniker": "smallwebrtc-voice-agent-on-slow-airplane-wifi-why-not",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1opr30y/smallwebrtc_voice_agent_on_slow_airplane_wifi_why/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1oqo5v4/d_openreview_down_again_right_before_cvpr/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -193,122 +169,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "Canon adds a 32-megapixel sensor and 7K video to the new EOS R6 Mark III",
-      "moniker": "canon-adds-a-32-megapixel-sensor-and-7k-video-to-the-new-eos-r6-mark-iii",
-      "category": "pending_review",
-      "website_url": "https://www.theverge.com/news/814245/canon-eos-r6-mark-iii-mirrorless-camera-price-specs",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "Google Cloud updates its AI Agent Builder with new observability dashboard and faster build-and-deploy tools",
       "moniker": "google-cloud-updates-its-ai-agent-builder-with-new-observability-dashboard-and-faster-build-and-deploy-tools",
       "category": "pending_review",
       "website_url": "https://venturebeat.com/ai/the-agent-builder-arms-race-continues-as-google-cloud-pushes-deeper-into",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Inside Zendeskâs dual AI leap: From reliable agents to real-time intelligence with GPT-5 and HyperArc",
-      "moniker": "inside-zendesk-s-dual-ai-leap-from-reliable-agents-to-real-time-intelligence-with-gpt-5-and-hyperarc",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/inside-zendesks-dual-ai-leap-from-reliable-agents-to-real-time-intelligence",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Strengthening Our Core: Welcoming Karyne Levy as VentureBeatâs New Managing Editor",
-      "moniker": "strengthening-our-core-welcoming-karyne-levy-as-venturebeat-s-new-managing-editor",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/strengthening-our-core-welcoming-karyne-levy-as-venturebeats-new-managing",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Inside Celosphere 2025: Why thereâs no âenterprise AIâ without process intelligence",
-      "moniker": "inside-celosphere-2025-why-there-s-no-enterprise-ai-without-process-intelligence",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/inside-celosphere-2025-why-theres-no-enterprise-ai-without-process",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Meet Aardvark, OpenAIâs security agent for code analysis and patching",
-      "moniker": "meet-aardvark-openai-s-security-agent-for-code-analysis-and-patching",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/security/meet-aardvark-openais-in-house-security-agent-for-code-analysis-and-patching",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "The missing data link in enterprise AI: Why agents need streaming context, not just better prompts",
-      "moniker": "the-missing-data-link-in-enterprise-ai-why-agents-need-streaming-context-not-just-better-prompts",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/data-infrastructure/the-missing-data-link-in-enterprise-ai-why-agents-need-streaming-context-not",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Agentic AI is all about the context â engineering, that is ",
-      "moniker": "agentic-ai-is-all-about-the-context-engineering-that-is",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "GitHub's Agent HQ aims to solve enterprises' biggest AI coding problem: Too many agents, no central control",
-      "moniker": "github-s-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too-many-agents-no-central-control",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/githubs-agent-hq-aims-to-solve-enterprises-biggest-ai-coding-problem-too",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Intuit learned to build AI agents for finance the hard way: Trust lost in buckets, earned back in spoonfuls",
-      "moniker": "intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in-buckets-earned-back-in-spoonfuls",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/intuit-learned-to-build-ai-agents-for-finance-the-hard-way-trust-lost-in",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "PayPalâs agentic commerce play shows why flexibility, not standards, will define the next e-commerce wave",
-      "moniker": "paypal-s-agentic-commerce-play-shows-why-flexibility-not-standards-will-define-the-next-e-commerce-wave",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "MiniMax-M2 is the new king of open source LLMs (especially for agentic tool calling)",
-      "moniker": "minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool-calling",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "From human clicks to machine intent: Preparing the web for agentic AI",
-      "moniker": "from-human-clicks-to-machine-intent-preparing-the-web-for-agentic-ai",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/from-human-clicks-to-machine-intent-preparing-the-web-for-agentic-ai",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Inside Ring-1T: Ant engineers solve reinforcement learning bottlenecks at trillion scale",
-      "moniker": "inside-ring-1t-ant-engineers-solve-reinforcement-learning-bottlenecks-at-trillion-scale",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/inside-ring-1t-ant-engineers-solve-reinforcement-learning-bottlenecks-at",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Google's 'Watch & Learn' framework cracks the data bottleneck for training computer-use agents",
-      "moniker": "google-s-watch-learn-framework-cracks-the-data-bottleneck-for-training-computer-use-agents",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/googles-watch-and-learn-framework-cracks-the-data-bottleneck-for-training",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -369,546 +233,26 @@
       "status": "pending_review"
     },
     {
-      "tool": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
-      "moniker": "building-the-open-agent-ecosystem-together-introducing-openenv",
+      "tool": "anndata-mcp 0.2.2",
+      "moniker": "anndata-mcp-0-2-2",
       "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/openenv",
+      "website_url": "https://pypi.org/project/anndata-mcp/0.2.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
-      "moniker": "accelerating-qwen3-8b-agent-on-intel-core-ultra-with-depth-pruned-draft-models",
+      "tool": "mcp-weather-full 0.9.5",
+      "moniker": "mcp-weather-full-0-9-5",
       "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/intel-qwen3-agent",
+      "website_url": "https://pypi.org/project/mcp-weather-full/0.9.5/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Smol2Operator: Post-Training GUI Agents for Computer Use",
-      "moniker": "smol2operator-post-training-gui-agents-for-computer-use",
+      "tool": "ace-agents 0.1.0",
+      "moniker": "ace-agents-0-1-0",
       "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/smol2operator",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Gaia2 and ARE: Empowering the community to study agents",
-      "moniker": "gaia2-and-are-empowering-the-community-to-study-agents",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/gaia2",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Scaleway on Hugging Face Inference Providers 🔥",
-      "moniker": "scaleway-on-hugging-face-inference-providers",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/inference-providers-scaleway",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Public AI on Hugging Face Inference Providers 🔥",
-      "moniker": "public-ai-on-hugging-face-inference-providers",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/inference-providers-publicai",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Jupyter Agents: training LLMs to reason with notebooks",
-      "moniker": "jupyter-agents-training-llms-to-reason-with-notebooks",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/jupyter-agent-2",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels",
-      "moniker": "from-zero-to-gpu-a-guide-to-building-and-scaling-production-ready-cuda-kernels",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/kernel-builder",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "MCP for Research: How to Connect AI to Research Tools",
-      "moniker": "mcp-for-research-how-to-connect-ai-to-research-tools",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/mcp-for-research",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "TextQuests: How Good are LLMs at Text-Based Video Games?",
-      "moniker": "textquests-how-good-are-llms-at-text-based-video-games",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/textquests",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Accelerate ND-Parallel: A Guide to Efficient Multi-GPU Training",
-      "moniker": "accelerate-nd-parallel-a-guide-to-efficient-multi-gpu-training",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/accelerate-nd-parallel",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Build an AI Shopping Assistant with Gradio MCP Servers",
-      "moniker": "build-an-ai-shopping-assistant-with-gradio-mcp-servers",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/gradio-vton-mcp",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "TimeScope: How Long Can Your Video Large Multimodal Model Go?",
-      "moniker": "timescope-how-long-can-your-video-large-multimodal-model-go",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/timescope-video-lmm-benchmark",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Back to The Future: Evaluating AI Agents on Predicting Future Events",
-      "moniker": "back-to-the-future-evaluating-ai-agents-on-predicting-future-events",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/futurebench",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Five Big Improvements to Gradio MCP Servers",
-      "moniker": "five-big-improvements-to-gradio-mcp-servers",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/gradio-mcp-updates",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "ScreenEnv: Deploy your full stack Desktop Agent",
-      "moniker": "screenenv-deploy-your-full-stack-desktop-agent",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/screenenv",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Building the Hugging Face MCP Server",
-      "moniker": "building-the-hugging-face-mcp-server",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/building-hf-mcp",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Upskill your LLMs with Gradio MCP Servers",
-      "moniker": "upskill-your-llms-with-gradio-mcp-servers",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/gradio-mcp-servers",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Groq on Hugging Face Inference Providers 🔥",
-      "moniker": "groq-on-hugging-face-inference-providers",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/inference-providers-groq",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Featherless AI on Hugging Face Inference Providers 🔥",
-      "moniker": "featherless-ai-on-hugging-face-inference-providers",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/inference-providers-featherless",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "ScreenSuite - The most comprehensive evaluation suite for GUI Agents!",
-      "moniker": "screensuite-the-most-comprehensive-evaluation-suite-for-gui-agents",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/screensuite",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "CodeAgents + Structure: A Better Way to Execute Actions",
-      "moniker": "codeagents-structure-a-better-way-to-execute-actions",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/structured-codeagent",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code",
-      "moniker": "tiny-agents-in-python-a-mcp-powered-agent-in-70-lines-of-code",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/python-tiny-agents",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "How to Build an MCP Server with Gradio",
-      "moniker": "how-to-build-an-mcp-server-with-gradio",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/gradio-mcp",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Tiny Agents: a MCP-powered agent in 50 lines of code",
-      "moniker": "tiny-agents-a-mcp-powered-agent-in-50-lines-of-code",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/tiny-agents",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Cohere on Hugging Face Inference Providers 🔥",
-      "moniker": "cohere-on-hugging-face-inference-providers",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/inference-providers-cohere",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Hugging Face and Cloudflare Partner to Make Real-Time Speech and Video Seamless with FastRTC",
-      "moniker": "hugging-face-and-cloudflare-partner-to-make-real-time-speech-and-video-seamless-with-fastrtc",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/fastrtc-cloudflare",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!",
-      "moniker": "llm-inference-on-edge-a-fun-and-easy-guide-to-run-llms-via-react-native-on-your-phone",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/llm-inference-on-edge",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Trace & Evaluate your Agent with Arize Phoenix",
-      "moniker": "trace-evaluate-your-agent-with-arize-phoenix",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/smolagents-phoenix",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "SmolVLM2: Bringing Video Understanding to Every Device",
-      "moniker": "smolvlm2-bringing-video-understanding-to-every-device",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/smolvlm2",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥",
-      "moniker": "introducing-three-new-serverless-inference-providers-hyperbolic-nebius-ai-studio-and-novita",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Build awesome datasets for video generation",
-      "moniker": "build-awesome-datasets-for-video-generation",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/vid_ds_scripts",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Open-source DeepResearch – Freeing our search agents",
-      "moniker": "open-source-deepresearch-freeing-our-search-agents",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/open-deep-research",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "DABStep: Data Agent Benchmark for Multi-step Reasoning",
-      "moniker": "dabstep-data-agent-benchmark-for-multi-step-reasoning",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/dabstep",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Welcome to Inference Providers on the Hub 🔥",
-      "moniker": "welcome-to-inference-providers-on-the-hub",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/inference-providers",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "State of open video generation models in Diffusers",
-      "moniker": "state-of-open-video-generation-models-in-diffusers",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/video_gen",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "We now support VLMs in smolagents!",
-      "moniker": "we-now-support-vlms-in-smolagents",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/smolagents-can-see",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "AI Agents Are Here. What Now?",
-      "moniker": "ai-agents-are-here-what-now",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/ethics-soc-7",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Introducing smolagents: simple agents that write actions in code.",
-      "moniker": "introducing-smolagents-simple-agents-that-write-actions-in-code",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/smolagents",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Open Source Developers Guide to the EU AI Act",
-      "moniker": "open-source-developers-guide-to-the-eu-ai-act",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/eu-ai-act-for-oss-developers",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "A Security Review of Gradio 5",
-      "moniker": "a-security-review-of-gradio-5",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/gradio-5-security",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "FineVideo: behind the scenes",
-      "moniker": "finevideo-behind-the-scenes",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/fine-video",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Scaling robotics datasets with video encoding",
-      "moniker": "scaling-robotics-datasets-with-video-encoding",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/video-encoding",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Our Transformers Code Agent beats the GAIA benchmark!",
-      "moniker": "our-transformers-code-agent-beats-the-gaia-benchmark",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/beating-gaia",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "License to Call: Introducing Transformers Agents 2.0",
-      "moniker": "license-to-call-introducing-transformers-agents-2-0",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/agents",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent",
-      "moniker": "jack-of-all-trades-master-of-some-a-multi-purpose-transformer-agent",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/jat",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Introducing Idefics2: A Powerful 8B Vision-Language Model for the community",
-      "moniker": "introducing-idefics2-a-powerful-8b-vision-language-model-for-the-community",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/idefics2",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Open-source LLMs as LangChain Agents",
-      "moniker": "open-source-llms-as-langchain-agents",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/open-source-llms-as-agents",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "A guide to setting up your own Hugging Face leaderboard: an end-to-end example with Vectara's hallucination leaderboard",
-      "moniker": "a-guide-to-setting-up-your-own-hugging-face-leaderboard-an-end-to-end-example-with-vectara-s-hallucination-leaderboard",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/leaderboard-vectara",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Non-engineers guide: Train a LLaMA 2 chatbot",
-      "moniker": "non-engineers-guide-train-a-llama-2-chatbot",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/Llama2-for-non-engineers",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Language Model",
-      "moniker": "introducing-idefics-an-open-reproduction-of-state-of-the-art-visual-language-model",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/idefics",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Practical 3D Asset Generation: A Step-by-Step Guide",
-      "moniker": "practical-3d-asset-generation-a-step-by-step-guide",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/3d-assets",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "AI Policy @🤗: Open ML Considerations in the EU AI Act",
-      "moniker": "ai-policy-open-ml-considerations-in-the-eu-ai-act",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/eu-ai-act-oss",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Introducing Agents.js: Give tools to your LLMs using JavaScript",
-      "moniker": "introducing-agents-js-give-tools-to-your-llms-using-javascript",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/agents-js",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Announcing our new Content Guidelines and Policy",
-      "moniker": "announcing-our-new-content-guidelines-and-policy",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/content-guidelines-update",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "A Dive into Text-to-Video Models",
-      "moniker": "a-dive-into-text-to-video-models",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/text-to-video",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "StackLLaMA: A hands-on guide to train LLaMA with RLHF",
-      "moniker": "stackllama-a-hands-on-guide-to-train-llama-with-rlhf",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/stackllama",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Ethical guidelines for developing the Diffusers library",
-      "moniker": "ethical-guidelines-for-developing-the-diffusers-library",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/ethics-diffusers",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system",
-      "moniker": "introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-system",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/aivsai",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "What Makes a Dialog Agent Useful?",
-      "moniker": "what-makes-a-dialog-agent-useful",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/dialog-agents",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "A Complete Guide to Audio Datasets",
-      "moniker": "a-complete-guide-to-audio-datasets",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/audio-datasets",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Introducing DOI: the Digital Object Identifier to Datasets and Models",
-      "moniker": "introducing-doi-the-digital-object-identifier-to-datasets-and-models",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/introducing-doi",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Announcing the 🤗 AI Research Residency Program",
-      "moniker": "announcing-the-ai-research-residency-program",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/ai-residency",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Introducing Snowball Fight ☃️, our First ML-Agents Environment",
-      "moniker": "introducing-snowball-fight-our-first-ml-agents-environment",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/snowball-fight",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Simple considerations for simple people building fancy neural networks",
-      "moniker": "simple-considerations-for-simple-people-building-fancy-neural-networks",
-      "category": "pending_review",
-      "website_url": "https://huggingface.co/blog/simple-considerations",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "pyscn-mcp 1.3.0",
-      "moniker": "pyscn-mcp-1-3-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/pyscn-mcp/1.3.0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "kipu-quantum-hub-mcp 0.1.1",
-      "moniker": "kipu-quantum-hub-mcp-0-1-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/kipu-quantum-hub-mcp/0.1.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "agent-tools-drnt 0.4.3",
-      "moniker": "agent-tools-drnt-0-4-3",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/agent-tools-drnt/0.4.3/",
+      "website_url": "https://pypi.org/project/ace-agents/0.1.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -1049,8 +393,8 @@
       "status": "pending_review"
     },
     {
-      "tool": "Node-Based Editing for Multimodal Generation of Text, Audio, Image, and Vide",
-      "moniker": "node-based-editing-for-multimodal-generation-of-text-audio-image-and-vide",
+      "tool": "Node-Based Editing for Multimodal Generation of Text, Audio, Image, and Video",
+      "moniker": "node-based-editing-for-multimodal-generation-of-text-audio-image-and-video",
       "category": "pending_review",
       "website_url": "https://arxiv.org/abs/2511.03227",
       "source_type": "Press",
