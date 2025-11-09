@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tool": "The Map of Human Ideas",
+      "moniker": "the-map-of-human-ideas",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/products/the-map-of-human-ideas",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Epismo: Kickoff Agent",
+      "moniker": "epismo-kickoff-agent",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/products/epismo",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "Secure MCP Framework by Arcade.dev",
       "moniker": "secure-mcp-framework-by-arcade-dev",
       "category": "pending_review",
@@ -17,26 +33,26 @@
       "status": "pending_review"
     },
     {
-      "tool": "Alpha Vantage MCP",
-      "moniker": "alpha-vantage-mcp",
+      "tool": "Show HN: A simple TUI orgmode editor inspired by nano and k9s",
+      "moniker": "show-hn-a-simple-tui-orgmode-editor-inspired-by-nano-and-k9s",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/alpha-vantage",
+      "website_url": "https://github.com/RWejlgaard/org",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Gempix2 – AI Image Editor and Generator Powered by Nano Banana 2",
-      "moniker": "show-hn-gempix2-ai-image-editor-and-generator-powered-by-nano-banana-2",
+      "tool": "What Is Windsurf AI? The New Agentic IDE",
+      "moniker": "what-is-windsurf-ai-the-new-agentic-ide",
       "category": "pending_review",
-      "website_url": "https://gempix-2.co/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1osg2mc/what_is_windsurf_ai_the_new_agentic_ide/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Gopilotty – Agent for Interactive Terminal",
-      "moniker": "show-hn-gopilotty-agent-for-interactive-terminal",
+      "tool": "Has sido \"GANADO\" en una granja de producción de IA, Nos usan como Beta testers de pago para, robar datos y entrenar IA. Aquí está toda la evidencia explicada por investigación web por el propio Claude 3.5 Sonet.",
+      "moniker": "has-sido-ganado-en-una-granja-de-producci-n-de-ia-nos-usan-como-beta-testers-de-pago-para-robar-datos-y-entrenar-ia-aqu-est-toda-la-evidencia-explicada-por-investigaci-n-web-por-el-propio-claude-3-5-sonet",
       "category": "pending_review",
-      "website_url": "https://github.com/goverture/gopilotty",
+      "website_url": "https://www.reddit.com/r/programming/comments/1osd4dz/has_sido_ganado_en_una_granja_de_producción_de_ia/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -49,18 +65,34 @@
       "status": "pending_review"
     },
     {
-      "tool": "No AI in Agents",
-      "moniker": "no-ai-in-agents",
+      "tool": "PSA Kimi K2 Thinking seems to currently be broken for most agents because of tool calling within it's thinking tags",
+      "moniker": "psa-kimi-k2-thinking-seems-to-currently-be-broken-for-most-agents-because-of-tool-calling-within-it-s-thinking-tags",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1orl32t/no_ai_in_agents/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1osd8ie/psa_kimi_k2_thinking_seems_to_currently_be_broken/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "World's strongest agentic model is now open source",
-      "moniker": "world-s-strongest-agentic-model-is-now-open-source",
+      "tool": "Best coding agent for GLM-4.6 that's not CC",
+      "moniker": "best-coding-agent-for-glm-4-6-that-s-not-cc",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1oqebr3/worlds_strongest_agentic_model_is_now_open_source/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1osh24c/best_coding_agent_for_glm46_thats_not_cc/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Full Stack Local Deep Research Agent",
+      "moniker": "full-stack-local-deep-research-agent",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1osdbxz/full_stack_local_deep_research_agent/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Worth the switch from Claude to GLM 4.6 for my coding side hustle?",
+      "moniker": "worth-the-switch-from-claude-to-glm-4-6-for-my-coding-side-hustle",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1osj4mb/worth_the_switch_from_claude_to_glm_46_for_my/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -73,14 +105,6 @@
       "status": "pending_review"
     },
     {
-      "tool": "[D] OpenReview down again right before CVPR registration deadline 😩",
-      "moniker": "d-openreview-down-again-right-before-cvpr-registration-deadline",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1oqo5v4/d_openreview_down_again_right_before_cvpr/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "[R][Slides] Gemma3n architecture guide",
       "moniker": "r-slides-gemma3n-architecture-guide",
       "category": "pending_review",
@@ -89,10 +113,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "[D] AI provider wants a “win-win” data-sharing deal - how do I make sure it’s actually fair?",
-      "moniker": "d-ai-provider-wants-a-win-win-data-sharing-deal-how-do-i-make-sure-it-s-actually-fair",
+      "tool": "[D] OpenReview down again right before CVPR registration deadline 😩",
+      "moniker": "d-openreview-down-again-right-before-cvpr-registration-deadline",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1op6ifq/d_ai_provider_wants_a_winwin_datasharing_deal_how/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1oqo5v4/d_openreview_down_again_right_before_cvpr/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -133,14 +157,6 @@
       "moniker": "meta-launches-vibes-a-short-form-video-feed-of-ai-slop",
       "category": "pending_review",
       "website_url": "https://techcrunch.com/2025/09/25/meta-launches-vibes-a-short-form-video-feed-of-ai-slop/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Steam store pages are wider now",
-      "moniker": "steam-store-pages-are-wider-now",
-      "category": "pending_review",
-      "website_url": "https://www.theverge.com/news/816599/valve-steam-store-pages-wider",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -729,90 +745,58 @@
       "status": "pending_review"
     },
     {
-      "tool": "Concept idea: exploring AI Self-Awareness via a \"Voice Behind the Voice\" Architechture",
-      "moniker": "concept-idea-exploring-ai-self-awareness-via-a-voice-behind-the-voice-architechture",
+      "tool": "fast-bitrix24-mcp 1.0.4",
+      "moniker": "fast-bitrix24-mcp-1-0-4",
       "category": "pending_review",
-      "website_url": "https://community.openai.com/t/concept-idea-exploring-ai-self-awareness-via-a-voice-behind-the-voice-architechture/1365534",
+      "website_url": "https://pypi.org/project/fast-bitrix24-mcp/1.0.4/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Agent Builder Error 400 missing reasoning items",
-      "moniker": "agent-builder-error-400-missing-reasoning-items",
+      "tool": "cite-agent 1.4.2",
+      "moniker": "cite-agent-1-4-2",
       "category": "pending_review",
-      "website_url": "https://community.openai.com/t/agent-builder-error-400-missing-reasoning-items/1365508",
+      "website_url": "https://pypi.org/project/cite-agent/1.4.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Can't Hear Inbound Audio from OpenAI Realtime Agent (WebRTC) - Oubound Works, Inbound Stuck at 1 kbps",
-      "moniker": "can-t-hear-inbound-audio-from-openai-realtime-agent-webrtc-oubound-works-inbound-stuck-at-1-kbps",
+      "tool": "mcp-postgres-duwenji 1.2.21",
+      "moniker": "mcp-postgres-duwenji-1-2-21",
       "category": "pending_review",
-      "website_url": "https://community.openai.com/t/cant-hear-inbound-audio-from-openai-realtime-agent-webrtc-oubound-works-inbound-stuck-at-1-kbps/1365486",
+      "website_url": "https://pypi.org/project/mcp-postgres-duwenji/1.2.21/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "How to retrieve input values from a widget in Agent Builder",
-      "moniker": "how-to-retrieve-input-values-from-a-widget-in-agent-builder",
+      "tool": "diagrams-mcp 1.0.0",
+      "moniker": "diagrams-mcp-1-0-0",
       "category": "pending_review",
-      "website_url": "https://community.openai.com/t/how-to-retrieve-input-values-from-a-widget-in-agent-builder/1365462",
+      "website_url": "https://pypi.org/project/diagrams-mcp/1.0.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Agent Response and Reasoning streaming",
-      "moniker": "agent-response-and-reasoning-streaming",
+      "tool": "mcp-postgres-duwenji 1.2.20",
+      "moniker": "mcp-postgres-duwenji-1-2-20",
       "category": "pending_review",
-      "website_url": "https://community.openai.com/t/agent-response-and-reasoning-streaming/1365456",
+      "website_url": "https://pypi.org/project/mcp-postgres-duwenji/1.2.20/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Migrating from Responses + OpenAI Vector Stores to my own RAG Tool with Agents: looking for feedback on tool design",
-      "moniker": "migrating-from-responses-openai-vector-stores-to-my-own-rag-tool-with-agents-looking-for-feedback-on-tool-design",
+      "tool": "fast-bitrix24-mcp 1.0.3",
+      "moniker": "fast-bitrix24-mcp-1-0-3",
       "category": "pending_review",
-      "website_url": "https://community.openai.com/t/migrating-from-responses-openai-vector-stores-to-my-own-rag-tool-with-agents-looking-for-feedback-on-tool-design/1365403",
+      "website_url": "https://pypi.org/project/fast-bitrix24-mcp/1.0.3/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "anndata-mcp 0.2.4",
-      "moniker": "anndata-mcp-0-2-4",
+      "tool": "nvidia-nat-mcp 1.4.0a20251109",
+      "moniker": "nvidia-nat-mcp-1-4-0a20251109",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/anndata-mcp/0.2.4/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "dbt-core-mcp 0.2.3",
-      "moniker": "dbt-core-mcp-0-2-3",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/dbt-core-mcp/0.2.3/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "vnstock-mcp 0.1.1",
-      "moniker": "vnstock-mcp-0-1-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/vnstock-mcp/0.1.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "1xn-vmcp 0.1.7",
-      "moniker": "1xn-vmcp-0-1-7",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/1xn-vmcp/0.1.7/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "pymcp-template 0.2.0",
-      "moniker": "pymcp-template-0-2-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/pymcp-template/0.2.0/",
+      "website_url": "https://pypi.org/project/nvidia-nat-mcp/1.4.0a20251109/",
       "source_type": "Press",
       "status": "pending_review"
     }
