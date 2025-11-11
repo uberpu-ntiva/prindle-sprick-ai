@@ -1,18 +1,26 @@
 {
   "items": [
     {
-      "tool": "Magic MCP by Metorial",
-      "moniker": "magic-mcp-by-metorial",
+      "tool": "Draftboard Warm Intro Agent",
+      "moniker": "draftboard-warm-intro-agent",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/metorial",
+      "website_url": "https://www.producthunt.com/products/draftboard",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "The Map of Human Ideas",
-      "moniker": "the-map-of-human-ideas",
+      "tool": "The Cloud for AI Agents",
+      "moniker": "the-cloud-for-ai-agents",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/the-map-of-human-ideas",
+      "website_url": "https://www.producthunt.com/products/the-cloud-for-ai-agents",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Magic MCP by Metorial",
+      "moniker": "magic-mcp-by-metorial",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/products/metorial",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -25,26 +33,74 @@
       "status": "pending_review"
     },
     {
-      "tool": "Secure MCP Framework by Arcade.dev",
-      "moniker": "secure-mcp-framework-by-arcade-dev",
+      "tool": "The Map of Human Ideas",
+      "moniker": "the-map-of-human-ideas",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/secure-mcp-framework",
+      "website_url": "https://www.producthunt.com/products/the-map-of-human-ideas",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Study Material to Brainrot Videos",
-      "moniker": "show-hn-study-material-to-brainrot-videos",
+      "tool": "Show HN: Grizzly – Memory-Efficient Zip Viewer for macOS with Quick Look Preview",
+      "moniker": "show-hn-grizzly-memory-efficient-zip-viewer-for-macos-with-quick-look-preview",
       "category": "pending_review",
-      "website_url": "https://www.studyaura.app",
+      "website_url": "https://github.com/harshal2030/Grizzly",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "How to Give Constructive Feedback with Confidence as an Engineering Leader",
-      "moniker": "how-to-give-constructive-feedback-with-confidence-as-an-engineering-leader",
+      "tool": "Show HN: Nano Banana 2 – Next-Generation AI Image Editor and Generator",
+      "moniker": "show-hn-nano-banana-2-next-generation-ai-image-editor-and-generator",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1osqf4h/how_to_give_constructive_feedback_with_confidence/",
+      "website_url": "https://nano-banana2.co/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Show HN: Siri for Sites Using MCP",
+      "moniker": "show-hn-siri-for-sites-using-mcp",
+      "category": "pending_review",
+      "website_url": "https://www.memoreco.com/explainers/siri-for-sites-using-mcp",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Show HN: Graphql-MCP Python Library",
+      "moniker": "show-hn-graphql-mcp-python-library",
+      "category": "pending_review",
+      "website_url": "https://graphql-mcp.com/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Spider-Man: The Movie Game dissection project Checkpoint - November 2025",
+      "moniker": "spider-man-the-movie-game-dissection-project-checkpoint-november-2025",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/programming/comments/1otu5zb/spiderman_the_movie_game_dissection_project/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Kimi K2 Thinking is a Better Agentic AI than I thought",
+      "moniker": "kimi-k2-thinking-is-a-better-agentic-ai-than-i-thought",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ou8t7z/kimi_k2_thinking_is_a_better_agentic_ai_than_i/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Realtime video analysis with Moondream",
+      "moniker": "realtime-video-analysis-with-moondream",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1oty5a9/realtime_video_analysis_with_moondream/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] ICLR 2026 Paper Reviews Discussion",
+      "moniker": "d-iclr-2026-paper-reviews-discussion",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1otlqqv/d_iclr_2026_paper_reviews_discussion/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -61,22 +117,6 @@
       "moniker": "r-brief-history-of-post-training-of-llms-slide-deck",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1or9qqy/r_brief_history_of_post_training_of_llms_slide/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[R][Slides] Gemma3n architecture guide",
-      "moniker": "r-slides-gemma3n-architecture-guide",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1oqvgh6/rslides_gemma3n_architecture_guide/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[D] OpenReview down again right before CVPR registration deadline 😩",
-      "moniker": "d-openreview-down-again-right-before-cvpr-registration-deadline",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1oqo5v4/d_openreview_down_again_right_before_cvpr/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -117,14 +157,6 @@
       "moniker": "meta-launches-vibes-a-short-form-video-feed-of-ai-slop",
       "category": "pending_review",
       "website_url": "https://techcrunch.com/2025/09/25/meta-launches-vibes-a-short-form-video-feed-of-ai-slop/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Terminal-Bench 2.0 launches alongside Harbor, a new framework for testing agents in containers",
-      "moniker": "terminal-bench-2-0-launches-alongside-harbor-a-new-framework-for-testing-agents-in-containers",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/terminal-bench-2-0-launches-alongside-harbor-a-new-framework-for-testing",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -705,50 +737,82 @@
       "status": "pending_review"
     },
     {
-      "tool": "mcpower-proxy 0.0.79",
-      "moniker": "mcpower-proxy-0-0-79",
+      "tool": "Temporary audio glitches when using gpt-4o-mini-realtime-preview voice output via Realtime WebSocket API",
+      "moniker": "temporary-audio-glitches-when-using-gpt-4o-mini-realtime-preview-voice-output-via-realtime-websocket-api",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcpower-proxy/0.0.79/",
+      "website_url": "https://community.openai.com/t/temporary-audio-glitches-when-using-gpt-4o-mini-realtime-preview-voice-output-via-realtime-websocket-api/1365883",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "siga-mcp 0.1.67",
-      "moniker": "siga-mcp-0-1-67",
+      "tool": "Test Agent from Playground stuck in infinite loop!",
+      "moniker": "test-agent-from-playground-stuck-in-infinite-loop",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/siga-mcp/0.1.67/",
+      "website_url": "https://community.openai.com/t/test-agent-from-playground-stuck-in-infinite-loop/1365855",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "agenta 0.60.2",
-      "moniker": "agenta-0-60-2",
+      "tool": "ChatKit Agent run 500 errors?",
+      "moniker": "chatkit-agent-run-500-errors",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agenta/0.60.2/",
+      "website_url": "https://community.openai.com/t/chatkit-agent-run-500-errors/1365853",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-postgres-duwenji 1.2.28",
-      "moniker": "mcp-postgres-duwenji-1-2-28",
+      "tool": "Cannot find 'Allowed Domains' setting for Iframe Embed (X-Frame-Options: SAMEORIGIN error) - Agent Builder",
+      "moniker": "cannot-find-allowed-domains-setting-for-iframe-embed-x-frame-options-sameorigin-error-agent-builder",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-postgres-duwenji/1.2.28/",
+      "website_url": "https://community.openai.com/t/cannot-find-allowed-domains-setting-for-iframe-embed-x-frame-options-sameorigin-error-agent-builder/1365839",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "foundationallm-agent-plugins 0.9.7rc467",
-      "moniker": "foundationallm-agent-plugins-0-9-7rc467",
+      "tool": "Aardvark: OpenAI’s agentic security researcher",
+      "moniker": "aardvark-openai-s-agentic-security-researcher",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/foundationallm-agent-plugins/0.9.7rc467/",
+      "website_url": "https://community.openai.com/t/aardvark-openai-s-agentic-security-researcher/1365837",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "imgenx-mcp 0.3.0",
-      "moniker": "imgenx-mcp-0-3-0",
+      "tool": "Best Agent Architecture for Conversational Chatbot Using Remote MCP Tools",
+      "moniker": "best-agent-architecture-for-conversational-chatbot-using-remote-mcp-tools",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/imgenx-mcp/0.3.0/",
+      "website_url": "https://community.openai.com/t/best-agent-architecture-for-conversational-chatbot-using-remote-mcp-tools/1365816",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Agent auto responds continuously with or without background noise",
+      "moniker": "agent-auto-responds-continuously-with-or-without-background-noise",
+      "category": "pending_review",
+      "website_url": "https://community.openai.com/t/agent-auto-responds-continuously-with-or-without-background-noise/1365782",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Plans of an official OpenAI AI Agent Registry and Public Searchable AI Agent Index?",
+      "moniker": "plans-of-an-official-openai-ai-agent-registry-and-public-searchable-ai-agent-index",
+      "category": "pending_review",
+      "website_url": "https://community.openai.com/t/plans-of-an-official-openai-ai-agent-registry-and-public-searchable-ai-agent-index/1365780",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Get audio output of voice agent using realtime api / agents sdk",
+      "moniker": "get-audio-output-of-voice-agent-using-realtime-api-agents-sdk",
+      "category": "pending_review",
+      "website_url": "https://community.openai.com/t/get-audio-output-of-voice-agent-using-realtime-api-agents-sdk/1365774",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "wink-sdk-travel-agent 0.0.55",
+      "moniker": "wink-sdk-travel-agent-0-0-55",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/wink-sdk-travel-agent/0.0.55/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -953,8 +1017,8 @@
       "status": "pending_review"
     },
     {
-      "tool": "A Proprietary Model-Based Safety Response Framework for AI Agents",
-      "moniker": "a-proprietary-model-based-safety-response-framework-for-ai-agents",
+      "tool": "DeepKnown-Guard: A Proprietary Model-Based Safety Response Framework for AI Agents",
+      "moniker": "deepknown-guard-a-proprietary-model-based-safety-response-framework-for-ai-agents",
       "category": "pending_review",
       "website_url": "https://arxiv.org/abs/2511.03138",
       "source_type": "Press",
