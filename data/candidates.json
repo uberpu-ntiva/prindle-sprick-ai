@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tool": "Doco Agent Mode",
+      "moniker": "doco-agent-mode",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/products/doco-2",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "Video Localization by Algebras",
       "moniker": "video-localization-by-algebras",
       "category": "pending_review",
@@ -9,74 +17,114 @@
       "status": "pending_review"
     },
     {
-      "tool": "Clik - Cursor for Video",
-      "moniker": "clik-cursor-for-video",
+      "tool": "Show HN: Page Report – Conversational agents for landing page CRO",
+      "moniker": "show-hn-page-report-conversational-agents-for-landing-page-cro",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/clik-cursor-for-video",
+      "website_url": "https://www.pagereport.app/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "The Cloud for AI Agents",
-      "moniker": "the-cloud-for-ai-agents",
+      "tool": "Show HN: Dispatch Game Hub – Ultimate Guide, Simulator and Hero Database",
+      "moniker": "show-hn-dispatch-game-hub-ultimate-guide-simulator-and-hero-database",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/the-cloud-for-ai-agents",
+      "website_url": "https://dispatch-game.org/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: PostIdentity, an AI that writes in your voice",
-      "moniker": "show-hn-postidentity-an-ai-that-writes-in-your-voice",
+      "tool": "LZAV 5.0: Improved compression ratio across a wide range of data types, at similar performance. Improved compression ratio by up to 5% for data smaller than 256 KiB. Fast Data Compression Algorithm (header-only C/C++).",
+      "moniker": "lzav-5-0-improved-compression-ratio-across-a-wide-range-of-data-types-at-similar-performance-improved-compression-ratio-by-up-to-5-for-data-smaller-than-256-kib-fast-data-compression-algorithm-header-only-c-c",
       "category": "pending_review",
-      "website_url": "https://postidentity.com",
+      "website_url": "https://www.reddit.com/r/programming/comments/1ovyqle/lzav_50_improved_compression_ratio_across_a_wide/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Design canvas integrated into your AI IDE",
-      "moniker": "show-hn-design-canvas-integrated-into-your-ai-ide",
+      "tool": "VS Code 1.106 out with new icons, Agents view w/ Codex, diff selection fixes",
+      "moniker": "vs-code-1-106-out-with-new-icons-agents-view-w-codex-diff-selection-fixes",
       "category": "pending_review",
-      "website_url": "https://www.velork.com/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1ovcrks/vs_code_1106_out_with_new_icons_agents_view_w/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: DeltaGlider – Store 4TB of build artifacts in 5GB",
-      "moniker": "show-hn-deltaglider-store-4tb-of-build-artifacts-in-5gb",
+      "tool": "Fun-reliable side-channels for cross-container communication",
+      "moniker": "fun-reliable-side-channels-for-cross-container-communication",
       "category": "pending_review",
-      "website_url": "https://github.com/beshu-tech/deltaglider",
+      "website_url": "https://www.reddit.com/r/programming/comments/1ovcdim/funreliable_sidechannels_for_crosscontainer/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: CodeReviewr – Pay per review, not per developer",
-      "moniker": "show-hn-codereviewr-pay-per-review-not-per-developer",
+      "tool": "A step-by-step guide on how to use Spring Batch together with Spring Data JPA and MySQL to move data from CSV files into a database efficiently.",
+      "moniker": "a-step-by-step-guide-on-how-to-use-spring-batch-together-with-spring-data-jpa-and-mysql-to-move-data-from-csv-files-into-a-database-efficiently",
       "category": "pending_review",
-      "website_url": "https://codereviewr.app",
+      "website_url": "https://www.reddit.com/r/programming/comments/1ovr5cg/a_stepbystep_guide_on_how_to_use_spring_batch/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Rtrvr.ai – Remote Control Your Browser with an AI Web Agent and MCP",
-      "moniker": "show-hn-rtrvr-ai-remote-control-your-browser-with-an-ai-web-agent-and-mcp",
+      "tool": "TidesDB vs RocksDB: Which Storage Engine is Faster?",
+      "moniker": "tidesdb-vs-rocksdb-which-storage-engine-is-faster",
       "category": "pending_review",
-      "website_url": "https://www.rtrvr.ai",
+      "website_url": "https://www.reddit.com/r/programming/comments/1ovzlnp/tidesdb_vs_rocksdb_which_storage_engine_is_faster/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "I wrote a guide on running LLMs everywhere (desktop, mobile, game engines) with zero conversion",
-      "moniker": "i-wrote-a-guide-on-running-llms-everywhere-desktop-mobile-game-engines-with-zero-conversion",
+      "tool": "A reminder to stay in control of your agents (blog post)",
+      "moniker": "a-reminder-to-stay-in-control-of-your-agents-blog-post",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ouzqja/i_wrote_a_guide_on_running_llms_everywhere/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1ovynmk/a_reminder_to_stay_in_control_of_your_agents_blog/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Mastering llama.cpp: A Comprehensive Guide to Local LLM Integration",
-      "moniker": "mastering-llama-cpp-a-comprehensive-guide-to-local-llm-integration",
+      "tool": "Jan-v2-VL: 8B model for long-horizon tasks, improving Qwen3-VL-8B’s agentic capabilities almost 10x",
+      "moniker": "jan-v2-vl-8b-model-for-long-horizon-tasks-improving-qwen3-vl-8b-s-agentic-capabilities-almost-10x",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ov2ll9/mastering_llamacpp_a_comprehensive_guide_to_local/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ovxksu/janv2vl_8b_model_for_longhorizon_tasks_improving/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Live VLM WebUI - Web interface for Ollama vision models with real-time video streaming",
+      "moniker": "live-vlm-webui-web-interface-for-ollama-vision-models-with-real-time-video-streaming",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ovc3sj/live_vlm_webui_web_interface_for_ollama_vision/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Best getting started guide, moving from RTX3090 to Strix Halo",
+      "moniker": "best-getting-started-guide-moving-from-rtx3090-to-strix-halo",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ow0yvl/best_getting_started_guide_moving_from_rtx3090_to/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "What's the easiest way to setup AI Image/Videogen on Debian?",
+      "moniker": "what-s-the-easiest-way-to-setup-ai-image-videogen-on-debian",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ovyro6/whats_the_easiest_way_to_setup_ai_imagevideogen/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] <ICLR review comment> Is this real?",
+      "moniker": "d-iclr-review-comment-is-this-real",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1ov7qs2/d_iclr_review_comment_is_this_real/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] Is anonymous peer review outdated for AI conferences",
+      "moniker": "d-is-anonymous-peer-review-outdated-for-ai-conferences",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1ov6lg6/d_is_anonymous_peer_review_outdated_for_ai/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -85,14 +133,6 @@
       "moniker": "d-iclr-2026-paper-reviews-discussion",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1otlqqv/d_iclr_2026_paper_reviews_discussion/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[Research] AgenticSciML: Multi-Agent AI System Achieves 10-11,000x Performance Gains in Scientific ML",
-      "moniker": "research-agenticsciml-multi-agent-ai-system-achieves-10-11-000x-performance-gains-in-scientific-ml",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1ouahgg/research_agenticsciml_multiagent_ai_system/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -129,18 +169,34 @@
       "status": "pending_review"
     },
     {
-      "tool": "Meta launches ‘Vibes,’ a short-form video feed of AI slop",
-      "moniker": "meta-launches-vibes-a-short-form-video-feed-of-ai-slop",
+      "tool": "Google will let ‘experienced users’ keep sideloading Android apps",
+      "moniker": "google-will-let-experienced-users-keep-sideloading-android-apps",
       "category": "pending_review",
-      "website_url": "https://techcrunch.com/2025/09/25/meta-launches-vibes-a-short-form-video-feed-of-ai-slop/",
+      "website_url": "https://www.theverge.com/news/819835/google-android-sideloading-experienced-users-developer-verification",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "AI chatbots are helping hide eating disorders and making deepfake ‘thinspiration’ ",
-      "moniker": "ai-chatbots-are-helping-hide-eating-disorders-and-making-deepfake-thinspiration",
+      "tool": "Sony is making a Horizon MMO — here’s the video and details",
+      "moniker": "sony-is-making-a-horizon-mmo-here-s-the-video-and-details",
       "category": "pending_review",
-      "website_url": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health",
+      "website_url": "https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "The Steam Frame has two speakers on each side of your face for vibration cancellation",
+      "moniker": "the-steam-frame-has-two-speakers-on-each-side-of-your-face-for-vibration-cancellation",
+      "category": "pending_review",
+      "website_url": "https://www.theverge.com/news/818599/valve-steam-frame-headset-speakers-head-strap-vibration-cancellation",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "OpenAI reboots ChatGPT experience with GPT-5.1 after mixed reviews of GPT-5",
+      "moniker": "openai-reboots-chatgpt-experience-with-gpt-5-1-after-mixed-reviews-of-gpt-5",
+      "category": "pending_review",
+      "website_url": "https://venturebeat.com/ai/openai-reboots-chatgpt-experience-with-gpt-5-1-after-mixed-reviews-of-gpt-5",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -729,42 +785,34 @@
       "status": "pending_review"
     },
     {
-      "tool": "strayl-mcp-server 0.1.0",
-      "moniker": "strayl-mcp-server-0-1-0",
+      "tool": "wistx-mcp 1.0.1",
+      "moniker": "wistx-mcp-1-0-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/strayl-mcp-server/0.1.0/",
+      "website_url": "https://pypi.org/project/wistx-mcp/1.0.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "oh-my-git-agent 1.1.2",
-      "moniker": "oh-my-git-agent-1-1-2",
+      "tool": "craft-providers 3.2.0",
+      "moniker": "craft-providers-3-2-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/oh-my-git-agent/1.1.2/",
+      "website_url": "https://pypi.org/project/craft-providers/3.2.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "prediction-market-agent-tooling 0.69.19.dev1155",
-      "moniker": "prediction-market-agent-tooling-0-69-19-dev1155",
+      "tool": "fabricatio-agent 0.1.2",
+      "moniker": "fabricatio-agent-0-1-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/prediction-market-agent-tooling/0.69.19.dev1155/",
+      "website_url": "https://pypi.org/project/fabricatio-agent/0.1.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "quash-mcp 0.3.7",
-      "moniker": "quash-mcp-0-3-7",
+      "tool": "prediction-market-agent-tooling 0.69.19.dev1166",
+      "moniker": "prediction-market-agent-tooling-0-69-19-dev1166",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/quash-mcp/0.3.7/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "mobidec-package-test 0.0.1",
-      "moniker": "mobidec-package-test-0-0-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/mobidec-package-test/0.0.1/",
+      "website_url": "https://pypi.org/project/prediction-market-agent-tooling/0.69.19.dev1166/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -1053,6 +1101,14 @@
       "moniker": "adaptive-multi-agent-response-refinement-in-conversational-systems",
       "category": "pending_review",
       "website_url": "https://arxiv.org/abs/2511.08319",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "SASG-DA: Sparse-Aware Semantic-Guided Diffusion Augmentation For Myoelectric Gesture Recognition",
+      "moniker": "sasg-da-sparse-aware-semantic-guided-diffusion-augmentation-for-myoelectric-gesture-recognition",
+      "category": "pending_review",
+      "website_url": "https://arxiv.org/abs/2511.08344",
       "source_type": "Press",
       "status": "pending_review"
     },
