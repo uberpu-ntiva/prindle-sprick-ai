@@ -9,106 +9,74 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Turn Any Website into AI Knowledge Base Using N8n [video]",
-      "moniker": "show-hn-turn-any-website-into-ai-knowledge-base-using-n8n-video",
+      "tool": "Show HN: Unrestricted Windows automation MCP with 9.68x GPU amplification",
+      "moniker": "show-hn-unrestricted-windows-automation-mcp-with-9-68x-gpu-amplification",
       "category": "pending_review",
-      "website_url": "https://www.youtube.com/watch?v=YYCBHX4ZqjA",
+      "website_url": "https://github.com/For-Sunny/nova-mcp-research",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: ThinkReview open source browser Copilot GitLab and ADO PRs(Ollama)",
-      "moniker": "show-hn-thinkreview-open-source-browser-copilot-gitlab-and-ado-prs-ollama",
+      "tool": "Show HN: Supogen – A customer support agent built for technical teams",
+      "moniker": "show-hn-supogen-a-customer-support-agent-built-for-technical-teams",
       "category": "pending_review",
-      "website_url": "https://github.com/Thinkode/thinkreview-browser-extension",
+      "website_url": "https://app.supogen.com/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Visual agent dashboard for Cursor (mockup)",
-      "moniker": "show-hn-visual-agent-dashboard-for-cursor-mockup",
+      "tool": "Show HN: I built E2E Test Agent – describe tests in plain English,AI executes it",
+      "moniker": "show-hn-i-built-e2e-test-agent-describe-tests-in-plain-english-ai-executes-it",
       "category": "pending_review",
-      "website_url": "https://imgur.com/a/7bZio94",
+      "website_url": "https://github.com/armannaj/e2e-test-agent",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Tf-dialect: Teach AI agents your org's Terraform standards via MCP",
-      "moniker": "show-hn-tf-dialect-teach-ai-agents-your-org-s-terraform-standards-via-mcp",
+      "tool": "How to decide a technology change",
+      "moniker": "how-to-decide-a-technology-change",
       "category": "pending_review",
-      "website_url": "https://github.com/UtpalJayNadiger/tf-dialect",
+      "website_url": "https://www.reddit.com/r/programming/comments/1oyhb8f/how_to_decide_a_technology_change/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "The Lazarus team is glad to announce Lazarus FreePascal IDE 4.4",
-      "moniker": "the-lazarus-team-is-glad-to-announce-lazarus-freepascal-ide-4-4",
+      "tool": "Compiler Options Hardening Guide for C and C++",
+      "moniker": "compiler-options-hardening-guide-for-c-and-c",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1ox3jpd/the_lazarus_team_is_glad_to_announce_lazarus/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1oy5tei/compiler_options_hardening_guide_for_c_and_c/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Why agents DO NOT write most of our code - a reality check",
-      "moniker": "why-agents-do-not-write-most-of-our-code-a-reality-check",
+      "tool": "Mastering Apache Cordova in 2025: Complete Step-by-Step Guide for Android & iOS",
+      "moniker": "mastering-apache-cordova-in-2025-complete-step-by-step-guide-for-android-ios",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1ow476v/why_agents_do_not_write_most_of_our_code_a/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1oy15sj/mastering_apache_cordova_in_2025_complete/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "How we avoided side-channels in our new post-quantum Go cryptography libraries",
-      "moniker": "how-we-avoided-side-channels-in-our-new-post-quantum-go-cryptography-libraries",
+      "tool": "How to decide a technology change",
+      "moniker": "how-to-decide-a-technology-change",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1owzfjp/how_we_avoided_sidechannels_in_our_new/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1oyhbay/how_to_decide_a_technology_change/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "No audio/video ? ... Just implement the damn plugin",
-      "moniker": "no-audio-video-just-implement-the-damn-plugin",
+      "tool": "Released Audiobook Creator v2.0 – Huge Upgrade to Character Identification + Better TTS Quality",
+      "moniker": "released-audiobook-creator-v2-0-huge-upgrade-to-character-identification-better-tts-quality",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1ox6ltp/no_audiovideo_just_implement_the_damn_plugin/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1oy2opt/released_audiobook_creator_v20_huge_upgrade_to/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "LZAV 5.0: Improved compression ratio across a wide range of data types, at similar performance. Improved compression ratio by up to 5% for data smaller than 256 KiB. Fast Data Compression Algorithm (header-only C/C++).",
-      "moniker": "lzav-5-0-improved-compression-ratio-across-a-wide-range-of-data-types-at-similar-performance-improved-compression-ratio-by-up-to-5-for-data-smaller-than-256-kib-fast-data-compression-algorithm-header-only-c-c",
+      "tool": "[D] A Reviewer Posted 40 Weaknesses and 40 Questions",
+      "moniker": "d-a-reviewer-posted-40-weaknesses-and-40-questions",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1ovyqle/lzav_50_improved_compression_ratio_across_a_wide/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Is getting a $350 modded 22GB RTX 2080TI from Alibaba as a low budget inference/gaming card a really stupid idea?",
-      "moniker": "is-getting-a-350-modded-22gb-rtx-2080ti-from-alibaba-as-a-low-budget-inference-gaming-card-a-really-stupid-idea",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1oxo07k/is_getting_a_350_modded_22gb_rtx_2080ti_from/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "New Open‑Source Local Agents for LM Studio",
-      "moniker": "new-open-source-local-agents-for-lm-studio",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1oxqfcv/new_opensource_local_agents_for_lm_studio/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[D] <ICLR review comment> Is this real?",
-      "moniker": "d-iclr-review-comment-is-this-real",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1ov7qs2/d_iclr_review_comment_is_this_real/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[D] Is anonymous peer review outdated for AI conferences",
-      "moniker": "d-is-anonymous-peer-review-outdated-for-ai-conferences",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1ov6lg6/d_is_anonymous_peer_review_outdated_for_ai/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1oyce03/d_a_reviewer_posted_40_weaknesses_and_40_questions/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -745,26 +713,26 @@
       "status": "pending_review"
     },
     {
-      "tool": "datawrapper-mcp 0.0.14",
-      "moniker": "datawrapper-mcp-0-0-14",
+      "tool": "mcp-postgres-duwenji 1.2.37",
+      "moniker": "mcp-postgres-duwenji-1-2-37",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/datawrapper-mcp/0.0.14/",
+      "website_url": "https://pypi.org/project/mcp-postgres-duwenji/1.2.37/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "datawrapper-mcp 0.0.13",
-      "moniker": "datawrapper-mcp-0-0-13",
+      "tool": "mcp-memory-service 8.25.2",
+      "moniker": "mcp-memory-service-8-25-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/datawrapper-mcp/0.0.13/",
+      "website_url": "https://pypi.org/project/mcp-memory-service/8.25.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "datawrapper-mcp 0.0.12",
-      "moniker": "datawrapper-mcp-0-0-12",
+      "tool": "winipedia-pyside 0.2.52",
+      "moniker": "winipedia-pyside-0-2-52",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/datawrapper-mcp/0.0.12/",
+      "website_url": "https://pypi.org/project/winipedia-pyside/0.2.52/",
       "source_type": "Press",
       "status": "pending_review"
     }
