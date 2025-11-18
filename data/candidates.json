@@ -1,14 +1,6 @@
 {
   "items": [
     {
-      "tool": "NeoAgent",
-      "moniker": "neoagent",
-      "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/neoagent",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "Reviews by AlterBase",
       "moniker": "reviews-by-alterbase",
       "category": "pending_review",
@@ -17,74 +9,58 @@
       "status": "pending_review"
     },
     {
-      "tool": "Sato Video Player",
-      "moniker": "sato-video-player",
+      "tool": "NeoAgent",
+      "moniker": "neoagent",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/sato-video-player",
+      "website_url": "https://www.producthunt.com/products/neoagent",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Doco Agent Mode",
-      "moniker": "doco-agent-mode",
+      "tool": "GCC 16 considering changing default to C++20",
+      "moniker": "gcc-16-considering-changing-default-to-c-20",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/doco-2",
+      "website_url": "https://www.reddit.com/r/programming/comments/1ozr4ax/gcc_16_considering_changing_default_to_c20/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Blue Divide – Nurikabe puzzles with procgen islands for Mac and iPad",
-      "moniker": "show-hn-blue-divide-nurikabe-puzzles-with-procgen-islands-for-mac-and-ipad",
+      "tool": "LLMs and creation outside of time",
+      "moniker": "llms-and-creation-outside-of-time",
       "category": "pending_review",
-      "website_url": "https://apps.apple.com/us/app/blue-divide-nurikabe/id6752651417",
+      "website_url": "https://www.reddit.com/r/programming/comments/1p0bmv1/llms_and_creation_outside_of_time/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Epub2md – Turn ePub books into Markdown folders for LLM agents",
-      "moniker": "show-hn-epub2md-turn-epub-books-into-markdown-folders-for-llm-agents",
+      "tool": "Built using local Mini-Agent with MiniMax-M2-Thrift on M3 Max 128GB",
+      "moniker": "built-using-local-mini-agent-with-minimax-m2-thrift-on-m3-max-128gb",
       "category": "pending_review",
-      "website_url": "https://github.com/mefengl/epub2md",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p02zed/built_using_local_miniagent_with_minimaxm2thrift/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: WyseOS – An AgentOS for Web Automation",
-      "moniker": "show-hn-wyseos-an-agentos-for-web-automation",
+      "tool": "Guide: Setting up llama-swap on Strix Halo with Bazzite Linux",
+      "moniker": "guide-setting-up-llama-swap-on-strix-halo-with-bazzite-linux",
       "category": "pending_review",
-      "website_url": "https://medium.com/@EricZhang2015/wyseos-the-agentos-for-web-automation-65e3679b8e03",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p04mf6/guide_setting_up_llamaswap_on_strix_halo_with/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "📚 Best way to learn Java in 2025? Looking for topics, resources, playlists & project ideas",
-      "moniker": "best-way-to-learn-java-in-2025-looking-for-topics-resources-playlists-project-ideas",
+      "tool": "Anyone running local AI agents directly in the browser with WebGPU? Curious about setups",
+      "moniker": "anyone-running-local-ai-agents-directly-in-the-browser-with-webgpu-curious-about-setups",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1ozfayq/best_way_to_learn_java_in_2025_looking_for_topics/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p0b4hd/anyone_running_local_ai_agents_directly_in_the/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Apple is considering putting miniHBM on iPhones in 2027",
-      "moniker": "apple-is-considering-putting-minihbm-on-iphones-in-2027",
+      "tool": "[P] A “foveated” memory layer for LLM agents: +46.7pp accuracy at 256-token context (open-source)",
+      "moniker": "p-a-foveated-memory-layer-for-llm-agents-46-7pp-accuracy-at-256-token-context-open-source",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1oz9vs3/apple_is_considering_putting_minihbm_on_iphones/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[D] Peer Review vs Open Review",
-      "moniker": "d-peer-review-vs-open-review",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1oyp77k/d_peer_review_vs_open_review/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[D] A Reviewer Posted 40 Weaknesses and 40 Questions",
-      "moniker": "d-a-reviewer-posted-40-weaknesses-and-40-questions",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1oyce03/d_a_reviewer_posted_40_weaknesses_and_40_questions/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1ozz6te/p_a_foveated_memory_layer_for_llm_agents_467pp/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -121,10 +97,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "Europe banned new gas cars after 2035 — now it’s reconsidering",
-      "moniker": "europe-banned-new-gas-cars-after-2035-now-it-s-reconsidering",
+      "tool": "In a sea of agents, AWS bets on structured adherence and spec fidelity",
+      "moniker": "in-a-sea-of-agents-aws-bets-on-structured-adherence-and-spec-fidelity",
       "category": "pending_review",
-      "website_url": "https://www.theverge.com/transportation/820398/eu-gas-car-ban-2035-weaken-climate",
+      "website_url": "https://venturebeat.com/ai/in-a-sea-of-agents-aws-bets-on-structured-adherence-and-spec-fidelity",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -157,6 +133,14 @@
       "moniker": "google-deepmind-is-using-gemini-to-train-agents-inside-goat-simulator-3",
       "category": "pending_review",
       "website_url": "https://www.technologyreview.com/2025/11/13/1127921/google-deepmind-is-using-gemini-to-train-agents-inside-goat-simulator-3/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "The Agent Labs Thesis",
+      "moniker": "the-agent-labs-thesis",
+      "category": "pending_review",
+      "website_url": "https://www.latent.space/p/agent-labs",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -721,42 +705,50 @@
       "status": "pending_review"
     },
     {
-      "tool": "celeste-video-generation 0.2.7",
-      "moniker": "celeste-video-generation-0-2-7",
+      "tool": "AgentService 0.0.126",
+      "moniker": "agentservice-0-0-126",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/celeste-video-generation/0.2.7/",
+      "website_url": "https://pypi.org/project/agentservice/0.0.126/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "glidergun 0.8.84",
-      "moniker": "glidergun-0-8-84",
+      "tool": "idun-agent-engine 0.2.4",
+      "moniker": "idun-agent-engine-0-2-4",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/glidergun/0.8.84/",
+      "website_url": "https://pypi.org/project/idun-agent-engine/0.2.4/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mqtt-mcp-server 1.0.4",
-      "moniker": "mqtt-mcp-server-1-0-4",
+      "tool": "idun-agent-schema 0.2.4",
+      "moniker": "idun-agent-schema-0-2-4",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mqtt-mcp-server/1.0.4/",
+      "website_url": "https://pypi.org/project/idun-agent-schema/0.2.4/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "videoipath-automation-tool 0.6.1.dev311",
-      "moniker": "videoipath-automation-tool-0-6-1-dev311",
+      "tool": "AgentService 0.0.125",
+      "moniker": "agentservice-0-0-125",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/videoipath-automation-tool/0.6.1.dev311/",
+      "website_url": "https://pypi.org/project/agentservice/0.0.125/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "siga-mcp 0.1.82",
-      "moniker": "siga-mcp-0-1-82",
+      "tool": "AgentService 0.0.124",
+      "moniker": "agentservice-0-0-124",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/siga-mcp/0.1.82/",
+      "website_url": "https://pypi.org/project/agentservice/0.0.124/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "cite-agent 1.4.12",
+      "moniker": "cite-agent-1-4-12",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/cite-agent/1.4.12/",
       "source_type": "Press",
       "status": "pending_review"
     },
