@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "tool": "Zen Editor",
-      "moniker": "zen-editor",
+      "tool": "Guideflow",
+      "moniker": "guideflow",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/zen-editor",
+      "website_url": "https://www.producthunt.com/products/guideflow",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "ElevenLabs Image & Video",
-      "moniker": "elevenlabs-image-video",
+      "tool": "Zen Editor",
+      "moniker": "zen-editor",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/elevenlabs",
+      "website_url": "https://www.producthunt.com/products/zen-editor",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -33,58 +33,82 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Sidely a minimal ChatGPT sidebar for Chrome (no back end no injections)",
-      "moniker": "show-hn-sidely-a-minimal-chatgpt-sidebar-for-chrome-no-back-end-no-injections",
+      "tool": "ElevenLabs Image & Video",
+      "moniker": "elevenlabs-image-video",
       "category": "pending_review",
-      "website_url": "https://chromewebstore.google.com/detail/sidely-chatgpt-sidebar/ibgipmeolfponfpmjhflfgkbcecpmcoo",
+      "website_url": "https://www.producthunt.com/products/elevenlabs",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Leado – An AI Agent That Finds Reddit High-Intent Threads in Real Time",
-      "moniker": "show-hn-leado-an-ai-agent-that-finds-reddit-high-intent-threads-in-real-time",
+      "tool": "Show HN: Arka – an MCP gateway that makes MCP adoption possible",
+      "moniker": "show-hn-arka-an-mcp-gateway-that-makes-mcp-adoption-possible",
       "category": "pending_review",
-      "website_url": "https://leado.co",
+      "website_url": "https://news.ycombinator.com/item?id=45991316",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: We Ditched the Visual Editor for Simpler AI Experimentation",
-      "moniker": "show-hn-we-ditched-the-visual-editor-for-simpler-ai-experimentation",
+      "tool": "Show HN: Agent Smith Is OSS",
+      "moniker": "show-hn-agent-smith-is-oss",
       "category": "pending_review",
-      "website_url": "https://www.mida.so/blog/ai-experimentation-experience-simpler-than-visual-editor",
+      "website_url": "https://github.com/Teton-ai/smith",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Idempotency in System Design: Full example",
-      "moniker": "idempotency-in-system-design-full-example",
+      "tool": "A breakdown of all OAuth 2.0 authorization flows (Server-side, PKCE, Device Code, Client Credentials)",
+      "moniker": "a-breakdown-of-all-oauth-2-0-authorization-flows-server-side-pkce-device-code-client-credentials",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1p16qew/idempotency_in_system_design_full_example/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1p1kplp/a_breakdown_of_all_oauth_20_authorization_flows/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Inside Rust's std and parking_lot mutexes - who wins?",
-      "moniker": "inside-rust-s-std-and-parking-lot-mutexes-who-wins",
+      "tool": "GigaChat3-702B-A36B-preview is now available on Hugging Face",
+      "moniker": "gigachat3-702b-a36b-preview-is-now-available-on-hugging-face",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1p0lff9/inside_rusts_std_and_parking_lot_mutexes_who_wins/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p21385/gigachat3702ba36bpreview_is_now_available_on/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "CodeMode vs Traditional MCP benchmark",
-      "moniker": "codemode-vs-traditional-mcp-benchmark",
+      "tool": "GigaChat3-702B-A36B-preview",
+      "moniker": "gigachat3-702b-a36b-preview",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p0r7uw/codemode_vs_traditional_mcp_benchmark/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p20zry/gigachat3702ba36bpreview/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "[Release] Memory-Isolated Recursive Compression (MIRC). A local-first probabilistic compression utility for Apple Silicon. Research Preview (Open Source)",
-      "moniker": "release-memory-isolated-recursive-compression-mirc-a-local-first-probabilistic-compression-utility-for-apple-silicon-research-preview-open-source",
+      "tool": "When will the free ride be over?",
+      "moniker": "when-will-the-free-ride-be-over",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p1563m/release_memoryisolated_recursive_compression_mirc/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p1zv7p/when_will_the_free_ride_be_over/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Possible to develop AI agents on low VRAM ?",
+      "moniker": "possible-to-develop-ai-agents-on-low-vram",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p1z067/possible_to_develop_ai_agents_on_low_vram/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] AISTATS 2026 paper reviews",
+      "moniker": "d-aistats-2026-paper-reviews",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p1s5p4/d_aistats_2026_paper_reviews/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] Typical processes for ICLR review responses",
+      "moniker": "d-typical-processes-for-iclr-review-responses",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p1mns5/d_typical_processes_for_iclr_review_responses/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -97,10 +121,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "[P] A “foveated” memory layer for LLM agents: +46.7pp accuracy at 256-token context (open-source)",
-      "moniker": "p-a-foveated-memory-layer-for-llm-agents-46-7pp-accuracy-at-256-token-context-open-source",
+      "tool": "[D]After testing Veo vs Sora clips… I’m not sure which one “understands” video better",
+      "moniker": "d-after-testing-veo-vs-sora-clips-i-m-not-sure-which-one-understands-video-better",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1ozz6te/p_a_foveated_memory_layer_for_llm_agents_467pp/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p18r6y/dafter_testing_veo_vs_sora_clips_im_not_sure/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -137,42 +161,42 @@
       "status": "pending_review"
     },
     {
-      "tool": "Microsoft's Fabric IQ teaches AI agents to understand business operations, not just data patterns",
-      "moniker": "microsoft-s-fabric-iq-teaches-ai-agents-to-understand-business-operations-not-just-data-patterns",
+      "tool": "The Verge’s 2025 holiday gift guide",
+      "moniker": "the-verge-s-2025-holiday-gift-guide",
       "category": "pending_review",
-      "website_url": "https://venturebeat.com/data-infrastructure/microsofts-fabric-iq-teaches-ai-agents-to-understand-business-operations-not",
+      "website_url": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Google unveils Gemini 3 claiming the lead in math, science, multimodal and agentic AI benchmarks ",
+      "tool": "The Google Search of AI agents? Fetch launches ASI:One and Business tier for new era of non-human web",
+      "moniker": "the-google-search-of-ai-agents-fetch-launches-asi-one-and-business-tier-for-new-era-of-non-human-web",
+      "category": "pending_review",
+      "website_url": "https://venturebeat.com/ai/the-google-search-of-ai-agents-fetch-launches-asi-one-and-business-tier-for",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "OpenCV founders launch AI video startup to take on OpenAI and Google",
+      "moniker": "opencv-founders-launch-ai-video-startup-to-take-on-openai-and-google",
+      "category": "pending_review",
+      "website_url": "https://venturebeat.com/ai/opencv-founders-launch-ai-video-startup-to-take-on-openai-and-google",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Metaâs DreamGym framework trains AI agents in a simulated world to cut reinforcement learning costs",
+      "moniker": "meta-s-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut-reinforcement-learning-costs",
+      "category": "pending_review",
+      "website_url": "https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Google unveils Gemini 3 claiming the lead in math, science, multimodal, and agentic AI benchmarks ",
       "moniker": "google-unveils-gemini-3-claiming-the-lead-in-math-science-multimodal-and-agentic-ai-benchmarks",
       "category": "pending_review",
       "website_url": "https://venturebeat.com/ai/google-unveils-gemini-3-claiming-the-lead-in-math-science-multimodal-and",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Microsoft remakes Windows for an era of autonomous AI agents",
-      "moniker": "microsoft-remakes-windows-for-an-era-of-autonomous-ai-agents",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/microsoft-remakes-windows-for-an-era-of-autonomous-ai-agents",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Writer's AI agents can actually do your workânot just chat about it",
-      "moniker": "writer-s-ai-agents-can-actually-do-your-work-not-just-chat-about-it",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/writers-ai-agents-can-actually-do-your-work-not-just-chat-about-it",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Google Antigravity introduces agent-first architecture for asynchronous, verifiable coding workflows",
-      "moniker": "google-antigravity-introduces-agent-first-architecture-for-asynchronous-verifiable-coding-workflows",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/google-antigravity-introduces-agent-first-architecture-for-asynchronous",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -753,74 +777,66 @@
       "status": "pending_review"
     },
     {
-      "tool": "Best way to retrieve code interpreter files using Agents SDK",
-      "moniker": "best-way-to-retrieve-code-interpreter-files-using-agents-sdk",
+      "tool": "bioguider 0.2.45",
+      "moniker": "bioguider-0-2-45",
       "category": "pending_review",
-      "website_url": "https://community.openai.com/t/best-way-to-retrieve-code-interpreter-files-using-agents-sdk/1366788",
+      "website_url": "https://pypi.org/project/bioguider/0.2.45/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Storing agent event items as Response Input Items into a session",
-      "moniker": "storing-agent-event-items-as-response-input-items-into-a-session",
+      "tool": "exec-dir-mcp 1.0.1",
+      "moniker": "exec-dir-mcp-1-0-1",
       "category": "pending_review",
-      "website_url": "https://community.openai.com/t/storing-agent-event-items-as-response-input-items-into-a-session/1366744",
+      "website_url": "https://pypi.org/project/exec-dir-mcp/1.0.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Custom MCP tools doesnt work with gpt-5.1 model",
-      "moniker": "custom-mcp-tools-doesnt-work-with-gpt-5-1-model",
+      "tool": "glidergun 0.8.90",
+      "moniker": "glidergun-0-8-90",
       "category": "pending_review",
-      "website_url": "https://community.openai.com/t/custom-mcp-tools-doesnt-work-with-gpt-5-1-model/1366715",
+      "website_url": "https://pypi.org/project/glidergun/0.8.90/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Control chatkit session on MCP server",
-      "moniker": "control-chatkit-session-on-mcp-server",
+      "tool": "agent-inspector 0.2.0",
+      "moniker": "agent-inspector-0-2-0",
       "category": "pending_review",
-      "website_url": "https://community.openai.com/t/control-chatkit-session-on-mcp-server/1366698",
+      "website_url": "https://pypi.org/project/agent-inspector/0.2.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "bioguider 0.2.40",
-      "moniker": "bioguider-0-2-40",
+      "tool": "glidergun 0.8.89",
+      "moniker": "glidergun-0-8-89",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/bioguider/0.2.40/",
+      "website_url": "https://pypi.org/project/glidergun/0.8.89/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "glidergun 0.8.86",
-      "moniker": "glidergun-0-8-86",
+      "tool": "agent-dna 0.1.0",
+      "moniker": "agent-dna-0-1-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/glidergun/0.8.86/",
+      "website_url": "https://pypi.org/project/agent-dna/0.1.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "eo-styleguide 0.1.1",
-      "moniker": "eo-styleguide-0-1-1",
+      "tool": "unboundai-gtm-mcp 0.0.9",
+      "moniker": "unboundai-gtm-mcp-0-0-9",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/eo-styleguide/0.1.1/",
+      "website_url": "https://pypi.org/project/unboundai-gtm-mcp/0.0.9/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "bedrock-agentcore-starter-toolkit 0.1.34",
-      "moniker": "bedrock-agentcore-starter-toolkit-0-1-34",
+      "tool": "exec-dir-mcp 1.0.0",
+      "moniker": "exec-dir-mcp-1-0-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/bedrock-agentcore-starter-toolkit/0.1.34/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "any-agent2agent 0.0.1",
-      "moniker": "any-agent2agent-0-0-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/any-agent2agent/0.0.1/",
+      "website_url": "https://pypi.org/project/exec-dir-mcp/1.0.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
