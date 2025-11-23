@@ -9,130 +9,122 @@
       "status": "pending_review"
     },
     {
-      "tool": "Guideflow",
-      "moniker": "guideflow",
+      "tool": "Show HN: Sidemail – Email platform for SaaS (email API, newsletters, automation)",
+      "moniker": "show-hn-sidemail-email-platform-for-saas-email-api-newsletters-automation",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/guideflow",
+      "website_url": "https://sidemail.io/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Agentplace 2.0",
-      "moniker": "agentplace-2-0",
+      "tool": "Show HN: A little browser game I made after seeing a viral dance video",
+      "moniker": "show-hn-a-little-browser-game-i-made-after-seeing-a-viral-dance-video",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/agentplace",
+      "website_url": "https://immersivewarmup.com/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Agent Network Protocol (ANP)，Similar to an A2A",
-      "moniker": "show-hn-agent-network-protocol-anp-similar-to-an-a2a",
+      "tool": "Show HN: Video Notes for YouTube",
+      "moniker": "show-hn-video-notes-for-youtube",
       "category": "pending_review",
-      "website_url": "https://github.com/agent-network-protocol/AgentNetworkProtocol",
+      "website_url": "https://chromewebstore.google.com/detail/video-notes/phgnkidiglnijkpmmdjcgdkekfoelcom",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: CursorBird – Flap some wings while Cursor's agent is generating code",
-      "moniker": "show-hn-cursorbird-flap-some-wings-while-cursor-s-agent-is-generating-code",
+      "tool": "Show HN: I built Arc-like sidebar for Safari",
+      "moniker": "show-hn-i-built-arc-like-sidebar-for-safari",
       "category": "pending_review",
-      "website_url": "https://github.com/i-am-noamg/cursorbird",
+      "website_url": "https://www.supasidebar.com",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: PolyGPT – ChatGPT, Claude, Gemini, Perplexity responses side-by-side",
-      "moniker": "show-hn-polygpt-chatgpt-claude-gemini-perplexity-responses-side-by-side",
+      "tool": "Building Standalone Julia Binaries: A Complete Guide",
+      "moniker": "building-standalone-julia-binaries-a-complete-guide",
       "category": "pending_review",
-      "website_url": "https://polygpt.app",
+      "website_url": "https://www.reddit.com/r/programming/comments/1p4j2ks/building_standalone_julia_binaries_a_complete/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: A DevTools MCP that provides matched CSS rules",
-      "moniker": "show-hn-a-devtools-mcp-that-provides-matched-css-rules",
+      "tool": "Data Modeling in Action: A Real World Guide for E-Commerce, Banking and AI Systems (Practical Examples + Code)",
+      "moniker": "data-modeling-in-action-a-real-world-guide-for-e-commerce-banking-and-ai-systems-practical-examples-code",
       "category": "pending_review",
-      "website_url": "https://github.com/devtoolcss/chrome-inspector-mcp",
+      "website_url": "https://www.reddit.com/r/programming/comments/1p4h3s1/data_modeling_in_action_a_real_world_guide_for/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: 12K Reddit posts scraped and AI-scored for startup ideas",
-      "moniker": "show-hn-12k-reddit-posts-scraped-and-ai-scored-for-startup-ideas",
+      "tool": "Debug AI fast with this open source library to visualize agent traces",
+      "moniker": "debug-ai-fast-with-this-open-source-library-to-visualize-agent-traces",
       "category": "pending_review",
-      "website_url": "https://search.reddit-business-ideas.workers.dev/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1p4iyq1/debug_ai_fast_with_this_open_source_library_to/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: MoodLens – Provide insights about your emotional state",
-      "moniker": "show-hn-moodlens-provide-insights-about-your-emotional-state",
+      "tool": "Physical documentation for LLMs in Shenzhen bookstore selling guides for DeepSeek, Doubao, Kimi, and ChatGPT.",
+      "moniker": "physical-documentation-for-llms-in-shenzhen-bookstore-selling-guides-for-deepseek-doubao-kimi-and-chatgpt",
       "category": "pending_review",
-      "website_url": "https://moodlens.aiwith.me/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p4ftd5/physical_documentation_for_llms_in_shenzhen/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: A minimalist maze exploration game with level editor",
-      "moniker": "show-hn-a-minimalist-maze-exploration-game-with-level-editor",
+      "tool": "Long term users of this sub - where have you gone to discuss SOTA models, ideas and AI in general?",
+      "moniker": "long-term-users-of-this-sub-where-have-you-gone-to-discuss-sota-models-ideas-and-ai-in-general",
       "category": "pending_review",
-      "website_url": "https://github.com/skorotkiewicz/maze",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p4ii26/long_term_users_of_this_sub_where_have_you_gone/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "I made a free playground for comparing 10+ OCR models side-by-side",
-      "moniker": "i-made-a-free-playground-for-comparing-10-ocr-models-side-by-side",
+      "tool": "I built my own AI Coding Agent as an Electron app, and the best part? It plugs right into regular AI chat interfaces, so I get all the power without burning through those precious token fees.",
+      "moniker": "i-built-my-own-ai-coding-agent-as-an-electron-app-and-the-best-part-it-plugs-right-into-regular-ai-chat-interfaces-so-i-get-all-the-power-without-burning-through-those-precious-token-fees",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p35f2c/i_made_a_free_playground_for_comparing_10_ocr/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p4jdwo/i_built_my_own_ai_coding_agent_as_an_electron_app/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "HunyuanVideo-1.5: A leading lightweight video generation model",
-      "moniker": "hunyuanvideo-1-5-a-leading-lightweight-video-generation-model",
+      "tool": "Qwen3-VL Computer Using Agent works extremely well",
+      "moniker": "qwen3-vl-computer-using-agent-works-extremely-well",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p2w5i6/hunyuanvideo15_a_leading_lightweight_video/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p4lovv/qwen3vl_computer_using_agent_works_extremely_well/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Hardcore function calling benchmark in backend coding agent.",
-      "moniker": "hardcore-function-calling-benchmark-in-backend-coding-agent",
+      "tool": "Deep Research Agent, an autonomous research agent system",
+      "moniker": "deep-research-agent-an-autonomous-research-agent-system",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p2ziil/hardcore_function_calling_benchmark_in_backend/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p3xv28/deep_research_agent_an_autonomous_research_agent/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "High latency in LiveKit telephony agent using Gemini Realtime",
-      "moniker": "high-latency-in-livekit-telephony-agent-using-gemini-realtime",
+      "tool": "Best Local Coding Agent Model for 64GB RAM and 12GB VRAM?",
+      "moniker": "best-local-coding-agent-model-for-64gb-ram-and-12gb-vram",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p3sw62/high_latency_in_livekit_telephony_agent_using/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p4lwyc/best_local_coding_agent_model_for_64gb_ram_and/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "An open-source AI coding agent for legacy code modernization",
-      "moniker": "an-open-source-ai-coding-agent-for-legacy-code-modernization",
+      "tool": "[P] Do papers submitted later / with longer titles receive lower review scores?",
+      "moniker": "p-do-papers-submitted-later-with-longer-titles-receive-lower-review-scores",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p3ktsf/an_opensource_ai_coding_agent_for_legacy_code/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p48pxg/p_do_papers_submitted_later_with_longer_titles/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "[D] WWW (TheWebConf) 2026 Reviews",
-      "moniker": "d-www-thewebconf-2026-reviews",
+      "tool": "[D] ICLR double blind reviewing",
+      "moniker": "d-iclr-double-blind-reviewing",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p3opj9/d_www_thewebconf_2026_reviews/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[P] An open-source AI coding agent for legacy code modernization",
-      "moniker": "p-an-open-source-ai-coding-agent-for-legacy-code-modernization",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p3ky9l/p_an_opensource_ai_coding_agent_for_legacy_code/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p3w6cm/d_iclr_double_blind_reviewing/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -145,6 +137,22 @@
       "status": "pending_review"
     },
     {
+      "tool": "[P] My Agents Crashed the Economy, So I Taught Them About Salads",
+      "moniker": "p-my-agents-crashed-the-economy-so-i-taught-them-about-salads",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p43md3/p_my_agents_crashed_the_economy_so_i_taught_them/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] WWW (TheWebConf) 2026 Reviews",
+      "moniker": "d-www-thewebconf-2026-reviews",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p3opj9/d_www_thewebconf_2026_reviews/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "[D] AAMAS 2026 paper reviews out soon",
       "moniker": "d-aamas-2026-paper-reviews-out-soon",
       "category": "pending_review",
@@ -153,10 +161,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "[D] AISTATS 2026 paper reviews",
-      "moniker": "d-aistats-2026-paper-reviews",
+      "tool": "[P] An open-source AI coding agent for legacy code modernization",
+      "moniker": "p-an-open-source-ai-coding-agent-for-legacy-code-modernization",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p1s5p4/d_aistats_2026_paper_reviews/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p3ky9l/p_an_opensource_ai_coding_agent_for_legacy_code/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -197,14 +205,6 @@
       "moniker": "anker-offered-eufy-camera-owners-2-per-video-for-ai-training",
       "category": "pending_review",
       "website_url": "https://techcrunch.com/2025/10/04/anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "In Kirby Air Riders, expression is more fun than racing",
-      "moniker": "in-kirby-air-riders-expression-is-more-fun-than-racing",
-      "category": "pending_review",
-      "website_url": "https://www.theverge.com/games/826488/kirby-air-riders-nintendo-switch-2-vehicle-customization",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -809,34 +809,98 @@
       "status": "pending_review"
     },
     {
-      "tool": "linkedin-spider 0.1.5",
-      "moniker": "linkedin-spider-0-1-5",
+      "tool": "AI Mentor search: Agents / SOP / fine-tuning / API orchestration",
+      "moniker": "ai-mentor-search-agents-sop-fine-tuning-api-orchestration",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/linkedin-spider/0.1.5/",
+      "website_url": "https://community.openai.com/t/ai-mentor-search-agents-sop-fine-tuning-api-orchestration/1367250",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "slidedeckai 8.0.4",
-      "moniker": "slidedeckai-8-0-4",
+      "tool": "WebRTC DataChannel requests do not include video context, but audio requests do",
+      "moniker": "webrtc-datachannel-requests-do-not-include-video-context-but-audio-requests-do",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/slidedeckai/8.0.4/",
+      "website_url": "https://community.openai.com/t/webrtc-datachannel-requests-do-not-include-video-context-but-audio-requests-do/1367196",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "ibkr-mcp 0.1.10",
-      "moniker": "ibkr-mcp-0-1-10",
+      "tool": "Realtime WebRTC video works, but the model never speaks proactively based on video events",
+      "moniker": "realtime-webrtc-video-works-but-the-model-never-speaks-proactively-based-on-video-events",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/ibkr-mcp/0.1.10/",
+      "website_url": "https://community.openai.com/t/realtime-webrtc-video-works-but-the-model-never-speaks-proactively-based-on-video-events/1367191",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "ibkr-mcp 0.1.9",
-      "moniker": "ibkr-mcp-0-1-9",
+      "tool": "Sideband WebSocket connection cannot access video/video-derived context when client uses WebRTC AV streams",
+      "moniker": "sideband-websocket-connection-cannot-access-video-video-derived-context-when-client-uses-webrtc-av-streams",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/ibkr-mcp/0.1.9/",
+      "website_url": "https://community.openai.com/t/sideband-websocket-connection-cannot-access-video-video-derived-context-when-client-uses-webrtc-av-streams/1367161",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Codex review not working when triggered in Github UI from OSS repo",
+      "moniker": "codex-review-not-working-when-triggered-in-github-ui-from-oss-repo",
+      "category": "pending_review",
+      "website_url": "https://community.openai.com/t/codex-review-not-working-when-triggered-in-github-ui-from-oss-repo/1367141",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "alinche-math-mcp-server 0.1.1",
+      "moniker": "alinche-math-mcp-server-0-1-1",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/alinche-math-mcp-server/0.1.1/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "multi-llm-orchestrator 0.1.0",
+      "moniker": "multi-llm-orchestrator-0-1-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/multi-llm-orchestrator/0.1.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "keycardai-mcp-fastmcp 0.18.1",
+      "moniker": "keycardai-mcp-fastmcp-0-18-1",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/keycardai-mcp-fastmcp/0.18.1/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "alinche-math-mcp-server 0.1.0",
+      "moniker": "alinche-math-mcp-server-0-1-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/alinche-math-mcp-server/0.1.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "mcp-memory-service 8.30.0",
+      "moniker": "mcp-memory-service-8-30-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/mcp-memory-service/8.30.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "elad12390-loki-mcp 0.1.5",
+      "moniker": "elad12390-loki-mcp-0-1-5",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/elad12390-loki-mcp/0.1.5/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "elad12390-loki-mcp 0.1.4",
+      "moniker": "elad12390-loki-mcp-0-1-4",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/elad12390-loki-mcp/0.1.4/",
       "source_type": "Press",
       "status": "pending_review"
     }
