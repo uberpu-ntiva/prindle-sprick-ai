@@ -9,10 +9,58 @@
       "status": "pending_review"
     },
     {
+      "tool": "Show HN: Better Agents CLI",
+      "moniker": "show-hn-better-agents-cli",
+      "category": "pending_review",
+      "website_url": "https://github.com/langwatch/better-agents",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Show HN: I created an app to visualize your Uber rides",
+      "moniker": "show-hn-i-created-an-app-to-visualize-your-uber-rides",
+      "category": "pending_review",
+      "website_url": "https://github.com/Gigacore/TripMeter",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Show HN: Give your AI coding agents the full context, ship production-ready code",
+      "moniker": "show-hn-give-your-ai-coding-agents-the-full-context-ship-production-ready-code",
+      "category": "pending_review",
+      "website_url": "https://artiforge.ai",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Show HN: How to Quickly and Free Remove TikTok Video Watermarks",
+      "moniker": "show-hn-how-to-quickly-and-free-remove-tiktok-video-watermarks",
+      "category": "pending_review",
+      "website_url": "https://vdraw.ai/tiktok-watermark-remover",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Antigravity: More marketing hype than real IDE progress",
+      "moniker": "antigravity-more-marketing-hype-than-real-ide-progress",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/programming/comments/1p6w9xs/antigravity_more_marketing_hype_than_real_ide/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "Why Electronic Voting is a BAD Idea - Why you can't program your way to election integrity",
       "moniker": "why-electronic-voting-is-a-bad-idea-why-you-can-t-program-your-way-to-election-integrity",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/programming/comments/1p5m5n2/why_electronic_voting_is_a_bad_idea_why_you_cant/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Readonly Character Ranges in Editors Are a Big Deal",
+      "moniker": "readonly-character-ranges-in-editors-are-a-big-deal",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/programming/comments/1p6ln0s/readonly_character_ranges_in_editors_are_a_big/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -25,34 +73,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "Coursera Founder And AI Pioneer Andrew Ng Just Dropped An AI Reviewer That Performs At Human Level",
-      "moniker": "coursera-founder-and-ai-pioneer-andrew-ng-just-dropped-an-ai-reviewer-that-performs-at-human-level",
+      "tool": "Looking for the best webui + \"agent\" combo",
+      "moniker": "looking-for-the-best-webui-agent-combo",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p5qzft/coursera_founder_and_ai_pioneer_andrew_ng_just/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p702d3/looking_for_the_best_webui_agent_combo/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "From Microsoft, Fara-7B: An Efficient Agentic Model for Computer Use",
-      "moniker": "from-microsoft-fara-7b-an-efficient-agentic-model-for-computer-use",
+      "tool": "[P] I made a free playground for comparing 10+ OCR models side-by-side",
+      "moniker": "p-i-made-a-free-playground-for-comparing-10-ocr-models-side-by-side",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p5op7z/from_microsoft_fara7b_an_efficient_agentic_model/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Qwen-3-Omni-30b-A3B Thinking on a 4090 vs on an AIMAX 395 with 128gb DDR5? Whats the better setup and ideal quantisation?",
-      "moniker": "qwen-3-omni-30b-a3b-thinking-on-a-4090-vs-on-an-aimax-395-with-128gb-ddr5-whats-the-better-setup-and-ideal-quantisation",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p64kh6/qwen3omni30ba3b_thinking_on_a_4090_vs_on_an_aimax/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Data sandboxing for AI agents [Guide]",
-      "moniker": "data-sandboxing-for-ai-agents-guide",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p68b5v/data_sandboxing_for_ai_agents_guide/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p6frc2/p_i_made_a_free_playground_for_comparing_10_ocr/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -69,6 +101,14 @@
       "moniker": "r-is-there-a-way-to-decide-on-a-model-architecture-using-pruning-without-using-nas",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p684oc/r_is_there_a_way_to_decide_on_a_model/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] When can I see if ICLR reviewers raise their scores",
+      "moniker": "d-when-can-i-see-if-iclr-reviewers-raise-their-scores",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p6gqaz/d_when_can_i_see_if_iclr_reviewers_raise_their/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -97,22 +137,6 @@
       "status": "pending_review"
     },
     {
-      "tool": "[D] Dev learning AI: my notes on vectors, matrices & multiplication (video)",
-      "moniker": "d-dev-learning-ai-my-notes-on-vectors-matrices-multiplication-video",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p51k52/d_dev_learning_ai_my_notes_on_vectors_matrices/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[P] Do papers submitted later / with longer titles receive lower review scores?",
-      "moniker": "p-do-papers-submitted-later-with-longer-titles-receive-lower-review-scores",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p48pxg/p_do_papers_submitted_later_with_longer_titles/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "The best guide to spotting AI writing comes from Wikipedia",
       "moniker": "the-best-guide-to-spotting-ai-writing-comes-from-wikipedia",
       "category": "pending_review",
@@ -137,42 +161,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "You won’t want to hide Ikea’s colorful new Bluetooth speakers",
-      "moniker": "you-won-t-want-to-hide-ikea-s-colorful-new-bluetooth-speakers",
+      "tool": "A weekend âvibe codeâ hack by Andrej Karpathy quietly sketches the missing layer of enterprise AI orchestration",
+      "moniker": "a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing-layer-of-enterprise-ai-orchestration",
       "category": "pending_review",
-      "website_url": "https://www.theverge.com/news/827516/ikea-bluetooth-speaker-solskydd-kulglass-lamp-spotify-tap",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "ChatGPT shopping research builds you a buyer&#8217;s guide using AI",
-      "moniker": "chatgpt-shopping-research-builds-you-a-buyer-8217-s-guide-using-ai",
-      "category": "pending_review",
-      "website_url": "https://www.theverge.com/news/828326/chatgpt-shopping-research-chatgpt-buyers-guide",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Microsoftâs Fara-7B is a computer-use AI agent that rivals GPT-4o and works directly on your PC",
-      "moniker": "microsoft-s-fara-7b-is-a-computer-use-ai-agent-that-rivals-gpt-4o-and-works-directly-on-your-pc",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/microsofts-fara-7b-is-a-computer-use-ai-agent-that-rivals-gpt-4o-and-works",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "AI agent evaluation replaces data labeling as the critical path to production deployment",
-      "moniker": "ai-agent-evaluation-replaces-data-labeling-as-the-critical-path-to-production-deployment",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/data-infrastructure/ai-agent-evaluation-replaces-data-labeling-as-the-critical-path-to",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Designing digital resilience in the agentic AI era",
-      "moniker": "designing-digital-resilience-in-the-agentic-ai-era",
-      "category": "pending_review",
-      "website_url": "https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/",
+      "website_url": "https://venturebeat.com/ai/a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -745,50 +737,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "zk-test20251125-mcp-server 0.1.0",
-      "moniker": "zk-test20251125-mcp-server-0-1-0",
+      "tool": "code-execution-mcp 0.1.3",
+      "moniker": "code-execution-mcp-0-1-3",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/zk-test20251125-mcp-server/0.1.0/",
+      "website_url": "https://pypi.org/project/code-execution-mcp/0.1.3/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "aws-cdk.mixins-preview 2.229.1a0",
-      "moniker": "aws-cdk-mixins-preview-2-229-1a0",
+      "tool": "flutter-widget-mcp-server 0.1.16",
+      "moniker": "flutter-widget-mcp-server-0-1-16",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/aws-cdk-mixins-preview/2.229.1a0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "aws-cdk.aws-bedrock-agentcore-alpha 2.229.1a0",
-      "moniker": "aws-cdk-aws-bedrock-agentcore-alpha-2-229-1a0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/aws-cdk-aws-bedrock-agentcore-alpha/2.229.1a0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "mcp-vector-search 0.12.9",
-      "moniker": "mcp-vector-search-0-12-9",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-vector-search/0.12.9/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "questions-mcp-server 1.0.8",
-      "moniker": "questions-mcp-server-1-0-8",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/questions-mcp-server/1.0.8/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "realtimex-agent-flows 0.2.1",
-      "moniker": "realtimex-agent-flows-0-2-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/realtimex-agent-flows/0.2.1/",
+      "website_url": "https://pypi.org/project/flutter-widget-mcp-server/0.1.16/",
       "source_type": "Press",
       "status": "pending_review"
     },
