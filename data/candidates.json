@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tool": "Agenta",
+      "moniker": "agenta",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/products/agenta",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "Inbox Agents AI",
       "moniker": "inbox-agents-ai",
       "category": "pending_review",
@@ -9,42 +17,50 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: SpecX – Workflow Automation for AI Agents",
-      "moniker": "show-hn-specx-workflow-automation-for-ai-agents",
+      "tool": "Show HN: Cupertino – Offline Apple docs for AI agents (22K pages, MCP, Swift)",
+      "moniker": "show-hn-cupertino-offline-apple-docs-for-ai-agents-22k-pages-mcp-swift",
       "category": "pending_review",
-      "website_url": "https://redoxsoft.com/",
+      "website_url": "https://github.com/mihaelamj/cupertino",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Playwriter – Extension to Control Chrome via MCP and CDP",
-      "moniker": "show-hn-playwriter-extension-to-control-chrome-via-mcp-and-cdp",
+      "tool": "Show HN: Agent/LLM observability for tracing, cost, evals, and debugging",
+      "moniker": "show-hn-agent-llm-observability-for-tracing-cost-evals-and-debugging",
       "category": "pending_review",
-      "website_url": "https://playwriter.dev",
+      "website_url": "https://aback-handbell-1cd.notion.site/Progress-Observability-Platform-2b081d53bbc680fa9f98e7ece233b756",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Orkera: An MCP tool that handles deployment and back end infra",
-      "moniker": "show-hn-orkera-an-mcp-tool-that-handles-deployment-and-back-end-infra",
+      "tool": "Show HN: I vibe-coded a complete React rewrite of my audio waveform editor",
+      "moniker": "show-hn-i-vibe-coded-a-complete-react-rewrite-of-my-audio-waveform-editor",
       "category": "pending_review",
-      "website_url": "https://orkera.com/",
+      "website_url": "https://naomiaro.github.io/waveform-playlist/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Pg_AI_query – AI powered SQL inside PostgreSQL",
-      "moniker": "show-hn-pg-ai-query-ai-powered-sql-inside-postgresql",
+      "tool": "Show HN: TinyCompressor – Free, Privacy-First Image/Video/PDF Compression Tool",
+      "moniker": "show-hn-tinycompressor-free-privacy-first-image-video-pdf-compression-tool",
       "category": "pending_review",
-      "website_url": "https://github.com/benodiwal/pg_ai_query",
+      "website_url": "https://tinycompressor.com",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Flux 2–High-Fidelity Image Generation with Multi-Reference Consistency",
-      "moniker": "show-hn-flux-2-high-fidelity-image-generation-with-multi-reference-consistency",
+      "tool": "The Complete Guide to Triangle Minimum Path Sum: From Brute Force to System Design",
+      "moniker": "the-complete-guide-to-triangle-minimum-path-sum-from-brute-force-to-system-design",
       "category": "pending_review",
-      "website_url": "https://www.fluxproai.net/?i=d1d5k",
+      "website_url": "https://www.reddit.com/r/programming/comments/1p8ibsn/the_complete_guide_to_triangle_minimum_path_sum/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Kafka Streams: The Complete Guide to Interactive Queries and Real-Time State Stores",
+      "moniker": "kafka-streams-the-complete-guide-to-interactive-queries-and-real-time-state-stores",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/programming/comments/1p83h3s/kafka_streams_the_complete_guide_to_interactive/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -57,50 +73,58 @@
       "status": "pending_review"
     },
     {
-      "tool": "I wrote a guide on Angular Signal Forms — feedback appreciated 🔴 Angular Signal Forms: The Game-Changing Upgrade Developers Have Been Waiting For",
-      "moniker": "i-wrote-a-guide-on-angular-signal-forms-feedback-appreciated-angular-signal-forms-the-game-changing-upgrade-developers-have-been-waiting-for",
+      "tool": "Prime Intellect Introduces INTELLECT-3: A 100B+ MoE Trained With Large-scale RL That Achieves State-Of-The-Art Performance For Its Size, Taking The Lead Amongst Open-Sourced Models Across Math, Code, Science & Reasoning Benchmarks. (Link to Chat with the Model provided)",
+      "moniker": "prime-intellect-introduces-intellect-3-a-100b-moe-trained-with-large-scale-rl-that-achieves-state-of-the-art-performance-for-its-size-taking-the-lead-amongst-open-sourced-models-across-math-code-science-reasoning-benchmarks-link-to-chat-with-the-model-provided",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1p7v0gc/i_wrote_a_guide_on_angular_signal_forms_feedback/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p8ahy8/prime_intellect_introduces_intellect3_a_100b_moe/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Antigravity: More marketing hype than real IDE progress",
-      "moniker": "antigravity-more-marketing-hype-than-real-ide-progress",
+      "tool": "PewDiePie accidentally reproduced Specification Gaming (Reward Hacking) on a local swarm. Here is an architectural fix.",
+      "moniker": "pewdiepie-accidentally-reproduced-specification-gaming-reward-hacking-on-a-local-swarm-here-is-an-architectural-fix",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1p6w9xs/antigravity_more_marketing_hype_than_real_ide/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p8stnv/pewdiepie_accidentally_reproduced_specification/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Managing Side Effects: A JavaScript Effect System in 30 Lines or Less",
-      "moniker": "managing-side-effects-a-javascript-effect-system-in-30-lines-or-less",
+      "tool": "Bifrost vs LiteLLM: Side-by-Side Benchmarks (50x Faster LLM Gateway)",
+      "moniker": "bifrost-vs-litellm-side-by-side-benchmarks-50x-faster-llm-gateway",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1p7dpma/managing_side_effects_a_javascript_effect_system/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p8uzww/bifrost_vs_litellm_sidebyside_benchmarks_50x/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Putting Spec Kit Through Its Paces: Radical Idea or Reinvented Waterfall?",
-      "moniker": "putting-spec-kit-through-its-paces-radical-idea-or-reinvented-waterfall",
+      "tool": "Agentic coding with 16GB VRAM and 64GB RAM: can I do locally?",
+      "moniker": "agentic-coding-with-16gb-vram-and-64gb-ram-can-i-do-locally",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1p78csg/putting_spec_kit_through_its_paces_radical_idea/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p8ilde/agentic_coding_with_16gb_vram_and_64gb_ram_can_i/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Anthropic just showed how to make AI agents work on long projects without falling apart",
-      "moniker": "anthropic-just-showed-how-to-make-ai-agents-work-on-long-projects-without-falling-apart",
+      "tool": "[D] ICLR reviewers being doxed on OpenReview",
+      "moniker": "d-iclr-reviewers-being-doxed-on-openreview",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p7siuu/anthropic_just_showed_how_to_make_ai_agents_work/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p8qru0/d_iclr_reviewers_being_doxed_on_openreview/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "I tested 9 Major LLMs on a Governance Critique. A clear split emerged: Open/Constructive vs. Corporate/Defensive. (xAI's Grok caught fabricating evidence).",
-      "moniker": "i-tested-9-major-llms-on-a-governance-critique-a-clear-split-emerged-open-constructive-vs-corporate-defensive-xai-s-grok-caught-fabricating-evidence",
+      "tool": "[D] ICLR terminated reviewer's access to edit score and review",
+      "moniker": "d-iclr-terminated-reviewer-s-access-to-edit-score-and-review",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p7y10g/i_tested_9_major_llms_on_a_governance_critique_a/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p8jl0c/d_iclr_terminated_reviewers_access_to_edit_score/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] Openreview All Information Leaks",
+      "moniker": "d-openreview-all-information-leaks",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p85vs0/d_openreview_all_information_leaks/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -113,18 +137,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "[D] wondering if folks have used optimization for agent prompts?",
-      "moniker": "d-wondering-if-folks-have-used-optimization-for-agent-prompts",
+      "tool": "[D] Why do we consider the distance between the Support Vector and hyperplane 1/||w|| ?",
+      "moniker": "d-why-do-we-consider-the-distance-between-the-support-vector-and-hyperplane-1-w",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p7ttei/d_wondering_if_folks_have_used_optimization_for/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[D] What does video generation suck at?",
-      "moniker": "d-what-does-video-generation-suck-at",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p7qfbf/d_what_does_video_generation_suck_at/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p85tju/d_why_do_we_consider_the_distance_between_the/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -133,30 +149,6 @@
       "moniker": "p-i-made-a-free-playground-for-comparing-10-ocr-models-side-by-side",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p6frc2/p_i_made_a_free_playground_for_comparing_10_ocr/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[P] Knowledge Distillation: 97% Cost Reduction Distilling Claude Sonnet 4 → GPT-4.1-nano (98% Fidelity Retained)",
-      "moniker": "p-knowledge-distillation-97-cost-reduction-distilling-claude-sonnet-4-gpt-4-1-nano-98-fidelity-retained",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p6b8h9/p_knowledge_distillation_97_cost_reduction/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[R] is there a way to decide on a model architecture using pruning without using NAS?",
-      "moniker": "r-is-there-a-way-to-decide-on-a-model-architecture-using-pruning-without-using-nas",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p684oc/r_is_there_a_way_to_decide_on_a_model/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[D] When can I see if ICLR reviewers raise their scores",
-      "moniker": "d-when-can-i-see-if-iclr-reviewers-raise-their-scores",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p6gqaz/d_when_can_i_see_if_iclr_reviewers_raise_their/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -777,474 +769,34 @@
       "status": "pending_review"
     },
     {
-      "tool": "remarkable-mcp 0.1.2",
-      "moniker": "remarkable-mcp-0-1-2",
+      "tool": "agent-framework-lib 0.3.0",
+      "moniker": "agent-framework-lib-0-3-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/remarkable-mcp/0.1.2/",
+      "website_url": "https://pypi.org/project/agent-framework-lib/0.3.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "multimodal-agent 0.2.8",
-      "moniker": "multimodal-agent-0-2-8",
+      "tool": "mcp-ticketer 1.2.14",
+      "moniker": "mcp-ticketer-1-2-14",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/multimodal-agent/0.2.8/",
+      "website_url": "https://pypi.org/project/mcp-ticketer/1.2.14/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "jupyter-mcp-server 0.21.0",
-      "moniker": "jupyter-mcp-server-0-21-0",
+      "tool": "huayi-mcp 0.1.1",
+      "moniker": "huayi-mcp-0-1-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/jupyter-mcp-server/0.21.0/",
+      "website_url": "https://pypi.org/project/huayi-mcp/0.1.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "ironic-python-agent 11.3.0",
-      "moniker": "ironic-python-agent-11-3-0",
+      "tool": "mcpcn-image-info-mcp 0.1.0",
+      "moniker": "mcpcn-image-info-mcp-0-1-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/ironic-python-agent/11.3.0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Minimizing Hyperbolic Embedding Distortion with LLM-Guided Hierarchy Restructuring",
-      "moniker": "minimizing-hyperbolic-embedding-distortion-with-llm-guided-hierarchy-restructuring",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20679",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "$A^2Flow:$ Automating Agentic Workflow Generation via Self-Adaptive Abstraction Operators",
-      "moniker": "a-2flow-automating-agentic-workflow-generation-via-self-adaptive-abstraction-operators",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20693",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Reasoning With a Star: A Heliophysics Dataset and Benchmark for Agentic Scientific Reasoning",
-      "moniker": "reasoning-with-a-star-a-heliophysics-dataset-and-benchmark-for-agentic-scientific-reasoning",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20694",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Learning Multi-Access Point Coordination in Agentic AI Wi-Fi with Large Language Models",
-      "moniker": "learning-multi-access-point-coordination-in-agentic-ai-wi-fi-with-large-language-models",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20719",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "OpenApps: Simulating Environment Variations to Measure UI-Agent Reliability",
-      "moniker": "openapps-simulating-environment-variations-to-measure-ui-agent-reliability",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20766",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "ICPO: Intrinsic Confidence-Driven Group Relative Preference Optimization for Efficient Reinforcement Learning",
-      "moniker": "icpo-intrinsic-confidence-driven-group-relative-preference-optimization-for-efficient-reinforcement-learning",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21005",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Towards Trustworthy Legal AI through LLM Agents and Formal Reasoning",
-      "moniker": "towards-trustworthy-legal-ai-through-llm-agents-and-formal-reasoning",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21033",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "OVOD-Agent: A Markov-Bandit Framework for Proactive Visual Reasoning and Self-Evolving Detection",
-      "moniker": "ovod-agent-a-markov-bandit-framework-for-proactive-visual-reasoning-and-self-evolving-detection",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21064",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Prune4Web: DOM Tree Pruning Programming for Web Agent",
-      "moniker": "prune4web-dom-tree-pruning-programming-for-web-agent",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21398",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Conversational no-code and multi-agentic disease module identification and drug repurposing prediction with ChatDRex",
-      "moniker": "conversational-no-code-and-multi-agentic-disease-module-identification-and-drug-repurposing-prediction-with-chatdrex",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21438",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "EWE: An Agentic Framework for Extreme Weather Analysis",
-      "moniker": "ewe-an-agentic-framework-for-extreme-weather-analysis",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21444",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "MADRA: Multi-Agent Debate for Risk-Aware Embodied Planning",
-      "moniker": "madra-multi-agent-debate-for-risk-aware-embodied-planning",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21460",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Agentic Learner with Grow-and-Refine Multimodal Semantic Memory",
-      "moniker": "agentic-learner-with-grow-and-refine-multimodal-semantic-memory",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21678",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Context-Aware Visual Prompting: Automating Geospatial Web Dashboards with Large Language Models and Agent Self-Validation for Decision Support",
-      "moniker": "context-aware-visual-prompting-automating-geospatial-web-dashboards-with-large-language-models-and-agent-self-validation-for-decision-support",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20656",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Intelligent Agents with Emotional Intelligence: Current Trends, Challenges, and Future Prospects",
-      "moniker": "intelligent-agents-with-emotional-intelligence-current-trends-challenges-and-future-prospects",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20657",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Transforming Higher Education with AI-Powered Video Lectures",
-      "moniker": "transforming-higher-education-with-ai-powered-video-lectures",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20660",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "MTTR-A: Measuring Cognitive Recovery Latency in Multi-Agent Systems",
-      "moniker": "mttr-a-measuring-cognitive-recovery-latency-in-multi-agent-systems",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20663",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Prototype-Guided Non-Exemplar Continual Learning for Cross-subject EEG Decoding",
-      "moniker": "prototype-guided-non-exemplar-continual-learning-for-cross-subject-eeg-decoding",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20696",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "PropensityBench: Evaluating Latent Safety Risks in Large Language Models via an Agentic Approach",
-      "moniker": "propensitybench-evaluating-latent-safety-risks-in-large-language-models-via-an-agentic-approach",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20703",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "ST-PPO: Stabilized Off-Policy Proximal Policy Optimization for Multi-Turn Agents Training",
-      "moniker": "st-ppo-stabilized-off-policy-proximal-policy-optimization-for-multi-turn-agents-training",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20718",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Learning from Risk: LLM-Guided Generation of Safety-Critical Scenarios with Prior Knowledge",
-      "moniker": "learning-from-risk-llm-guided-generation-of-safety-critical-scenarios-with-prior-knowledge",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20726",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Data-Driven Methods and AI in Engineering Design: A Systematic Literature Review Focusing on Challenges and Opportunities",
-      "moniker": "data-driven-methods-and-ai-in-engineering-design-a-systematic-literature-review-focusing-on-challenges-and-opportunities",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20730",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "A Review of Pseudospectral Optimal Control: From Theory to Flight",
-      "moniker": "a-review-of-pseudospectral-optimal-control-from-theory-to-flight",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20843",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory",
-      "moniker": "evo-memory-benchmarking-llm-agent-test-time-learning-with-self-evolving-memory",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20857",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Subgoal Graph-Augmented Planning for LLM-Guided Open-World Reinforcement Learning",
-      "moniker": "subgoal-graph-augmented-planning-for-llm-guided-open-world-reinforcement-learning",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20993",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Structure-Aware Prototype Guided Trusted Multi-View Classification",
-      "moniker": "structure-aware-prototype-guided-trusted-multi-view-classification",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21021",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Which Layer Causes Distribution Deviation? Entropy-Guided Adaptive Pruning for Diffusion and Flow Models",
-      "moniker": "which-layer-causes-distribution-deviation-entropy-guided-adaptive-pruning-for-diffusion-and-flow-models",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21122",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Efficient Training for Human Video Generation with Entropy-Guided Prioritized Progressive Learning",
-      "moniker": "efficient-training-for-human-video-generation-with-entropy-guided-prioritized-progressive-learning",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21136",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Self-Guided Defense: Adaptive Safety Alignment for Reasoning Models via Synthesized Guidelines",
-      "moniker": "self-guided-defense-adaptive-safety-alignment-for-reasoning-models-via-synthesized-guidelines",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21214",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "The Directed Prediction Change - Efficient and Trustworthy Fidelity Assessment for Local Feature Attribution Methods",
-      "moniker": "the-directed-prediction-change-efficient-and-trustworthy-fidelity-assessment-for-local-feature-attribution-methods",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21363",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "FITRep: Attention-Guided Item Representation via MLLMs",
-      "moniker": "fitrep-attention-guided-item-representation-via-mllms",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21389",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning",
-      "moniker": "sam-guided-semantic-and-motion-changed-region-mining-for-remote-sensing-change-captioning",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21420",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "EvRainDrop: HyperGraph-guided Completion for Effective Frame and Event Stream Aggregation",
-      "moniker": "evraindrop-hypergraph-guided-completion-for-effective-frame-and-event-stream-aggregation",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21439",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Tool-RoCo: An Agent-as-Tool Self-organization Large Language Model Benchmark in Multi-robot Cooperation",
-      "moniker": "tool-roco-an-agent-as-tool-self-organization-large-language-model-benchmark-in-multi-robot-cooperation",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21510",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "BAMAS: Structuring Budget-Aware Multi-Agent Systems",
-      "moniker": "bamas-structuring-budget-aware-multi-agent-systems",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21572",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Attention-Guided Patch-Wise Sparse Adversarial Attacks on Vision-Language-Action Models",
-      "moniker": "attention-guided-patch-wise-sparse-adversarial-attacks-on-vision-language-action-models",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21663",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework",
-      "moniker": "matrix-peer-to-peer-multi-agent-synthetic-data-generation-framework",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21686",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration",
-      "moniker": "toolorchestra-elevating-intelligence-via-efficient-model-and-tool-orchestration",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.21689",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Learning Individual Behavior in Agent-Based Models with Graph Diffusion Networks",
-      "moniker": "learning-individual-behavior-in-agent-based-models-with-graph-diffusion-networks",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2505.21426",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "CoMind: Towards Community-Driven Agents for Machine Learning Engineering",
-      "moniker": "comind-towards-community-driven-agents-for-machine-learning-engineering",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2506.20640",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Heterogeneous Multi-Agent Proximal Policy Optimization for Power Distribution System Restoration",
-      "moniker": "heterogeneous-multi-agent-proximal-policy-optimization-for-power-distribution-system-restoration",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.14730",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "FRAGMENTA: End-to-end Fragmentation-based Generative Model with Agentic Tuning for Drug Lead Optimization",
-      "moniker": "fragmenta-end-to-end-fragmentation-based-generative-model-with-agentic-tuning-for-drug-lead-optimization",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20510",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Natural Strategic Ability in Stochastic Multi-Agent Systems",
-      "moniker": "natural-strategic-ability-in-stochastic-multi-agent-systems",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2401.12170",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals",
-      "moniker": "force-prompting-video-generation-models-can-learn-and-generalize-physics-based-control-signals",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2505.19386",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "IVY-FAKE: A Unified Explainable Framework and Benchmark for Image and Video AIGC Detection",
-      "moniker": "ivy-fake-a-unified-explainable-framework-and-benchmark-for-image-and-video-aigc-detection",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2506.00979",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "UITron-Speech: Towards Automated GUI Agents Based on Speech Instructions",
-      "moniker": "uitron-speech-towards-automated-gui-agents-based-on-speech-instructions",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2506.11127",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Fair Algorithms with Probing for Multi-Agent Multi-Armed Bandits",
-      "moniker": "fair-algorithms-with-probing-for-multi-agent-multi-armed-bandits",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2506.14988",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Empowering Time Series Forecasting with LLM-Agents",
-      "moniker": "empowering-time-series-forecasting-with-llm-agents",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2508.04231",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Diffusion Models at the Drug Discovery Frontier: A Review on Generating Small Molecules versus Therapeutic Peptides",
-      "moniker": "diffusion-models-at-the-drug-discovery-frontier-a-review-on-generating-small-molecules-versus-therapeutic-peptides",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.00209",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Passive Dementia Screening via Facial Temporal Micro-Dynamics Analysis of In-the-Wild Talking-Head Video",
-      "moniker": "passive-dementia-screening-via-facial-temporal-micro-dynamics-analysis-of-in-the-wild-talking-head-video",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.13802",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding",
-      "moniker": "timeviper-a-hybrid-mamba-transformer-vision-language-model-for-efficient-long-video-understanding",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.16595",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "ConceptGuard: Proactive Safety in Text-and-Image-to-Video Generation through Multimodal Risk Detection",
-      "moniker": "conceptguard-proactive-safety-in-text-and-image-to-video-generation-through-multimodal-risk-detection",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.18780",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Pistachio: Towards Synthetic, Balanced, and Long-Form Video Anomaly Benchmarks",
-      "moniker": "pistachio-towards-synthetic-balanced-and-long-form-video-anomaly-benchmarks",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.19474",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning",
-      "moniker": "agent0-vl-exploring-self-evolving-agent-for-tool-integrated-vision-language-reasoning",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.19900",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "R3A: Reliable RTL Repair Framework with Multi-Agent Fault Localization and Stochastic Tree-of-Thoughts Patch Generation",
-      "moniker": "r3a-reliable-rtl-repair-framework-with-multi-agent-fault-localization-and-stochastic-tree-of-thoughts-patch-generation",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2511.20090",
+      "website_url": "https://pypi.org/project/mcpcn-image-info-mcp/0.1.0/",
       "source_type": "Press",
       "status": "pending_review"
     }
