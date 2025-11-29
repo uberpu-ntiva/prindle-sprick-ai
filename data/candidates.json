@@ -9,98 +9,82 @@
       "status": "pending_review"
     },
     {
-      "tool": "Inbox Agents AI",
-      "moniker": "inbox-agents-ai",
+      "tool": "Show HN: I built 19 AI agents because one wasn't enough to coach my workouts",
+      "moniker": "show-hn-i-built-19-ai-agents-because-one-wasn-t-enough-to-coach-my-workouts",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/inboxagents",
+      "website_url": "https://arvo.guru",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Cupertino – Offline Apple docs for AI agents (22K pages, MCP, Swift)",
-      "moniker": "show-hn-cupertino-offline-apple-docs-for-ai-agents-22k-pages-mcp-swift",
+      "tool": "Show HN: Ultra-fast code retrieval without RAG – works with any coding agent",
+      "moniker": "show-hn-ultra-fast-code-retrieval-without-rag-works-with-any-coding-agent",
       "category": "pending_review",
-      "website_url": "https://github.com/mihaelamj/cupertino",
+      "website_url": "https://grebmcp.com",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Agent/LLM observability for tracing, cost, evals, and debugging",
-      "moniker": "show-hn-agent-llm-observability-for-tracing-cost-evals-and-debugging",
+      "tool": "Show HN: VidBee – A cross-platform video downloader with RSS auto-download",
+      "moniker": "show-hn-vidbee-a-cross-platform-video-downloader-with-rss-auto-download",
       "category": "pending_review",
-      "website_url": "https://aback-handbell-1cd.notion.site/Progress-Observability-Platform-2b081d53bbc680fa9f98e7ece233b756",
+      "website_url": "https://vidbee.org",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: I vibe-coded a complete React rewrite of my audio waveform editor",
-      "moniker": "show-hn-i-vibe-coded-a-complete-react-rewrite-of-my-audio-waveform-editor",
+      "tool": "Show HN: Created free tool for Roblox Videos",
+      "moniker": "show-hn-created-free-tool-for-roblox-videos",
       "category": "pending_review",
-      "website_url": "https://naomiaro.github.io/waveform-playlist/",
+      "website_url": "https://www.inreels.ai/tools/text-to-brainrot",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: TinyCompressor – Free, Privacy-First Image/Video/PDF Compression Tool",
-      "moniker": "show-hn-tinycompressor-free-privacy-first-image-video-pdf-compression-tool",
+      "tool": "Google Antigravity one week review",
+      "moniker": "google-antigravity-one-week-review",
       "category": "pending_review",
-      "website_url": "https://tinycompressor.com",
+      "website_url": "https://www.reddit.com/r/programming/comments/1p9o152/google_antigravity_one_week_review/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "The Complete Guide to Triangle Minimum Path Sum: From Brute Force to System Design",
-      "moniker": "the-complete-guide-to-triangle-minimum-path-sum-from-brute-force-to-system-design",
+      "tool": "What do programmers actually do besides typing code?",
+      "moniker": "what-do-programmers-actually-do-besides-typing-code",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1p8ibsn/the_complete_guide_to_triangle_minimum_path_sum/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1p9icgh/what_do_programmers_actually_do_besides_typing/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Kafka Streams: The Complete Guide to Interactive Queries and Real-Time State Stores",
-      "moniker": "kafka-streams-the-complete-guide-to-interactive-queries-and-real-time-state-stores",
+      "tool": "Fixmas: Incident Response Advent Calendar",
+      "moniker": "fixmas-incident-response-advent-calendar",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1p83h3s/kafka_streams_the_complete_guide_to_interactive/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1p952p1/fixmas_incident_response_advent_calendar/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Linus Torvalds vs. Ambiguous Abstractions: When a Helper Function Hides the Intent",
-      "moniker": "linus-torvalds-vs-ambiguous-abstractions-when-a-helper-function-hides-the-intent",
+      "tool": "[Project] I built pipe: A stateless \"Agent as Function\" framework that follows Unix Philosophy. (CC0 License / Public Domain)",
+      "moniker": "project-i-built-pipe-a-stateless-agent-as-function-framework-that-follows-unix-philosophy-cc0-license-public-domain",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1p7gj94/linus_torvalds_vs_ambiguous_abstractions_when_a/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p9lqvl/project_i_built_pipe_a_stateless_agent_as/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Prime Intellect Introduces INTELLECT-3: A 100B+ MoE Trained With Large-scale RL That Achieves State-Of-The-Art Performance For Its Size, Taking The Lead Amongst Open-Sourced Models Across Math, Code, Science & Reasoning Benchmarks. (Link to Chat with the Model provided)",
-      "moniker": "prime-intellect-introduces-intellect-3-a-100b-moe-trained-with-large-scale-rl-that-achieves-state-of-the-art-performance-for-its-size-taking-the-lead-amongst-open-sourced-models-across-math-code-science-reasoning-benchmarks-link-to-chat-with-the-model-provided",
+      "tool": "[D] Possible solutions after the ICLR 2026 identity-leak incident",
+      "moniker": "d-possible-solutions-after-the-iclr-2026-identity-leak-incident",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p8ahy8/prime_intellect_introduces_intellect3_a_100b_moe/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p95g7t/d_possible_solutions_after_the_iclr_2026/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "PewDiePie accidentally reproduced Specification Gaming (Reward Hacking) on a local swarm. Here is an architectural fix.",
-      "moniker": "pewdiepie-accidentally-reproduced-specification-gaming-reward-hacking-on-a-local-swarm-here-is-an-architectural-fix",
+      "tool": "[D] ICLR reverts score to pre-rebuttal and kicked all reviewers",
+      "moniker": "d-iclr-reverts-score-to-pre-rebuttal-and-kicked-all-reviewers",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p8stnv/pewdiepie_accidentally_reproduced_specification/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Bifrost vs LiteLLM: Side-by-Side Benchmarks (50x Faster LLM Gateway)",
-      "moniker": "bifrost-vs-litellm-side-by-side-benchmarks-50x-faster-llm-gateway",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p8uzww/bifrost_vs_litellm_sidebyside_benchmarks_50x/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Agentic coding with 16GB VRAM and 64GB RAM: can I do locally?",
-      "moniker": "agentic-coding-with-16gb-vram-and-64gb-ram-can-i-do-locally",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p8ilde/agentic_coding_with_16gb_vram_and_64gb_ram_can_i/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p8x463/d_iclr_reverts_score_to_prerebuttal_and_kicked/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -109,6 +93,14 @@
       "moniker": "d-iclr-reviewers-being-doxed-on-openreview",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p8qru0/d_iclr_reviewers_being_doxed_on_openreview/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] openreview leak, what should conferences do?",
+      "moniker": "d-openreview-leak-what-should-conferences-do",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p8x68n/d_openreview_leak_what_should_conferences_do/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -137,22 +129,6 @@
       "status": "pending_review"
     },
     {
-      "tool": "[D] Why do we consider the distance between the Support Vector and hyperplane 1/||w|| ?",
-      "moniker": "d-why-do-we-consider-the-distance-between-the-support-vector-and-hyperplane-1-w",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p85tju/d_why_do_we_consider_the_distance_between_the/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[P] I made a free playground for comparing 10+ OCR models side-by-side",
-      "moniker": "p-i-made-a-free-playground-for-comparing-10-ocr-models-side-by-side",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1p6frc2/p_i_made_a_free_playground_for_comparing_10_ocr/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "The best guide to spotting AI writing comes from Wikipedia",
       "moniker": "the-best-guide-to-spotting-ai-writing-comes-from-wikipedia",
       "category": "pending_review",
@@ -173,6 +149,30 @@
       "moniker": "zendesk-says-its-new-ai-agent-can-solve-80-of-support-issues",
       "category": "pending_review",
       "website_url": "https://techcrunch.com/2025/10/08/zendesk-says-its-new-ai-agent-can-solve-80-of-support-issues/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "The Verge’s guide to Black Friday 2025",
+      "moniker": "the-verge-s-guide-to-black-friday-2025",
+      "category": "pending_review",
+      "website_url": "https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Anthropic says it solved the long-running AI agent problem with a new multi-session Claude SDK",
+      "moniker": "anthropic-says-it-solved-the-long-running-ai-agent-problem-with-a-new-multi-session-claude-sdk",
+      "category": "pending_review",
+      "website_url": "https://venturebeat.com/ai/anthropic-says-it-solved-the-long-running-ai-agent-problem-with-a-new-multi",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Beyond math and coding: New RL framework helps train LLM agents for complex, real-world tasks",
+      "moniker": "beyond-math-and-coding-new-rl-framework-helps-train-llm-agents-for-complex-real-world-tasks",
+      "category": "pending_review",
+      "website_url": "https://venturebeat.com/ai/beyond-math-and-coding-new-rl-framework-helps-train-llm-agents-for-complex",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -769,34 +769,42 @@
       "status": "pending_review"
     },
     {
-      "tool": "agent-framework-lib 0.3.0",
-      "moniker": "agent-framework-lib-0-3-0",
+      "tool": "signalwire-agents 1.0.8",
+      "moniker": "signalwire-agents-1-0-8",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agent-framework-lib/0.3.0/",
+      "website_url": "https://pypi.org/project/signalwire-agents/1.0.8/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-ticketer 1.2.14",
-      "moniker": "mcp-ticketer-1-2-14",
+      "tool": "askandyz-mcp-server-demo 0.1.0",
+      "moniker": "askandyz-mcp-server-demo-0-1-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-ticketer/1.2.14/",
+      "website_url": "https://pypi.org/project/askandyz-mcp-server-demo/0.1.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "huayi-mcp 0.1.1",
-      "moniker": "huayi-mcp-0-1-1",
+      "tool": "llm-ide-rules 0.5.0",
+      "moniker": "llm-ide-rules-0-5-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/huayi-mcp/0.1.1/",
+      "website_url": "https://pypi.org/project/llm-ide-rules/0.5.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcpcn-image-info-mcp 0.1.0",
-      "moniker": "mcpcn-image-info-mcp-0-1-0",
+      "tool": "mcp-database-manager 0.1.1",
+      "moniker": "mcp-database-manager-0-1-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcpcn-image-info-mcp/0.1.0/",
+      "website_url": "https://pypi.org/project/mcp-database-manager/0.1.1/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "frontmatter-mcp 0.2.0",
+      "moniker": "frontmatter-mcp-0-2-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/frontmatter-mcp/0.2.0/",
       "source_type": "Press",
       "status": "pending_review"
     }
