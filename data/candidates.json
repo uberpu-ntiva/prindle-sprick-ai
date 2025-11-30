@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tool": "RightNow CUDA Editor",
+      "moniker": "rightnow-cuda-editor",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/products/rightnow-ai",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "Agenta",
       "moniker": "agenta",
       "category": "pending_review",
@@ -9,66 +17,66 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: I built 19 AI agents because one wasn't enough to coach my workouts",
-      "moniker": "show-hn-i-built-19-ai-agents-because-one-wasn-t-enough-to-coach-my-workouts",
+      "tool": "Show HN: Guide – to help me get moving and keep the momentum going",
+      "moniker": "show-hn-guide-to-help-me-get-moving-and-keep-the-momentum-going",
       "category": "pending_review",
-      "website_url": "https://arvo.guru",
+      "website_url": "https://github.com/nextfiveinc/guide",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Ultra-fast code retrieval without RAG – works with any coding agent",
-      "moniker": "show-hn-ultra-fast-code-retrieval-without-rag-works-with-any-coding-agent",
+      "tool": "Show HN: XShorts – 1-Click Tool to Turn Any Tweet into a Short Video",
+      "moniker": "show-hn-xshorts-1-click-tool-to-turn-any-tweet-into-a-short-video",
       "category": "pending_review",
-      "website_url": "https://grebmcp.com",
+      "website_url": "https://xshorts.net",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: VidBee – A cross-platform video downloader with RSS auto-download",
-      "moniker": "show-hn-vidbee-a-cross-platform-video-downloader-with-rss-auto-download",
+      "tool": "Show HN: Agent Identity Protocol – Open Standard for AI Agent Signatures",
+      "moniker": "show-hn-agent-identity-protocol-open-standard-for-ai-agent-signatures",
       "category": "pending_review",
-      "website_url": "https://vidbee.org",
+      "website_url": "https://github.com/faalantir/mcp-agent-identity",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Created free tool for Roblox Videos",
-      "moniker": "show-hn-created-free-tool-for-roblox-videos",
+      "tool": "Show HN: Champ – The AI agent that knows everything about your competitors",
+      "moniker": "show-hn-champ-the-ai-agent-that-knows-everything-about-your-competitors",
       "category": "pending_review",
-      "website_url": "https://www.inreels.ai/tools/text-to-brainrot",
+      "website_url": "https://champsignal.com/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Google Antigravity one week review",
-      "moniker": "google-antigravity-one-week-review",
+      "tool": "Show HN: PDF Quick – Free PDF tools with 100% client-side processing",
+      "moniker": "show-hn-pdf-quick-free-pdf-tools-with-100-client-side-processing",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1p9o152/google_antigravity_one_week_review/",
+      "website_url": "https://www.pdfquick.in",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "What do programmers actually do besides typing code?",
-      "moniker": "what-do-programmers-actually-do-besides-typing-code",
+      "tool": "Any idea when RAM prices will be “normal”again?",
+      "moniker": "any-idea-when-ram-prices-will-be-normal-again",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1p9icgh/what_do_programmers_actually_do_besides_typing/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pa85la/any_idea_when_ram_prices_will_be_normalagain/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Fixmas: Incident Response Advent Calendar",
-      "moniker": "fixmas-incident-response-advent-calendar",
+      "tool": "Run Qwen3-Next locally Guide! (30GB RAM) from Unsloth",
+      "moniker": "run-qwen3-next-locally-guide-30gb-ram-from-unsloth",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1p952p1/fixmas_incident_response_advent_calendar/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pa09x2/run_qwen3next_locally_guide_30gb_ram_from_unsloth/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "[Project] I built pipe: A stateless \"Agent as Function\" framework that follows Unix Philosophy. (CC0 License / Public Domain)",
-      "moniker": "project-i-built-pipe-a-stateless-agent-as-function-framework-that-follows-unix-philosophy-cc0-license-public-domain",
+      "tool": "[P][Help] How do I turn my news articles into “chains” and decide where a new article should go? (ML guidance needed!)",
+      "moniker": "p-help-how-do-i-turn-my-news-articles-into-chains-and-decide-where-a-new-article-should-go-ml-guidance-needed",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p9lqvl/project_i_built_pipe_a_stateless_agent_as/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1padvha/phelp_how_do_i_turn_my_news_articles_into_chains/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -153,10 +161,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "The Verge’s guide to Black Friday 2025",
-      "moniker": "the-verge-s-guide-to-black-friday-2025",
+      "tool": "The 2025 Installer gift guide",
+      "moniker": "the-2025-installer-gift-guide",
       "category": "pending_review",
-      "website_url": "https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025",
+      "website_url": "https://www.theverge.com/tech/830153/the-2025-installer-gift-guide",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -181,14 +189,6 @@
       "moniker": "a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing-layer-of-enterprise-ai-orchestration",
       "category": "pending_review",
       "website_url": "https://venturebeat.com/ai/a-weekend-vibe-code-hack-by-andrej-karpathy-quietly-sketches-the-missing",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Alibaba's AgentEvolver lifts model performance in tool use by ~30% using synthetic, auto-generated tasks",
-      "moniker": "alibaba-s-agentevolver-lifts-model-performance-in-tool-use-by-30-using-synthetic-auto-generated-tasks",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/alibabas-agentevolver-lifts-model-performance-in-tool-use-by-30-using",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -769,42 +769,42 @@
       "status": "pending_review"
     },
     {
-      "tool": "signalwire-agents 1.0.8",
-      "moniker": "signalwire-agents-1-0-8",
+      "tool": "arctic-orchestra 0.1.0",
+      "moniker": "arctic-orchestra-0-1-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/signalwire-agents/1.0.8/",
+      "website_url": "https://pypi.org/project/arctic-orchestra/0.1.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "askandyz-mcp-server-demo 0.1.0",
-      "moniker": "askandyz-mcp-server-demo-0-1-0",
+      "tool": "growi-mcp 0.1.2",
+      "moniker": "growi-mcp-0-1-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/askandyz-mcp-server-demo/0.1.0/",
+      "website_url": "https://pypi.org/project/growi-mcp/0.1.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "llm-ide-rules 0.5.0",
-      "moniker": "llm-ide-rules-0-5-0",
+      "tool": "growi-mcp 0.1.1",
+      "moniker": "growi-mcp-0-1-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/llm-ide-rules/0.5.0/",
+      "website_url": "https://pypi.org/project/growi-mcp/0.1.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-database-manager 0.1.1",
-      "moniker": "mcp-database-manager-0-1-1",
+      "tool": "vogel-video-analyzer 0.4.3",
+      "moniker": "vogel-video-analyzer-0-4-3",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-database-manager/0.1.1/",
+      "website_url": "https://pypi.org/project/vogel-video-analyzer/0.4.3/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "frontmatter-mcp 0.2.0",
-      "moniker": "frontmatter-mcp-0-2-0",
+      "tool": "multimodal-agent 0.4.0",
+      "moniker": "multimodal-agent-0-4-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/frontmatter-mcp/0.2.0/",
+      "website_url": "https://pypi.org/project/multimodal-agent/0.4.0/",
       "source_type": "Press",
       "status": "pending_review"
     }
