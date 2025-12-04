@@ -1,50 +1,58 @@
 {
   "items": [
     {
-      "tool": "Show HN: AIThreads – Give your AI agent an email address in 30 seconds",
-      "moniker": "show-hn-aithreads-give-your-ai-agent-an-email-address-in-30-seconds",
+      "tool": "2025 Annual Review",
+      "moniker": "2025-annual-review",
       "category": "pending_review",
-      "website_url": "https://news.ycombinator.com/item?id=46133158",
+      "website_url": "https://www.producthunt.com/products/reflect-reset-by-reflection-app",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: SaveBeam – A fast, no-BS social media video/image downloader.",
-      "moniker": "show-hn-savebeam-a-fast-no-bs-social-media-video-image-downloader",
+      "tool": "Slack Feature Request Agent",
+      "moniker": "slack-feature-request-agent",
       "category": "pending_review",
-      "website_url": "https://savebeam.net/",
+      "website_url": "https://www.producthunt.com/products/korl",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Orchestration Lightning: Rapid-Fire AWS Step Functions Patterns • Eric Johnson",
-      "moniker": "orchestration-lightning-rapid-fire-aws-step-functions-patterns-eric-johnson",
+      "tool": "Show HN: I built a game where you race from one side of the world to the other",
+      "moniker": "show-hn-i-built-a-game-where-you-race-from-one-side-of-the-world-to-the-other",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1pd49te/orchestration_lightning_rapidfire_aws_step/",
+      "website_url": "https://geo-racers.com/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Card effect slider hover",
-      "moniker": "card-effect-slider-hover",
+      "tool": "Show HN: I built an app to validate ideas. The internet decides if it's shit",
+      "moniker": "show-hn-i-built-an-app-to-validate-ideas-the-internet-decides-if-it-s-shit",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1pcxfw4/card_effect_slider_hover/",
+      "website_url": "https://shitorship.com",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Intel Arc Pro B60 Battlematrix Preview: 192GB of VRAM for On-Premise AI",
-      "moniker": "intel-arc-pro-b60-battlematrix-preview-192gb-of-vram-for-on-premise-ai",
+      "tool": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
+      "moniker": "reverse-engineering-a-1b-legal-ai-tool-exposed-100k-confidential-files",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pd3mdw/intel_arc_pro_b60_battlematrix_preview_192gb_of/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1pddgdw/reverse_engineering_a_1b_legal_ai_tool_exposed/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Maaza Orchestrator v1.2 — 9.6M params, 62.9 % on hard adversarial tool-calling, 39 ms latency",
-      "moniker": "maaza-orchestrator-v1-2-9-6m-params-62-9-on-hard-adversarial-tool-calling-39-ms-latency",
+      "tool": "A Deep Dive into SwiftUI Rich Text Layout ：Beyond AttributedString - Inside MarkdownView and RichText",
+      "moniker": "a-deep-dive-into-swiftui-rich-text-layout-beyond-attributedstring-inside-markdownview-and-richtext",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pcv0kd/maaza_orchestrator_v12_96m_params_629_on_hard/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1pdxyhw/a_deep_dive_into_swiftui_rich_text_layout_beyond/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "I'm hex editing an old videogame, how do I feed a (locally run) AI the game's code?",
+      "moniker": "i-m-hex-editing-an-old-videogame-how-do-i-feed-a-locally-run-ai-the-game-s-code",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pdxk97/im_hex_editing_an_old_videogame_how_do_i_feed_a/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -57,14 +65,6 @@
       "status": "pending_review"
     },
     {
-      "tool": "Best way to batch upscale videos Topaz level on Mac M3 Pro without overheating or throttling? [D]",
-      "moniker": "best-way-to-batch-upscale-videos-topaz-level-on-mac-m3-pro-without-overheating-or-throttling-d",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pcknat/best_way_to_batch_upscale_videos_topaz_level_on/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "[R] Infrastructure Feedback: Is 'Stateful' Agent Sandboxing a Must-Have or Nice-to-Have for Production ML Agents?",
       "moniker": "r-infrastructure-feedback-is-stateful-agent-sandboxing-a-must-have-or-nice-to-have-for-production-ml-agents",
       "category": "pending_review",
@@ -73,10 +73,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "[P] Stateful Agents",
-      "moniker": "p-stateful-agents",
+      "tool": "Best way to batch upscale videos Topaz level on Mac M3 Pro without overheating or throttling? [D]",
+      "moniker": "best-way-to-batch-upscale-videos-topaz-level-on-mac-m3-pro-without-overheating-or-throttling-d",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pcdl9z/p_stateful_agents/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pcknat/best_way_to_batch_upscale_videos_topaz_level_on/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -89,10 +89,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "[N] Initial Analysis of OpenReview API Security Incident",
-      "moniker": "n-initial-analysis-of-openreview-api-security-incident",
+      "tool": "[P] Stateful Agents",
+      "moniker": "p-stateful-agents",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pbdwp3/n_initial_analysis_of_openreview_api_security/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pcdl9z/p_stateful_agents/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -113,10 +113,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "AWS goes beyond prompt-level safety with automated reasoning in AgentCore",
-      "moniker": "aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore",
+      "tool": "Workspace Studio aims to solve the real agent problem: Getting employees to use them",
+      "moniker": "workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to-use-them",
       "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/aws-goes-beyond-prompt-level-safety-with-automated-reasoning-in-agentcore",
+      "website_url": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -729,31 +729,87 @@
       "status": "pending_review"
     },
     {
-      "tool": "mcp-ticketer 2.0.2",
-      "moniker": "mcp-ticketer-2-0-2",
+      "tool": "Can't save more than the first line in a prompt in Agent Builder",
+      "moniker": "can-t-save-more-than-the-first-line-in-a-prompt-in-agent-builder",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-ticketer/2.0.2/",
+      "website_url": "https://community.openai.com/t/cant-save-more-than-the-first-line-in-a-prompt-in-agent-builder/1368286",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "agentgear-ai 0.1.2",
-      "moniker": "agentgear-ai-0-1-2",
+      "tool": "MCP Connectors Oauth Config",
+      "moniker": "mcp-connectors-oauth-config",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agentgear-ai/0.1.2/",
+      "website_url": "https://community.openai.com/t/mcp-connectors-oauth-config/1368282",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "trustgraph-mcp 1.7.0",
-      "moniker": "trustgraph-mcp-1-7-0",
+      "tool": "Pattern for taking authenticated actions inside a widget",
+      "moniker": "pattern-for-taking-authenticated-actions-inside-a-widget",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/trustgraph-mcp/1.7.0/",
+      "website_url": "https://community.openai.com/t/pattern-for-taking-authenticated-actions-inside-a-widget/1368263",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "STRIDE: A Systematic Framework for Selecting AI Modalities - Agentic AI, AI Assistants, or LLM Calls",
+      "tool": "Chatgpt apps sdk, no accept button on mcp call",
+      "moniker": "chatgpt-apps-sdk-no-accept-button-on-mcp-call",
+      "category": "pending_review",
+      "website_url": "https://community.openai.com/t/chatgpt-apps-sdk-no-accept-button-on-mcp-call/1368248",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "GPT 5.1 breaks agent instruction on agent SDK and producing out of context output",
+      "moniker": "gpt-5-1-breaks-agent-instruction-on-agent-sdk-and-producing-out-of-context-output",
+      "category": "pending_review",
+      "website_url": "https://community.openai.com/t/gpt-5-1-breaks-agent-instruction-on-agent-sdk-and-producing-out-of-context-output/1368213",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Guide on converting ChatCompletionChunk to content parts?",
+      "moniker": "guide-on-converting-chatcompletionchunk-to-content-parts",
+      "category": "pending_review",
+      "website_url": "https://community.openai.com/t/guide-on-converting-chatcompletionchunk-to-content-parts/1368212",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "realtimex-agent-flows 0.6.0",
+      "moniker": "realtimex-agent-flows-0-6-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/realtimex-agent-flows/0.6.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "digitalguide-reader 0.0.51",
+      "moniker": "digitalguide-reader-0-0-51",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/digitalguide-reader/0.0.51/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "codemie-mcp-datasources 0.1.251",
+      "moniker": "codemie-mcp-datasources-0-1-251",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/codemie-mcp-datasources/0.1.251/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "codemie-mcp-assistants 0.1.251",
+      "moniker": "codemie-mcp-assistants-0-1-251",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/codemie-mcp-assistants/0.1.251/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "STRIDE: A Systematic Framework for Selecting AI Modalities -- Agentic AI, AI Assistants, or LLM Calls",
       "moniker": "stride-a-systematic-framework-for-selecting-ai-modalities-agentic-ai-ai-assistants-or-llm-calls",
       "category": "pending_review",
       "website_url": "https://arxiv.org/abs/2512.02228",
@@ -985,7 +1041,7 @@
       "status": "pending_review"
     },
     {
-      "tool": "Perception of AI-Generated Music - The Role of Composer Identity, Personality Traits, Music Preferences, and Perceived Humanness",
+      "tool": "Perception of AI-Generated Music -- The Role of Composer Identity, Personality Traits, Music Preferences, and Perceived Humanness",
       "moniker": "perception-of-ai-generated-music-the-role-of-composer-identity-personality-traits-music-preferences-and-perceived-humanness",
       "category": "pending_review",
       "website_url": "https://arxiv.org/abs/2512.02785",
@@ -1005,14 +1061,6 @@
       "moniker": "graphmatch-fusing-language-and-graph-representations-in-a-dynamic-two-sided-work-marketplace",
       "category": "pending_review",
       "website_url": "https://arxiv.org/abs/2512.02849",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "FAIRY2I: Universal Extremely-Low Bit QAT framework via Widely-Linear Representation and Phase-Aware Quantization",
-      "moniker": "fairy2i-universal-extremely-low-bit-qat-framework-via-widely-linear-representation-and-phase-aware-quantization",
-      "category": "pending_review",
-      "website_url": "https://arxiv.org/abs/2512.02901",
       "source_type": "Press",
       "status": "pending_review"
     },
