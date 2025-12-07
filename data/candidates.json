@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tool": "MCPTotal",
+      "moniker": "mcptotal",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/products/mcptotal",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "Slack Feature Request Agent",
       "moniker": "slack-feature-request-agent",
       "category": "pending_review",
@@ -9,26 +17,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "2025 Annual Review",
-      "moniker": "2025-annual-review",
+      "tool": "Show HN: Playwriter MCP – Automate the Browser Using Cursor, Claude, VS Code",
+      "moniker": "show-hn-playwriter-mcp-automate-the-browser-using-cursor-claude-vs-code",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/reflect-reset-by-reflection-app",
+      "website_url": "https://github.com/remorses/playwriter",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: GitHub Organisation Years in review stats",
-      "moniker": "show-hn-github-organisation-years-in-review-stats",
+      "tool": "Show HN: Cursor AI Tips – Community-curated guide for AI-assisted coding",
+      "moniker": "show-hn-cursor-ai-tips-community-curated-guide-for-ai-assisted-coding",
       "category": "pending_review",
-      "website_url": "https://github.com/Tazer/years-in-review",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Show HN: Crovia Spider v1 –Forensic crawler exposing compliance gaps in LAION-5B",
-      "moniker": "show-hn-crovia-spider-v1-forensic-crawler-exposing-compliance-gaps-in-laion-5b",
-      "category": "pending_review",
-      "website_url": "https://github.com/croviatrust/crovia-core-engine",
+      "website_url": "https://github.com/murataslan1/cursor-ai-tips",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -57,34 +57,34 @@
       "status": "pending_review"
     },
     {
-      "tool": "Rust Compilation short video",
-      "moniker": "rust-compilation-short-video",
+      "tool": "SGLang Diffusion + Cache-DiT = 20-165% Faster Local Image/Video Generation",
+      "moniker": "sglang-diffusion-cache-dit-20-165-faster-local-image-video-generation",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1pfip2j/rust_compilation_short_video/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pg8jtk/sglang_diffusion_cachedit_20165_faster_local/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "What agentic capabilities are you guys using llms for?",
-      "moniker": "what-agentic-capabilities-are-you-guys-using-llms-for",
+      "tool": "I built a minimal Claude Code clone to understand how AI coding agents work under the hood",
+      "moniker": "i-built-a-minimal-claude-code-clone-to-understand-how-ai-coding-agents-work-under-the-hood",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pfibu4/what_agentic_capabilities_are_you_guys_using_llms/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pg6jp6/i_built_a_minimal_claude_code_clone_to_understand/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "How is the agent system inside Cursor (or similar IDE agent workflows) actually designed?",
-      "moniker": "how-is-the-agent-system-inside-cursor-or-similar-ide-agent-workflows-actually-designed",
+      "tool": "[D] Top ICLR 2026 Papers Found with fake Citations — Even Reviewers Missed Them",
+      "moniker": "d-top-iclr-2026-papers-found-with-fake-citations-even-reviewers-missed-them",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pfjg34/how_is_the_agent_system_inside_cursor_or_similar/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pg1og8/d_top_iclr_2026_papers_found_with_fake_citations/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "[D] We stress-tested the idea of “LLMs with thousands of tools.” The results challenge some assumptions.",
-      "moniker": "d-we-stress-tested-the-idea-of-llms-with-thousands-of-tools-the-results-challenge-some-assumptions",
+      "tool": "[P] Bulk download NeurIPS 2025 papers (orals/spotlights/accepted) from OpenReview",
+      "moniker": "p-bulk-download-neurips-2025-papers-orals-spotlights-accepted-from-openreview",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pei5vc/d_we_stresstested_the_idea_of_llms_with_thousands/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pg1gra/p_bulk_download_neurips_2025_papers/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -737,42 +737,66 @@
       "status": "pending_review"
     },
     {
-      "tool": "facial-vision-agent 0.3.0",
-      "moniker": "facial-vision-agent-0-3-0",
+      "tool": "simpliq-mcp-server-dev-test 0.1.0",
+      "moniker": "simpliq-mcp-server-dev-test-0-1-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/facial-vision-agent/0.3.0/",
+      "website_url": "https://pypi.org/project/simpliq-mcp-server-dev-test/0.1.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-server-bitbucket 0.4.0",
-      "moniker": "mcp-server-bitbucket-0-4-0",
+      "tool": "agentic-workstation 1.0.0",
+      "moniker": "agentic-workstation-1-0-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-server-bitbucket/0.4.0/",
+      "website_url": "https://pypi.org/project/agentic-workstation/1.0.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-liner 0.2.1",
-      "moniker": "mcp-liner-0-2-1",
+      "tool": "pyodide-mkdocs-theme 5.3.0",
+      "moniker": "pyodide-mkdocs-theme-5-3-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-liner/0.2.1/",
+      "website_url": "https://pypi.org/project/pyodide-mkdocs-theme/5.3.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "pyaiagent 0.1.0",
-      "moniker": "pyaiagent-0-1-0",
+      "tool": "strix-agent 0.4.1",
+      "moniker": "strix-agent-0-4-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/pyaiagent/0.1.0/",
+      "website_url": "https://pypi.org/project/strix-agent/0.4.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-memory-service 8.46.3",
-      "moniker": "mcp-memory-service-8-46-3",
+      "tool": "mcp-memory-service 8.47.1",
+      "moniker": "mcp-memory-service-8-47-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-memory-service/8.46.3/",
+      "website_url": "https://pypi.org/project/mcp-memory-service/8.47.1/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "fedramp-20x-mcp 0.7.0",
+      "moniker": "fedramp-20x-mcp-0-7-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/fedramp-20x-mcp/0.7.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "radicle-mcp-server 0.1.3",
+      "moniker": "radicle-mcp-server-0-1-3",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/radicle-mcp-server/0.1.3/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "agentscope 1.0.9.dev0",
+      "moniker": "agentscope-1-0-9-dev0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/agentscope/1.0.9.dev0/",
       "source_type": "Press",
       "status": "pending_review"
     }
