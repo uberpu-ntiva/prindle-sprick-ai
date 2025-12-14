@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "tool": "Music Videos by Mozart",
-      "moniker": "music-videos-by-mozart",
+      "tool": "Sidemail MCP",
+      "moniker": "sidemail-mcp",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/mozart-ai",
+      "website_url": "https://www.producthunt.com/products/sidemail-io",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -25,18 +25,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "Agent Starter Pack",
-      "moniker": "agent-starter-pack",
+      "tool": "Music Videos by Mozart",
+      "moniker": "music-videos-by-mozart",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/agent-starter-pack",
+      "website_url": "https://www.producthunt.com/products/mozart-ai",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Korey Coding Agent Handoffs",
-      "moniker": "korey-coding-agent-handoffs",
+      "tool": "Agent Starter Pack",
+      "moniker": "agent-starter-pack",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/korey",
+      "website_url": "https://www.producthunt.com/products/agent-starter-pack",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -57,58 +57,66 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Zunorm – BYOM Spreadsheet Editor",
-      "moniker": "show-hn-zunorm-byom-spreadsheet-editor",
+      "tool": "Korey Coding Agent Handoffs",
+      "moniker": "korey-coding-agent-handoffs",
       "category": "pending_review",
-      "website_url": "https://zunorm.com",
+      "website_url": "https://www.producthunt.com/products/korey",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: ADK-Rust: a Rust Implementation of Google Agent Dev Kit",
-      "moniker": "show-hn-adk-rust-a-rust-implementation-of-google-agent-dev-kit",
+      "tool": "Show HN: A unified interface to ask TOP Premium AI Tool side-by-side",
+      "moniker": "show-hn-a-unified-interface-to-ask-top-premium-ai-tool-side-by-side",
       "category": "pending_review",
-      "website_url": "https://adk-rust.com",
+      "website_url": "https://modelxpert.com/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Browser4 – an open-source browser engine for agents and concurrency",
-      "moniker": "show-hn-browser4-an-open-source-browser-engine-for-agents-and-concurrency",
+      "tool": "Show HN: A local-first memory store for LLM agents (SQLite)",
+      "moniker": "show-hn-a-local-first-memory-store-for-llm-agents-sqlite",
       "category": "pending_review",
-      "website_url": "https://github.com/platonai/Browser4",
+      "website_url": "https://github.com/CaviraOSS/OpenMemory",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: OAuth-style authorization for AI agents",
-      "moniker": "show-hn-oauth-style-authorization-for-ai-agents",
+      "tool": "Show HN: Sub-agents for Cursor via MCP (isolated context, no worktrees)",
+      "moniker": "show-hn-sub-agents-for-cursor-via-mcp-isolated-context-no-worktrees",
       "category": "pending_review",
-      "website_url": "https://www.npmjs.com/package/@variant96/pia-sdk",
+      "website_url": "https://github.com/shinpr/sub-agents-mcp",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Tandem – Real-time collaborative editor with AI attribution tracking",
-      "moniker": "show-hn-tandem-real-time-collaborative-editor-with-ai-attribution-tracking",
+      "tool": "Show HN: LudvigEditor – A lightweight Python alternative to Electron editors",
+      "moniker": "show-hn-ludvigeditor-a-lightweight-python-alternative-to-electron-editors",
       "category": "pending_review",
-      "website_url": "https://github.com/lmanchu/tandem/tree/v3",
+      "website_url": "https://github.com/Ludvig2457Ultra/LudvigEditor",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Building a Fast, Memory-Efficient Hash Table in Java (by borrowing the best ideas)",
-      "moniker": "building-a-fast-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas",
+      "tool": "Show HN: Stepped Actions – distributed workflow orchestration for Rails",
+      "moniker": "show-hn-stepped-actions-distributed-workflow-orchestration-for-rails",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1plbpzg/building_a_fast_memoryefficient_hash_table_in/",
+      "website_url": "https://github.com/envirobly/stepped",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "System Architecture of a self-hosted Server-Side Rendered React Application",
-      "moniker": "system-architecture-of-a-self-hosted-server-side-rendered-react-application",
+      "tool": "Show HN: KV and wide-column database with CDN-scale replication",
+      "moniker": "show-hn-kv-and-wide-column-database-with-cdn-scale-replication",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1plljsx/system_architecture_of_a_selfhosted_serverside/",
+      "website_url": "https://github.com/ankur-anand/unisondb",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "A terminal text editor you can just use. Instant response, minimal footprint.",
+      "moniker": "a-terminal-text-editor-you-can-just-use-instant-response-minimal-footprint",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/programming/comments/1pm83bz/a_terminal_text_editor_you_can_just_use_instant/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -121,26 +129,50 @@
       "status": "pending_review"
     },
     {
-      "tool": "The LocalStack for AI Agents - Enterprise-grade mock API platform for OpenAI, Anthropic, Google Gemini. Develop, Test, and Scale AI Agents locally without burning API credits.",
-      "moniker": "the-localstack-for-ai-agents-enterprise-grade-mock-api-platform-for-openai-anthropic-google-gemini-develop-test-and-scale-ai-agents-locally-without-burning-api-credits",
+      "tool": "Building a Fast, Memory-Efficient Hash Table in Java (by borrowing the best ideas)",
+      "moniker": "building-a-fast-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1plherb/the_localstack_for_ai_agents_enterprisegrade_mock/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1plbpzg/building_a_fast_memoryefficient_hash_table_in/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "the json parser that automatically repairs your agent's \"json-ish\" output",
-      "moniker": "the-json-parser-that-automatically-repairs-your-agent-s-json-ish-output",
+      "tool": "I built a \"Flight Recorder\" for AI Agents because debugging print() logs was killing me. v2.0 is Open Source (Python).",
+      "moniker": "i-built-a-flight-recorder-for-ai-agents-because-debugging-print-logs-was-killing-me-v2-0-is-open-source-python",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1plhvuz/the_json_parser_that_automatically_repairs_your/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pmc9xf/i_built_a_flight_recorder_for_ai_agents_because/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Maxun: Free, Open-Source Web Data for AI Agents & Data Pipelines",
-      "moniker": "maxun-free-open-source-web-data-for-ai-agents-data-pipelines",
+      "tool": "Show: A deterministic agent runtime that works with small models (GPT-5-mini, GPT-4o-mini)",
+      "moniker": "show-a-deterministic-agent-runtime-that-works-with-small-models-gpt-5-mini-gpt-4o-mini",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1plkv9n/maxun_free_opensource_web_data_for_ai_agents_data/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pm9yzy/show_a_deterministic_agent_runtime_that_works/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "I built an open-source MCP server for uv so your agents can self-repair their Python environments (and install their own packages)",
+      "moniker": "i-built-an-open-source-mcp-server-for-uv-so-your-agents-can-self-repair-their-python-environments-and-install-their-own-packages",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pm0ccl/i_built_an_opensource_mcp_server_for_uv_so_your/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] Do Some Research Areas Get an Easier Accept? The Quiet Biases Hiding in ICLR's Peer Review",
+      "moniker": "d-do-some-research-areas-get-an-easier-accept-the-quiet-biases-hiding-in-iclr-s-peer-review",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1plwkqz/d_do_some_research_areas_get_an_easier_accept_the/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] Video/Image genAI startup coding interview advise.",
+      "moniker": "d-video-image-genai-startup-coding-interview-advise",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pm7dbt/d_videoimage_genai_startup_coding_interview_advise/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -165,6 +197,14 @@
       "moniker": "the-best-guide-to-spotting-ai-writing-comes-from-wikipedia",
       "category": "pending_review",
       "website_url": "https://techcrunch.com/2025/11/20/the-best-guide-to-spotting-ai-writing-comes-from-wikipedia/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "A new old idea about video stores",
+      "moniker": "a-new-old-idea-about-video-stores",
+      "category": "pending_review",
+      "website_url": "https://www.theverge.com/tech/844117/letterboxd-store-skate-story-ifixit-installer",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -801,26 +841,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "pgtuner-mcp 0.5.1",
-      "moniker": "pgtuner-mcp-0-5-1",
+      "tool": "adaptable-agents 0.1.1",
+      "moniker": "adaptable-agents-0-1-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/pgtuner-mcp/0.5.1/",
+      "website_url": "https://pypi.org/project/adaptable-agents/0.1.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-weather-server 0.6.1",
-      "moniker": "mcp-weather-server-0-6-1",
+      "tool": "astrbotmcp 0.2.3",
+      "moniker": "astrbotmcp-0-2-3",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-weather-server/0.6.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "holoviz-mcp 0.0.1a3",
-      "moniker": "holoviz-mcp-0-0-1a3",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/holoviz-mcp/0.0.1a3/",
+      "website_url": "https://pypi.org/project/astrbotmcp/0.2.3/",
       "source_type": "Press",
       "status": "pending_review"
     }
