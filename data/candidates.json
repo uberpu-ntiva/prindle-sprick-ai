@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "tool": "StreamAlive - Interactive PPT slides",
-      "moniker": "streamalive-interactive-ppt-slides",
+      "tool": "Grok Voice Agent API",
+      "moniker": "grok-voice-agent-api",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/streamalive",
+      "website_url": "https://www.producthunt.com/products/grok-3",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -17,34 +17,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "Sidemail MCP",
-      "moniker": "sidemail-mcp",
+      "tool": "Show HN: Quercle – Web Fetch/Search API for AI Agents",
+      "moniker": "show-hn-quercle-web-fetch-search-api-for-ai-agents",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/sidemail-io",
+      "website_url": "https://quercle.dev/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: MemVault – Async GraphRAG Memory for AI Agents (Postgres/Redis)",
-      "moniker": "show-hn-memvault-async-graphrag-memory-for-ai-agents-postgres-redis",
+      "tool": "Show HN: IronWall – 3KB Client-Side Proof-of-Work to Replace reCAPTCHA",
+      "moniker": "show-hn-ironwall-3kb-client-side-proof-of-work-to-replace-recaptcha",
       "category": "pending_review",
-      "website_url": "https://github.com/marketplace/actions/memvault-sync",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Show HN: Signed lockfiles for MCP servers (MCPTrust)",
-      "moniker": "show-hn-signed-lockfiles-for-mcp-servers-mcptrust",
-      "category": "pending_review",
-      "website_url": "https://github.com/mcptrust/mcptrust",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Show HN: I built middleware to connect legacy SOAP APIs to AI agents in 2 weeks",
-      "moniker": "show-hn-i-built-middleware-to-connect-legacy-soap-apis-to-ai-agents-in-2-weeks",
-      "category": "pending_review",
-      "website_url": "https://www.hopelessapi.com",
+      "website_url": "https://www.ironwall-protocol.xyz/docs",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -57,6 +41,14 @@
       "status": "pending_review"
     },
     {
+      "tool": "PRs aren’t enough to debug agent-written code",
+      "moniker": "prs-aren-t-enough-to-debug-agent-written-code",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/programming/comments/1pp5wty/prs_arent_enough_to_debug_agentwritten_code/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "MI6 (British Intelligence equivalent to the CIA) will be requiring new agents to learn how to code in Python. Not only that, but they're widely publicizing it.",
       "moniker": "mi6-british-intelligence-equivalent-to-the-cia-will-be-requiring-new-agents-to-learn-how-to-code-in-python-not-only-that-but-they-re-widely-publicizing-it",
       "category": "pending_review",
@@ -65,34 +57,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "Is MCP Worth the Hype?",
-      "moniker": "is-mcp-worth-the-hype",
+      "tool": "Maestro – Run AI coding agents autonomously for days (Free/OSS)",
+      "moniker": "maestro-run-ai-coding-agents-autonomously-for-days-free-oss",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1powq8k/is_mcp_worth_the_hype/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ppl5mw/maestro_run_ai_coding_agents_autonomously_for/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Exclusion filter for selected dealer at price portals like Geizhals or idealo",
-      "moniker": "exclusion-filter-for-selected-dealer-at-price-portals-like-geizhals-or-idealo",
+      "tool": "[D] AISTATS is Desk-Rejecting Papers Where Authors Accessed Reviewer Identities via the OpenReview Bug",
+      "moniker": "d-aistats-is-desk-rejecting-papers-where-authors-accessed-reviewer-identities-via-the-openreview-bug",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1pou3ps/exclusion_filter_for_selected_dealer_at_price/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "browser-use fine tuned Qwen3-VL-30B-A3B-Instruct as browser-use/bu-30b-a3b-preview",
-      "moniker": "browser-use-fine-tuned-qwen3-vl-30b-a3b-instruct-as-browser-use-bu-30b-a3b-preview",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pojfmt/browseruse_fine_tuned_qwen3vl30ba3binstruct_as/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "anthropic blog on code execution for agents. 98.7% token reduction sounds promising for local setups",
-      "moniker": "anthropic-blog-on-code-execution-for-agents-98-7-token-reduction-sounds-promising-for-local-setups",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1powhy6/anthropic_blog_on_code_execution_for_agents_987/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pp4eca/d_aistats_is_deskrejecting_papers_where_authors/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -113,34 +89,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "With 91% accuracy, open source Hindsight agentic memory provides 20/20 vision for AI agents stuck on failing RAG",
-      "moniker": "with-91-accuracy-open-source-hindsight-agentic-memory-provides-20-20-vision-for-ai-agents-stuck-on-failing-rag",
+      "tool": "AI agents fail 63% of the time on complex tasks. Patronus AI says its new 'living' training worlds can fix that.",
+      "moniker": "ai-agents-fail-63-of-the-time-on-complex-tasks-patronus-ai-says-its-new-living-training-worlds-can-fix-that",
       "category": "pending_review",
-      "website_url": "https://venturebeat.com/data/with-91-accuracy-open-source-hindsight-agentic-memory-provides-20-20-vision",
+      "website_url": "https://venturebeat.com/infrastructure/ai-agents-fail-63-of-the-time-on-complex-tasks-patronus-ai-says-its-new",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Zencoder drops Zenflow, a free AI orchestration tool that pits Claude against OpenAIâs models to catch coding errors",
-      "moniker": "zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against-openai-s-models-to-catch-coding-errors",
+      "tool": "Agentic design patterns: The missing link between AI demos and enterprise value",
+      "moniker": "agentic-design-patterns-the-missing-link-between-ai-demos-and-enterprise-value",
       "category": "pending_review",
-      "website_url": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Echo raises $35M to secure the enterprise cloud's base layer â container images â with autonomous AI agents",
-      "moniker": "echo-raises-35m-to-secure-the-enterprise-cloud-s-base-layer-container-images-with-autonomous-ai-agents",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/security/echo-raises-usd35m-to-secure-the-enterprise-clouds-base-layer-container",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Ai2âs Molmo 2 shows open-source models can rival proprietary giants in video understanding",
-      "moniker": "ai2-s-molmo-2-shows-open-source-models-can-rival-proprietary-giants-in-video-understanding",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/infrastructure/ai2s-molmo-2-shows-open-source-models-can-rival-proprietary-giants-in-video",
+      "website_url": "https://venturebeat.com/infrastructure/agentic-design-patterns-the-missing-link-between-ai-demos-and-enterprise",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -769,58 +729,26 @@
       "status": "pending_review"
     },
     {
-      "tool": "agentic-workstation 1.0.6",
-      "moniker": "agentic-workstation-1-0-6",
+      "tool": "seeragents 0.0.7",
+      "moniker": "seeragents-0-0-7",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agentic-workstation/1.0.6/",
+      "website_url": "https://pypi.org/project/seeragents/0.0.7/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "alibabacloud-agentrun20250910 4.0.3",
-      "moniker": "alibabacloud-agentrun20250910-4-0-3",
+      "tool": "mcp-document-parse 0.1.4",
+      "moniker": "mcp-document-parse-0-1-4",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/alibabacloud-agentrun20250910/4.0.3/",
+      "website_url": "https://pypi.org/project/mcp-document-parse/0.1.4/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "hwdocs-mcp 0.1.1",
-      "moniker": "hwdocs-mcp-0-1-1",
+      "tool": "signnow-mcp-server 0.3.0",
+      "moniker": "signnow-mcp-server-0-3-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/hwdocs-mcp/0.1.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "foundationallm-agent-plugins-langchain 0.9.8b111",
-      "moniker": "foundationallm-agent-plugins-langchain-0-9-8b111",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/foundationallm-agent-plugins-langchain/0.9.8b111/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "foundationallm-agent-plugins-azure-ai 0.9.8b111",
-      "moniker": "foundationallm-agent-plugins-azure-ai-0-9-8b111",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/foundationallm-agent-plugins-azure-ai/0.9.8b111/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "foundationallm-agent-plugins-experimental 0.9.8b111",
-      "moniker": "foundationallm-agent-plugins-experimental-0-9-8b111",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/foundationallm-agent-plugins-experimental/0.9.8b111/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "foundationallm-agent-plugins 0.9.8b111",
-      "moniker": "foundationallm-agent-plugins-0-9-8b111",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/foundationallm-agent-plugins/0.9.8b111/",
+      "website_url": "https://pypi.org/project/signnow-mcp-server/0.3.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
