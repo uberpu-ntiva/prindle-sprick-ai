@@ -17,34 +17,26 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: I made an AI agent to interact with resume and make changes as you ask",
-      "moniker": "show-hn-i-made-an-ai-agent-to-interact-with-resume-and-make-changes-as-you-ask",
+      "tool": "Show HN: I built an LLM agent that finds you online and roasts you",
+      "moniker": "show-hn-i-built-an-llm-agent-that-finds-you-online-and-roasts-you",
       "category": "pending_review",
-      "website_url": "https://resumeup.ai",
+      "website_url": "https://santa.veris.ai",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: HiFidelity – A native macOS offline audiophile music player",
-      "moniker": "show-hn-hifidelity-a-native-macos-offline-audiophile-music-player",
+      "tool": "Rust and the price of ignoring theory - one of the most interesting programming videos I've watched in a while",
+      "moniker": "rust-and-the-price-of-ignoring-theory-one-of-the-most-interesting-programming-videos-i-ve-watched-in-a-while",
       "category": "pending_review",
-      "website_url": "https://rvarunrathod.github.io/HiFidelity/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1ps6of3/rust_and_the_price_of_ignoring_theory_one_of_the/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Semantic geometry visual grounding for AI web agents (Amazon demo)",
-      "moniker": "show-hn-semantic-geometry-visual-grounding-for-ai-web-agents-amazon-demo",
+      "tool": "An information funnel to automate performance reviews",
+      "moniker": "an-information-funnel-to-automate-performance-reviews",
       "category": "pending_review",
-      "website_url": "https://news.ycombinator.com/item?id=46333526",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "i wrote a code editor in C and now i'm a changed man",
-      "moniker": "i-wrote-a-code-editor-in-c-and-now-i-m-a-changed-man",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1pre7mw/i_wrote_a_code_editor_in_c_and_now_im_a_changed/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1ps1w1l/an_information_funnel_to_automate_performance/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -57,10 +49,26 @@
       "status": "pending_review"
     },
     {
-      "tool": "DexEx matters for coding agents, too",
-      "moniker": "dexex-matters-for-coding-agents-too",
+      "tool": "Video2Robot — turn any video (or Veo/Sora prompt) into humanoid robot motion",
+      "moniker": "video2robot-turn-any-video-or-veo-sora-prompt-into-humanoid-robot-motion",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1prb3y7/dexex_matters_for_coding_agents_too/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ps26tq/video2robot_turn_any_video_or_veosora_prompt_into/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Nvidia Introduces 'NitroGen': A Foundation Model for Generalist Gaming Agents | \"This research effectively validates a scalable pipeline for building general-purpose agents that can operate in unknown environments, moving the field closer to universally capable AI.\"",
+      "moniker": "nvidia-introduces-nitrogen-a-foundation-model-for-generalist-gaming-agents-this-research-effectively-validates-a-scalable-pipeline-for-building-general-purpose-agents-that-can-operate-in-unknown-environments-moving-the-field-closer-to-universally-capable-ai",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1prjl7z/nvidia_introduces_nitrogen_a_foundation_model_for/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Best coding and agentic models - 96GB",
+      "moniker": "best-coding-and-agentic-models-96gb",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1prmp2j/best_coding_and_agentic_models_96gb/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -85,6 +93,14 @@
       "moniker": "the-best-guide-to-spotting-ai-writing-comes-from-wikipedia",
       "category": "pending_review",
       "website_url": "https://techcrunch.com/2025/11/20/the-best-guide-to-spotting-ai-writing-comes-from-wikipedia/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "The Verge’s 2025 holiday gift guide",
+      "moniker": "the-verge-s-2025-holiday-gift-guide",
+      "category": "pending_review",
+      "website_url": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -729,26 +745,34 @@
       "status": "pending_review"
     },
     {
-      "tool": "data360-mcp 0.1.0",
-      "moniker": "data360-mcp-0-1-0",
+      "tool": "fal-mcp-server 1.8.2",
+      "moniker": "fal-mcp-server-1-8-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/data360-mcp/0.1.0/",
+      "website_url": "https://pypi.org/project/fal-mcp-server/1.8.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "glidergun 0.9.28",
-      "moniker": "glidergun-0-9-28",
+      "tool": "nekro-agent 2.1.0",
+      "moniker": "nekro-agent-2-1-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/glidergun/0.9.28/",
+      "website_url": "https://pypi.org/project/nekro-agent/2.1.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "video-specs 0.1.4",
-      "moniker": "video-specs-0-1-4",
+      "tool": "fal-mcp-server 1.8.1",
+      "moniker": "fal-mcp-server-1-8-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/video-specs/0.1.4/",
+      "website_url": "https://pypi.org/project/fal-mcp-server/1.8.1/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "pwndoc-mcp-server 1.0.0",
+      "moniker": "pwndoc-mcp-server-1-0-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/pwndoc-mcp-server/1.0.0/",
       "source_type": "Press",
       "status": "pending_review"
     }
