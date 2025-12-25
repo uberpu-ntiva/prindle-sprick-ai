@@ -9,10 +9,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "Guideit",
-      "moniker": "guideit",
+      "tool": "Super Agents by ClickUp",
+      "moniker": "super-agents-by-clickup",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/guideit",
+      "website_url": "https://www.producthunt.com/products/clickup",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -33,6 +33,14 @@
       "status": "pending_review"
     },
     {
+      "tool": "Guideit",
+      "moniker": "guideit",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/products/guideit",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "Aident AI",
       "moniker": "aident-ai",
       "category": "pending_review",
@@ -41,50 +49,50 @@
       "status": "pending_review"
     },
     {
-      "tool": "Super Agents by ClickUp",
-      "moniker": "super-agents-by-clickup",
+      "tool": "Show HN: Ac2 – Agentic CLI Toolkit to Enhance Claude Code and Gemini CLI",
+      "moniker": "show-hn-ac2-agentic-cli-toolkit-to-enhance-claude-code-and-gemini-cli",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/clickup",
+      "website_url": "https://github.com/biliqiqi/ac2",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Leash – Security guardrails for AI coding agents",
-      "moniker": "show-hn-leash-security-guardrails-for-ai-coding-agents",
+      "tool": "Show HN: VideoReview – Collaborative video review for games and animation",
+      "moniker": "show-hn-videoreview-collaborative-video-review-for-games-and-animation",
       "category": "pending_review",
-      "website_url": "https://github.com/melihmucuk/leash",
+      "website_url": "https://github.com/KirisameMarisa/video-review",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: The Language Inside C++ [video]",
-      "moniker": "show-hn-the-language-inside-c-video",
+      "tool": "Show HN: Mandate – treating AI agents like economic actors, not scripts",
+      "moniker": "show-hn-mandate-treating-ai-agents-like-economic-actors-not-scripts",
       "category": "pending_review",
-      "website_url": "https://news.ycombinator.com/item?id=46375003",
+      "website_url": "https://github.com/kashaf12/mandate",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Sensei, documentation agent for coding agents",
-      "moniker": "show-hn-sensei-documentation-agent-for-coding-agents",
+      "tool": "Show HN: FailCore – Execution-Time Safety Runtime for AI Agents",
+      "moniker": "show-hn-failcore-execution-time-safety-runtime-for-ai-agents",
       "category": "pending_review",
-      "website_url": "https://sensei.eightzerothree.co",
+      "website_url": "https://github.com/Zi-Ling/failcore",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: I built a tool that creates videos out of React code",
-      "moniker": "show-hn-i-built-a-tool-that-creates-videos-out-of-react-code",
+      "tool": "Show HN: Browser Based IDE for Love2D",
+      "moniker": "show-hn-browser-based-ide-for-love2d",
       "category": "pending_review",
-      "website_url": "https://github.com/outscal/video-generator",
+      "website_url": "https://github.com/Charmunks/loveweb",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Knowimg – An AI clothes changer and image editor for the web",
-      "moniker": "show-hn-knowimg-an-ai-clothes-changer-and-image-editor-for-the-web",
+      "tool": "Show HN: Personalised Video Message from Santa",
+      "moniker": "show-hn-personalised-video-message-from-santa",
       "category": "pending_review",
-      "website_url": "https://www.knowimg.com",
+      "website_url": "https://www.santagram.art/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -97,58 +105,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "I’m validating a niche SaaS idea before building and would love honest feedback",
-      "moniker": "i-m-validating-a-niche-saas-idea-before-building-and-would-love-honest-feedback",
+      "tool": "What is llama.cpp equivalent for image & video gen?",
+      "moniker": "what-is-llama-cpp-equivalent-for-image-video-gen",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1punami/im_validating_a_niche_saas_idea_before_building/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "The current state of sparse-MoE's for agentic coding work (Opinion)",
-      "moniker": "the-current-state-of-sparse-moe-s-for-agentic-coding-work-opinion",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1puglt8/the_current_state_of_sparsemoes_for_agentic/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "I built Plano(A3B): most efficient LLMs for agent orchestration that exceed frontier model perf",
-      "moniker": "i-built-plano-a3b-most-efficient-llms-for-agent-orchestration-that-exceed-frontier-model-perf",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pudm4m/i_built_planoa3b_most_efficient_llms_for_agent/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "A Garlic Farmer Experimenting with Indirect Orchestration of Multiple LLMs Through Sandbox Code Interpreter - Using Only a Smartphone, No PC",
-      "moniker": "a-garlic-farmer-experimenting-with-indirect-orchestration-of-multiple-llms-through-sandbox-code-interpreter-using-only-a-smartphone-no-pc",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pukvnr/a_garlic_farmer_experimenting_with_indirect/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "How to run the GLM-4.7 model locally on your own device (guide)",
-      "moniker": "how-to-run-the-glm-4-7-model-locally-on-your-own-device-guide",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1ptttcm/how_to_run_the_glm47_model_locally_on_your_own/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "AI agents keep failing to parse Ansible/Terraform output. Built a CLI that returns JSON instead.",
-      "moniker": "ai-agents-keep-failing-to-parse-ansible-terraform-output-built-a-cli-that-returns-json-instead",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pul85k/ai_agents_keep_failing_to_parse_ansibleterraform/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[D] ML coding interview experience review",
-      "moniker": "d-ml-coding-interview-experience-review",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1puhaux/d_ml_coding_interview_experience_review/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pv022d/what_is_llamacpp_equivalent_for_image_video_gen/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -161,18 +121,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "[D] Paper Accepted Then Rejected: Can We Use Sky Sports Commentary Videos for Research? Need Advice",
-      "moniker": "d-paper-accepted-then-rejected-can-we-use-sky-sports-commentary-videos-for-research-need-advice",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pui8d6/d_paper_accepted_then_rejected_can_we_use_sky/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "[D] Any success with literature review tools?",
       "moniker": "d-any-success-with-literature-review-tools",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1punnfy/d_any_success_with_literature_review_tools/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] Paper Accepted Then Rejected: Can We Use Sky Sports Commentary Videos for Research? Need Advice",
+      "moniker": "d-paper-accepted-then-rejected-can-we-use-sky-sports-commentary-videos-for-research-need-advice",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pui8d6/d_paper_accepted_then_rejected_can_we_use_sky/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -197,14 +157,6 @@
       "moniker": "agent-autonomy-without-guardrails-is-an-sre-nightmare",
       "category": "pending_review",
       "website_url": "https://venturebeat.com/infrastructure/agent-autonomy-without-guardrails-is-an-sre-nightmare",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Even Google and Replit struggle to deploy AI agents reliably â here's why",
-      "moniker": "even-google-and-replit-struggle-to-deploy-ai-agents-reliably-here-s-why",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/orchestration/even-google-and-replit-struggle-to-deploy-ai-agents-reliably-heres-why",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -833,26 +785,130 @@
       "status": "pending_review"
     },
     {
-      "tool": "agent-inspector 1.0.1",
-      "moniker": "agent-inspector-1-0-1",
+      "tool": "Code Review Usage Limit Issue",
+      "moniker": "code-review-usage-limit-issue",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agent-inspector/1.0.1/",
+      "website_url": "https://community.openai.com/t/code-review-usage-limit-issue/1370181",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "celeste-video-generation 0.3.6",
-      "moniker": "celeste-video-generation-0-3-6",
+      "tool": "Simple Router - Agent builder tutorial",
+      "moniker": "simple-router-agent-builder-tutorial",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/celeste-video-generation/0.3.6/",
+      "website_url": "https://community.openai.com/t/simple-router-agent-builder-tutorial/1370154",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "flux-mcp 0.0.12",
-      "moniker": "flux-mcp-0-0-12",
+      "tool": "Idea: AI for Application Decision Guidance",
+      "moniker": "idea-ai-for-application-decision-guidance",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/flux-mcp/0.0.12/",
+      "website_url": "https://community.openai.com/t/idea-ai-for-application-decision-guidance/1370139",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Gpt-image-1.5 image creator and editor app - Python, desktop UI",
+      "moniker": "gpt-image-1-5-image-creator-and-editor-app-python-desktop-ui",
+      "category": "pending_review",
+      "website_url": "https://community.openai.com/t/gpt-image-1-5-image-creator-and-editor-app-python-desktop-ui/1370104",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "MCP details save failed: No app id found",
+      "moniker": "mcp-details-save-failed-no-app-id-found",
+      "category": "pending_review",
+      "website_url": "https://community.openai.com/t/mcp-details-save-failed-no-app-id-found/1370085",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Mcp_tool_execution_error from time to time",
+      "moniker": "mcp-tool-execution-error-from-time-to-time",
+      "category": "pending_review",
+      "website_url": "https://community.openai.com/t/mcp-tool-execution-error-from-time-to-time/1370047",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "fabricatio-agent 0.2.3",
+      "moniker": "fabricatio-agent-0-2-3",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/fabricatio-agent/0.2.3/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "agentkit-sdk-python 0.3.1",
+      "moniker": "agentkit-sdk-python-0-3-1",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/agentkit-sdk-python/0.3.1/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "remoteshell-mcp 1.1.1",
+      "moniker": "remoteshell-mcp-1-1-1",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/remoteshell-mcp/1.1.1/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "codebuddy-agent-sdk 0.1.6",
+      "moniker": "codebuddy-agent-sdk-0-1-6",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/codebuddy-agent-sdk/0.1.6/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "lokryn-mcp-log 0.3.0",
+      "moniker": "lokryn-mcp-log-0-3-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/lokryn-mcp-log/0.3.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "powersearch-mcp 0.1.4",
+      "moniker": "powersearch-mcp-0-1-4",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/powersearch-mcp/0.1.4/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "mcp-eregistrations-bpa 0.2.4",
+      "moniker": "mcp-eregistrations-bpa-0-2-4",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/mcp-eregistrations-bpa/0.2.4/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "stata-mcp 1.13.13",
+      "moniker": "stata-mcp-1-13-13",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/stata-mcp/1.13.13/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "apache-airflow-provider-olostep 0.2.0",
+      "moniker": "apache-airflow-provider-olostep-0-2-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/apache-airflow-provider-olostep/0.2.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "lokryn-mcp-log 0.2.0",
+      "moniker": "lokryn-mcp-log-0-2-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/lokryn-mcp-log/0.2.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
