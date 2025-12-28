@@ -17,10 +17,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "Aident AI",
-      "moniker": "aident-ai",
+      "tool": "/agent by Firecrawl ",
+      "moniker": "agent-by-firecrawl",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/aident-ai",
+      "website_url": "https://www.producthunt.com/products/extract-by-firecrawl",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -33,10 +33,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "/agent by Firecrawl ",
-      "moniker": "agent-by-firecrawl",
+      "tool": "Aident AI",
+      "moniker": "aident-ai",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "website_url": "https://www.producthunt.com/products/aident-ai",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -49,34 +49,74 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: The bedtime, another little bedside clock",
-      "moniker": "show-hn-the-bedtime-another-little-bedside-clock",
+      "tool": "Show HN: Open-Source WhatsApp Sales Agent (Node.js, SQLite, OpenAI Calling)",
+      "moniker": "show-hn-open-source-whatsapp-sales-agent-node-js-sqlite-openai-calling",
       "category": "pending_review",
-      "website_url": "https://www.stavros.io/posts/i-made-another-little-bedside-clock/",
+      "website_url": "https://github.com/bibinprathap/whatsapp-chatbot",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Code webapps like it is 2010 – with agents & modern tech. A starter",
-      "moniker": "show-hn-code-webapps-like-it-is-2010-with-agents-modern-tech-a-starter",
+      "tool": "Show HN: Word-GPT-Plus – Integrate AI and Agent Directly into Word",
+      "moniker": "show-hn-word-gpt-plus-integrate-ai-and-agent-directly-into-word",
       "category": "pending_review",
-      "website_url": "https://github.com/tom-010/boring-stack",
+      "website_url": "https://github.com/Kuingsmile/word-GPT-Plus",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: AgentCmds – A directory of slash commands for AI agents",
-      "moniker": "show-hn-agentcmds-a-directory-of-slash-commands-for-ai-agents",
+      "tool": "Show HN: Hideout – to explore the cold-start problem",
+      "moniker": "show-hn-hideout-to-explore-the-cold-start-problem",
       "category": "pending_review",
-      "website_url": "https://agentcmds.work/",
+      "website_url": "https://joinhideout.vercel.app/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "MiniMax M2.1 is OPEN SOURCE: SOTA for real-world dev & agents",
-      "moniker": "minimax-m2-1-is-open-source-sota-for-real-world-dev-agents",
+      "tool": "Testing Side Effects Without the Side Effects",
+      "moniker": "testing-side-effects-without-the-side-effects",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pw3fih/minimax_m21_is_open_source_sota_for_realworld_dev/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1pxoagq/testing_side_effects_without_the_side_effects/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "A Practical Guide to Taming Postgres Isolation Anomalies",
+      "moniker": "a-practical-guide-to-taming-postgres-isolation-anomalies",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/programming/comments/1pxlqgf/a_practical_guide_to_taming_postgres_isolation/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Eertree - an interactive guide",
+      "moniker": "eertree-an-interactive-guide",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/programming/comments/1px09iq/eertree_an_interactive_guide/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "MCP servers are hard to debug and impossible to test, so I built Syrin",
+      "moniker": "mcp-servers-are-hard-to-debug-and-impossible-to-test-so-i-built-syrin",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pxr47l/mcp_servers_are_hard_to_debug_and_impossible_to/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] r/MachineLearning - a year in review",
+      "moniker": "d-r-machinelearning-a-year-in-review",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1px1agd/d_rmachinelearning_a_year_in_review/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[R] Sophia: A Framework for Persistent LLM Agents with Narrative Identity and Self-Driven Task Management",
+      "moniker": "r-sophia-a-framework-for-persistent-llm-agents-with-narrative-identity-and-self-driven-task-management",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pxiecl/r_sophia_a_framework_for_persistent_llm_agents/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -113,30 +153,6 @@
       "status": "pending_review"
     },
     {
-      "tool": "[D] Paper Accepted Then Rejected: Can We Use Sky Sports Commentary Videos for Research? Need Advice",
-      "moniker": "d-paper-accepted-then-rejected-can-we-use-sky-sports-commentary-videos-for-research-need-advice",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pui8d6/d_paper_accepted_then_rejected_can_we_use_sky/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[P] How I built the edit model behind Tab completion for a coding agent",
-      "moniker": "p-how-i-built-the-edit-model-behind-tab-completion-for-a-coding-agent",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pukx3p/p_how_i_built_the_edit_model_behind_tab/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "The 10 best shows to stream on Amazon Prime Video from 2025",
-      "moniker": "the-10-best-shows-to-stream-on-amazon-prime-video-from-2025",
-      "category": "pending_review",
-      "website_url": "https://www.theverge.com/entertainment/846767/amazon-prime-video-best-shows-2025",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "âMore agentsâ isnât a reliable path to better enterprise AI systems, research shows",
       "moniker": "more-agents-isn-t-a-reliable-path-to-better-enterprise-ai-systems-research-shows",
       "category": "pending_review",
@@ -149,14 +165,6 @@
       "moniker": "from-assistance-to-autonomy-how-agentic-ai-is-redefining-enterprises",
       "category": "pending_review",
       "website_url": "https://venturebeat.com/technology/from-assistance-to-autonomy-how-agentic-ai-is-redefining-enterprises",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Agent autonomy without guardrails is an SRE nightmare",
-      "moniker": "agent-autonomy-without-guardrails-is-an-sre-nightmare",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/infrastructure/agent-autonomy-without-guardrails-is-an-sre-nightmare",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -261,6 +269,14 @@
       "moniker": "ovhcloud-on-hugging-face-inference-providers",
       "category": "pending_review",
       "website_url": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
+      "moniker": "aligning-to-what-rethinking-agent-generalization-in-minimax-m2",
+      "category": "pending_review",
+      "website_url": "https://huggingface.co/blog/MiniMax-AI/aligning-to-what",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -793,58 +809,42 @@
       "status": "pending_review"
     },
     {
-      "tool": "mcp-memory-service 8.60.0",
-      "moniker": "mcp-memory-service-8-60-0",
+      "tool": "customazuremcpagent 1.0.0",
+      "moniker": "customazuremcpagent-1-0-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-memory-service/8.60.0/",
+      "website_url": "https://pypi.org/project/customazuremcpagent/1.0.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "superposition-provider 0.96.0",
-      "moniker": "superposition-provider-0-96-0",
+      "tool": "odoo-addon-gestion-editorial 17.0.1.2.4.2",
+      "moniker": "odoo-addon-gestion-editorial-17-0-1-2-4-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/superposition-provider/0.96.0/",
+      "website_url": "https://pypi.org/project/odoo-addon-gestion-editorial/17.0.1.2.4.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "fastmcp-sqltools 0.2.1",
-      "moniker": "fastmcp-sqltools-0-2-1",
+      "tool": "odoo-addon-exportar-stock-editorial-xls 17.0.1.1.1.2",
+      "moniker": "odoo-addon-exportar-stock-editorial-xls-17-0-1-1-1-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/fastmcp-sqltools/0.2.1/",
+      "website_url": "https://pypi.org/project/odoo-addon-exportar-stock-editorial-xls/17.0.1.1.1.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "xlmcp 0.3.2",
-      "moniker": "xlmcp-0-3-2",
+      "tool": "lore-mcp 1.0.7",
+      "moniker": "lore-mcp-1-0-7",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/xlmcp/0.3.2/",
+      "website_url": "https://pypi.org/project/lore-mcp/1.0.7/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "xlmcp 0.3.1",
-      "moniker": "xlmcp-0-3-1",
+      "tool": "lore-mcp 1.0.6",
+      "moniker": "lore-mcp-1-0-6",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/xlmcp/0.3.1/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "nia-mcp-server 1.0.53",
-      "moniker": "nia-mcp-server-1-0-53",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/nia-mcp-server/1.0.53/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "amcp-agent 0.4.1",
-      "moniker": "amcp-agent-0-4-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/amcp-agent/0.4.1/",
+      "website_url": "https://pypi.org/project/lore-mcp/1.0.6/",
       "source_type": "Press",
       "status": "pending_review"
     }
