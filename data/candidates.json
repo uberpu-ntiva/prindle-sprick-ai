@@ -9,58 +9,58 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: MuseVideo – AI Video Generator with Sora 2, Veo 3, and Wan 2.5",
-      "moniker": "show-hn-musevideo-ai-video-generator-with-sora-2-veo-3-and-wan-2-5",
+      "tool": "One incident, onion tech debt and layoffs - postmortem to gauge metric problem",
+      "moniker": "one-incident-onion-tech-debt-and-layoffs-postmortem-to-gauge-metric-problem",
       "category": "pending_review",
-      "website_url": "https://musevideo.ai",
+      "website_url": "https://www.reddit.com/r/programming/comments/1pyxrce/one_incident_onion_tech_debt_and_layoffs/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "The tricky parts of building a reliable job scheduler: leases, idempotency, and timezone-aware cron",
-      "moniker": "the-tricky-parts-of-building-a-reliable-job-scheduler-leases-idempotency-and-timezone-aware-cron",
+      "tool": "Agentic Al in Software Development: Evolving Patterns & Protocols • Bhuvaneswari Subramani",
+      "moniker": "agentic-al-in-software-development-evolving-patterns-protocols-bhuvaneswari-subramani",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1py4b4o/the_tricky_parts_of_building_a_reliable_job/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1pzg1wb/agentic_al_in_software_development_evolving/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Data Lake Performance Optimization: A Guide",
-      "moniker": "data-lake-performance-optimization-a-guide",
+      "tool": "Got tired of heavyweight IDEs for small scripting tools, so I built a tiny plugin-first IDE",
+      "moniker": "got-tired-of-heavyweight-ides-for-small-scripting-tools-so-i-built-a-tiny-plugin-first-ide",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1pyiutz/data_lake_performance_optimization_a_guide/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1pzezel/got_tired_of_heavyweight_ides_for_small_scripting/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Testing Side Effects Without the Side Effects",
-      "moniker": "testing-side-effects-without-the-side-effects",
+      "tool": "Running GLM-4.7 (355B MoE) in Q8 at ~5 Tokens/s on 2015 CPU-Only Hardware – Full Optimization Guide",
+      "moniker": "running-glm-4-7-355b-moe-in-q8-at-5-tokens-s-on-2015-cpu-only-hardware-full-optimization-guide",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1pxoagq/testing_side_effects_without_the_side_effects/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pzggbf/running_glm47_355b_moe_in_q8_at_5_tokenss_on_2015/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "LM Studio alternative for images / Videos / Audio ?",
-      "moniker": "lm-studio-alternative-for-images-videos-audio",
+      "tool": "I Finished a Fully Local Agentic RAG Tutorial",
+      "moniker": "i-finished-a-fully-local-agentic-rag-tutorial",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pyjohv/lm_studio_alternative_for_images_videos_audio/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pyrn9v/i_finished_a_fully_local_agentic_rag_tutorial/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "I built a local voice assistant that learns new abilities via auto-discovered n8n workflows exposed as tools via MCP (LiveKit + Ollama + n8n)",
-      "moniker": "i-built-a-local-voice-assistant-that-learns-new-abilities-via-auto-discovered-n8n-workflows-exposed-as-tools-via-mcp-livekit-ollama-n8n",
+      "tool": "Researching Manufacturing Workflows – Looking for Ideas on Where AI Can Actually Help [R]",
+      "moniker": "researching-manufacturing-workflows-looking-for-ideas-on-where-ai-can-actually-help-r",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1pybbjg/i_built_a_local_voice_assistant_that_learns_new/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pz81mz/researching_manufacturing_workflows_looking_for/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Owlex - an MCP server that lets Claude Code consult Codex, Gemini, and OpenCode as a \"council\"",
-      "moniker": "owlex-an-mcp-server-that-lets-claude-code-consult-codex-gemini-and-opencode-as-a-council",
+      "tool": "[R] If you are interested in studying model/agent psychology/behavior, lmk. I work with a small research team (4 of us) and we are working on some strange things",
+      "moniker": "r-if-you-are-interested-in-studying-model-agent-psychology-behavior-lmk-i-work-with-a-small-research-team-4-of-us-and-we-are-working-on-some-strange-things",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1py3o6p/owlex_an_mcp_server_that_lets_claude_code_consult/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pyx65m/r_if_you_are_interested_in_studying_modelagent/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -81,18 +81,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "[P] A better looking MCP Client (Open Source)",
-      "moniker": "p-a-better-looking-mcp-client-open-source",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pxrxj1/p_a_better_looking_mcp_client_open_source/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "[P] Is this considered ML or adjacent? It's a force directed graph visualization as a recommendation engine leveraging LLM scoring oracle, computer vision classification and face clustering, but serving via physics simulation",
       "moniker": "p-is-this-considered-ml-or-adjacent-it-s-a-force-directed-graph-visualization-as-a-recommendation-engine-leveraging-llm-scoring-oracle-computer-vision-classification-and-face-clustering-but-serving-via-physics-simulation",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1py0con/p_is_this_considered_ml_or_adjacent_its_a_force/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[P] A better looking MCP Client (Open Source)",
+      "moniker": "p-a-better-looking-mcp-client-open-source",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pxrxj1/p_a_better_looking_mcp_client_open_source/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -105,10 +105,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "[P] Canvas Agent for Gemini - Organized Image Generation Interface",
-      "moniker": "p-canvas-agent-for-gemini-organized-image-generation-interface",
+      "tool": "New framework simplifies the complex landscape of agentic AI",
+      "moniker": "new-framework-simplifies-the-complex-landscape-of-agentic-ai",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1pwhivc/p_canvas_agent_for_gemini_organized_image/",
+      "website_url": "https://venturebeat.com/orchestration/new-framework-simplifies-the-complex-landscape-of-agentic-ai",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Inside Microsoft Ignite: How Microsoft and NVIDIA are redefining the AI stack",
+      "moniker": "inside-microsoft-ignite-how-microsoft-and-nvidia-are-redefining-the-ai-stack",
+      "category": "pending_review",
+      "website_url": "https://venturebeat.com/infrastructure/inside-microsoft-ignite-how-microsoft-and-nvidia-are-redefining-the-ai-stack",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -117,14 +125,6 @@
       "moniker": "more-agents-isn-t-a-reliable-path-to-better-enterprise-ai-systems-research-shows",
       "category": "pending_review",
       "website_url": "https://venturebeat.com/orchestration/research-shows-more-agents-isnt-a-reliable-path-to-better-enterprise-ai",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "From assistance to autonomy: How agentic AI is redefining enterprises",
-      "moniker": "from-assistance-to-autonomy-how-agentic-ai-is-redefining-enterprises",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/technology/from-assistance-to-autonomy-how-agentic-ai-is-redefining-enterprises",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -769,114 +769,66 @@
       "status": "pending_review"
     },
     {
-      "tool": "aip-agents-binary 0.5.18",
-      "moniker": "aip-agents-binary-0-5-18",
+      "tool": "Feature Request: Support MCP Sampling (createMessage) for server-initiated LLM completions",
+      "moniker": "feature-request-support-mcp-sampling-createmessage-for-server-initiated-llm-completions",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/aip-agents-binary/0.5.18/",
+      "website_url": "https://community.openai.com/t/feature-request-support-mcp-sampling-createmessage-for-server-initiated-llm-completions/1370474",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "cloudbase-agent-llama-index 0.1.10",
-      "moniker": "cloudbase-agent-llama-index-0-1-10",
+      "tool": "[Open Source] Cybertron — a governance-first architecture for agentic AI systems",
+      "moniker": "open-source-cybertron-a-governance-first-architecture-for-agentic-ai-systems",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/cloudbase-agent-llama-index/0.1.10/",
+      "website_url": "https://community.openai.com/t/open-source-cybertron-a-governance-first-architecture-for-agentic-ai-systems/1370412",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "cloudbase-agent-tools 0.1.10",
-      "moniker": "cloudbase-agent-tools-0-1-10",
+      "tool": "Can you tweak/fix/update while waiting for review?",
+      "moniker": "can-you-tweak-fix-update-while-waiting-for-review",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/cloudbase-agent-tools/0.1.10/",
+      "website_url": "https://community.openai.com/t/can-you-tweak-fix-update-while-waiting-for-review/1370382",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "cloudbase-agent-crewai 0.1.10",
-      "moniker": "cloudbase-agent-crewai-0-1-10",
+      "tool": "Is a conversation-level identifier available to MCP servers in ChatGPT Apps SDK?",
+      "moniker": "is-a-conversation-level-identifier-available-to-mcp-servers-in-chatgpt-apps-sdk",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/cloudbase-agent-crewai/0.1.10/",
+      "website_url": "https://community.openai.com/t/is-a-conversation-level-identifier-available-to-mcp-servers-in-chatgpt-apps-sdk/1370297",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "cloudbase-agent-langgraph 0.1.10",
-      "moniker": "cloudbase-agent-langgraph-0-1-10",
+      "tool": "mcp-memory-service 8.62.9",
+      "moniker": "mcp-memory-service-8-62-9",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/cloudbase-agent-langgraph/0.1.10/",
+      "website_url": "https://pypi.org/project/mcp-memory-service/8.62.9/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "cloudbase-agent-server 0.1.10",
-      "moniker": "cloudbase-agent-server-0-1-10",
+      "tool": "llm-unified-orchestrator 1.0.3",
+      "moniker": "llm-unified-orchestrator-1-0-3",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/cloudbase-agent-server/0.1.10/",
+      "website_url": "https://pypi.org/project/llm-unified-orchestrator/1.0.3/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "cloudbase-agent-storage 0.1.10",
-      "moniker": "cloudbase-agent-storage-0-1-10",
+      "tool": "holoviz-mcp 0.6.0",
+      "moniker": "holoviz-mcp-0-6-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/cloudbase-agent-storage/0.1.10/",
+      "website_url": "https://pypi.org/project/holoviz-mcp/0.6.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "cloudbase-agent-core 0.1.10",
-      "moniker": "cloudbase-agent-core-0-1-10",
+      "tool": "codebuddy-agent-sdk 0.1.9",
+      "moniker": "codebuddy-agent-sdk-0-1-9",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/cloudbase-agent-core/0.1.10/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "codemie-mcp-datasources 0.1.284",
-      "moniker": "codemie-mcp-datasources-0-1-284",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/codemie-mcp-datasources/0.1.284/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "codemie-mcp-assistants 0.1.284",
-      "moniker": "codemie-mcp-assistants-0-1-284",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/codemie-mcp-assistants/0.1.284/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "polymarket-provider 0.1.2",
-      "moniker": "polymarket-provider-0-1-2",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/polymarket-provider/0.1.2/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "foundry-mcp 0.6.0",
-      "moniker": "foundry-mcp-0-6-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/foundry-mcp/0.6.0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "universal-mcp-applications 0.1.39rc9",
-      "moniker": "universal-mcp-applications-0-1-39rc9",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/universal-mcp-applications/0.1.39rc9/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "mcp-atlassian 0.11.11",
-      "moniker": "mcp-atlassian-0-11-11",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-atlassian/0.11.11/",
+      "website_url": "https://pypi.org/project/codebuddy-agent-sdk/0.1.9/",
       "source_type": "Press",
       "status": "pending_review"
     },
