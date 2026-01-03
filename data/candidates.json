@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tool": "Overguide",
+      "moniker": "overguide",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/products/overguide",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "youtube-mcp-server",
+      "moniker": "youtube-mcp-server",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/products/youtube-mcp-server",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "Community Figma MCP server",
       "moniker": "community-figma-mcp-server",
       "category": "pending_review",
@@ -9,58 +25,50 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: The Dinner Decider – A bracket tournament to decide what to eat",
-      "moniker": "show-hn-the-dinner-decider-a-bracket-tournament-to-decide-what-to-eat",
+      "tool": "Show HN: An NPM-style registry for AI agent skills",
+      "moniker": "show-hn-an-npm-style-registry-for-ai-agent-skills",
       "category": "pending_review",
-      "website_url": "https://www.thedinnerdecider.au/",
+      "website_url": "https://openskills.space",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: I built BS Meter because fake reviews ruin shopping",
-      "moniker": "show-hn-i-built-bs-meter-because-fake-reviews-ruin-shopping",
+      "tool": "Show HN: I built a fastfetch inspired movie review – MVW (MoVie revieW)",
+      "moniker": "show-hn-i-built-a-fastfetch-inspired-movie-review-mvw-movie-review",
       "category": "pending_review",
-      "website_url": "https://bs-meter.ge0rg3e.rest",
+      "website_url": "https://github.com/fatinul/mvw",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Self-hosted video clipper architecture (Next.js, N8N, FFmpeg, Docker)",
-      "moniker": "show-hn-self-hosted-video-clipper-architecture-next-js-n8n-ffmpeg-docker",
+      "tool": "How Coding Agents Actually Work: Inside OpenCode",
+      "moniker": "how-coding-agents-actually-work-inside-opencode",
       "category": "pending_review",
-      "website_url": "https://suryaelidanto.gumroad.com/l/ai-video-saas",
+      "website_url": "https://www.reddit.com/r/programming/comments/1q2aqyn/how_coding_agents_actually_work_inside_opencode/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Reelbase – Create Viral TikTok Slideshows in Seconds (Reelbase.io)",
-      "moniker": "show-hn-reelbase-create-viral-tiktok-slideshows-in-seconds-reelbase-io",
+      "tool": "Built a fully local AI assistant with long-term memory, tool orchestration, and a 3D UI (runs on a GTX 1650)",
+      "moniker": "built-a-fully-local-ai-assistant-with-long-term-memory-tool-orchestration-and-a-3d-ui-runs-on-a-gtx-1650",
       "category": "pending_review",
-      "website_url": "https://reelbase.io",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q2onpg/built_a_fully_local_ai_assistant_with_longterm/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Deep Research Agent, an autonomous research agent system",
-      "moniker": "deep-research-agent-an-autonomous-research-agent-system",
+      "tool": "Chinny — the unlimited, on-device voice cloner — just dropped on iOS! (macOS version pending review 👀)",
+      "moniker": "chinny-the-unlimited-on-device-voice-cloner-just-dropped-on-ios-macos-version-pending-review",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q1qepk/deep_research_agent_an_autonomous_research_agent/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q2lm5a/chinny_the_unlimited_ondevice_voice_cloner_just/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "LM Studio MCP",
-      "moniker": "lm-studio-mcp",
+      "tool": "Debate Hall mcp server - multi-agent decision making tool (open sourced. please try it out)",
+      "moniker": "debate-hall-mcp-server-multi-agent-decision-making-tool-open-sourced-please-try-it-out",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q1k2al/lm_studio_mcp/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Syrin v1.1.0 - MCP debugging without the blindfold",
-      "moniker": "syrin-v1-1-0-mcp-debugging-without-the-blindfold",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q1ywps/syrin_v110_mcp_debugging_without_the_blindfold/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q2t0tn/debate_hall_mcp_server_multiagent_decision_making/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -69,6 +77,14 @@
       "moniker": "p-lemma-a-rust-based-neural-guided-theorem-prover-with-220-mathematical-rules",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1q1rr5r/p_lemma_a_rustbased_neuralguided_theorem_prover/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[P] FlakeStorm: Chaos Engineering for AI Agent Testing (Apache 2.0, Rust-accelerated)",
+      "moniker": "p-flakestorm-chaos-engineering-for-ai-agent-testing-apache-2-0-rust-accelerated",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1q2nlsk/p_flakestorm_chaos_engineering_for_ai_agent/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -93,30 +109,6 @@
       "moniker": "d-what-do-you-think-about-the-lady-lovelace-quote-in-turings-computing-machinery-and-intelligene-1950-w-r-t-the-idea-of-imitation-versus-new-states-of-mind",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1q0f3j6/d_what_do_you_think_about_the_lady_lovelace_quote/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[D] AI coding agents for DS/ML (notebooks) - what's your workflow?",
-      "moniker": "d-ai-coding-agents-for-ds-ml-notebooks-what-s-your-workflow",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1q08hdo/d_ai_coding_agents_for_dsml_notebooks_whats_your/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Why Meta bought Manus â and what it signals for your enterprise AI agent strategy",
-      "moniker": "why-meta-bought-manus-and-what-it-signals-for-your-enterprise-ai-agent-strategy",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/orchestration/why-meta-bought-manus-and-what-it-means-for-your-enterprise-ai-agent",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Legacy IAM was built for humans â and AI agents now outnumber them 82 to 1",
-      "moniker": "legacy-iam-was-built-for-humans-and-ai-agents-now-outnumber-them-82-to-1",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/security/machine-identities-outnumber-humans-82-to-1-legacy-iam-cant-keep-up",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -761,26 +753,66 @@
       "status": "pending_review"
     },
     {
-      "tool": "sota-agent-framework 0.4.2",
-      "moniker": "sota-agent-framework-0-4-2",
+      "tool": "mcp-ai-jerry 1.1.1",
+      "moniker": "mcp-ai-jerry-1-1-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/sota-agent-framework/0.4.2/",
+      "website_url": "https://pypi.org/project/mcp-ai-jerry/1.1.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "McPhysics 3.12.1",
-      "moniker": "mcphysics-3-12-1",
+      "tool": "agent-supervisor-memory 0.2.7",
+      "moniker": "agent-supervisor-memory-0-2-7",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcphysics/3.12.1/",
+      "website_url": "https://pypi.org/project/agent-supervisor-memory/0.2.7/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "McPhysics 3.12.0",
-      "moniker": "mcphysics-3-12-0",
+      "tool": "mcp-ai-jerry 1.1.0",
+      "moniker": "mcp-ai-jerry-1-1-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcphysics/3.12.0/",
+      "website_url": "https://pypi.org/project/mcp-ai-jerry/1.1.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "yuppie-mcp-feishu 0.1.3",
+      "moniker": "yuppie-mcp-feishu-0-1-3",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/yuppie-mcp-feishu/0.1.3/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "yuppie-mcp-feishu 0.1.2",
+      "moniker": "yuppie-mcp-feishu-0-1-2",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/yuppie-mcp-feishu/0.1.2/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "data-wise-business-mcp-server 0.1.0",
+      "moniker": "data-wise-business-mcp-server-0-1-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/data-wise-business-mcp-server/0.1.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "amcp-agent 0.7.0",
+      "moniker": "amcp-agent-0-7-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/amcp-agent/0.7.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "mcp-memory-service 8.68.1",
+      "moniker": "mcp-memory-service-8-68-1",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/mcp-memory-service/8.68.1/",
       "source_type": "Press",
       "status": "pending_review"
     }
