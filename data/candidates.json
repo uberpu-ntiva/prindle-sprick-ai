@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "tool": "Overguide",
-      "moniker": "overguide",
-      "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/overguide",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "youtube-mcp-server",
       "moniker": "youtube-mcp-server",
       "category": "pending_review",
       "website_url": "https://www.producthunt.com/products/youtube-mcp-server",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Overguide",
+      "moniker": "overguide",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/products/overguide",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -25,58 +25,66 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: An NPM-style registry for AI agent skills",
-      "moniker": "show-hn-an-npm-style-registry-for-ai-agent-skills",
+      "tool": "Show HN: CharaX – a 10-image 'same identity' dataset pack for LoRA training",
+      "moniker": "show-hn-charax-a-10-image-same-identity-dataset-pack-for-lora-training",
       "category": "pending_review",
-      "website_url": "https://openskills.space",
+      "website_url": "https://aicharax.com/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: I built a fastfetch inspired movie review – MVW (MoVie revieW)",
-      "moniker": "show-hn-i-built-a-fastfetch-inspired-movie-review-mvw-movie-review",
+      "tool": "Show HN: MCP Mocker, Free Fake MCP Server for AI Development",
+      "moniker": "show-hn-mcp-mocker-free-fake-mcp-server-for-ai-development",
       "category": "pending_review",
-      "website_url": "https://github.com/fatinul/mvw",
+      "website_url": "https://antmarras.github.io/mcpmocker/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "How Coding Agents Actually Work: Inside OpenCode",
-      "moniker": "how-coding-agents-actually-work-inside-opencode",
+      "tool": "Show HN: A real-time alert system for cam models – security review welcome",
+      "moniker": "show-hn-a-real-time-alert-system-for-cam-models-security-review-welcome",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1q2aqyn/how_coding_agents_actually_work_inside_opencode/",
+      "website_url": "https://news.ycombinator.com/item?id=46486535",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Built a fully local AI assistant with long-term memory, tool orchestration, and a 3D UI (runs on a GTX 1650)",
-      "moniker": "built-a-fully-local-ai-assistant-with-long-term-memory-tool-orchestration-and-a-3d-ui-runs-on-a-gtx-1650",
+      "tool": "Show HN: IdeaCouncil – Second opinion for indie hackers' every idea",
+      "moniker": "show-hn-ideacouncil-second-opinion-for-indie-hackers-every-idea",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q2onpg/built_a_fully_local_ai_assistant_with_longterm/",
+      "website_url": "https://www.idea-council.com/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Chinny — the unlimited, on-device voice cloner — just dropped on iOS! (macOS version pending review 👀)",
-      "moniker": "chinny-the-unlimited-on-device-voice-cloner-just-dropped-on-ios-macos-version-pending-review",
+      "tool": "Where good ideas come from (for software engineers)",
+      "moniker": "where-good-ideas-come-from-for-software-engineers",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q2lm5a/chinny_the_unlimited_ondevice_voice_cloner_just/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1q3mvha/where_good_ideas_come_from_for_software_engineers/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Debate Hall mcp server - multi-agent decision making tool (open sourced. please try it out)",
-      "moniker": "debate-hall-mcp-server-multi-agent-decision-making-tool-open-sourced-please-try-it-out",
+      "tool": "Bold December Summary (text editor with lsp and dap support)",
+      "moniker": "bold-december-summary-text-editor-with-lsp-and-dap-support",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q2t0tn/debate_hall_mcp_server_multiagent_decision_making/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1q30n5l/bold_december_summary_text_editor_with_lsp_and/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "[P] LEMMA: A Rust-based Neural-Guided Theorem Prover with 220+ Mathematical Rules",
-      "moniker": "p-lemma-a-rust-based-neural-guided-theorem-prover-with-220-mathematical-rules",
+      "tool": "Llama.cpp running on Android with Snapdragon 888 and 8GB of ram. Compiled/Built on device. [Guide/Tutorial]",
+      "moniker": "llama-cpp-running-on-android-with-snapdragon-888-and-8gb-of-ram-compiled-built-on-device-guide-tutorial",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1q1rr5r/p_lemma_a_rustbased_neuralguided_theorem_prover/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q2wvsj/llamacpp_running_on_android_with_snapdragon_888/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Seline - privacy focused ai assistant - vector db/pipelines, folder sync, multi-step reasoning, deferred tools, tool search, context engine, image editing, video assemby, and many more features; with one click windows setup. OS! Also supports Mac and Linux.",
+      "moniker": "seline-privacy-focused-ai-assistant-vector-db-pipelines-folder-sync-multi-step-reasoning-deferred-tools-tool-search-context-engine-image-editing-video-assemby-and-many-more-features-with-one-click-windows-setup-os-also-supports-mac-and-linux",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q34i36/seline_privacy_focused_ai_assistant_vector/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -85,6 +93,14 @@
       "moniker": "p-flakestorm-chaos-engineering-for-ai-agent-testing-apache-2-0-rust-accelerated",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1q2nlsk/p_flakestorm_chaos_engineering_for_ai_agent/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[P] LEMMA: A Rust-based Neural-Guided Theorem Prover with 220+ Mathematical Rules",
+      "moniker": "p-lemma-a-rust-based-neural-guided-theorem-prover-with-220-mathematical-rules",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1q1rr5r/p_lemma_a_rustbased_neuralguided_theorem_prover/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -105,10 +121,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "[D] What do you think about the Lady Lovelace quote in Turings „Computing Machinery and Intelligene\" (1950) w.r.t. the idea of imitation versus new states of mind?",
-      "moniker": "d-what-do-you-think-about-the-lady-lovelace-quote-in-turings-computing-machinery-and-intelligene-1950-w-r-t-the-idea-of-imitation-versus-new-states-of-mind",
+      "tool": "Jackery’s solar-powered Gazebo is a good DIY idea",
+      "moniker": "jackery-s-solar-powered-gazebo-is-a-good-diy-idea",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1q0f3j6/d_what_do_you_think_about_the_lady_lovelace_quote/",
+      "website_url": "https://www.theverge.com/tech/852600/jackerys-solar-powered-gazebo-is-a-good-diy-idea",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "How AI coding agents work—and what to remember if you use them",
+      "moniker": "how-ai-coding-agents-work-and-what-to-remember-if-you-use-them",
+      "category": "pending_review",
+      "website_url": "https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -753,66 +777,42 @@
       "status": "pending_review"
     },
     {
-      "tool": "mcp-ai-jerry 1.1.1",
-      "moniker": "mcp-ai-jerry-1-1-1",
+      "tool": "foundry-mcp 0.8.9",
+      "moniker": "foundry-mcp-0-8-9",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-ai-jerry/1.1.1/",
+      "website_url": "https://pypi.org/project/foundry-mcp/0.8.9/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "agent-supervisor-memory 0.2.7",
-      "moniker": "agent-supervisor-memory-0-2-7",
+      "tool": "openmcp-sdk 0.2.18",
+      "moniker": "openmcp-sdk-0-2-18",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agent-supervisor-memory/0.2.7/",
+      "website_url": "https://pypi.org/project/openmcp-sdk/0.2.18/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-ai-jerry 1.1.0",
-      "moniker": "mcp-ai-jerry-1-1-0",
+      "tool": "foundry-mcp 0.8.8",
+      "moniker": "foundry-mcp-0-8-8",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-ai-jerry/1.1.0/",
+      "website_url": "https://pypi.org/project/foundry-mcp/0.8.8/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "yuppie-mcp-feishu 0.1.3",
-      "moniker": "yuppie-mcp-feishu-0-1-3",
+      "tool": "raindropio-mcp 0.2.0",
+      "moniker": "raindropio-mcp-0-2-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/yuppie-mcp-feishu/0.1.3/",
+      "website_url": "https://pypi.org/project/raindropio-mcp/0.2.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "yuppie-mcp-feishu 0.1.2",
-      "moniker": "yuppie-mcp-feishu-0-1-2",
+      "tool": "add-agent 0.1.0",
+      "moniker": "add-agent-0-1-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/yuppie-mcp-feishu/0.1.2/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "data-wise-business-mcp-server 0.1.0",
-      "moniker": "data-wise-business-mcp-server-0-1-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/data-wise-business-mcp-server/0.1.0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "amcp-agent 0.7.0",
-      "moniker": "amcp-agent-0-7-0",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/amcp-agent/0.7.0/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "mcp-memory-service 8.68.1",
-      "moniker": "mcp-memory-service-8-68-1",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-memory-service/8.68.1/",
+      "website_url": "https://pypi.org/project/add-agent/0.1.0/",
       "source_type": "Press",
       "status": "pending_review"
     }
