@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "tool": "Okara Reddit Agent",
-      "moniker": "okara-reddit-agent",
+      "tool": "AgentNotch",
+      "moniker": "agentnotch",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/okara",
+      "website_url": "https://www.producthunt.com/products/agentnotch",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -25,50 +25,82 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Intellistant, a 10-50x faster C++ alternative 2 LangChain 4 AI agents",
-      "moniker": "show-hn-intellistant-a-10-50x-faster-c-alternative-2-langchain-4-ai-agents",
+      "tool": "Okara Reddit Agent",
+      "moniker": "okara-reddit-agent",
       "category": "pending_review",
-      "website_url": "https://github.com/pooriayousefi/intellistant",
+      "website_url": "https://www.producthunt.com/products/okara",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Similarity = cosine(your_GitHub_stars, Karpathy) Client-side",
-      "moniker": "show-hn-similarity-cosine-your-github-stars-karpathy-client-side",
+      "tool": "Show HN: Notepai – AI assisted online notepad editor",
+      "moniker": "show-hn-notepai-ai-assisted-online-notepad-editor",
       "category": "pending_review",
-      "website_url": "https://puzer.github.io/github_recommender/",
+      "website_url": "https://notepai.netlify.app",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Ride a Photon",
-      "moniker": "show-hn-ride-a-photon",
+      "tool": "Show HN: EvalView – Catch agent regressions before you ship (pytest for agents)",
+      "moniker": "show-hn-evalview-catch-agent-regressions-before-you-ship-pytest-for-agents",
       "category": "pending_review",
-      "website_url": "https://artepants.fun/posts/spectral-lab-1/spectral_lab.html",
+      "website_url": "https://github.com/hidai25/eval-view",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: A file-based agent memory framework that works like skill",
-      "moniker": "show-hn-a-file-based-agent-memory-framework-that-works-like-skill",
+      "tool": "Show HN: Code Recap – Generate year-in-review reports from your Git history",
+      "moniker": "show-hn-code-recap-generate-year-in-review-reports-from-your-git-history",
       "category": "pending_review",
-      "website_url": "https://github.com/NevaMind-AI/memU",
+      "website_url": "https://github.com/NRB-Tech/code-recap",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Databases in 2025: A Year in Review",
-      "moniker": "databases-in-2025-a-year-in-review",
+      "tool": "The Monty Hall Problem, a side-by-side simulation",
+      "moniker": "the-monty-hall-problem-a-side-by-side-simulation",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1q4jrk4/databases_in_2025_a_year_in_review/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1q5rlyf/the_monty_hall_problem_a_sidebyside_simulation/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "I built Ctrl: Execution control plane for high stakes agentic systems",
-      "moniker": "i-built-ctrl-execution-control-plane-for-high-stakes-agentic-systems",
+      "tool": "I got paid minimum wage to solve an impossible problem (and accidentally learned why most algorithms make life worse)",
+      "moniker": "i-got-paid-minimum-wage-to-solve-an-impossible-problem-and-accidentally-learned-why-most-algorithms-make-life-worse",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1q5f8dd/i_built_ctrl_execution_control_plane_for_high/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1q6fyhf/i_got_paid_minimum_wage_to_solve_an_impossible/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "The PERFECT Code Review: How to Reduce Cognitive Load While Improving Quality",
+      "moniker": "the-perfect-code-review-how-to-reduce-cognitive-load-while-improving-quality",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/programming/comments/1q5r0a0/the_perfect_code_review_how_to_reduce_cognitive/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Meet MiroThinker 1.5: The new flagship Search-Agent using \"Interactive Scaling\" to outpace proprietary models.",
+      "moniker": "meet-mirothinker-1-5-the-new-flagship-search-agent-using-interactive-scaling-to-outpace-proprietary-models",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/programming/comments/1q6erg1/meet_mirothinker_15_the_new_flagship_searchagent/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "AI agents for searching and reasoning over internal documents",
+      "moniker": "ai-agents-for-searching-and-reasoning-over-internal-documents",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q6edb2/ai_agents_for_searching_and_reasoning_over/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Released v0.1.6 of Owlex, an MCP server that integrates Codex CLI, Gemini CLI, and OpenCode into Claude Code.",
+      "moniker": "released-v0-1-6-of-owlex-an-mcp-server-that-integrates-codex-cli-gemini-cli-and-opencode-into-claude-code",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q6cbgy/released_v016_of_owlex_an_mcp_server_that/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -89,18 +121,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "[P] LEMMA: A Rust-based Neural-Guided Math Problem Solver",
-      "moniker": "p-lemma-a-rust-based-neural-guided-math-problem-solver",
+      "tool": "[P] Implementing an \"Agent Service Mesh\" pattern to decouple reliability logic from reasoning (Python)",
+      "moniker": "p-implementing-an-agent-service-mesh-pattern-to-decouple-reliability-logic-from-reasoning-python",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1q3qlfb/p_lemma_a_rustbased_neuralguided_math_problem/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[P] LEMMA: A Rust-based Neural-Guided Theorem Prover with 220+ Mathematical Rules",
-      "moniker": "p-lemma-a-rust-based-neural-guided-theorem-prover-with-220-mathematical-rules",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1q1rr5r/p_lemma_a_rustbased_neuralguided_theorem_prover/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1q5jyqp/p_implementing_an_agent_service_mesh_pattern_to/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -769,34 +793,58 @@
       "status": "pending_review"
     },
     {
-      "tool": "agentmake 1.2.1",
-      "moniker": "agentmake-1-2-1",
+      "tool": "spiderkit 0.1.2",
+      "moniker": "spiderkit-0-1-2",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agentmake/1.2.1/",
+      "website_url": "https://pypi.org/project/spiderkit/0.1.2/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "agentmake 1.2.0",
-      "moniker": "agentmake-1-2-0",
+      "tool": "opsorchestrator-sdk 1.0.4",
+      "moniker": "opsorchestrator-sdk-1-0-4",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agentmake/1.2.0/",
+      "website_url": "https://pypi.org/project/opsorchestrator-sdk/1.0.4/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-taxii 0.1.0",
-      "moniker": "mcp-taxii-0-1-0",
+      "tool": "galangal-orchestrate 0.2.19",
+      "moniker": "galangal-orchestrate-0-2-19",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-taxii/0.1.0/",
+      "website_url": "https://pypi.org/project/galangal-orchestrate/0.2.19/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "db-crawl-agents 0.0.8",
-      "moniker": "db-crawl-agents-0-0-8",
+      "tool": "agentstack-cli 0.5.0rc5",
+      "moniker": "agentstack-cli-0-5-0rc5",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/db-crawl-agents/0.0.8/",
+      "website_url": "https://pypi.org/project/agentstack-cli/0.5.0rc5/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "agentstack-sdk 0.5.0rc5",
+      "moniker": "agentstack-sdk-0-5-0rc5",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/agentstack-sdk/0.5.0rc5/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "tm-mcp-server-preview 0.1.2",
+      "moniker": "tm-mcp-server-preview-0-1-2",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/tm-mcp-server-preview/0.1.2/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "keboola-mcp-server 1.36.5",
+      "moniker": "keboola-mcp-server-1-36-5",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/keboola-mcp-server/1.36.5/",
       "source_type": "Press",
       "status": "pending_review"
     },
