@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tool": "Chirpz Agent",
+      "moniker": "chirpz-agent",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/products/chirpz-for-literature-discovery",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "AgentNotch",
       "moniker": "agentnotch",
       "category": "pending_review",
@@ -9,34 +17,34 @@
       "status": "pending_review"
     },
     {
-      "tool": "Okara Reddit Agent",
-      "moniker": "okara-reddit-agent",
+      "tool": "Bridge4Simulator MCP",
+      "moniker": "bridge4simulator-mcp",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/okara",
+      "website_url": "https://www.producthunt.com/products/bridge4simulator-mcp",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: DeepDream for Video with Temporal Consistency",
-      "moniker": "show-hn-deepdream-for-video-with-temporal-consistency",
+      "tool": "Show HN: A practical guide to building Solana USDC payments in React",
+      "moniker": "show-hn-a-practical-guide-to-building-solana-usdc-payments-in-react",
       "category": "pending_review",
-      "website_url": "https://github.com/jeremicna/deepdream-video-pytorch",
+      "website_url": "https://ulomira.com/books/fast-low-fee-crypto-payments",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Video recordings turned with AI to slides ready for presentations",
-      "moniker": "show-hn-video-recordings-turned-with-ai-to-slides-ready-for-presentations",
+      "tool": "Show HN: Store whatever you decide to remember",
+      "moniker": "show-hn-store-whatever-you-decide-to-remember",
       "category": "pending_review",
-      "website_url": "https://notefy.pro/",
+      "website_url": "https://github.com/NevaMind-AI/memU",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: I built a multi-agent \"Boardroom\" to roast my startup ideas",
-      "moniker": "show-hn-i-built-a-multi-agent-boardroom-to-roast-my-startup-ideas",
+      "tool": "Reclaiming Jargon: Side Fumbling.",
+      "moniker": "reclaiming-jargon-side-fumbling",
       "category": "pending_review",
-      "website_url": "https://www.roundtablelabs.ai/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1q88awj/reclaiming_jargon_side_fumbling/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -49,50 +57,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "🚀 9Router - Access 15+ AI Models (Claude, GPT, Gemini, DeepSeek...) Through One Endpoint. Free OAuth providers + Auto-fallback",
-      "moniker": "9router-access-15-ai-models-claude-gpt-gemini-deepseek-through-one-endpoint-free-oauth-providers-auto-fallback",
+      "tool": "Devstral Small 2 (Q4_K_M) on 5060 Ti 16GB and Zed Agent is amazing!",
+      "moniker": "devstral-small-2-q4-k-m-on-5060-ti-16gb-and-zed-agent-is-amazing",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1q767m5/9router_access_15_ai_models_claude_gpt_gemini/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q7zywf/devstral_small_2_q4_k_m_on_5060_ti_16gb_and_zed/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "How should effectiveness of CodeRabbit PR reviews be measured in a team?",
-      "moniker": "how-should-effectiveness-of-coderabbit-pr-reviews-be-measured-in-a-team",
+      "tool": "19 Hour Free YouTube Course on Building Your Own AI Coding Agent From Scratch!",
+      "moniker": "19-hour-free-youtube-course-on-building-your-own-ai-coding-agent-from-scratch",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1q73pig/how_should_effectiveness_of_coderabbit_pr_reviews/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "I was trying out an activation-steering method for Qwen3-Next, but I accidentally corrupted the model weights. Somehow, the model still had enough “conscience” to realize something was wrong and freak out.",
-      "moniker": "i-was-trying-out-an-activation-steering-method-for-qwen3-next-but-i-accidentally-corrupted-the-model-weights-somehow-the-model-still-had-enough-conscience-to-realize-something-was-wrong-and-freak-out",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q79n6x/i_was_trying_out_an_activationsteering_method_for/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "MCP for Financial Ontology!",
-      "moniker": "mcp-for-financial-ontology",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q78ql8/mcp_for_financial_ontology/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "PaddleOCR keeps trying to download models even when local paths are provided (Paddle 3.x, Python 3.12)",
-      "moniker": "paddleocr-keeps-trying-to-download-models-even-when-local-paths-are-provided-paddle-3-x-python-3-12",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q7630d/paddleocr_keeps_trying_to_download_models_even/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Arguably, the best web search MCP server for Claude Code, Codex, and other coding tools",
-      "moniker": "arguably-the-best-web-search-mcp-server-for-claude-code-codex-and-other-coding-tools",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q6khuh/arguably_the_best_web_search_mcp_server_for/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q87hbs/19_hour_free_youtube_course_on_building_your_own/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -129,10 +105,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "Disney Plus is getting vertical video",
-      "moniker": "disney-plus-is-getting-vertical-video",
+      "tool": "Claude Code 2.1.0 arrives with smoother workflows and smarter agents",
+      "moniker": "claude-code-2-1-0-arrives-with-smoother-workflows-and-smarter-agents",
       "category": "pending_review",
-      "website_url": "https://www.theverge.com/tech/858277/disney-plus-vertical-video",
+      "website_url": "https://venturebeat.com/orchestration/claude-code-2-1-0-arrives-with-smoother-workflows-and-smarter-agents",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -165,6 +141,14 @@
       "moniker": "oracle-shares-slide-on-15b-increase-in-data-center-spending",
       "category": "pending_review",
       "website_url": "https://arstechnica.com/information-technology/2025/12/oracle-shares-slide-on-15b-increase-in-data-center-spending/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "America’s new dietary guidelines ignore decades of scientific research",
+      "moniker": "america-s-new-dietary-guidelines-ignore-decades-of-scientific-research",
+      "category": "pending_review",
+      "website_url": "https://www.technologyreview.com/2026/01/08/1130905/americas-diet-guidelines-ignore-scientific-research-red-meat-beef-tallow/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -785,58 +769,82 @@
       "status": "pending_review"
     },
     {
-      "tool": "spiderspt 0.2.3",
-      "moniker": "spiderspt-0-2-3",
+      "tool": "agentrun-mem0ai 0.0.1",
+      "moniker": "agentrun-mem0ai-0-0-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/spiderspt/0.2.3/",
+      "website_url": "https://pypi.org/project/agentrun-mem0ai/0.0.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "hn-mcp-server 1.0.0",
-      "moniker": "hn-mcp-server-1-0-0",
+      "tool": "automata-mcp 0.1.1",
+      "moniker": "automata-mcp-0-1-1",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/hn-mcp-server/1.0.0/",
+      "website_url": "https://pypi.org/project/automata-mcp/0.1.1/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "jd-jinghui-excel-mcp 0.1.0",
-      "moniker": "jd-jinghui-excel-mcp-0-1-0",
+      "tool": "agentfabric 0.1.0",
+      "moniker": "agentfabric-0-1-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/jd-jinghui-excel-mcp/0.1.0/",
+      "website_url": "https://pypi.org/project/agentfabric/0.1.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "agentvec 0.2.0",
-      "moniker": "agentvec-0-2-0",
+      "tool": "remind-mcp 0.2.0",
+      "moniker": "remind-mcp-0-2-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agentvec/0.2.0/",
+      "website_url": "https://pypi.org/project/remind-mcp/0.2.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-ssh-vps 0.7.0",
-      "moniker": "mcp-ssh-vps-0-7-0",
+      "tool": "adk-agent-sim 0.1.13",
+      "moniker": "adk-agent-sim-0-1-13",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-ssh-vps/0.7.0/",
+      "website_url": "https://pypi.org/project/adk-agent-sim/0.1.13/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "agently 4.0.7",
-      "moniker": "agently-4-0-7",
+      "tool": "smf-mcp 0.1.23",
+      "moniker": "smf-mcp-0-1-23",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agently/4.0.7/",
+      "website_url": "https://pypi.org/project/smf-mcp/0.1.23/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "snapfs-agent-scanner 0.1.0",
-      "moniker": "snapfs-agent-scanner-0-1-0",
+      "tool": "agentia 0.1.12",
+      "moniker": "agentia-0-1-12",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/snapfs-agent-scanner/0.1.0/",
+      "website_url": "https://pypi.org/project/agentia/0.1.12/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "adk-agent-sim 0.1.12",
+      "moniker": "adk-agent-sim-0-1-12",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/adk-agent-sim/0.1.12/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "konokenj.cdk-api-mcp-server 0.68.0",
+      "moniker": "konokenj-cdk-api-mcp-server-0-68-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/konokenj-cdk-api-mcp-server/0.68.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "mcp-edit-math 1.5.0",
+      "moniker": "mcp-edit-math-1-5-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/mcp-edit-math/1.5.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
