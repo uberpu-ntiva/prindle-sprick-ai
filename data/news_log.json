@@ -1,6 +1,906 @@
 {
   "items": [
     {
+      "date": "2026-01-10",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "nightly: Simplify networking tests even more (#46489)",
+      "link": "https://github.com/zed-industries/zed/releases/tag/nightly",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.219.3-pre",
+      "link": "https://github.com/zed-industries/zed/releases/tag/v0.219.3-pre",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "collab-staging: ep: Fix editable region for teacher models (#46459)",
+      "link": "https://github.com/zed-industries/zed/releases/tag/collab-staging",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "collab-production: search: Stream project search results sooner (#45245)",
+      "link": "https://github.com/zed-industries/zed/releases/tag/collab-production",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.219.2-pre",
+      "link": "https://github.com/zed-industries/zed/releases/tag/v0.219.2-pre",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.218.6",
+      "link": "https://github.com/zed-industries/zed/releases/tag/v0.218.6",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.219.1-pre",
+      "link": "https://github.com/zed-industries/zed/releases/tag/v0.219.1-pre",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.219.0-pre",
+      "link": "https://github.com/zed-industries/zed/releases/tag/v0.219.0-pre",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.218.5",
+      "link": "https://github.com/zed-industries/zed/releases/tag/v0.218.5",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Zed",
+      "moniker": "zed-editor",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.218.5-pre",
+      "link": "https://github.com/zed-industries/zed/releases/tag/v0.218.5-pre",
+      "source": "https://github.com/zed-industries/zed/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Qodo Merge",
+      "moniker": "qodo-merge",
+      "category": "Code Review",
+      "severity": "Minor",
+      "headline": "v0.31",
+      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.31",
+      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Qodo Merge",
+      "moniker": "qodo-merge",
+      "category": "Code Review",
+      "severity": "Minor",
+      "headline": "v0.30",
+      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.30",
+      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Qodo Merge",
+      "moniker": "qodo-merge",
+      "category": "Code Review",
+      "severity": "Minor",
+      "headline": "v0.29",
+      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.29",
+      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Qodo Merge",
+      "moniker": "qodo-merge",
+      "category": "Code Review",
+      "severity": "Minor",
+      "headline": "v0.28",
+      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.28",
+      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Qodo Merge",
+      "moniker": "qodo-merge",
+      "category": "Code Review",
+      "severity": "Minor",
+      "headline": "v0.27",
+      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.27",
+      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Qodo Merge",
+      "moniker": "qodo-merge",
+      "category": "Code Review",
+      "severity": "Minor",
+      "headline": "v0.26",
+      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.26",
+      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Qodo Merge",
+      "moniker": "qodo-merge",
+      "category": "Code Review",
+      "severity": "Minor",
+      "headline": "v0.25",
+      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.25",
+      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Qodo Merge",
+      "moniker": "qodo-merge",
+      "category": "Code Review",
+      "severity": "Minor",
+      "headline": "v0.24",
+      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.24",
+      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Qodo Merge",
+      "moniker": "qodo-merge",
+      "category": "Code Review",
+      "severity": "Minor",
+      "headline": "v0.23",
+      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.23",
+      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Qodo Merge",
+      "moniker": "qodo-merge",
+      "category": "Code Review",
+      "severity": "Minor",
+      "headline": "v0.22",
+      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.22",
+      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "OpenHands",
+      "moniker": "openhands",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "1.1.0 - 2025-12-30",
+      "link": "https://github.com/OpenHands/OpenHands/releases/tag/1.1.0",
+      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "OpenHands",
+      "moniker": "openhands",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "1.0.0 - 2025-12-16",
+      "link": "https://github.com/OpenHands/OpenHands/releases/tag/1.0.0",
+      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "OpenHands",
+      "moniker": "openhands",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "1.0.7-cli - 25-11-11",
+      "link": "https://github.com/OpenHands/OpenHands/releases/tag/1.0.7-cli",
+      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "OpenHands",
+      "moniker": "openhands",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "0.62.0 - 2025-11-11",
+      "link": "https://github.com/OpenHands/OpenHands/releases/tag/0.62.0",
+      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "OpenHands",
+      "moniker": "openhands",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "1.0.6-cli - 2025-11-7",
+      "link": "https://github.com/OpenHands/OpenHands/releases/tag/1.0.6-cli",
+      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "OpenHands",
+      "moniker": "openhands",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "0.61.0 - 2025-11-05",
+      "link": "https://github.com/OpenHands/OpenHands/releases/tag/0.61.0",
+      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "OpenHands",
+      "moniker": "openhands",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "1.0.5-cli - 2025-10-31",
+      "link": "https://github.com/OpenHands/OpenHands/releases/tag/1.0.5-cli",
+      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "OpenHands",
+      "moniker": "openhands",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "1.0.4-cli - 2025-10-31",
+      "link": "https://github.com/OpenHands/OpenHands/releases/tag/1.0.4-cli",
+      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "OpenHands",
+      "moniker": "openhands",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "1.0.3-cli - 2025-10-30",
+      "link": "https://github.com/OpenHands/OpenHands/releases/tag/1.0.3-cli",
+      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "OpenHands",
+      "moniker": "openhands",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "0.60.0 - 2025-10-29",
+      "link": "https://github.com/OpenHands/OpenHands/releases/tag/0.60.0",
+      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "MetaGPT",
+      "moniker": "metagpt",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "v0.8.2",
+      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.8.2",
+      "source": "https://github.com/geekan/MetaGPT/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "MetaGPT",
+      "moniker": "metagpt",
+      "category": "Agent",
+      "severity": "Security",
+      "headline": "Patch release: v0.8.1",
+      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.8.1",
+      "source": "https://github.com/geekan/MetaGPT/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "MetaGPT",
+      "moniker": "metagpt",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "v0.8.0: Introduction of Data Interpreter, Integration with RAG, and Expanded Support for LLMs",
+      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.8.0",
+      "source": "https://github.com/geekan/MetaGPT/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "MetaGPT",
+      "moniker": "metagpt",
+      "category": "Agent",
+      "severity": "Security",
+      "headline": "Patch release: v0.7.7",
+      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.7",
+      "source": "https://github.com/geekan/MetaGPT/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "MetaGPT",
+      "moniker": "metagpt",
+      "category": "Agent",
+      "severity": "Security",
+      "headline": "Patch release: v0.7.6",
+      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.6",
+      "source": "https://github.com/geekan/MetaGPT/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "MetaGPT",
+      "moniker": "metagpt",
+      "category": "Agent",
+      "severity": "Security",
+      "headline": "Patch release: v0.7.4",
+      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.4",
+      "source": "https://github.com/geekan/MetaGPT/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "MetaGPT",
+      "moniker": "metagpt",
+      "category": "Agent",
+      "severity": "Security",
+      "headline": "Patch release: v0.7.3",
+      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.3",
+      "source": "https://github.com/geekan/MetaGPT/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "MetaGPT",
+      "moniker": "metagpt",
+      "category": "Agent",
+      "severity": "Security",
+      "headline": "Patch release: v0.7.2",
+      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.2",
+      "source": "https://github.com/geekan/MetaGPT/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "MetaGPT",
+      "moniker": "metagpt",
+      "category": "Agent",
+      "severity": "Security",
+      "headline": "Patch release: v0.7.1",
+      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.1",
+      "source": "https://github.com/geekan/MetaGPT/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "MetaGPT",
+      "moniker": "metagpt",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "v0.7.0: Easy Configuration, Improved Incremental Development, and CodeInterpreter",
+      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.0",
+      "source": "https://github.com/geekan/MetaGPT/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Gorilla",
+      "moniker": "gorilla-berkeley",
+      "category": "Agent",
+      "severity": "Major",
+      "headline": "Berkeley Function Calling Leaderboard Updates (v1.3)",
+      "link": "https://github.com/ShishirPatil/gorilla/releases/tag/v1.3",
+      "source": "https://github.com/ShishirPatil/gorilla/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Gorilla",
+      "moniker": "gorilla-berkeley",
+      "category": "Agent",
+      "severity": "Major",
+      "headline": "Berkeley Function Calling Leaderboard Updates (v1.2)",
+      "link": "https://github.com/ShishirPatil/gorilla/releases/tag/v1.2",
+      "source": "https://github.com/ShishirPatil/gorilla/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Gorilla",
+      "moniker": "gorilla-berkeley",
+      "category": "Agent",
+      "severity": "Major",
+      "headline": "Berkeley Function Calling Leaderboard Updates (v1.1)",
+      "link": "https://github.com/ShishirPatil/gorilla/releases/tag/v1.1",
+      "source": "https://github.com/ShishirPatil/gorilla/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Gorilla",
+      "moniker": "gorilla-berkeley",
+      "category": "Agent",
+      "severity": "Major",
+      "headline": "Berkeley Function Calling Leaderboard Updates (v1.0)",
+      "link": "https://github.com/ShishirPatil/gorilla/releases/tag/v1.0",
+      "source": "https://github.com/ShishirPatil/gorilla/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Gorilla",
+      "moniker": "gorilla-berkeley",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "GoEx and Berkeley Function Calling Leaderboard Updates",
+      "link": "https://github.com/ShishirPatil/gorilla/releases/tag/v0.3",
+      "source": "https://github.com/ShishirPatil/gorilla/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Gorilla",
+      "moniker": "gorilla-berkeley",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "RAFT and Berkeley Function Calling Leaderboard Updates",
+      "link": "https://github.com/ShishirPatil/gorilla/releases/tag/v0.2",
+      "source": "https://github.com/ShishirPatil/gorilla/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Gorilla",
+      "moniker": "gorilla-berkeley",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "Gorilla v0.1: OpenFunctions-v2, Berkeley Function Calling Leaderboard, and more.",
+      "link": "https://github.com/ShishirPatil/gorilla/releases/tag/v0.1",
+      "source": "https://github.com/ShishirPatil/gorilla/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Gorilla",
+      "moniker": "gorilla-berkeley",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "Gorilla release v0.0.1",
+      "link": "https://github.com/ShishirPatil/gorilla/releases/tag/v0.0.1",
+      "source": "https://github.com/ShishirPatil/gorilla/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "GPT Pilot by Pythagora",
+      "moniker": "gpt-pilot",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "0.2.13",
+      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.13",
+      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "GPT Pilot by Pythagora",
+      "moniker": "gpt-pilot",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "0.2.12",
+      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.12",
+      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "GPT Pilot by Pythagora",
+      "moniker": "gpt-pilot",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "0.2.11",
+      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.11",
+      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "GPT Pilot by Pythagora",
+      "moniker": "gpt-pilot",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "0.2.10",
+      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.10",
+      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "GPT Pilot by Pythagora",
+      "moniker": "gpt-pilot",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "0.2.9",
+      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.9",
+      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "GPT Pilot by Pythagora",
+      "moniker": "gpt-pilot",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "0.2.8",
+      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.8",
+      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "GPT Pilot by Pythagora",
+      "moniker": "gpt-pilot",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "0.2.7",
+      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.7",
+      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "GPT Pilot by Pythagora",
+      "moniker": "gpt-pilot",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "0.2.6",
+      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.6",
+      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "GPT Pilot by Pythagora",
+      "moniker": "gpt-pilot",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "0.2.5",
+      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.5",
+      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "GPT Pilot by Pythagora",
+      "moniker": "gpt-pilot",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "0.2.4",
+      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.4",
+      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Cline",
+      "moniker": "cline-agent",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "v3.49.0",
+      "link": "https://github.com/cline/cline/releases/tag/v3.49.0",
+      "source": "https://github.com/cline/cline/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Cline",
+      "moniker": "cline-agent",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "v3.48.0",
+      "link": "https://github.com/cline/cline/releases/tag/v3.48.0",
+      "source": "https://github.com/cline/cline/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Cline",
+      "moniker": "cline-agent",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "v3.47.0",
+      "link": "https://github.com/cline/cline/releases/tag/v3.47.0",
+      "source": "https://github.com/cline/cline/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Cline",
+      "moniker": "cline-agent",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "v3.46.1",
+      "link": "https://github.com/cline/cline/releases/tag/v3.46.1",
+      "source": "https://github.com/cline/cline/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Cline",
+      "moniker": "cline-agent",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "v3.46.0",
+      "link": "https://github.com/cline/cline/releases/tag/v3.46.0",
+      "source": "https://github.com/cline/cline/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Cline",
+      "moniker": "cline-agent",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "v3.45.1",
+      "link": "https://github.com/cline/cline/releases/tag/v3.45.1",
+      "source": "https://github.com/cline/cline/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Cline",
+      "moniker": "cline-agent",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "v3.45.0",
+      "link": "https://github.com/cline/cline/releases/tag/v3.45.0",
+      "source": "https://github.com/cline/cline/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Cline",
+      "moniker": "cline-agent",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "v3.44.2",
+      "link": "https://github.com/cline/cline/releases/tag/v3.44.2",
+      "source": "https://github.com/cline/cline/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Cline",
+      "moniker": "cline-agent",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "v3.44.1",
+      "link": "https://github.com/cline/cline/releases/tag/v3.44.1",
+      "source": "https://github.com/cline/cline/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Cline",
+      "moniker": "cline-agent",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "v3.44.0",
+      "link": "https://github.com/cline/cline/releases/tag/v3.44.0",
+      "source": "https://github.com/cline/cline/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Claude Code",
+      "moniker": "claude-code",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "Show HN: Perplexity Comet MCP – Autonomous Web Browsing for Claude Code",
+      "link": "https://github.com/RapierCraft/Perplexity-Comet-MCP",
+      "source": "https://hnrss.org/show"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Claude Code",
+      "moniker": "claude-code",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "Show HN: Let your Claude Code message you on Telegram when it needs decisions",
+      "link": "https://github.com/vibe-with-me-tools/agent-reachout",
+      "source": "https://hnrss.org/show"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "ChatDev",
+      "moniker": "chatdev",
+      "category": "Agent",
+      "severity": "Minor",
+      "headline": "ChatDev 2.0 Release",
+      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v2.0.0",
+      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "ChatDev",
+      "moniker": "chatdev",
+      "category": "Agent",
+      "severity": "Major",
+      "headline": "v1.1.6",
+      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.6",
+      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "ChatDev",
+      "moniker": "chatdev",
+      "category": "Agent",
+      "severity": "Major",
+      "headline": "v1.1.5",
+      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.5",
+      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "ChatDev",
+      "moniker": "chatdev",
+      "category": "Agent",
+      "severity": "Major",
+      "headline": "v1.1.4",
+      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.4",
+      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "ChatDev",
+      "moniker": "chatdev",
+      "category": "Agent",
+      "severity": "Major",
+      "headline": "v1.1.3",
+      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.3",
+      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "ChatDev",
+      "moniker": "chatdev",
+      "category": "Agent",
+      "severity": "Major",
+      "headline": "v1.1.2",
+      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.2",
+      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "ChatDev",
+      "moniker": "chatdev",
+      "category": "Agent",
+      "severity": "Major",
+      "headline": "v1.1.1",
+      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.1",
+      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "ChatDev",
+      "moniker": "chatdev",
+      "category": "Agent",
+      "severity": "Major",
+      "headline": "V1.1.0",
+      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.0",
+      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "ChatDev",
+      "moniker": "chatdev",
+      "category": "Agent",
+      "severity": "Major",
+      "headline": "V1.0.1",
+      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.0.1",
+      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "ChatDev",
+      "moniker": "chatdev",
+      "category": "Agent",
+      "severity": "Major",
+      "headline": "V1.0.0",
+      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.0.0",
+      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Aider",
+      "moniker": "aider-cli",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.86.2.dev",
+      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.86.2.dev",
+      "source": "https://github.com/paul-gauthier/aider/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Aider",
+      "moniker": "aider-cli",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.86.1",
+      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.86.1",
+      "source": "https://github.com/paul-gauthier/aider/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Aider",
+      "moniker": "aider-cli",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.86.1.dev",
+      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.86.1.dev",
+      "source": "https://github.com/paul-gauthier/aider/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Aider",
+      "moniker": "aider-cli",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "Aider v0.86.0",
+      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.86.0",
+      "source": "https://github.com/paul-gauthier/aider/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Aider",
+      "moniker": "aider-cli",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.85.6.dev",
+      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.85.6.dev",
+      "source": "https://github.com/paul-gauthier/aider/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Aider",
+      "moniker": "aider-cli",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.85.5",
+      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.85.5",
+      "source": "https://github.com/paul-gauthier/aider/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Aider",
+      "moniker": "aider-cli",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.85.5.dev",
+      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.85.5.dev",
+      "source": "https://github.com/paul-gauthier/aider/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Aider",
+      "moniker": "aider-cli",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.85.4",
+      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.85.4",
+      "source": "https://github.com/paul-gauthier/aider/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Aider",
+      "moniker": "aider-cli",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.85.4.dev",
+      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.85.4.dev",
+      "source": "https://github.com/paul-gauthier/aider/releases.atom"
+    },
+    {
+      "date": "2026-01-10",
+      "tool": "Aider",
+      "moniker": "aider-cli",
+      "category": "Editor/IDE",
+      "severity": "Minor",
+      "headline": "v0.85.3",
+      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.85.3",
+      "source": "https://github.com/paul-gauthier/aider/releases.atom"
+    },
+    {
       "date": "2026-01-09",
       "tool": "Zed",
       "moniker": "zed-editor",
@@ -26172,886 +27072,6 @@
     },
     {
       "date": "2025-12-11",
-      "tool": "Aider",
-      "moniker": "aider-cli",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "v0.85.3",
-      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.85.3",
-      "source": "https://github.com/paul-gauthier/aider/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Zed",
-      "moniker": "zed-editor",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "nightly: vim: Fix editor paste not using clipboard in visual mode (#44347)",
-      "link": "https://github.com/zed-industries/zed/releases/tag/nightly",
-      "source": "https://github.com/zed-industries/zed/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Zed",
-      "moniker": "zed-editor",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "collab-staging: gpui: Try to notify when GPU init fails (#44487)",
-      "link": "https://github.com/zed-industries/zed/releases/tag/collab-staging",
-      "source": "https://github.com/zed-industries/zed/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Zed",
-      "moniker": "zed-editor",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "extension-cli: extension_cli: Properly populate manifest with snippet location (#44425)",
-      "link": "https://github.com/zed-industries/zed/releases/tag/extension-cli",
-      "source": "https://github.com/zed-industries/zed/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Zed",
-      "moniker": "zed-editor",
-      "category": "Editor/IDE",
-      "severity": "Major",
-      "headline": "collab-production: Reorganize edit prediction code and remove old experiments (#44187)",
-      "link": "https://github.com/zed-industries/zed/releases/tag/collab-production",
-      "source": "https://github.com/zed-industries/zed/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Zed",
-      "moniker": "zed-editor",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "v0.216.0-pre",
-      "link": "https://github.com/zed-industries/zed/releases/tag/v0.216.0-pre",
-      "source": "https://github.com/zed-industries/zed/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Zed",
-      "moniker": "zed-editor",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "v0.215.3",
-      "link": "https://github.com/zed-industries/zed/releases/tag/v0.215.3",
-      "source": "https://github.com/zed-industries/zed/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Zed",
-      "moniker": "zed-editor",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "v0.215.3-pre",
-      "link": "https://github.com/zed-industries/zed/releases/tag/v0.215.3-pre",
-      "source": "https://github.com/zed-industries/zed/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Zed",
-      "moniker": "zed-editor",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "v0.214.7",
-      "link": "https://github.com/zed-industries/zed/releases/tag/v0.214.7",
-      "source": "https://github.com/zed-industries/zed/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Zed",
-      "moniker": "zed-editor",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "v0.215.2-pre",
-      "link": "https://github.com/zed-industries/zed/releases/tag/v0.215.2-pre",
-      "source": "https://github.com/zed-industries/zed/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Zed",
-      "moniker": "zed-editor",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "v0.214.6",
-      "link": "https://github.com/zed-industries/zed/releases/tag/v0.214.6",
-      "source": "https://github.com/zed-industries/zed/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Qodo Merge",
-      "moniker": "qodo-merge",
-      "category": "Code Review",
-      "severity": "Minor",
-      "headline": "v0.31",
-      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.31",
-      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Qodo Merge",
-      "moniker": "qodo-merge",
-      "category": "Code Review",
-      "severity": "Minor",
-      "headline": "v0.30",
-      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.30",
-      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Qodo Merge",
-      "moniker": "qodo-merge",
-      "category": "Code Review",
-      "severity": "Minor",
-      "headline": "v0.29",
-      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.29",
-      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Qodo Merge",
-      "moniker": "qodo-merge",
-      "category": "Code Review",
-      "severity": "Minor",
-      "headline": "v0.28",
-      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.28",
-      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Qodo Merge",
-      "moniker": "qodo-merge",
-      "category": "Code Review",
-      "severity": "Minor",
-      "headline": "v0.27",
-      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.27",
-      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Qodo Merge",
-      "moniker": "qodo-merge",
-      "category": "Code Review",
-      "severity": "Minor",
-      "headline": "v0.26",
-      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.26",
-      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Qodo Merge",
-      "moniker": "qodo-merge",
-      "category": "Code Review",
-      "severity": "Minor",
-      "headline": "v0.25",
-      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.25",
-      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Qodo Merge",
-      "moniker": "qodo-merge",
-      "category": "Code Review",
-      "severity": "Minor",
-      "headline": "v0.24",
-      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.24",
-      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Qodo Merge",
-      "moniker": "qodo-merge",
-      "category": "Code Review",
-      "severity": "Minor",
-      "headline": "v0.23",
-      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.23",
-      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Qodo Merge",
-      "moniker": "qodo-merge",
-      "category": "Code Review",
-      "severity": "Minor",
-      "headline": "v0.22",
-      "link": "https://github.com/qodo-ai/pr-agent/releases/tag/v0.22",
-      "source": "https://github.com/Codium-ai/pr-agent/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "OpenHands",
-      "moniker": "openhands",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "1.0.7-cli - 25-11-11",
-      "link": "https://github.com/OpenHands/OpenHands/releases/tag/1.0.7-cli",
-      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "OpenHands",
-      "moniker": "openhands",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "0.62.0 - 2025-11-11",
-      "link": "https://github.com/OpenHands/OpenHands/releases/tag/0.62.0",
-      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "OpenHands",
-      "moniker": "openhands",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "1.0.6-cli - 2025-11-7",
-      "link": "https://github.com/OpenHands/OpenHands/releases/tag/1.0.6-cli",
-      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "OpenHands",
-      "moniker": "openhands",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "0.61.0 - 2025-11-05",
-      "link": "https://github.com/OpenHands/OpenHands/releases/tag/0.61.0",
-      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "OpenHands",
-      "moniker": "openhands",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "1.0.5-cli - 2025-10-31",
-      "link": "https://github.com/OpenHands/OpenHands/releases/tag/1.0.5-cli",
-      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "OpenHands",
-      "moniker": "openhands",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "1.0.4-cli - 2025-10-31",
-      "link": "https://github.com/OpenHands/OpenHands/releases/tag/1.0.4-cli",
-      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "OpenHands",
-      "moniker": "openhands",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "1.0.3-cli - 2025-10-30",
-      "link": "https://github.com/OpenHands/OpenHands/releases/tag/1.0.3-cli",
-      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "OpenHands",
-      "moniker": "openhands",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "0.60.0 - 2025-10-29",
-      "link": "https://github.com/OpenHands/OpenHands/releases/tag/0.60.0",
-      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "OpenHands",
-      "moniker": "openhands",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "1.0.2-cli - 2025-10-21",
-      "link": "https://github.com/OpenHands/OpenHands/releases/tag/1.0.2-cli",
-      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "OpenHands",
-      "moniker": "openhands",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "1.0.1-cli - 2025-10-13",
-      "link": "https://github.com/OpenHands/OpenHands/releases/tag/1.0.1-cli",
-      "source": "https://github.com/All-Hands-AI/OpenHands/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "MetaGPT",
-      "moniker": "metagpt",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "v0.8.2",
-      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.8.2",
-      "source": "https://github.com/geekan/MetaGPT/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "MetaGPT",
-      "moniker": "metagpt",
-      "category": "Agent",
-      "severity": "Security",
-      "headline": "Patch release: v0.8.1",
-      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.8.1",
-      "source": "https://github.com/geekan/MetaGPT/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "MetaGPT",
-      "moniker": "metagpt",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "v0.8.0: Introduction of Data Interpreter, Integration with RAG, and Expanded Support for LLMs",
-      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.8.0",
-      "source": "https://github.com/geekan/MetaGPT/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "MetaGPT",
-      "moniker": "metagpt",
-      "category": "Agent",
-      "severity": "Security",
-      "headline": "Patch release: v0.7.7",
-      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.7",
-      "source": "https://github.com/geekan/MetaGPT/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "MetaGPT",
-      "moniker": "metagpt",
-      "category": "Agent",
-      "severity": "Security",
-      "headline": "Patch release: v0.7.6",
-      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.6",
-      "source": "https://github.com/geekan/MetaGPT/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "MetaGPT",
-      "moniker": "metagpt",
-      "category": "Agent",
-      "severity": "Security",
-      "headline": "Patch release: v0.7.4",
-      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.4",
-      "source": "https://github.com/geekan/MetaGPT/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "MetaGPT",
-      "moniker": "metagpt",
-      "category": "Agent",
-      "severity": "Security",
-      "headline": "Patch release: v0.7.3",
-      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.3",
-      "source": "https://github.com/geekan/MetaGPT/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "MetaGPT",
-      "moniker": "metagpt",
-      "category": "Agent",
-      "severity": "Security",
-      "headline": "Patch release: v0.7.2",
-      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.2",
-      "source": "https://github.com/geekan/MetaGPT/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "MetaGPT",
-      "moniker": "metagpt",
-      "category": "Agent",
-      "severity": "Security",
-      "headline": "Patch release: v0.7.1",
-      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.1",
-      "source": "https://github.com/geekan/MetaGPT/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "MetaGPT",
-      "moniker": "metagpt",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "v0.7.0: Easy Configuration, Improved Incremental Development, and CodeInterpreter",
-      "link": "https://github.com/FoundationAgents/MetaGPT/releases/tag/v0.7.0",
-      "source": "https://github.com/geekan/MetaGPT/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Gorilla",
-      "moniker": "gorilla-berkeley",
-      "category": "Agent",
-      "severity": "Major",
-      "headline": "Berkeley Function Calling Leaderboard Updates (v1.3)",
-      "link": "https://github.com/ShishirPatil/gorilla/releases/tag/v1.3",
-      "source": "https://github.com/ShishirPatil/gorilla/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Gorilla",
-      "moniker": "gorilla-berkeley",
-      "category": "Agent",
-      "severity": "Major",
-      "headline": "Berkeley Function Calling Leaderboard Updates (v1.2)",
-      "link": "https://github.com/ShishirPatil/gorilla/releases/tag/v1.2",
-      "source": "https://github.com/ShishirPatil/gorilla/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Gorilla",
-      "moniker": "gorilla-berkeley",
-      "category": "Agent",
-      "severity": "Major",
-      "headline": "Berkeley Function Calling Leaderboard Updates (v1.1)",
-      "link": "https://github.com/ShishirPatil/gorilla/releases/tag/v1.1",
-      "source": "https://github.com/ShishirPatil/gorilla/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Gorilla",
-      "moniker": "gorilla-berkeley",
-      "category": "Agent",
-      "severity": "Major",
-      "headline": "Berkeley Function Calling Leaderboard Updates (v1.0)",
-      "link": "https://github.com/ShishirPatil/gorilla/releases/tag/v1.0",
-      "source": "https://github.com/ShishirPatil/gorilla/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Gorilla",
-      "moniker": "gorilla-berkeley",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "GoEx and Berkeley Function Calling Leaderboard Updates",
-      "link": "https://github.com/ShishirPatil/gorilla/releases/tag/v0.3",
-      "source": "https://github.com/ShishirPatil/gorilla/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Gorilla",
-      "moniker": "gorilla-berkeley",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "RAFT and Berkeley Function Calling Leaderboard Updates",
-      "link": "https://github.com/ShishirPatil/gorilla/releases/tag/v0.2",
-      "source": "https://github.com/ShishirPatil/gorilla/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Gorilla",
-      "moniker": "gorilla-berkeley",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "Gorilla v0.1: OpenFunctions-v2, Berkeley Function Calling Leaderboard, and more.",
-      "link": "https://github.com/ShishirPatil/gorilla/releases/tag/v0.1",
-      "source": "https://github.com/ShishirPatil/gorilla/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Gorilla",
-      "moniker": "gorilla-berkeley",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "Gorilla release v0.0.1",
-      "link": "https://github.com/ShishirPatil/gorilla/releases/tag/v0.0.1",
-      "source": "https://github.com/ShishirPatil/gorilla/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "GPT Pilot by Pythagora",
-      "moniker": "gpt-pilot",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "0.2.13",
-      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.13",
-      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "GPT Pilot by Pythagora",
-      "moniker": "gpt-pilot",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "0.2.12",
-      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.12",
-      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "GPT Pilot by Pythagora",
-      "moniker": "gpt-pilot",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "0.2.11",
-      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.11",
-      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "GPT Pilot by Pythagora",
-      "moniker": "gpt-pilot",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "0.2.10",
-      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.10",
-      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "GPT Pilot by Pythagora",
-      "moniker": "gpt-pilot",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "0.2.9",
-      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.9",
-      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "GPT Pilot by Pythagora",
-      "moniker": "gpt-pilot",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "0.2.8",
-      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.8",
-      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "GPT Pilot by Pythagora",
-      "moniker": "gpt-pilot",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "0.2.7",
-      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.7",
-      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "GPT Pilot by Pythagora",
-      "moniker": "gpt-pilot",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "0.2.6",
-      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.6",
-      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "GPT Pilot by Pythagora",
-      "moniker": "gpt-pilot",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "0.2.5",
-      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.5",
-      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "GPT Pilot by Pythagora",
-      "moniker": "gpt-pilot",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "0.2.4",
-      "link": "https://github.com/Pythagora-io/gpt-pilot/releases/tag/0.2.4",
-      "source": "https://github.com/Pythagora-io/gpt-pilot/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Cline",
-      "moniker": "cline-agent",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "v3.40.1",
-      "link": "https://github.com/cline/cline/releases/tag/v3.40.1",
-      "source": "https://github.com/cline/cline/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Cline",
-      "moniker": "cline-agent",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "v3.40.0",
-      "link": "https://github.com/cline/cline/releases/tag/v3.40.0",
-      "source": "https://github.com/cline/cline/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Cline",
-      "moniker": "cline-agent",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "v3.39.2",
-      "link": "https://github.com/cline/cline/releases/tag/v3.39.2",
-      "source": "https://github.com/cline/cline/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Cline",
-      "moniker": "cline-agent",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "v3.39.1",
-      "link": "https://github.com/cline/cline/releases/tag/v3.39.1",
-      "source": "https://github.com/cline/cline/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Cline",
-      "moniker": "cline-agent",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "v3.39.0",
-      "link": "https://github.com/cline/cline/releases/tag/v3.39.0",
-      "source": "https://github.com/cline/cline/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Cline",
-      "moniker": "cline-agent",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "v3.38.3",
-      "link": "https://github.com/cline/cline/releases/tag/v3.38.3",
-      "source": "https://github.com/cline/cline/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Cline",
-      "moniker": "cline-agent",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "v3.38.2",
-      "link": "https://github.com/cline/cline/releases/tag/v3.38.2",
-      "source": "https://github.com/cline/cline/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Cline",
-      "moniker": "cline-agent",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "v3.38.1",
-      "link": "https://github.com/cline/cline/releases/tag/v3.38.1",
-      "source": "https://github.com/cline/cline/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Cline",
-      "moniker": "cline-agent",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "v3.38.0",
-      "link": "https://github.com/cline/cline/releases/tag/v3.38.0",
-      "source": "https://github.com/cline/cline/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Cline",
-      "moniker": "cline-agent",
-      "category": "Agent",
-      "severity": "Minor",
-      "headline": "v3.37.1",
-      "link": "https://github.com/cline/cline/releases/tag/v3.37.1",
-      "source": "https://github.com/cline/cline/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Claude Code",
-      "moniker": "claude-code",
-      "category": "Agent",
-      "severity": "Security",
-      "headline": "So what's the closest open-source thing to claude code?",
-      "link": "https://www.reddit.com/r/LocalLLaMA/comments/1pir555/so_whats_the_closest_opensource_thing_to_claude/",
-      "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "ChatDev",
-      "moniker": "chatdev",
-      "category": "Agent",
-      "severity": "Major",
-      "headline": "v1.1.6",
-      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.6",
-      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "ChatDev",
-      "moniker": "chatdev",
-      "category": "Agent",
-      "severity": "Major",
-      "headline": "v1.1.5",
-      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.5",
-      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "ChatDev",
-      "moniker": "chatdev",
-      "category": "Agent",
-      "severity": "Major",
-      "headline": "v1.1.4",
-      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.4",
-      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "ChatDev",
-      "moniker": "chatdev",
-      "category": "Agent",
-      "severity": "Major",
-      "headline": "v1.1.3",
-      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.3",
-      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "ChatDev",
-      "moniker": "chatdev",
-      "category": "Agent",
-      "severity": "Major",
-      "headline": "v1.1.2",
-      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.2",
-      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "ChatDev",
-      "moniker": "chatdev",
-      "category": "Agent",
-      "severity": "Major",
-      "headline": "v1.1.1",
-      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.1",
-      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "ChatDev",
-      "moniker": "chatdev",
-      "category": "Agent",
-      "severity": "Major",
-      "headline": "V1.1.0",
-      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.1.0",
-      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "ChatDev",
-      "moniker": "chatdev",
-      "category": "Agent",
-      "severity": "Major",
-      "headline": "V1.0.1",
-      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.0.1",
-      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "ChatDev",
-      "moniker": "chatdev",
-      "category": "Agent",
-      "severity": "Major",
-      "headline": "V1.0.0",
-      "link": "https://github.com/OpenBMB/ChatDev/releases/tag/v1.0.0",
-      "source": "https://github.com/OpenBMB/ChatDev/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Aider",
-      "moniker": "aider-cli",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "v0.86.2.dev",
-      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.86.2.dev",
-      "source": "https://github.com/paul-gauthier/aider/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Aider",
-      "moniker": "aider-cli",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "v0.86.1",
-      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.86.1",
-      "source": "https://github.com/paul-gauthier/aider/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Aider",
-      "moniker": "aider-cli",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "v0.86.1.dev",
-      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.86.1.dev",
-      "source": "https://github.com/paul-gauthier/aider/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Aider",
-      "moniker": "aider-cli",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "Aider v0.86.0",
-      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.86.0",
-      "source": "https://github.com/paul-gauthier/aider/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Aider",
-      "moniker": "aider-cli",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "v0.85.6.dev",
-      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.85.6.dev",
-      "source": "https://github.com/paul-gauthier/aider/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Aider",
-      "moniker": "aider-cli",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "v0.85.5",
-      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.85.5",
-      "source": "https://github.com/paul-gauthier/aider/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Aider",
-      "moniker": "aider-cli",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "v0.85.5.dev",
-      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.85.5.dev",
-      "source": "https://github.com/paul-gauthier/aider/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Aider",
-      "moniker": "aider-cli",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "v0.85.4",
-      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.85.4",
-      "source": "https://github.com/paul-gauthier/aider/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
-      "tool": "Aider",
-      "moniker": "aider-cli",
-      "category": "Editor/IDE",
-      "severity": "Minor",
-      "headline": "v0.85.4.dev",
-      "link": "https://github.com/Aider-AI/aider/releases/tag/v0.85.4.dev",
-      "source": "https://github.com/paul-gauthier/aider/releases.atom"
-    },
-    {
-      "date": "2025-12-10",
       "tool": "Aider",
       "moniker": "aider-cli",
       "category": "Editor/IDE",
