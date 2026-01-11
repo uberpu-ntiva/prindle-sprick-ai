@@ -9,82 +9,42 @@
       "status": "pending_review"
     },
     {
-      "tool": "AgentNotch",
-      "moniker": "agentnotch",
+      "tool": "chr2 - a deterministic replicated log with a durable outbox for side effects",
+      "moniker": "chr2-a-deterministic-replicated-log-with-a-durable-outbox-for-side-effects",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/agentnotch",
+      "website_url": "https://www.reddit.com/r/programming/comments/1q9jc36/chr2_a_deterministic_replicated_log_with_a/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Calea – Autonomous AI Agent for Local QA Testing (E2E, Security, Perf)",
-      "moniker": "show-hn-calea-autonomous-ai-agent-for-local-qa-testing-e2e-security-perf",
+      "tool": "This Month in React 2025-12: Year in review, React2Shell (RCE, DOS, SCE, oh my)",
+      "moniker": "this-month-in-react-2025-12-year-in-review-react2shell-rce-dos-sce-oh-my",
       "category": "pending_review",
-      "website_url": "https://calea.lovable.app",
+      "website_url": "https://www.reddit.com/r/programming/comments/1q98ixs/this_month_in_react_202512_year_in_review/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Perplexity Comet MCP – Autonomous Web Browsing for Claude Code",
-      "moniker": "show-hn-perplexity-comet-mcp-autonomous-web-browsing-for-claude-code",
+      "tool": "I made a website to turn any confusing UI into a step-by-step guide via screen sharing (open source)",
+      "moniker": "i-made-a-website-to-turn-any-confusing-ui-into-a-step-by-step-guide-via-screen-sharing-open-source",
       "category": "pending_review",
-      "website_url": "https://github.com/RapierCraft/Perplexity-Comet-MCP",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q9bj5j/i_made_a_website_to_turn_any_confusing_ui_into_a/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Miito- Added TikTok like videos to Google Meet to fix my attention span",
-      "moniker": "show-hn-miito-added-tiktok-like-videos-to-google-meet-to-fix-my-attention-span",
+      "tool": "[D] Double blind review is such an illusion…",
+      "moniker": "d-double-blind-review-is-such-an-illusion",
       "category": "pending_review",
-      "website_url": "https://chromewebstore.google.com/detail/miito-focus-overlay-for-m/hlnfebhmljcldnhepjeiodhmijahlhcc",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1q9spsk/d_double_blind_review_is_such_an_illusion/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Scriberoo – fast, TOP-quality transcriptions for any audio / video",
-      "moniker": "show-hn-scriberoo-fast-top-quality-transcriptions-for-any-audio-video",
+      "tool": "[P] I made Screen Vision, turn any confusing UI into a step-by-step guide via screen sharing (open source)",
+      "moniker": "p-i-made-screen-vision-turn-any-confusing-ui-into-a-step-by-step-guide-via-screen-sharing-open-source",
       "category": "pending_review",
-      "website_url": "https://scriberoo.com",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Show HN: Gödel Task Router – Autonomous Quantum Task Orchestration on AWS Braket",
-      "moniker": "show-hn-g-del-task-router-autonomous-quantum-task-orchestration-on-aws-braket",
-      "category": "pending_review",
-      "website_url": "https://epochcoreqcs.com/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Software on Its Users Side",
-      "moniker": "software-on-its-users-side",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1q8zrw0/software_on_its_users_side/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Junior Programmers Considered Essential",
-      "moniker": "junior-programmers-considered-essential",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1q8x4ia/junior_programmers_considered_essential/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Introducing \"UITPSDT\" a novel approach to runtime efficiency in organic agents",
-      "moniker": "introducing-uitpsdt-a-novel-approach-to-runtime-efficiency-in-organic-agents",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q8tdcz/introducing_uitpsdt_a_novel_approach_to_runtime/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "For my RTX 5090 what are the best local image-gen and animation/video AIs right now?",
-      "moniker": "for-my-rtx-5090-what-are-the-best-local-image-gen-and-animation-video-ais-right-now",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1q8zjvw/for_my_rtx_5090_what_are_the_best_local_imagegen/",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1q9bcl9/p_i_made_screen_vision_turn_any_confusing_ui_into/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -101,14 +61,6 @@
       "moniker": "d-idea-discussion-autoregression-joint-embedding-prediction-model",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1q8yn0b/d_idea_discussion_autoregression_joint_embedding/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[D] Shall I Reject Reviewing this CVPR Paper?",
-      "moniker": "d-shall-i-reject-reviewing-this-cvpr-paper",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1q58cgc/d_shall_i_reject_reviewing_this_cvpr_paper/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -801,66 +753,74 @@
       "status": "pending_review"
     },
     {
-      "tool": "kavi-research-assistant-mcp 2.1.0",
-      "moniker": "kavi-research-assistant-mcp-2-1-0",
+      "tool": "mcp-rag 0.5.6",
+      "moniker": "mcp-rag-0-5-6",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/kavi-research-assistant-mcp/2.1.0/",
+      "website_url": "https://pypi.org/project/mcp-rag/0.5.6/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "pyautogui-mcp 2026.1.101330",
-      "moniker": "pyautogui-mcp-2026-1-101330",
+      "tool": "create-agentverse-agent 0.2.3",
+      "moniker": "create-agentverse-agent-0-2-3",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/pyautogui-mcp/2026.1.101330/",
+      "website_url": "https://pypi.org/project/create-agentverse-agent/0.2.3/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "pyautogui-mcp 2026.1.101321",
-      "moniker": "pyautogui-mcp-2026-1-101321",
+      "tool": "maleo-identity-client 0.2.100",
+      "moniker": "maleo-identity-client-0-2-100",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/pyautogui-mcp/2026.1.101321/",
+      "website_url": "https://pypi.org/project/maleo-identity-client/0.2.100/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "webquest-mcp 0.14.0",
-      "moniker": "webquest-mcp-0-14-0",
+      "tool": "mcp-cuc-nc 0.1.0",
+      "moniker": "mcp-cuc-nc-0-1-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/webquest-mcp/0.14.0/",
+      "website_url": "https://pypi.org/project/mcp-cuc-nc/0.1.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "sidemantic 0.5.4",
-      "moniker": "sidemantic-0-5-4",
+      "tool": "doc-mcp-server 0.1.0",
+      "moniker": "doc-mcp-server-0-1-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/sidemantic/0.5.4/",
+      "website_url": "https://pypi.org/project/doc-mcp-server/0.1.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "webquest-mcp 0.13.0",
-      "moniker": "webquest-mcp-0-13-0",
+      "tool": "code-rag-mcp 0.3.4",
+      "moniker": "code-rag-mcp-0-3-4",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/webquest-mcp/0.13.0/",
+      "website_url": "https://pypi.org/project/code-rag-mcp/0.3.4/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "pyautogui-mcp 2026.1.101310",
-      "moniker": "pyautogui-mcp-2026-1-101310",
+      "tool": "mac2win-zip-mcp 1.0.0",
+      "moniker": "mac2win-zip-mcp-1-0-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/pyautogui-mcp/2026.1.101310/",
+      "website_url": "https://pypi.org/project/mac2win-zip-mcp/1.0.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "agent-transparency 0.0.1",
-      "moniker": "agent-transparency-0-0-1",
+      "tool": "walytis-identities 0.5.0",
+      "moniker": "walytis-identities-0-5-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agent-transparency/0.0.1/",
+      "website_url": "https://pypi.org/project/walytis-identities/0.5.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "dbt-core-mcp 1.3.2",
+      "moniker": "dbt-core-mcp-1-3-2",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/dbt-core-mcp/1.3.2/",
       "source_type": "Press",
       "status": "pending_review"
     }
