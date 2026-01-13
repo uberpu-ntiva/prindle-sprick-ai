@@ -1,50 +1,26 @@
 {
   "items": [
     {
-      "tool": "Chirpz Agent",
-      "moniker": "chirpz-agent",
+      "tool": "Show HN: Janus – Anki flashcards from PDFs, videos and notes",
+      "moniker": "show-hn-janus-anki-flashcards-from-pdfs-videos-and-notes",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/chirpz-for-literature-discovery",
+      "website_url": "https://janus.cards",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Zai Protocol – I designed an autonomous P2P terminal agent (Whitepaper) [pdf]",
-      "moniker": "show-hn-zai-protocol-i-designed-an-autonomous-p2p-terminal-agent-whitepaper-pdf",
+      "tool": "Show HN: FreeMarker Support for Zed Editor",
+      "moniker": "show-hn-freemarker-support-for-zed-editor",
       "category": "pending_review",
-      "website_url": "https://github.com/TaklaXBR/zai-shell/blob/main/docs/whitepaper.pdf",
+      "website_url": "https://github.com/debba/zed-freemarker",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Remove Gemini Watermarks – Client-Side Processing, No Upload Required",
-      "moniker": "show-hn-remove-gemini-watermarks-client-side-processing-no-upload-required",
+      "tool": "I built a FreeMarker extension for Zed editor (with tree-sitter grammar)",
+      "moniker": "i-built-a-freemarker-extension-for-zed-editor-with-tree-sitter-grammar",
       "category": "pending_review",
-      "website_url": "https://removegeminiwatermark.net",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Show HN : Pilot – Shared memory and evidence-based commits for AI coding",
-      "moniker": "show-hn-pilot-shared-memory-and-evidence-based-commits-for-ai-coding",
-      "category": "pending_review",
-      "website_url": "https://github.com/clementrog/pilot",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Show HN: LLM Agent That Makes Composable CLIs",
-      "moniker": "show-hn-llm-agent-that-makes-composable-clis",
-      "category": "pending_review",
-      "website_url": "https://github.com/caesarnine/binsmith",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Show HN: I built an auto-scheduler to help me decide what I'm watching",
-      "moniker": "show-hn-i-built-an-auto-scheduler-to-help-me-decide-what-i-m-watching",
-      "category": "pending_review",
-      "website_url": "https://app.showshowshow.app",
+      "website_url": "https://www.reddit.com/r/programming/comments/1qbphav/i_built_a_freemarker_extension_for_zed_editor/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -57,18 +33,74 @@
       "status": "pending_review"
     },
     {
-      "tool": "Agentic ProbLLMs: Exploiting AI Computer-Use and Coding Agents (youtube) -- \"local\" can make people complacent on security, but if you push code to github, worth a watch, even if you don't use AI coding tools.",
-      "moniker": "agentic-probllms-exploiting-ai-computer-use-and-coding-agents-youtube-local-can-make-people-complacent-on-security-but-if-you-push-code-to-github-worth-a-watch-even-if-you-don-t-use-ai-coding-tools",
+      "tool": "Comments Considered Harmful in the Age of LLMs",
+      "moniker": "comments-considered-harmful-in-the-age-of-llms",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qao1ra/agentic_probllms_exploiting_ai_computeruse_and/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1qbn26i/comments_considered_harmful_in_the_age_of_llms/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "I kept breaking multi-agent systems on shared state, so I built a small OSS thing. Looking for a few builders to test.",
-      "moniker": "i-kept-breaking-multi-agent-systems-on-shared-state-so-i-built-a-small-oss-thing-looking-for-a-few-builders-to-test",
+      "tool": "Tool output compression for agents - 60-70% token reduction on tool-heavy workloads (open source, works with local models)",
+      "moniker": "tool-output-compression-for-agents-60-70-token-reduction-on-tool-heavy-workloads-open-source-works-with-local-models",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qasvdm/i_kept_breaking_multiagent_systems_on_shared/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qbei13/tool_output_compression_for_agents_6070_token/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Building Opensource client sided Code Intelligence Engine -- Potentially deeper than Deep wiki :-) ( Need suggestions and feedback )",
+      "moniker": "building-opensource-client-sided-code-intelligence-engine-potentially-deeper-than-deep-wiki-need-suggestions-and-feedback",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qbc5s5/building_opensource_client_sided_code/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "MCP, A2A, ACP, UCP - are we sleepwalking into another \"standards\" war controlled by the same companies?",
+      "moniker": "mcp-a2a-acp-ucp-are-we-sleepwalking-into-another-standards-war-controlled-by-the-same-companies",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qbqazx/mcp_a2a_acp_ucp_are_we_sleepwalking_into_another/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "500Mb Named Entity Recognition (NER) model to identify and classify entities in any text locally. Easily fine-tune on any language locally (see example for Spanish).",
+      "moniker": "500mb-named-entity-recognition-ner-model-to-identify-and-classify-entities-in-any-text-locally-easily-fine-tune-on-any-language-locally-see-example-for-spanish",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qbnebk/500mb_named_entity_recognition_ner_model_to/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "4B Agent SOTA model: AgentCPM-Explore",
+      "moniker": "4b-agent-sota-model-agentcpm-explore",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qbproj/4b_agent_sota_model_agentcpmexplore/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Video 2 Bedtime Story - A journey of a dad over Xmas break.",
+      "moniker": "video-2-bedtime-story-a-journey-of-a-dad-over-xmas-break",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qbh8xx/video_2_bedtime_story_a_journey_of_a_dad_over/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[R] Guiding LLM agents via game-theoretic feedback loops",
+      "moniker": "r-guiding-llm-agents-via-game-theoretic-feedback-loops",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1qb2spz/r_guiding_llm_agents_via_gametheoretic_feedback/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] MLSys 2026 rebuttal phase — thoughts on reviews so far?",
+      "moniker": "d-mlsys-2026-rebuttal-phase-thoughts-on-reviews-so-far",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1qb107i/d_mlsys_2026_rebuttal_phase_thoughts_on_reviews/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -105,14 +137,6 @@
       "status": "pending_review"
     },
     {
-      "tool": "[D] Idea discussion: Autoregression joint embedding prediction model",
-      "moniker": "d-idea-discussion-autoregression-joint-embedding-prediction-model",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1q8yn0b/d_idea_discussion_autoregression_joint_embedding/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "Inside CES 2026’s “physical AI” takeover",
       "moniker": "inside-ces-2026-s-physical-ai-takeover",
       "category": "pending_review",
@@ -129,18 +153,26 @@
       "status": "pending_review"
     },
     {
-      "tool": "Orchestral replaces LangChainâs complexity with reproducible, provider-agnostic LLM orchestration",
-      "moniker": "orchestral-replaces-langchain-s-complexity-with-reproducible-provider-agnostic-llm-orchestration",
+      "tool": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "moniker": "salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and-google-in-workplace-ai",
       "category": "pending_review",
-      "website_url": "https://venturebeat.com/orchestration/orchestral-replaces-langchains-complexity-with-reproducible-provider",
+      "website_url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Claude Code 2.1.0 arrives with smoother workflows and smarter agents",
-      "moniker": "claude-code-2-1-0-arrives-with-smoother-workflows-and-smarter-agents",
+      "tool": "Anthropic launches Cowork, a Claude Desktop agent that works in your files â no coding required",
+      "moniker": "anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no-coding-required",
       "category": "pending_review",
-      "website_url": "https://venturebeat.com/orchestration/claude-code-2-1-0-arrives-with-smoother-workflows-and-smarter-agents",
+      "website_url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Orchestral replaces LangChainâs complexity with reproducible, provider-agnostic LLM orchestration",
+      "moniker": "orchestral-replaces-langchain-s-complexity-with-reproducible-provider-agnostic-llm-orchestration",
+      "category": "pending_review",
+      "website_url": "https://venturebeat.com/orchestration/orchestral-replaces-langchains-complexity-with-reproducible-provider",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -793,82 +825,74 @@
       "status": "pending_review"
     },
     {
-      "tool": "advanced-seo-mcp 0.1.1",
-      "moniker": "advanced-seo-mcp-0-1-1",
+      "tool": "mcp-redmine 2026.1.13.145604",
+      "moniker": "mcp-redmine-2026-1-13-145604",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/advanced-seo-mcp/0.1.1/",
+      "website_url": "https://pypi.org/project/mcp-redmine/2026.1.13.145604/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "create-agentverse-agent 0.2.5",
-      "moniker": "create-agentverse-agent-0-2-5",
+      "tool": "pai-agent-sdk 0.4.0",
+      "moniker": "pai-agent-sdk-0-4-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/create-agentverse-agent/0.2.5/",
+      "website_url": "https://pypi.org/project/pai-agent-sdk/0.4.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "longport-mcp 0.2.5",
-      "moniker": "longport-mcp-0-2-5",
+      "tool": "agentmake 1.2.9",
+      "moniker": "agentmake-1-2-9",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/longport-mcp/0.2.5/",
+      "website_url": "https://pypi.org/project/agentmake/1.2.9/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "VeraGridEngine 5.6.13",
-      "moniker": "veragridengine-5-6-13",
+      "tool": "praisonaiagents 0.11.21",
+      "moniker": "praisonaiagents-0-11-21",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/veragridengine/5.6.13/",
+      "website_url": "https://pypi.org/project/praisonaiagents/0.11.21/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-jenkins 1.0.0.dev0",
-      "moniker": "mcp-jenkins-1-0-0-dev0",
+      "tool": "firefighter-incident 0.0.27",
+      "moniker": "firefighter-incident-0-0-27",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-jenkins/1.0.0.dev0/",
+      "website_url": "https://pypi.org/project/firefighter-incident/0.0.27/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "codemie-mcp-datasources 0.1.299",
-      "moniker": "codemie-mcp-datasources-0-1-299",
+      "tool": "yandex-tracker-mcp 0.5.0",
+      "moniker": "yandex-tracker-mcp-0-5-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/codemie-mcp-datasources/0.1.299/",
+      "website_url": "https://pypi.org/project/yandex-tracker-mcp/0.5.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "netcoredbg-mcp 0.1.1",
-      "moniker": "netcoredbg-mcp-0-1-1",
+      "tool": "agentstack-cli 0.5.1rc3",
+      "moniker": "agentstack-cli-0-5-1rc3",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/netcoredbg-mcp/0.1.1/",
+      "website_url": "https://pypi.org/project/agentstack-cli/0.5.1rc3/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "codemie-mcp-assistants 0.1.299",
-      "moniker": "codemie-mcp-assistants-0-1-299",
+      "tool": "agentstack-sdk 0.5.1rc3",
+      "moniker": "agentstack-sdk-0-5-1rc3",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/codemie-mcp-assistants/0.1.299/",
+      "website_url": "https://pypi.org/project/agentstack-sdk/0.5.1rc3/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "longport-mcp 0.2.4",
-      "moniker": "longport-mcp-0-2-4",
+      "tool": "agent-environment 0.1.0",
+      "moniker": "agent-environment-0-1-0",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/longport-mcp/0.2.4/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "longport-mcp 0.2.3",
-      "moniker": "longport-mcp-0-2-3",
-      "category": "pending_review",
-      "website_url": "https://pypi.org/project/longport-mcp/0.2.3/",
+      "website_url": "https://pypi.org/project/agent-environment/0.1.0/",
       "source_type": "Press",
       "status": "pending_review"
     },
