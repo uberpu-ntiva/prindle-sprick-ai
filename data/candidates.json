@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tool": "Web Accessibility Testing MCP",
+      "moniker": "web-accessibility-testing-mcp",
+      "category": "pending_review",
+      "website_url": "https://www.producthunt.com/products/web-accessibility-testing-mcp",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
       "tool": "Ekamoira Google Search Console MCP",
       "moniker": "ekamoira-google-search-console-mcp",
       "category": "pending_review",
@@ -17,34 +25,34 @@
       "status": "pending_review"
     },
     {
-      "tool": "Web Accessibility Testing MCP",
-      "moniker": "web-accessibility-testing-mcp",
+      "tool": "Show HN: AI-SkillForge – Generate Anthropic Agent Skills from Natural Language",
+      "moniker": "show-hn-ai-skillforge-generate-anthropic-agent-skills-from-natural-language",
       "category": "pending_review",
-      "website_url": "https://www.producthunt.com/products/web-accessibility-testing-mcp",
+      "website_url": "https://github.com/lhassa8/skillforge",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Claude Code Supervisor – Auto review and prevent agent stop",
-      "moniker": "show-hn-claude-code-supervisor-auto-review-and-prevent-agent-stop",
+      "tool": "Show HN: Tidey – A tiny Mac menubar app to triage Desktop and Downloads clutter",
+      "moniker": "show-hn-tidey-a-tiny-mac-menubar-app-to-triage-desktop-and-downloads-clutter",
       "category": "pending_review",
-      "website_url": "https://github.com/guyskk/claude-code-supervisor",
+      "website_url": "https://trytidey.com",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Most app ideas fail, so I built a list of apps that work",
-      "moniker": "show-hn-most-app-ideas-fail-so-i-built-a-list-of-apps-that-work",
+      "tool": "Show HN: A simple PS1 memory card editor",
+      "moniker": "show-hn-a-simple-ps1-memory-card-editor",
       "category": "pending_review",
-      "website_url": "https://clonetheapp.vercel.app",
+      "website_url": "https://pixel-clover.github.io/ps1-memcard-editor/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: MCP-add` a CLI to add your MCP server to various clients with ease",
-      "moniker": "show-hn-mcp-add-a-cli-to-add-your-mcp-server-to-various-clients-with-ease",
+      "tool": "Show HN: Leaftide – Garden planner with climate-aware scheduling (Django/Htmx)",
+      "moniker": "show-hn-leaftide-garden-planner-with-climate-aware-scheduling-django-htmx",
       "category": "pending_review",
-      "website_url": "https://github.com/paoloricciuti/mcp-add",
+      "website_url": "https://leaftide.com/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -57,34 +65,42 @@
       "status": "pending_review"
     },
     {
-      "tool": "Bad Vibes: Comparing the Secure Coding Capabilities of Popular Coding Agents",
-      "moniker": "bad-vibes-comparing-the-secure-coding-capabilities-of-popular-coding-agents",
+      "tool": "Explicitly sending recent edits can improve AI coding agent behavior",
+      "moniker": "explicitly-sending-recent-edits-can-improve-ai-coding-agent-behavior",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1qcms90/bad_vibes_comparing_the_secure_coding/",
+      "website_url": "https://www.reddit.com/r/programming/comments/1qdfyx1/explicitly_sending_recent_edits_can_improve_ai/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Using GitHub Copilot Code Review as a first-pass PR reviewer (workflow + guardrails)",
-      "moniker": "using-github-copilot-code-review-as-a-first-pass-pr-reviewer-workflow-guardrails",
+      "tool": "NVIDIA's new 8B model is Orchestrator-8B, a specialized 8-billion-parameter AI designed not to answer everything itself, but to intelligently manage and route complex tasks to different tools (like web search, code execution, other LLMs) for greater efficiency",
+      "moniker": "nvidia-s-new-8b-model-is-orchestrator-8b-a-specialized-8-billion-parameter-ai-designed-not-to-answer-everything-itself-but-to-intelligently-manage-and-route-complex-tasks-to-different-tools-like-web-search-code-execution-other-llms-for-greater-efficiency",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1qcmsc6/using_github_copilot_code_review_as_a_firstpass/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qcuerc/nvidias_new_8b_model_is_orchestrator8b_a/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Built an 8× RTX 3090 monster… considering nuking it for 2× Pro 6000 Max-Q",
-      "moniker": "built-an-8-rtx-3090-monster-considering-nuking-it-for-2-pro-6000-max-q",
+      "tool": "Finally finished my all-in-one Local AI app (Flux, Music, Agent)",
+      "moniker": "finally-finished-my-all-in-one-local-ai-app-flux-music-agent",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qc81si/built_an_8_rtx_3090_monster_considering_nuking_it/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qdhkxi/finally_finished_my_allinone_local_ai_app_flux/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "\"Computer Use\" agents are smart, but they don't know your computer. (So I built a tool to show them)",
-      "moniker": "computer-use-agents-are-smart-but-they-don-t-know-your-computer-so-i-built-a-tool-to-show-them",
+      "tool": "Popularity of DDR3 motherboards is growing rapidly - VideoCardz.com",
+      "moniker": "popularity-of-ddr3-motherboards-is-growing-rapidly-videocardz-com",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qcfxk0/computer_use_agents_are_smart_but_they_dont_know/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qcvk9n/popularity_of_ddr3_motherboards_is_growing/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[P] Provider outages are more common than you'd think - here's how we handle them",
+      "moniker": "p-provider-outages-are-more-common-than-you-d-think-here-s-how-we-handle-them",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1qczeam/p_provider_outages_are_more_common_than_youd/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -97,24 +113,8 @@
       "status": "pending_review"
     },
     {
-      "tool": "[D] MLSys 2026 rebuttal phase — thoughts on reviews so far?",
-      "moniker": "d-mlsys-2026-rebuttal-phase-thoughts-on-reviews-so-far",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1qb107i/d_mlsys_2026_rebuttal_phase_thoughts_on_reviews/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[R] Why doubly stochastic matrix idea (using Sinkhorn-Knopp algorithm) only made popular in the DeepSeek's mHC paper, but not in earlier RNN papers?",
-      "moniker": "r-why-doubly-stochastic-matrix-idea-using-sinkhorn-knopp-algorithm-only-made-popular-in-the-deepseek-s-mhc-paper-but-not-in-earlier-rnn-papers",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1qa0n65/r_why_doubly_stochastic_matrix_idea_using/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "VoiceRun nabs $5.5M to build voice agent factory",
-      "moniker": "voicerun-nabs-5-5m-to-build-voice-agent-factory",
+      "tool": "VoiceRun nabs $5.5M to build a voice agent factory",
+      "moniker": "voicerun-nabs-5-5m-to-build-a-voice-agent-factory",
       "category": "pending_review",
       "website_url": "https://techcrunch.com/2026/01/14/voicerun-nabs-5-5m-to-build-voice-agent-factory/",
       "source_type": "Press",
@@ -137,10 +137,18 @@
       "status": "pending_review"
     },
     {
-      "tool": "Inside the White House shitposting machine",
-      "moniker": "inside-the-white-house-shitposting-machine",
+      "tool": "Game of Thrones shows its playful side in A Knight of the Seven Kingdoms",
+      "moniker": "game-of-thrones-shows-its-playful-side-in-a-knight-of-the-seven-kingdoms",
       "category": "pending_review",
-      "website_url": "https://www.theverge.com/column/861476/trump-memes-venezuela-ice-shooting",
+      "website_url": "https://www.theverge.com/entertainment/861838/hbo-a-knight-of-the-seven-kingdoms-review",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Wikipedia turns 25 and shares a glimpse into the lives of its volunteer editors",
+      "moniker": "wikipedia-turns-25-and-shares-a-glimpse-into-the-lives-of-its-volunteer-editors",
+      "category": "pending_review",
+      "website_url": "https://www.theverge.com/news/861935/wikipedia-25th-anniversary-2026",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -161,26 +169,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "Why Sakana AIâs big win is a big deal for the future of enterprise agents",
-      "moniker": "why-sakana-ai-s-big-win-is-a-big-deal-for-the-future-of-enterprise-agents",
-      "category": "pending_review",
-      "website_url": "https://venturebeat.com/technology/why-sakana-ais-big-win-is-a-big-deal-for-the-future-of-enterprise-agents",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
       "tool": "How AI coding agents work—and what to remember if you use them",
       "moniker": "how-ai-coding-agents-work-and-what-to-remember-if-you-use-them",
       "category": "pending_review",
       "website_url": "https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "OpenAI built an AI coding agent and uses it to improve the agent itself",
-      "moniker": "openai-built-an-ai-coding-agent-and-uses-it-to-improve-the-agent-itself",
-      "category": "pending_review",
-      "website_url": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -801,50 +793,106 @@
       "status": "pending_review"
     },
     {
-      "tool": "smf-mcp 0.1.25",
-      "moniker": "smf-mcp-0-1-25",
+      "tool": "Bug: Previous Widget Hides/Disappears Upon Second Rendering",
+      "moniker": "bug-previous-widget-hides-disappears-upon-second-rendering",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/smf-mcp/0.1.25/",
+      "website_url": "https://community.openai.com/t/bug-previous-widget-hides-disappears-upon-second-rendering/1371722",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "hvac-quotes-mcp 1.0.0",
-      "moniker": "hvac-quotes-mcp-1-0-0",
+      "tool": "Agent Builder no longer accessible in Dashboard?",
+      "moniker": "agent-builder-no-longer-accessible-in-dashboard",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/hvac-quotes-mcp/1.0.0/",
+      "website_url": "https://community.openai.com/t/agent-builder-no-longer-accessible-in-dashboard/1371713",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "vibecheck-agent 0.1.0",
-      "moniker": "vibecheck-agent-0-1-0",
+      "tool": "GPT-4.1 in COPILOT VS CODE USAGE model noticed problems in VS CODE agent mode",
+      "moniker": "gpt-4-1-in-copilot-vs-code-usage-model-noticed-problems-in-vs-code-agent-mode",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/vibecheck-agent/0.1.0/",
+      "website_url": "https://community.openai.com/t/gpt-4-1-in-copilot-vs-code-usage-model-noticed-problems-in-vs-code-agent-mode/1371688",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "device-manager-mcp 1.0.0",
-      "moniker": "device-manager-mcp-1-0-0",
+      "tool": "OpenAI Realtime SIP (Twilio) — session.audio.input.format null error + openai-agents rejects session.update",
+      "moniker": "openai-realtime-sip-twilio-session-audio-input-format-null-error-openai-agents-rejects-session-update",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/device-manager-mcp/1.0.0/",
+      "website_url": "https://community.openai.com/t/openai-realtime-sip-twilio-session-audio-input-format-null-error-openai-agents-rejects-session-update/1371679",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "digitalguide 0.0.523",
-      "moniker": "digitalguide-0-0-523",
+      "tool": "Agents SDK -> TypeError: terminated",
+      "moniker": "agents-sdk-typeerror-terminated",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/digitalguide/0.0.523/",
+      "website_url": "https://community.openai.com/t/agents-sdk-typeerror-terminated/1371661",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-eregistrations-bpa 0.9.4",
-      "moniker": "mcp-eregistrations-bpa-0-9-4",
+      "tool": "MCP Client (OpenAI Bridge) not triggering list_resources or rendering Output Templates",
+      "moniker": "mcp-client-openai-bridge-not-triggering-list-resources-or-rendering-output-templates",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-eregistrations-bpa/0.9.4/",
+      "website_url": "https://community.openai.com/t/mcp-client-openai-bridge-not-triggering-list-resources-or-rendering-output-templates/1371652",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "Organization verification “Identity rejected” after successful verification flow (solo developer) — no retry available",
+      "moniker": "organization-verification-identity-rejected-after-successful-verification-flow-solo-developer-no-retry-available",
+      "category": "pending_review",
+      "website_url": "https://community.openai.com/t/organization-verification-identity-rejected-after-successful-verification-flow-solo-developer-no-retry-available/1371635",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "MCP Server Tools Hidden After Removing Refresh Token Support",
+      "moniker": "mcp-server-tools-hidden-after-removing-refresh-token-support",
+      "category": "pending_review",
+      "website_url": "https://community.openai.com/t/mcp-server-tools-hidden-after-removing-refresh-token-support/1371627",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "agentop 0.1.1",
+      "moniker": "agentop-0-1-1",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/agentop/0.1.1/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "ralph-agent 1.0.7",
+      "moniker": "ralph-agent-1-0-7",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/ralph-agent/1.0.7/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "agent-dist 0.1.5",
+      "moniker": "agent-dist-0-1-5",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/agent-dist/0.1.5/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "pybugger-mcp 1.4.0",
+      "moniker": "pybugger-mcp-1-4-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/pybugger-mcp/1.4.0/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "ethyca-fides 2.77.2a0",
+      "moniker": "ethyca-fides-2-77-2a0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/ethyca-fides/2.77.2a0/",
       "source_type": "Press",
       "status": "pending_review"
     },
