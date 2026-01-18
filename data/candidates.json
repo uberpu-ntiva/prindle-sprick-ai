@@ -17,42 +17,34 @@
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: Intuitive Minecraft Skin Editor - Full FOSS Rewrite, try new mobile UX",
-      "moniker": "show-hn-intuitive-minecraft-skin-editor-full-foss-rewrite-try-new-mobile-ux",
+      "tool": "Show HN: ArchitectGBT MCP:Intelligent Model Selection for AI-Assisted Dev",
+      "moniker": "show-hn-architectgbt-mcp-intelligent-model-selection-for-ai-assisted-dev",
       "category": "pending_review",
-      "website_url": "https://needcoolershoes.com",
+      "website_url": "https://github.com/3rdbrain/architectgbt-mcp",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: KissMotion – AI kiss video generator from a single photo",
-      "moniker": "show-hn-kissmotion-ai-kiss-video-generator-from-a-single-photo",
+      "tool": "Show HN: Apex Agent – Connect the Browser to AI via MCP",
+      "moniker": "show-hn-apex-agent-connect-the-browser-to-ai-via-mcp",
       "category": "pending_review",
-      "website_url": "https://aikissvideo.app",
+      "website_url": "https://github.com/RTBRuhan/ApexAgent",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: PolyMCP – structured skills from MCP tools for efficient agent usage",
-      "moniker": "show-hn-polymcp-structured-skills-from-mcp-tools-for-efficient-agent-usage",
+      "tool": "Democracy doesn't reward effort. It rewards memes. (From an experiment letting GitHub reactions decide what ships).",
+      "moniker": "democracy-doesn-t-reward-effort-it-rewards-memes-from-an-experiment-letting-github-reactions-decide-what-ships",
       "category": "pending_review",
-      "website_url": "https://news.ycombinator.com/item?id=46656902",
+      "website_url": "https://www.reddit.com/r/programming/comments/1qg5uv9/democracy_doesnt_reward_effort_it_rewards_memes/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "Show HN: I built a tool to assist AI agents to know when a PR is good to go",
-      "moniker": "show-hn-i-built-a-tool-to-assist-ai-agents-to-know-when-a-pr-is-good-to-go",
+      "tool": "Engineering a Columnar Database in Rust: Lessons on io_uring, SIMD, and why I avoided Async/Await",
+      "moniker": "engineering-a-columnar-database-in-rust-lessons-on-io-uring-simd-and-why-i-avoided-async-await",
       "category": "pending_review",
-      "website_url": "https://dsifry.github.io/goodtogo/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "Show HN: ReFlow Studio – An offline tool to dub, translate, and censor videos",
-      "moniker": "show-hn-reflow-studio-an-offline-tool-to-dub-translate-and-censor-videos",
-      "category": "pending_review",
-      "website_url": "https://github.com/ananta-sj/ReFlow-Studio",
+      "website_url": "https://www.reddit.com/r/programming/comments/1qfkijn/engineering_a_columnar_database_in_rust_lessons/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -65,18 +57,42 @@
       "status": "pending_review"
     },
     {
-      "tool": "A local-first AI coding agent that runs and debugs your code",
-      "moniker": "a-local-first-ai-coding-agent-that-runs-and-debugs-your-code",
+      "tool": "AI insiders seek to poison the data that feeds them",
+      "moniker": "ai-insiders-seek-to-poison-the-data-that-feeds-them",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/programming/comments/1qfd5dt/a_localfirst_ai_coding_agent_that_runs_and_debugs/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qftdr4/ai_insiders_seek_to_poison_the_data_that_feeds/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "KoboldCpp v1.106 finally adds MCP server support, drop-in replacement for Claude Desktop",
-      "moniker": "koboldcpp-v1-106-finally-adds-mcp-server-support-drop-in-replacement-for-claude-desktop",
+      "tool": "Full local AI stack on dual 3090s: multi-modal bot with chat, vision, image gen, TTS, face swap, and experimental video",
+      "moniker": "full-local-ai-stack-on-dual-3090s-multi-modal-bot-with-chat-vision-image-gen-tts-face-swap-and-experimental-video",
       "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qfb0gk/koboldcpp_v1106_finally_adds_mcp_server_support/",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qg1udz/full_local_ai_stack_on_dual_3090s_multimodal_bot/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "MCP server that gives local LLMs memory, file access, and a 'conscience' - 100% offline on Apple Silicon",
+      "moniker": "mcp-server-that-gives-local-llms-memory-file-access-and-a-conscience-100-offline-on-apple-silicon",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/LocalLLaMA/comments/1qfgiq1/mcp_server_that_gives_local_llms_memory_file/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] ICML26 new review policies",
+      "moniker": "d-icml26-new-review-policies",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1qg5pa9/d_icml26_new_review_policies/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "[D] Shower thought after 13hr coding session: Could physical filtration principles inform attention head design? (Claude wrote this, I just had the idea)",
+      "moniker": "d-shower-thought-after-13hr-coding-session-could-physical-filtration-principles-inform-attention-head-design-claude-wrote-this-i-just-had-the-idea",
+      "category": "pending_review",
+      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1qfwm1g/d_shower_thought_after_13hr_coding_session_could/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -93,22 +109,6 @@
       "moniker": "d-is-video-sentiment-analysis-actually-a-thing",
       "category": "pending_review",
       "website_url": "https://www.reddit.com/r/MachineLearning/comments/1qebulx/d_is_video_sentiment_analysis_actually_a_thing/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[P] Provider outages are more common than you'd think - here's how we handle them",
-      "moniker": "p-provider-outages-are-more-common-than-you-d-think-here-s-how-we-handle-them",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1qczeam/p_provider_outages_are_more_common_than_youd/",
-      "source_type": "Press",
-      "status": "pending_review"
-    },
-    {
-      "tool": "[D] New arXiv review: \"High-Performance Serverless\" is the future of AI Inference (and Static Clusters are dying)",
-      "moniker": "d-new-arxiv-review-high-performance-serverless-is-the-future-of-ai-inference-and-static-clusters-are-dying",
-      "category": "pending_review",
-      "website_url": "https://www.reddit.com/r/MachineLearning/comments/1qdmbk2/d_new_arxiv_review_highperformance_serverless_is/",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -137,10 +137,10 @@
       "status": "pending_review"
     },
     {
-      "tool": "Google brings its AI videomaker to Workspace users",
-      "moniker": "google-brings-its-ai-videomaker-to-workspace-users",
+      "tool": "All You Need Is Kill is a dazzling movie with the soul of a video game",
+      "moniker": "all-you-need-is-kill-is-a-dazzling-movie-with-the-soul-of-a-video-game",
       "category": "pending_review",
-      "website_url": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace",
+      "website_url": "https://www.theverge.com/entertainment/862881/all-you-need-is-kill-review",
       "source_type": "Press",
       "status": "pending_review"
     },
@@ -777,50 +777,66 @@
       "status": "pending_review"
     },
     {
-      "tool": "notebooklm-mcp-server 0.1.13",
-      "moniker": "notebooklm-mcp-server-0-1-13",
+      "tool": "I'm getting the below error \"AuthenticationError: 401 Incorrect API key provided:\"",
+      "moniker": "i-m-getting-the-below-error-authenticationerror-401-incorrect-api-key-provided",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/notebooklm-mcp-server/0.1.13/",
+      "website_url": "https://community.openai.com/t/im-getting-the-below-error-authenticationerror-401-incorrect-api-key-provided/1371805",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "toon-parse-mcp 1.0.4b0",
-      "moniker": "toon-parse-mcp-1-0-4b0",
+      "tool": "Agent Builder Continue on Error Remains Unusable",
+      "moniker": "agent-builder-continue-on-error-remains-unusable",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/toon-parse-mcp/1.0.4b0/",
+      "website_url": "https://community.openai.com/t/agent-builder-continue-on-error-remains-unusable/1371771",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcp-server-trello 0.1.1",
-      "moniker": "mcp-server-trello-0-1-1",
+      "tool": "anam-mcp 0.1.7",
+      "moniker": "anam-mcp-0-1-7",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcp-server-trello/0.1.1/",
+      "website_url": "https://pypi.org/project/anam-mcp/0.1.7/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "mcpager 0.1.1",
-      "moniker": "mcpager-0-1-1",
+      "tool": "oddagent 1.2.30",
+      "moniker": "oddagent-1-2-30",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/mcpager/0.1.1/",
+      "website_url": "https://pypi.org/project/oddagent/1.2.30/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "agent-android 1.1.2",
-      "moniker": "agent-android-1-1-2",
+      "tool": "anam-mcp 0.1.6",
+      "moniker": "anam-mcp-0-1-6",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/agent-android/1.1.2/",
+      "website_url": "https://pypi.org/project/anam-mcp/0.1.6/",
       "source_type": "Press",
       "status": "pending_review"
     },
     {
-      "tool": "moomoo-api-mcp 0.1.0",
-      "moniker": "moomoo-api-mcp-0-1-0",
+      "tool": "fast-agent-mcp 0.4.33",
+      "moniker": "fast-agent-mcp-0-4-33",
       "category": "pending_review",
-      "website_url": "https://pypi.org/project/moomoo-api-mcp/0.1.0/",
+      "website_url": "https://pypi.org/project/fast-agent-mcp/0.4.33/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "fast-agent-acp 0.4.33",
+      "moniker": "fast-agent-acp-0-4-33",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/fast-agent-acp/0.4.33/",
+      "source_type": "Press",
+      "status": "pending_review"
+    },
+    {
+      "tool": "fivetran-mcp 0.3.0",
+      "moniker": "fivetran-mcp-0-3-0",
+      "category": "pending_review",
+      "website_url": "https://pypi.org/project/fivetran-mcp/0.3.0/",
       "source_type": "Press",
       "status": "pending_review"
     }
